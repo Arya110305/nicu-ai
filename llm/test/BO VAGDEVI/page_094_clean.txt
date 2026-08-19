@@ -1,0 +1,52 @@
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D
+
+UHIDNO:162608635
+IPD NO:LB26/3007
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+
+Name: Vagdevi
+Age: 4 D
+Gender: Male
+Consult: Dr. Srinivas Murki
+SCORE
+Date:
+
+Morning
+Staff Level:
+Afternoon
+Staff Level:
+Night
+Staff Level:
+DOA
+Adm Date: 27-06-2026 09:03 PM
+
+SCORE
+Name: 
+Score: 
+Name: 
+Score: 
+Name: 
+Diagnosis: 
+Level of Alertness: Age Appropriate (Alert)
+Respiratory Status: Normal Breathing Room Air
+Cardiovascular Status: Stable Vitals
+Feeding & Nutrition: Oral Feeds Independently
+Elimination: Normal Urine Stool
+Medication: Oral Medications
+Complexity: Routine Nursing Care
+Pain & Comfort: Comfortable
+Procedures & Devices: None
+Parental Support Need: Routine Guidance
+
+Incharge Name & Sign:
+Score 0-6: Routine Nursing Care
+Score 7-19: Increased Nursing Observation
+Score 20-30: Close Monitoring and High Nursing
+Score > 30: One-to-One Intensive Nursing Care
+
+NUR. SUPERVISOR NAME & SIGN
+
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE

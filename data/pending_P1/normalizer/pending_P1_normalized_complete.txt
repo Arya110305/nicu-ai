@@ -1,0 +1,55 @@
+########################################################################
+NORMALIZED BATCH 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0005
+########################################################################
+
+Patient Movement Record
+S.No
+Date
+Time
+Handed over by
+Taken over by
+Shifted From
+Shifted to
+Remarks, if any
+-Staff Name & Sign
+-Staff Name & Sign
+1. 15/06/2026 6:30 OP forcevc NICU Socwsanua. Q3 19/6/26 2pm Bhavai Bhavii.
+2. Tau FcR
+3. 21/06/2026 FCR Shanay 10pm NICU Shancy
+
+MR No: 607289
+IP No: 2558
+Patient Name: ankura
+Consultant Name: D.S. Murthy
+DOA &Time: 31/05/2026
+DOD & Time: 4:42am
+DOB/Gender: male
+Admission Provisional Diagnosis: [UNCLEAR]
+Final Diagnosis: [UNCLEAR]
+Admission data entry: By [Capitals Only] Signature: Date & Time:
+
+Patient Name: ankura
+MR No: 607289
+IP No: LB26/2772
+Consultant Name: N Akshaya
+DOA & Time: [UNCLEAR]
+DOD & Time: [UNCLEAR]
+UHIDNO:162607289
+DOB/Gender: Age : 15 D Gender: Male
+Consult : DR. Srinivasa Murki
+Adm Date: 15-06-2026 12:19 PM
+Admission Provisional Diagnosis: [UNCLEAR]
+Final Diagnosis: [UNCLEAR]
+Admission data entry: By [Capitals Only] Signature: Date & Time:
+
+Patient Name: ankura
+MR No: 607-289
+IP No: 2558
+Consultant Name: D.S. Murk
+DOA & Time: 31/05/2026
+DOD & Time: 4:42am
+DOB/Gender: male
+Admission Provisional Diagnosis: [UNCLEAR]
+Final Diagnosis: [UNCLEAR]
+Admission data entry: By [Capitals Only] Signature: Date & Time:

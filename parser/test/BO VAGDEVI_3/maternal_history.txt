@@ -1,0 +1,107 @@
+It looks like you have a detailed structured medical record for a patient named Vagdevi's baby, who is 4 days old and male. Below is the consolidated and corrected version of the document:
+
+---
+
+### PATIENT INFORMATION
+
+- **Patient Name:** B/O Vagdevi
+- **UHID No.:** 162608635
+- **IPD No.:** LB26/3007
+- **Gender:** Male
+- **Age:** 4 Days
+- **Admission Date & Time:** 27-06-2026, 09:03 PM
+
+### LABORATORY
+
+#### Hematology
+
+- **Test Name:** Complete Blood Count (CBC)
+  - **Result:** 
+    - Haemoglobin: 15.6 g/dL
+    - Packed Cell Volume (PCV): 49.8%
+    - Mean Corpuscular Volume (MCV): 80.9 fL
+    - Mean Corpuscular Hemoglobin (MCH): 25.4 pg
+    - Mean Corpuscular Hemoglobin Concentration (MCHC): 31.4 g/dL
+    - Red Blood Cell Count (RBC): 6.15 × 10^6/uL
+    - White Blood Cell Count (WBC): 9,100 cells/cumm
+    - Platelet Count: 183,000 /mm³
+
+- **Differential Count:**
+  - Neutrophils: 68%
+  - Lymphocytes: 24%
+  - Eosinophils: 3%
+  - Monocytes: 5%
+  - Basophils: 0%
+
+- **Peripheral Smear:** Normocytic, normochromic RBCs; neutrophilia in WBCs.
+
+#### Biochemistry
+
+- **Test Name:** Blood Grouping and RH Typing
+  - **Result:**
+    - Blood Group: B
+    - Rh Typing: Positive
+
+- **Random Blood Glucose (RBS):** 
+  - **Result:** 35 mg/dL (Normoglycemia)
+
+#### Liver Function Test (LFT)
+- **Total Bilirubin:** 15.5 mg/dL (Older than 72 hours)
+- **Direct Bilirubin:** 1.8 mg/dL
+- **Indirect Bilirubin:** 13.70 mg/dL
+- **Alanine Transaminase (ALT/SGPT):** 10 U/L
+- **Aspartate Transaminase (AST/SGOT):** 35 U/L
+- **Alkaline Phosphatase (ALP):** 214 U/L
+- **Total Protein:** 5.2 g/dL
+  - **Albumin:** 3.4 g/dL
+  - **Globulin:** 1.8 g/dL
+
+#### Ammonia Test
+- **Result:** 86.0 μmol/L (Abnormal)
+
+#### Renal Function Test (RFT)
+- **Creatinine:** 0.4 mg/dL
+- **Blood Urea Nitrogen (BUN):** 9.4 mg/dL
+- **Uric Acid:** 4.3 mg/dL
+- **Sodium:** 142 mmol/L
+- **Potassium:** 5.1 mmol/L
+- **Chloride:** 107 mmol/L
+
+#### Urinalysis (CUE)
+- **Physical Appearance:** Turbid
+- **Specific Gravity:** 1.015
+- **PH Indicators:** 6.0 (Normal)
+- **Glucose:** Negative
+- **Protein:** B+
+- **Bilirubin:** Positive +
+- **Ketone Bodies:** Negative
+- **Blood Cells:** Absent
+- **Leucocytes:** Trace
+- **Epithelial Cells:** 10-12/hpf
+- **Pus Cells:** 6-8/hpf
+
+#### Blood Culture and Sensitivity - Automated/VITEK, Blood
+- **Result:** PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### OTHER INFORMATION
+
+- **Report Date:** 29/06/2026 8:16 AM
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+- **Printed on:** 30/06/2026 02:57
+
+---
+
+**Dr. B Roshini Sumalini**
+MBBS, MD Pathology  
+Consultant Pathologist  
+
+**Dr. Gayatri Koride**  
+MBBS, MD (Microbiology)  
+Consultant Microbiologist
+
+---
+
+This structured document ensures that all necessary details are captured for a comprehensive patient record and can be used for further clinical analysis or billing purposes.

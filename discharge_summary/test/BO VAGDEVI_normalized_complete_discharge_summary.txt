@@ -1,0 +1,58 @@
+Okay, here's a compilation of information extracted from the provided documents, formatted to resemble a final discharge summary for B/O. VAGDEVI (a 4-day-old male infant).  **Please read the IMPORTANT DISCLAIMERS at the very end of this response.**
+
+**DISCHARGE SUMMARY**
+
+**Patient Identification:**
+
+*   Name: B/O. VAGDEVI
+*   UHID: 162608635
+*   IPD: LB26/3007
+*   Age: 4 Days
+*   Gender: Male
+
+**Admission Date:** June 27, 2026
+
+**Consulting Physician:** Dr. Srinivas Murki
+
+**Reason for Admission:**  (Based on clinical notes) Seizures and hypoglycemia.
+
+**Significant Findings & Procedures:**
+
+*   **Seizure Management:** The patient experienced multiple episodes of seizures overnight (June 28, 2026). Initially managed with minimal oxygen and consideration for SOS ventilation and inj. midazolam.  Levetiracetam and Phenobarbitone were subsequently stopped.
+*   **Hypoglycemia Management:** Hypoglycemia was noted (GRBS 7 60 mg/dL), requiring intervention.
+*   **Neuroimaging:** MRI of the brain was ordered to investigate the cause of seizures. The report is not included in these documents, but it would be a crucial part of the complete discharge summary.
+*   **Cannulation:** Peripheral cannulas were inserted and removed (IV Cannula removal date: 22/06/2026). Foley's catheter was also used (Insertion date: 28/06/2026, Removal Date not specified in provided documents).
+*   **Laboratory Investigations:** Numerous laboratory tests were ordered and performed. Key findings include:
+    *   **CRP:** 2.4 mg/L (slightly elevated)
+    *   **Renal Function Tests (RFT):** Creatinine (0.4 mg/dL), Blood Urea (20 mg/dL), BUN (9.4 mg/dL), Uric Acid (4.3 mg/dL), Calcium (8.6 mg/dL - low), Sodium (142 mmol/L), Potassium (5.1 mmol/L), Chloride (107 mmol/L).
+    *   **Complete Blood Picture (CBP):** Hemoglobin (15.6 g/dL), PCV (49.8%), MCV (80.9 fL - low), MCH (25.4 pg - low), RBC Count (6.15 x10^6/uL), WBC Count (9100 cells/cumm), Platelet Count (183,000 /mm3). Differential count showed Neutrophils 68% and Lymphocytes 24%.
+*   **Billing Records:** Indicate a wide range of procedures were considered or performed including arterial line insertion, bone marrow aspiration, central line insertion, CPR, CVP line insertion, various catheterizations, intubation, nebulization, surfactant administration.
+
+**Condition on Discharge:** Stable (as per nursing documentation).
+
+**Medications at Discharge:**  (Not specified in provided documents – would be listed here)
+
+**Follow-up Appointments:** (Not specified in provided documents - would be listed here)
+
+**Discharge Instructions:** (Not specified in provided documents - would be listed here, including feeding instructions, signs of concern to watch for, and contact information).
+
+**Important Notes/Recommendations:**
+
+*   MRI brain results are pending and should be reviewed by the neonatologist.
+*   Monitor electrolytes closely, particularly Calcium.
+*   Continue neuro-observation as per physician's orders.
+
+
+
+**IMPORTANT DISCLAIMERS:**
+
+1.  **Incomplete Information:** This discharge summary is compiled *solely* from the provided text snippets. It is **highly likely** to be incomplete and may miss crucial information present in other medical records not shared. A complete discharge summary would include a full history, physical exam findings, medication list, imaging reports (especially MRI results), detailed progress notes, and specific discharge instructions tailored to the patient's needs.
+2.  **Uncertainties & Missing Data:** Several fields are marked as "[UNCERTAIN: ...]" due to missing or illegible information in the source documents. This significantly limits the accuracy and completeness of this summary. The MR number is consistently missing. DOB/AGE is also uncertain on some pages.
+3.  **Interpretation Limitations:** I am an AI; I cannot provide medical interpretations or diagnoses. The "Interpretation" sections for lab results are placeholders – a qualified healthcare professional must interpret these findings in the context of the patient's clinical condition.
+4.  **No Substitute for Professional Medical Advice:** This summary is **not** a substitute for advice from a qualified physician or other healthcare provider. It should not be used to self-diagnose or treat any medical condition.
+5.  **Data Accuracy:** The accuracy of this summary depends entirely on the accuracy and completeness of the original documents provided. Errors in those documents will be reflected in this summary. Handwritten notes are particularly prone to transcription errors.
+6. **Dates Discrepancies**: There are date discrepancies across different pages, which may indicate data entry errors or inconsistencies in record-keeping.
+
+
+
+**This is a reconstructed discharge summary based on limited information and should not be used for clinical decision-making without verification against the complete medical record.**

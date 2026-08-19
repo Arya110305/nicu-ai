@@ -1,0 +1,45 @@
+DOCUMENT INFORMATION
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+AHWC/IP/F/04
+Revision No.: 3
+Issue No.: 4
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 days
+DOB/Age: Age : 4 days Gender: Male
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+CONSULTATIONS
+Consult: Dr. Srinivas Murki
+
+NURSING DOCUMENTATION
+Date: 25-06-2026
+Neonatal Report - Day 4
+Baby is stable.
+
+VITAL SIGNS
+HR: 123/min
+SpO2: 98%
+Temp: 36.8°C
+
+FEEDING AND NUTRITION
+I/V: On nasogastric tube.
+
+MEDICATIONS
+Tani'm BD
+Gannidal
+Lactulose
+Furosemide
+Optine Ron O.D.
+
+RESPIRATORY SUPPORT
+Room air. 
+
+NURSING DOCUMENTATION
+Babu

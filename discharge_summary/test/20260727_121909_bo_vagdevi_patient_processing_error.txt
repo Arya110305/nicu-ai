@@ -1,0 +1,11 @@
+NICU DISCHARGE SUMMARY PROCESSING ERROR
+
+Patient: BO VAGDEVI
+Stage: patient_processing
+Time: 2026-07-27T12:19:09.333125
+
+Error:
+The model could not determine the appropriate hospital template. Gestational category or principal condition requires clinical review.
+
+Additional Details:
+Input file: /Users/arya/Nicu_Project/nicu-ai/normalizer/output/BO VAGDEVI_normalized_complete.txt

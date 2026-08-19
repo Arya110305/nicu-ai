@@ -1,0 +1,38 @@
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D 9M
+
+ANKURA HOSPITAL FOR WOMEN & CHILDREN
+
+MEDICATION CHART
+
+Name : Vagdevi
+UHID NO: 162608635
+IPD NO: LB26/3007
+
+Age : 4 Days Gender : Male  
+Consult : Dr. Srinivas Murki
+
+Nard / Room No:
+Adm Date: 27-06-2026 09:03 PM
+Allergies & Adverse drug reactions: Yes
+Medications / Anesthesia Pre-Medications / SOS
+
+Name & Sign (Prescribed) Name & Sign (Administration)
+Given Check
+
+STAT Medications:
+Date & Time Prescribed by Dose Route Frequency
+
+2716 2096c2 IV F5 boli stat  Sr  
+2716 45 IV Levpil stat  
+
+8 2716 2016 Ju Phenobarbiton UJV stat 266 mg
+9 2716 286 Iay.vitk IugIv at
+
+SOS Medications:
+Date & Time Prescribed by Dose Route Frequency Name & Sign (Prescribed) Name & Sign (Administration)
+
+Given Check
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/11

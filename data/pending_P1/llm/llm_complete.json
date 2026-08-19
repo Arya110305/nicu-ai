@@ -1,0 +1,10 @@
+{
+  "patient_name": "pending_P1",
+  "stage": "llm",
+  "status": "completed",
+  "model": "gemma3:12b",
+  "workers": 4,
+  "total_batches": 1,
+  "complete_file": "pending_P1_llm_complete.txt",
+  "completed_at": "2026-08-06T15:17:30"
+}

@@ -1,0 +1,44 @@
+PATIENT IDENTIFICATION
+Patient Name: B/O. Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 Months
+UHID: 8608635
+Age: 4M
+Sex: Male
+IP No:
+
+VAGADAI GRBS MONITORING
+28-6
+9:20:00
+36 mg/dl
+10:00 p.m.
+72 mg/dl
+4:00 p.m.
+24-16
+Somgde
+Ananten
+11:00 p.m.
+Ly
+29-16
+98 mg/dl
+6:00 p.m.
+Loje
+29-16
+122 mg/dl
+10:00 a.m.
+12:41
+99 n.g./dL
+4:11:75 A.M.
+94 mg/dL
+
+Br. Dowey
+65rugde
+Dr. Lavuy
+Lane
+Dr. Ananthor Anasuys
+Dr. Anaulte
+Dr. Jujashw
+r-Anauelen
+W-Analtr

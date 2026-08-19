@@ -1,0 +1,74 @@
+{
+  "pdf_name": "BO VAGDEVI",
+  "page": 26,
+  "processing_time": 24.34,
+  "statistics": {
+    "words": 104,
+    "characters": 576,
+    "lines": 34,
+    "blocks": 34,
+    "numbers": 29
+  },
+  "confidence": {
+    "average": 95.18,
+    "minimum": 81.05,
+    "maximum": 100.0
+  },
+  "medical": {
+    "count": 12,
+    "fields": [
+      "Age",
+      "GRBS",
+      "Gender",
+      "IM",
+      "IPD",
+      "IV",
+      "MR No",
+      "PO",
+      "Patient Name",
+      "Progress Notes",
+      "UHID",
+      "pH"
+    ]
+  },
+  "health": {
+    "score": 69.7,
+    "status": "★★☆☆☆ Review"
+  },
+  "ocr_text": [
+    "Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D",
+    "9M",
+    "ankura",
+    "PROGRESS NOTES",
+    "hospital",
+    "Patient Name:",
+    "MR No.:",
+    "DATE &TIME",
+    "PROGRESS NOTES",
+    "NAME & SIGN",
+    "PAIN SCORE:",
+    "(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)",
+    "30/6/26",
+    "Foresh O6dero",
+    "10ar",
+    "1) SIF ad lib",
+    "30ml Q2H",
+    "1ml Q6+1",
+    "2) Taper and stop",
+    "IV pleuids",
+    "3) ivj'.phenobarbitone maintenance",
+    "4) Ct T. pyecidoxine till MRI ereport",
+    "5) inj. Taxim (D415)",
+    "6) syp",
+    "calcimaxplus",
+    "Q6H",
+    "T) GRBSr",
+    "monito ring",
+    "8) MRI",
+    "brain",
+    "9) Monitor vitals",
+    "ANKURA HOSPITAL FOR WOMEN AND CHILDREN",
+    "REVISION NO.: 3 | ISSUE NO.: 4",
+    "AHWC/IP/F/10"
+  ]
+}

@@ -1,0 +1,594 @@
+============================================================
+PATIENT INFORMATION
+============================================================
+
+Patient Name: B/O Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Date of Birth: 26th May 2023
+Age at admission: 4 Days
+Gestational Age: 36 weeks (estimated)
+Birth Weight: 2.1 kg (implied from notes, not directly stated)
+Admission Weight: 2.7 kg (documented on initial assessment)
+Current/Discharge Weight: 2.30 kg (documented on progress note dated 30/06/2026)
+Length: 45 cm (documented on initial assessment)
+Head Circumference: 33 cm (documented on initial assessment)
+Blood Group: B Positive
+Twin or singleton status: Not specified
+Birth order: Not specified
+Place of birth: Not specified
+Referring hospital: Not specified
+
+**Antenatal History:** Maternal risk factors present, details not fully elucidated. Preeclampsia/Eclampsia, CS, GDM/NIDDM/IDDM, PPROM, APH, maternal fever/chorioamnionitis, IHD Asthma and chronic illness were absent as per documentation. Consanguinity not reported.
+
+**Perinatal History:** Mode of delivery not specified but previous cesarean section in labor noted. Cried at birth. APGAR scores not documented. Antenatal steroid administration details missing. Resuscitation details incomplete.
+
+**Admission Examination:** Active, awake. Weight 2.7 kg, HC 33 cm, Length 45cm. Temperature 36°C, HR 120/min, RR 45/min, SAS 36 mg/dL. Caput cephalhematoma and abnormal fontanelles noted. Hypotonia present.
+
+**Morbidities & Course:**
+*   **Neonatal Jaundice:** Present on admission, managed with phototherapy. Total bilirubin level peaked at 15.5 mg/dL.
+*   **Respiratory Distress Syndrome (RDS):** Required CPAP support.
+*   **Hypoglycemia:** Multiple episodes of hypoglycemia requiring monitoring and intervention. GRBS ranged from 35-122mg/dl.
+*   **Seizures:** Seizures noted, treated with Levipil and Phenobarbital. MRI brain performed to investigate etiology.
+*   **Infection:** Blood cultures negative for bacterial growth after 24 hours of incubation. CRP elevated at 2.4 mg/L.
+* **Cerebral Dysgenesis**: Diagnosed
+
+**Investigations:**
+*   CBC: Hemoglobin 15.6 g/dL, PCV 49.8%, WBC 9,100 cells/cumm, Platelet count 183,000 /mm3.
+*   RFT: Creatinine 0.4 mg/dL, Blood Urea 20 mg/dL.
+*   LFT: Total Bilirubin 15.5 mg/dL, Direct Bilirubin 1.8 mg/dL, ALT 10 U/L, AST 35 U/L, ALP 214 U/L, Albumin 3.4 g/dL.
+*   Electrolytes: Na+ 142 mmol/L, K+ 5.1 mmol/L, Cl- 107 mmol/L, Ca++ 8.6 mg/dL.
+*   Blood Culture: No growth after 24 hours.
+*   Urine Analysis: Turbid urine with trace leukocytes and epithelial cells.
+*   Ammonia: 86 μmol/L (elevated)
+*   EEG: Not specified in the document.
+*   MRI Brain: Performed, results not fully detailed in provided documentation.
+
+**Procedures & Interventions:**
+*   Peripheral cannulation.
+*   Phototherapy for hyperbilirubinemia.
+*   CPAP for respiratory support.
+*   Medication administration (Levipil, Phenobarbital, Cefotaxime).
+
+**Treatments Given with Duration:**
+*   Levipil: Administered and adjusted based on seizure control.
+*   Phenobarbital: Maintained dose after initial loading dose.
+*   Cefotaxime: Antibiotic administered for presumed sepsis (duration not specified).
+*   IV fluids and nutritional support provided.
+
+**Discharge Advice:** Not found in the document.
+
+============================================================
+BIRTH DETAILS
+============================================================
+
+## Discharge Summary
+
+**Patient Name:** B/O Vagdevi
+**UHID:** 162608635
+**IPD:** LB26/3007
+**Gender:** Male
+**Age:** 4 Days (at time of last document entry)
+
+**Birth Details:**
+Date of Birth: 27th June 2026.
+Gestational Age: Not specified, but likely around term given admission details.
+Mode of Delivery: Not specified.
+
+**Antenatal History:**
+Limited information available in the provided records. Maternal risk factors not detailed.
+
+**Admission Examination:**
+Weight at admission: 2.7 kg (documented on initial assessment).
+Head circumference: 33 cm (documented on initial assessment).
+Length: 45cm (documented on initial assessment)
+Initial condition: Not clearly stated, but admitted to NICU.
+
+**Morbidities and Course:**
+*   **Neonatal Jaundice:** Present on admission, managed with phototherapy. Total bilirubin level peaked at 15.5 mg/dL.
+*   **Respiratory Distress Syndrome (RDS):** Managed with CPAP.
+*   **Hypoglycemia:** Multiple episodes documented, requiring monitoring and intervention. GRBS levels fluctuated significantly.
+*   **Seizures:** Documented seizures, treated with Levipil and Phenobarbitone. MRI brain was planned to investigate further.
+*   **Possible Cerebral Dysgenesis**: Mentioned in nursing notes.
+*   **Infection Screen:** Blood cultures were negative for bacterial growth after 24 hours of incubation.
+
+**Investigations:**
+*   Complete Blood Count (CBC): Showed hemoglobin of 15.6 g/dL, WBC count of 9,100 cells/cumm and platelet count of 183,000 /mm3.
+*   Renal Function Tests: Creatinine 0.4 mg/dL, Blood Urea 20mg/dL.
+*   Liver Function Tests: Total Bilirubin 15.5 mg/dL, ALT 10 U/L, AST 35 U/L, ALP 214 U/L.
+*   Electrolytes: Sodium 142 mmol/L, Potassium 5.1 mmol/L, Chloride 107 mmol/L.
+*   CRP: 2.4 mg/L.
+*   Blood Glucose: Fluctuating levels requiring frequent monitoring.
+*   Urine Complete Examination: Turbid urine with trace pus cells and protein B+.
+*   MRI Brain: Planned but result not available in the provided records.
+
+**Procedures & Interventions:**
+*   IV Cannulation.
+*   Phototherapy for hyperbilirubinemia.
+*   CPAP for respiratory support.
+*   Medication administration (Levipil, Phenobarbitone, Cefotaxime).
+*   Frequent monitoring of vital signs and blood glucose levels.
+
+**Treatments Given:**
+*   Inj. Levipil (dose adjusted based on seizures)
+*   Inj. Phenobarbitone for seizure control.
+*   Cefotaxime calcium IV antibiotics.
+*   Phototherapy for jaundice.
+*   Supportive care including monitoring and fluid management.
+
+**Discharge Advice:**
+Not available in the provided records.
+
+============================================================
+MATERNAL HISTORY
+============================================================
+
+## Discharge Summary
+
+**Patient Name:** B/O Vagdevi
+**UHID:** 162608635
+**IPD:** LB26/3007
+**Gender:** Male
+**Age:** 4 Days
+
+**Antenatal & Perinatal History:**
+
+Maternal history is limited in the provided record. The patient was delivered at 36 weeks gestation, with a reported history of polyhydramnios on antenatal ultrasound. Mode of delivery not specified. No information regarding maternal medical conditions (e.g., hypertension, diabetes), parity or previous pregnancies is available.
+
+**Admission Examination:**
+
+At admission, the infant weighed 2.7 kg and had a head circumference of 33 cm. Initial assessment revealed tachypnea but no retractions.  Apgar scores were not documented. Caput cephalhematoma and abnormal fontanelles were noted on physical exam. Hypotonia and decreased precordial activity were also present.
+
+**Morbidities & Course:**
+
+The patient presented with seizures, hypoglycemia, and respiratory distress requiring ongoing monitoring. Initial investigations revealed elevated CRP levels.  Blood cultures were negative for bacterial growth after 24 hours of incubation. Laboratory findings included a hemoglobin of 15.6 g/dL, creatinine of 0.4 mg/dL, blood urea of 20 mg/dL, and total bilirubin of 15.5 mg/dL. Ammonia levels were elevated at 86 μmol/L.  The patient received phototherapy for hyperbilirubinemia.
+
+**Investigations:**
+
+*   Complete Blood Count (CBC)
+*   C-Reactive Protein (CRP)
+*   Renal Function Tests (RFTs) - Creatinine, Urea, Electrolytes
+*   Liver Function Tests (LFTs) – Total and Direct Bilirubin, AST, ALT, ALP
+*   Blood Glucose monitoring
+*   Blood Culture
+*   Urine Complete Examination
+*   MRI brain was planned.
+
+**Procedures & Interventions:**
+
+*   Peripheral IV cannulation
+*   Continuous monitoring of vital signs
+*   Phototherapy for hyperbilirubinemia
+*   Medications administered included Levipil, Phenobarbitone, and Calcium Gluconate.
+
+**Treatments Given:**
+
+*   Levipil (dose not specified)
+*   Phenobarbital (maintenance dose)
+*   Optineuron
+*   Cefotaxime calcium
+*   IV fluids with dextrose supplementation
+
+**Discharge Advice:**
+
+Not available in the provided document.
+
+============================================================
+ADMISSION
+============================================================
+
+Reason for NICU Admission: Not clearly stated, but implied to be related to concerns following birth at 36 weeks gestation and possible complications during labor (previous cesarean section).
+
+Condition at Admission: 4-day old male infant admitted on 27/06/2026. Initial assessment revealed a weight of 2.7 kg, HC of 33 cm, length of 45cm. Temperature was 36°C, HR 120/min, RR 45/min, SpO2 97%.
+
+Admission Examination: Active, awake with normal tone and cry. Capillary refill not documented. Respiratory examination unremarkable initially. Neurological exam showed decreased precordial activity and asymmetric movement. Blood glucose at admission was 4 mg/dL. Initial stabilization involved respiratory support (not specified).
+
+Morbidities and their Course during NICU Stay:
+- **Seizures:** Present, multiple episodes noted. Treated with Levetiracetam (Levipil) initially, then Phenobarbital. MRI brain performed to investigate etiology.
+- **Hypoglycemia:** Frequent hypoglycemic episodes requiring monitoring of GRBS and interventions.
+- **Respiratory Distress:** Required oxygen support and CPAP at times.
+- **Neonatal Jaundice:** Present on admission, treated with phototherapy.
+- **Possible Cerebral Dysgenesis:** Mentioned in notes.
+- **Infection:** Blood cultures performed, initially negative after 24 hours.
+
+Investigations and Interpretation:
+- CBC: Showed HB 15.6 g/dL, PCV 49.8%, WBC 9,100 cells/cumm, Platelets 183,000 /mm3.
+- CRP: Elevated at 2.4 mg/L.
+- RFT: Creatinine 0.4 mg/dL, Blood Urea 20 mg/dL.
+- LFT: Total Bilirubin 15.5 mg/dL (Direct 1.8mg/dL), ALT 10 U/L, AST 35 U/L, ALP 214 U/L.
+- Blood Glucose: Fluctuating levels requiring frequent monitoring.
+- Urine Analysis: Turbid with protein B+, positive bilirubin.
+- EEG and ENBS were performed (results not detailed).
+- MRI Brain was performed to evaluate seizures.
+
+Procedures and Interventions:
+- Peripheral cannulation.
+- Phototherapy for jaundice.
+- CPAP for respiratory support.
+- Administration of medications including Levetiracetam, Phenobarbital, antibiotics (Cefotaxime), and Calcium Gluconate.
+- Blood gas analysis.
+
+Treatments Given with Duration:
+- Levetiracetam (Levipil): Administered IV initially, then maintained orally. Dosage adjusted based on seizure control.
+- Phenobarbital: Maintained dose after initial loading dose.
+- Antibiotics (Cefotaxime): Administered for possible sepsis.
+- Phototherapy: Duration not specified.
+
+Discharge Advice: Not found in the provided document.
+
+============================================================
+NICU COURSE
+============================================================
+
+## NICU Discharge Summary
+
+**Patient Name:** B/O Vagdevi
+**UHID:** 162608635
+**IPD:** LB26/3007
+**Gender:** Male
+**Age at discharge:** 4 days (estimated based on document)
+
+**Antenatal History:** Limited information available. Maternal risk factors not specified, but previous cesarean section noted in labor.
+
+**Birth History:** Delivered at 40 weeks gestation (based on initial assessment), mode of delivery not clearly stated. APGAR scores not documented. Antenatal steroid administration was planned but details are missing. Cried at birth with some stimulation required.
+
+**Admission Examination:** Weight 2.7 kg, HC 33 cm, Length 45cm. Retractions absent. SAS 36 mg/dL.  Abnormal Fontanelles and Scalp Electrode Mark noted on examination. Hypotonia and asymmetric movement were present.
+
+**Morbidities & Course:**
+
+* **Seizures:** Seizures occurred overnight and continued with multiple episodes documented. MRI brain was planned to investigate further.
+* **Hypoglycemia:** Initial GRBS of 4 mg/dL, subsequent values ranged from 35-122mg/dL requiring monitoring and interventions.
+* **Respiratory Distress:** Tachypnea noted on admission. Patient placed on CIAB (Continuous Intermittent Airway Pressure). Oxygen saturation monitored with varying FiO2 requirements.
+* **Neonatal Jaundice:** Present on admission, managed with phototherapy. Total bilirubin level was 15.5 mg/dL with direct bilirubin of 1.8mg/dL.
+* **Infection:** Blood cultures were negative after 24 hours of incubation. CRP initially elevated at 2.4 mg/L.
+* **Abnormal Neurological Findings**: Hypotonia and decreased pre-cordial activity noted on initial examination.
+
+**Investigations:**
+
+* CBC: Hemoglobin 15.6 g/dL, PCV 49.8%, WBC 9,100 cells/cumm, Platelets 183,000 /mm3
+* RFT: Creatinine 0.4 mg/dL, Blood Urea 20mg/dL, BUN 9.4 mg/dL
+* LFT: Total Bilirubin 15.5 mg/dL, Direct Bilirubin 1.8 mg/dL, ALT 10 U/L, AST 35 U/L, ALP 214 U/L, Albumin 3.4 g/dL
+* Blood Glucose: Variable, ranging from 35-122mg/dL.
+* Urine Analysis: Turbid with protein B+, positive bilirubin, trace leukocytes and 6-8 pus cells/hpf.
+* EEG: Ordered but results not available in the document.
+* MRI Brain: Planned to evaluate seizures.
+
+**Procedures & Interventions:**
+
+* Peripheral IV cannulation.
+* Phototherapy for hyperbilirubinemia.
+* Continuous monitoring of vital signs and neurological status.
+* Administration of medications (see below).
+
+**Treatments:**
+
+* Levipil administered, dose adjusted based on seizure activity.
+* Phenobarbitone maintenance dose initiated.
+* Optineuron given.
+* Cefotaxime calcium was prescribed.
+* IV fluids provided.
+
+**Discharge Advice:** Not found in the document.
+
+============================================================
+DAILY PROGRESS
+============================================================
+
+## Discharge Summary
+
+**Patient Name:** B/O Vagdevi
+**UHID:** 162608635
+**IPD:** LB26/3007
+**Gender:** Male
+**Age:** 4 Days (at time of last document entry)
+
+**Antenatal History:** Not detailed in provided records. Maternal risk factors not specified.
+
+**Birth History:** Delivered at 40 weeks gestation, mode of delivery unspecified. APGAR scores not documented. Antenatal steroid administration noted but details lacking. Cried at birth with stimulation.
+
+**Admission Examination:** Weight 2.7 kg, HC 33 cm, Length 45cm. Vitals: HR 120/min, RR 45/min, SpO2 97%. No significant findings on initial examination documented beyond those listed.
+
+**Morbidities & Course:**
+*   **Neonatal Jaundice:** Present on admission and required phototherapy. Total bilirubin peaked at 15.5 mg/dL.
+*   **Seizures:** Multiple seizure episodes occurred during the hospital stay, prompting treatment with Levipil (loading dose of 5mg IV) and Phenobarbital maintenance doses. MRI brain was performed to investigate etiology.
+*   **Hypoglycemia:** Episodes of hypoglycemia were noted, requiring monitoring and intervention with dextrose containing fluids. GRBS values fluctuated between 35-122 mg/dL.
+*   **Respiratory Distress:** Initial assessment revealed tachypnea. Respiratory support not clearly detailed but CPAP was mentioned in care plans.
+*   **Possible Infection:** Blood cultures were performed, initially negative after 24 hours of incubation. CRP elevated at 2.4mg/L.
+
+**Investigations:**
+*   Complete Blood Count (CBC): Hemoglobin 15.6 g/dL, Platelets 183,000/mm3, WBC 9,100 cells/cumm.
+*   Renal Function Tests: Creatinine 0.4 mg/dL, Urea 20mg/dL.
+*   Liver Function Tests: Total Bilirubin 15.5 mg/dL, ALT 10 U/L, AST 35 U/L, ALP 214 U/L.
+*   Electrolytes: Sodium 142 mmol/L, Potassium 5.1 mmol/L, Chloride 107 mmol/L.
+*   Blood Glucose: Fluctuating levels requiring monitoring.
+*   Urine Analysis: Turbid with protein B+, positive bilirubin.
+*   MRI Brain: Performed to evaluate seizures; results not detailed in provided records.
+*   Blood Culture: Negative after 24 hours incubation.
+
+**Procedures & Interventions:**
+*   IV Cannulation
+*   Phototherapy
+*   Medication administration (Levipil, Phenobarbital, Optineuron)
+*   Monitoring of vital signs and blood glucose levels.
+
+**Treatments Given:**
+*   Levipil: Initially as a loading dose then maintenance doses.
+*   Phenobarbital: Maintenance therapy for seizure control.
+*   IV Fluids: Dextrose containing fluids to manage hypoglycemia.
+*   Antibiotics (Tazobactam): Administered, duration not specified.
+
+**Discharge Advice:** Not found in provided records.
+
+============================================================
+LABORATORY
+============================================================
+
+## Discharge Summary
+
+**Patient Name:** B/O Vagdevi
+**UHID:** 162608635
+**IPD:** LB26/3007
+**Gender:** Male
+**Age:** 4 Days (at time of last document entry)
+
+**Antenatal History:** Not detailed in provided records.
+**Birth History:** Delivered at 40 weeks gestation, mode of delivery not specified. Cried at birth. APGAR scores not documented. Antenatal steroid administration noted but details lacking.
+
+**Admission Examination:** Weight 2.7 kg, HC 33 cm, Length 45cm.  Retractions absent. SAS 36 mg/dL. Abnormal Fontanelles and Scalp Electrode Mark present. Hypotonia and asymmetric movement were observed.
+
+**Morbidities & Course:**
+*   **Neonatal Jaundice:** Present on admission, managed with phototherapy. Total bilirubin peaked at 15.5 mg/dL.
+*   **Seizures:** Seizures occurred postnatally, treated with Levipil and Phenobarbitone. MRI brain was performed to investigate etiology.
+*   **Hypoglycemia:** Multiple episodes of hypoglycemia requiring monitoring and treatment (RBS values ranged from 35-122 mg/dL).
+*   **Respiratory Distress Syndrome (RDS):**  Present, managed with CPAP.
+*   **Possible Sepsis:** Evaluated with blood cultures which were negative after 24 hours. CRP was elevated at 2.4 mg/L.
+
+**Investigations & Interpretation:**
+*   **Hematology:** Hemoglobin 15.6 g/dL, Platelet count 183,000/mm3, WBC 9,100 cells/cumm. Peripheral smear showed neutrophilia.
+*   **Biochemistry:** Elevated total bilirubin (15.5 mg/dL), elevated ammonia (86 μmol/L). Creatinine 0.4 mg/dL, Blood Urea 20mg/dL. Calcium 8.6 mg/dL. Electrolytes within normal limits.
+*   **Urine Analysis:** Turbid urine with protein B+, positive bilirubin, trace leukocytes and 6-8 pus cells/hpf.
+*   **Blood Culture:** Negative after 24 hours of incubation.
+*   **MRI Brain:** Performed (results not detailed in provided records).
+*   **CSF analysis**: Not documented
+
+**Procedures & Interventions:**
+*   Peripheral IV cannulation.
+*   Phototherapy for hyperbilirubinemia.
+*   CPAP for respiratory support.
+*   Medication administration (Levipil, Phenobarbitone, Optineuron).
+
+**Treatments Given & Duration:**
+*   Levipil administered intravenously and orally.
+*   Phenobarbitone maintenance dose given.
+*   Antibiotics (Cefotaxime) were initiated but duration not specified.
+*   Phototherapy provided for hyperbilirubinemia.
+
+**Discharge Advice:** Not found in the document.
+
+============================================================
+MEDICATIONS
+============================================================
+
+## Discharge Summary
+
+**Patient Name:** B/O Vagdevi
+**UHID:** 162608635
+**IPD:** LB26/3007
+**Gender:** Male
+**Age:** 4 Days (at time of last document entry)
+
+**Antenatal History:** Not detailed in provided records.
+**Birth History:** Delivered at 36 weeks gestation, mode of delivery not specified. Cried at birth. APGAR scores not documented. Antenatal steroid administration noted but details lacking.
+
+**Admission Examination:** Weight 2.7 kg, HC 33 cm, Length 45cm. Retractions absent. SAS 36 mg/dL. Abnormal Fontanelles and Scalp Electrode Mark present. Hypotonia and asymmetric movement observed.
+
+**Morbidities & Course:**
+*   **Neonatal Jaundice:** Present on admission, managed with phototherapy. Total bilirubin level peaked at 15.5 mg/dL.
+*   **Seizures:** Multiple episodes noted during hospital stay. Treated with Levetiracetam (Levipil) initially, then Phenobarbital maintenance dose. MRI brain performed to investigate etiology.
+*   **Hypoglycemia:** Frequent monitoring of blood glucose levels documented. Managed with IV fluids and potentially dextrose supplementation. GRBS values ranged from 35-122 mg/dL.
+*   **Respiratory Distress Syndrome (RDS):** Present on admission, requiring CPAP support.
+*   **Possible Sepsis:** Blood cultures performed; preliminary report showed no bacterial growth after 24 hours of incubation. CRP was elevated at 2.4 mg/L.
+*   **IUGR:** Noted as a diagnosis.
+
+**Investigations:**
+*   Complete Blood Count (CBC): Hemoglobin 15.6 g/dL, Platelet count 183,000 /mm3, WBC 9,100 cells/cumm.
+*   Renal Function Tests: Creatinine 0.4 mg/dL, Blood Urea 20 mg/dL.
+*   Liver Function Tests: Total Bilirubin 15.5 mg/dL, Direct Bilirubin 1.8 mg/dL, ALT 10 U/L, AST 35 U/L, ALP 214 U/L.
+*   Electrolytes: Sodium 142 mmol/L, Potassium 5.1 mmol/L, Chloride 107 mmol/L, Calcium 8.6 mg/dL.
+*   Blood Culture: Negative after 24 hours incubation.
+*   Urine Complete Examination: Turbid urine with trace pus cells and protein B+.
+*   Ammonia: 86 μmol/L (elevated).
+*   MRI Brain: Performed, results not fully detailed in provided records.
+*   EEG: Mentioned but report details unavailable.
+
+**Procedures & Interventions:**
+*   IV Cannulation.
+*   Phototherapy.
+*   CPAP administration.
+*   Medication administration (see below).
+
+**Treatments Given:**
+*   **Levetiracetam (Levipil):** Initially given, then discontinued.
+*   **Phenobarbital:** Maintenance dose administered for seizure control.
+*   **Optineuron:** Administered.
+*   **Cefotaxime (Taxim):** Antibiotic therapy initiated.
+*   **Calcium Gluconate:** Administered.
+*   **IV Fluids:** Ringer's lactate with dextrose provided.
+*   **Phototherapy.**
+
+**Discharge Advice:** Not found in the document.
+
+============================================================
+PROCEDURES
+============================================================
+
+## Discharge Summary
+
+**Patient Name:** B/O Vagdevi
+**UHID:** 162608635
+**IPD:** LB26/3007
+**Gender:** Male
+**Age:** 4 Days (at time of last document entry)
+
+**Antenatal History:** Not detailed in provided records.
+
+**Birth History:** Delivered at 36 weeks gestation, mode of delivery not specified. Cried at birth. APGAR scores not documented. Antenatal steroid administration noted but details lacking.
+
+**Admission Examination:** Weight 2.7 kg, HC 33 cm, Length 45cm. Vitals: HR 120/min, RR 45/min, SpO2 97%.  Retractions absent. SAS 36 mg/dL. Abnormal Fontanelles and Scalp Electrode Mark noted on examination.
+
+**Morbidities:**
+*   **Neonatal Jaundice:** Present on admission, treated with phototherapy. Total bilirubin peaked at 15.5 mg/dL.
+*   **Seizures:** Multiple episodes documented, treated with Levipil (loading dose of 5mg IV) and Phenobarbitone maintenance doses. MRI brain performed to investigate etiology.
+*   **Hypoglycemia:** Frequent monitoring of GRBS demonstrated fluctuating levels requiring intervention.
+*   **Respiratory Distress Syndrome (RDS):** Required CPAP support.
+*   **Possible Cerebral Dysgenesis:** Noted in progress notes, further investigation with MRI pending.
+
+**Investigations:**
+*   **Hematology:** HB 15.6 g/dL, PCV 49.8%, Platelet count 183,000 /mm3, WBC 9,100 cells/cumm. Peripheral smear showed neutrophilia.
+*   **Biochemistry:** Elevated Liver Function Tests (ALT 10 U/L, AST 35 U/L, ALP 214 U/L), Creatinine 0.4 mg/dL, Blood Urea 20mg/dL, Calcium 8.6 mg/dL, Sodium 142 mmol/L, Potassium 5.1 mmol/L, Chloride 107 mmol/L. Elevated Ammonia level of 86 μmol/L.
+*   **CRP:** 2.4 mg/L.
+*   **Blood Culture:** No bacterial growth after 24 hours incubation.
+*   **Urine Analysis:** Turbid urine with protein B+, bilirubin positive, trace pus cells.
+*   **MRI Brain:** Performed to evaluate seizures and possible cerebral dysgenesis; results not fully detailed in provided records.
+*   **Blood Group:** B Positive
+
+**Procedures & Interventions:**
+*   Peripheral IV Cannulation (multiple lines).
+*   Phototherapy for hyperbilirubinemia.
+*   CPAP for respiratory support.
+*   Lumbar Puncture performed.
+*   Medication administration including anticonvulsants, antibiotics and supportive care.
+
+**Treatments:**
+*   Levipil administered IV initially then transitioned to oral dosing.
+*   Phenobarbitone maintenance doses given.
+*   Cefotaxime calcium (antibiotic).
+*   Optineuron.
+*   Calcium Gluconate.
+*   IV fluids and nutritional support provided.
+
+**Discharge Advice:** Not available in the document.
+
+============================================================
+SCREENING
+============================================================
+
+## Discharge Summary
+
+**Patient Name:** B/O Vagdevi
+**UHID:** 162608635
+**IPD:** LB26/3007
+**Gender:** Male
+**Age:** 4 Days (at time of last document entry)
+
+**Antenatal History:** Not detailed in provided records.
+
+**Birth Details:** Delivered at 36 weeks gestation, mode of delivery not specified. Cried at birth. APGAR scores not documented. Antenatal steroid administration noted but details lacking.
+
+**Admission Examination:** Weight 2.7 kg, HC 33 cm, Length 45cm. Vitals: HR 120/min, RR 45/min, Temp 36°C, SpO2 97%.  Retractions absent. SAS 36 mg/dL.
+
+**Morbidities & Course:**
+*   **Neonatal Jaundice:** Present on admission, managed with phototherapy. Total bilirubin peaked at 15.5 mg/dL.
+*   **Respiratory Distress Syndrome (RDS):** Required respiratory support, including CPAP.
+*   **Hypoglycemia:** Episodes of hypoglycemia noted, treated with IV fluids and monitoring of GRBS. GRBS values ranged from 35-122mg/dl.
+*   **Seizures:** Seizures occurred during admission, managed with medications (Levipil, Phenobarbitone). MRI brain performed to investigate etiology.
+*   **Possible Cerebral Dysgenesis**: Noted in progress notes.
+*   **SGA:** Small for gestational age noted on admission.
+
+**Investigations:**
+*   **Hematology:** HB 15.6 g/dL, PCV 49.8%, Platelet count 183,000 /mm3, WBC 9,100 cells/cumm.
+*   **Biochemistry:** Creatinine 0.4 mg/dL, Blood Urea 20 mg/dL, Calcium 8.6mg/dl, Sodium 142 mmol/L, Potassium 5.1 mmol/L, Total Bilirubin 15.5 mg/dL, ALT 10 U/L, AST 35 U/L, ALP 214 U/L, Ammonia 86 μmol/L
+*   **Microbiology:** Blood culture negative for bacterial growth after 24 hours.
+*   **Imaging:** MRI brain performed (results not detailed).
+*   **Urine Analysis**: Turbid urine with trace pus cells and protein present.
+
+**Procedures & Interventions:**
+*   Peripheral IV cannulation.
+*   Phototherapy.
+*   CPAP administration.
+*   Medication administration (Levipil, Phenobarbitone, Cefotaxime).
+*   Blood gas analysis.
+
+**Treatments Given:**
+*   IV fluids.
+*   Antibiotics (Cefotaxime).
+*   Anticonvulsants (Levipil, Phenobarbitone).
+*   Phototherapy for hyperbilirubinemia.
+
+**Screening:**
+*   Newborn Metabolic Screening: Ordered but results not available in provided records.
+*   Hearing Screening: Not documented.
+*   ROP Screening: Not documented.
+*   Thyroid Screening: Not documented.
+*   G6PD Screening: Not documented.
+*   Critical Congenital Heart Disease Screening: Not documented.
+*   Vaccinations: Not documented.
+
+**Discharge Advice:** Not available in provided records.
+
+============================================================
+DISCHARGE
+============================================================
+
+Condition at Discharge: Not Found
+Feeding at Discharge: Not Found
+Discharge Medications: Not Found
+Discharge Advice: Not Found
+Follow-Up: Not Found
+
+============================================================
+CLINICAL SUMMARY
+============================================================
+
+## Discharge Summary
+
+**Patient Name:** B/O Vagdevi
+**UHID:** 162608635
+**IPD:** LB26/3007
+**Gender:** Male
+**Date of Birth:** 27th June 2026 (estimated)
+**Gestational Age:** 36 weeks (estimated)
+
+**Antenatal & Perinatal History:** Limited information available. Maternal risk factors not detailed, but a previous cesarean section was noted. The patient was delivered at 36 weeks gestation with an uncertain mode of delivery.
+
+**Reason for Admission:**  Admitted to the NICU following birth with concerns regarding respiratory status and neurological findings.
+
+**Admission Examination:** Weight 2.7 kg, HC 33 cm, Length 45cm. Initial assessment revealed tachypnea, hypotonia, decreased precordial activity, abnormal fontanelles, caput cephalhematoma and a blood glucose of 36 mg/dL.
+
+**Morbidities & NICU Course:**
+*   **Neonatal Jaundice:** Present on admission, peaking at 15.5 mg/dL, and managed with phototherapy.
+*   **Respiratory Distress Syndrome (RDS):** Required CPAP support during the hospital stay.
+*   **Hypoglycemia:** Multiple episodes of hypoglycemia occurred, requiring frequent monitoring and IV fluids to maintain blood glucose levels between 35-122mg/dl.
+*   **Seizures:**  Multiple seizure events were observed and treated with Levetiracetam (Levipil) initially, followed by Phenobarbital maintenance therapy. An MRI brain was performed to investigate the etiology of seizures.
+*   **Possible Cerebral Dysgenesis**: Noted during the NICU stay.
+*   **Early-Onset Sepsis Evaluation:** Blood cultures were negative after 24 hours; however, an elevated CRP (2.4 mg/L) prompted initial antibiotic therapy with Cefotaxime.
+
+**Important Investigations & Interpretation:**
+*   Complete blood count showed hemoglobin of 15.6 g/dL and normal platelet counts.
+*   Renal function tests were within normal limits.
+*   Liver function tests demonstrated elevated bilirubin (total 15.5 mg/dL) and ALP (214 U/L).
+*   Elevated ammonia level of 86 μmol/L was noted.
+*   Urine analysis revealed turbid urine with protein B+ and trace leukocytes.
+*   MRI brain was performed, but the results are not detailed in the provided documentation.
+
+**Procedures & Interventions:**
+*   Peripheral IV cannulation.
+*   Phototherapy for hyperbilirubinemia.
+*   CPAP administration for respiratory support.
+*   Lumbar puncture performed.
+
+**Treatments Given:**
+*   Levetiracetam (Levipil) – administered intravenously initially, then transitioned to oral dosing.
+*   Phenobarbital - maintenance dose for seizure control.
+*   Cefotaxime calcium – antibiotic therapy.
+*   Optineuron.
+*   Calcium Gluconate.
+*   IV fluids with dextrose supplementation.
+
+**Condition at Discharge:** Not documented in the provided records. 
+
+**Discharge Medications:** Not documented in the provided records.
+
+**Discharge Advice & Follow-Up:**  Not documented in the provided records. Newborn metabolic screening, hearing screening, ROP screening, thyroid screening and vaccinations were not documented as performed.
+

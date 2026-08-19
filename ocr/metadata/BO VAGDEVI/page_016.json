@@ -1,0 +1,81 @@
+{
+  "pdf_name": "BO VAGDEVI",
+  "page": 16,
+  "processing_time": 24.93,
+  "statistics": {
+    "words": 106,
+    "characters": 603,
+    "lines": 38,
+    "blocks": 38,
+    "numbers": 29
+  },
+  "confidence": {
+    "average": 92.59,
+    "minimum": 75.06,
+    "maximum": 100.0
+  },
+  "medical": {
+    "count": 15,
+    "fields": [
+      "Age",
+      "CRP",
+      "Gender",
+      "HC",
+      "HCO3",
+      "IM",
+      "IPD",
+      "IV",
+      "MR No",
+      "PO",
+      "PO2",
+      "Patient Name",
+      "Progress Notes",
+      "UHID",
+      "pH"
+    ]
+  },
+  "health": {
+    "score": 74.52,
+    "status": "★★★☆☆ Good"
+  },
+  "ocr_text": [
+    "Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D",
+    "ankura",
+    "9M",
+    "PROGRESS NOTES",
+    "hospital",
+    " women & chilldren",
+    "Patient Name:",
+    "MR No.:",
+    "DATE &TIME",
+    "PROGRESS NOTES",
+    "NAME & SIGN",
+    "PAIN SCORE:",
+    "(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)",
+    "FEG — Diffuse",
+    "cereboral dysginetion",
+    "no seiznre activity",
+    "plam",
+    "MRIbrain",
+    "Neurologist opiniontodauy.",
+    "PH",
+    "CRP—2.4",
+    "–7.87",
+    "ly",
+    "Catt - 8·6",
+    "PO2-3T.3",
+    "HCO3-21.3",
+    "Creats - 0.4",
+    "Vrea — 20",
+    "Lactato-2.15",
+    "Electrolyto – 142 /5.1 | 107",
+    "Tcc -a100",
+    "Ammonia — 86",
+    "Pit- 1.83L",
+    "TSB-15.5",
+    "PCN - 49.8",
+    "ANKURA HOSPITAL FOR WOMEN AND CHILDREN",
+    "REVISION NO.: 3 | ISSUE NO.: 4",
+    "AHWC/IP/F/10"
+  ]
+}

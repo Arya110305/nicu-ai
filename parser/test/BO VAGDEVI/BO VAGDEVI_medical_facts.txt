@@ -1,0 +1,90 @@
+It appears you have a comprehensive set of patient records and laboratory reports for a male infant named B/O Vagdevi, who is 4 days old. Here's an organized summary of the key information:
+
+### Patient Information:
+- **Name:** B/O Vagdevi
+- **UHID:** 162608635
+- **IPD No.:** LB26/3007
+- **Gender:** Male
+- **Age:** 4 Days
+
+### Admission Details:
+- **Admission Date & Time:** 27-06-2026, 09:03 PM
+- **Consultant:** Dr. Srinivas Murki
+
+### Laboratory Reports:
+
+#### Hematology:
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV: 80.9 fL
+  - MCH: 25.4 pg
+  - MCHC: 31.4 gm/dL
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm3
+
+- **Blood Group and Rh Typing:** B Positive
+
+#### Biochemistry:
+- **C-Reactive Protein (CRP):** 2.4 mg/L
+- **Renal Function Test (RFT):**
+  - Creatinine: 0.4 mg/dL
+  - Blood Urea: 20 mg/dL
+  - BUN (Blood Urea Nitrogen): 9.4 mg/dL
+  - Uric Acid: 4.3 mg/dL
+  - Calcium: 8.6 mg/dL
+  - Sodium: 142 mmol/L
+  - Potassium: 5.1 mmol/L
+  - Chloride: 107 mmol/L
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT (Alanine Transaminase): 10 U/L
+  - AST (Aspartate Transaminase): 35 U/L
+  - ALP (Alkaline Phosphatase): 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia:** 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis:
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Epithelial Cells: 10-12/hpf
+  - RBC's: Absent
+
+#### Microbiology:
+- **Culture and Sensitivity - Automated/VITEK, Blood:** No bacterial growth seen after 24 hours of aerobic incubation.
+
+### Other Information:
+- **GRBS (Glucose Response to Bolus) Monitoring:** 
+  - Date/Time: 28-06-2026
+  - Values: 36 mg/dL, 72 mg/dL, 122 mg/dL, etc.
+
+### Nursing and Care:
+- **Patient Acuity Score & Allocation:** 
+  - Morning Staff Level: Routine nursing care (Score 8)
+  - Afternoon Staff Level: Increased nursing observation
+  - Night Staff Level: Close monitoring and high nursing
+
+### Discharge Summary:
+- Not provided yet.
+
+### Notes:
+- The patient is under close monitoring due to the initial CRP levels, liver function tests, and other biochemical parameters.
+- Regular follow-ups are recommended for further evaluation of any abnormalities detected in the laboratory reports.
+
+If you need specific actions or further details on any particular aspect, please let me know!

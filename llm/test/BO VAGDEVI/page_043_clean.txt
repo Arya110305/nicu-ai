@@ -1,0 +1,32 @@
+Patient Name: B/O. Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+NURSING CARE PLAN  
+
+MR No.: 14802  
+DOA: 01/04/2016
+
+Diagnosis:
+Age: 30 weeks
+Gender: Male
+
+Planning:
+Nurse's Assessment:  
+On admission, the patient was found to have neonatal jaundice. Continuous positive airway pressure (CPAP) was initiated for respiratory distress syndrome (RDS).
+
+Plan:
+- Monitor the infant’s vital signs closely.
+- Administer phototherapy as prescribed.
+- Provide nutritional support and ensure proper feeding.
+- Conduct regular assessments of head circumference (HC).
+- Order complete blood count (CBC), liver function test (LFT), and renal function test (RFT) as needed.
+
+Revision No.: 3  
+Issue No.: 4
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+IP/F/05

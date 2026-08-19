@@ -1,0 +1,81 @@
+{
+  "pdf_name": "BO VAGDEVI",
+  "page": 47,
+  "processing_time": 26.52,
+  "statistics": {
+    "words": 126,
+    "characters": 690,
+    "lines": 42,
+    "blocks": 42,
+    "numbers": 26
+  },
+  "confidence": {
+    "average": 88.67,
+    "minimum": 50.26,
+    "maximum": 99.99
+  },
+  "medical": {
+    "count": 11,
+    "fields": [
+      "Age",
+      "DOB",
+      "GA",
+      "Gender",
+      "IM",
+      "IPD",
+      "IV",
+      "MR No",
+      "Patient Name",
+      "UHID",
+      "pH"
+    ]
+  },
+  "health": {
+    "score": 67.07,
+    "status": "★★☆☆☆ Review"
+  },
+  "ocr_text": [
+    "Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D",
+    "9M",
+    "NURSES NOTES",
+    "ankura",
+    "hospital",
+    "for women & children",
+    "Patient Name: B vagavi",
+    "162805635",
+    "MR No:",
+    "DoB/Age: dpdy s Male ward/Rom o: wice",
+    "Name of the nurse /",
+    "Date /Time",
+    "Nurses Note",
+    "ID No. & Sign",
+    "9 Ns 20p bolus givee.",
+    "SAoDt vil k. Inag giveee.",
+    "Rofe",
+    " Iis÷ Tarxia grvece",
+    "166.36",
+    "Iy Levipi loding givee",
+    "YAo-yheno lodinggivue",
+    "Loe",
+    "igpheno tr loding givue.",
+    "10636",
+    "-7 Clies Clubeds rerded",
+    "5Ay",
+    "vitalclubed rerded",
+    "Lofe",
+    "1R= 124/af 5p295t- Tap36.5",
+    "10636",
+    "- Plave Gt G. alsG dee.",
+    "6A0",
+    "-a10 otlear",
+    ", Iscee",
+    "Loje",
+    "Head ovor givee moning",
+    "16626",
+    "8Am",
+    "Snff",
+    "ANKURA HOSPITAL FOR WOMEN AND CHILDREN",
+    "REVISION NO.: 3 |ISSUE NO.: 4",
+    "AHWC/IP/F/04"
+  ]
+}

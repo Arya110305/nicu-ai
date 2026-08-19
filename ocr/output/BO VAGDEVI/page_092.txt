@@ -1,0 +1,185 @@
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+Name : VAGADAVI
+UHIDNO:162608635
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+RD No
+IPDNO:LB26/3007
+SCORE
+DATE
+MORNING
+STAFF
+LEVEL
+AFTER NOON
+STAFF
+LEVEL
+NIGHT
+STAFF
+LEVEL
+Age:4D Gender: Male
+2816/26
+SCORE
+NAME
+SCORE
+NAME
+SCORE
+NAME
+Consult: DR. SRINIVAS MURKI
+Adm Date:27-06-2026 09:03 PM
+LEVEL OF
+0
+0
+Arauya
+Alert age appropriate
+Shany
+ly0
+CONSCIOUSNESS
+Irritable or lethargic
+1
+01
+01
+Responds to pain
+2
+lyé
+Unconscious/seizures
+3
+RESPIRATORY
+Normal breathing room air
+0
+01
+STATUS
+1
+1
+Anasuya
+01
+shancy
+Mild distress oxygen support
+Moderate distress/frequent suction
+2
+lyé
+Severe distress CPAP / Ventilator
+3
+CARDIOVASCULAR
+Stable vitals
+0
+01
+Amasuya
+STATUS
+T
+01
+shancy
+Tachycardia / IV fluids
+1
+Inotropes/invasive monitoring
+2
+Shock risk
+3
+lofi
+FEEDING &
+Oral feeds independently
+0
+NUTRITION
+Assisted feeding
+1
+11.2
+02
+NG feeds
+2
+2
+Anasuga
+2
+Shancy
+rev
+TPN/feeding intolerance
+3
+ELIMINATION
+Normal urine stool
+0
+
+Diaper care assistance
+1
+Cater/stric monitring
+2
+Anasuge
+02
+Shanxy
+2
+02
+Oliguria / anuria
+3
+MEDICATION
+Oral medications
+0
+Anasugs
+01
+COMPLEXITY
+IV medications
+1
+01
+Shancy
+Multiple IV infusions
+2
+High risk drug titration
+3
+华华
+PAIN & COMFORT
+Comfortable
+0
+Anasuga
+01
+8hanxy
+Intermittent pain
+1
+61
+Persistent pain
+2
+Severe pain continuous care
+3
+PROCEDURES &
+None
+0
+DEVICES
+IV line
+1
+1
+nascys
+01
+shancy
+01
+Multiple lines / drains
+2
+Ventilator /central lines
+3
+PARENTAL
+Routine guidance
+0
+SUPPORT NEED
+bje
+Frequent reassuring
+1
+2
+Anasuya
+Shancy
+62
+Anxious Parents
+2
+02
+Continuous emotional support
+3
+Category I
+Category
+Category III
+Category IV
+INCHARGE NAME & SIGN
+Score 0-6
+II Score 7-19
+Score 20-30
+Score > 30
+Routine nursing care
+Increased nursing observation
+Close monitoring and high nursing
+One-to-one intensive nursing care
+NUR.SUPERVISOR NAME & SIGN
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE

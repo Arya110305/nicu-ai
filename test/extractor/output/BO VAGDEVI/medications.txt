@@ -1,0 +1,49 @@
+Field Name : Value
+
+Medication Name : Antenatal Steroid
+Dose : Not Found
+Route : Not Specified
+Frequency : Not Specified
+Duration : Not Found
+
+Medication Name : Inj. Levipil
+Dose : 1 mg
+Route : IV idol
+Frequency : Stat
+Duration : Not Found
+
+Medication Name : Prenobawuotcne D&L3
+Dose : Not Found
+Route : Not Specified
+Frequency : Not Specified
+Duration : Not Found
+
+Medication Name : Optineuron INY
+Dose : 10%
+Route : IV
+Frequency : Not Specified
+Duration : Not Found
+
+Medication Name : Cefotaxime calcium
+Dose : 8 mg/kg/day
+Route : IV
+Frequency : Not Specified
+Duration : Not Found
+
+Medication Name : IV Lenifilast
+Dose : 5 mg by mouth/day
+Route : Oral
+Frequency : Maintained with 20 mg/kg/dose last seizure
+Duration : Not Found
+
+Medication Name : Gardenal D3 Opti'neuron 10%
+Dose : Not Specified
+Route : IV
+Frequency : Not Specified
+Duration : Not Found
+
+Medication Name : Cefotaxime calcium
+Dose : 8 mg/kg/day
+Route : IV
+Frequency : Not Specified
+Duration : Not Found

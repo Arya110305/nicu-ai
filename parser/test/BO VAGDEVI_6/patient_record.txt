@@ -1,0 +1,1338 @@
+============================================================
+PATIENT INFORMATION
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+BIRTH DETAILS
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+MATERNAL HISTORY
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+ADMISSION
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+NICU COURSE
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+DAILY PROGRESS
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+LABORATORY
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+MEDICATIONS
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+PROCEDURES
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+SCREENING
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+DISCHARGE
+============================================================
+
+### Patient Information Summary
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports and Findings
+
+#### Hematology
+- **Blood Group & Rh Typing:**
+  - Blood Group: B
+  - RH TYPING: Positive
+  - Comments: Reconfirm the blood group and Rh typing before transfusion.
+
+- **Complete Blood Count (CBC):**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV, MCH, MCHC: Normal values
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Peripheral Smear:** 
+  - Normocytic normochromic RBCs, neutrophilia, adequate platelets.
+
+#### Biochemistry
+- **Random Blood Glucose (RBS):**
+  - Result: 35 mg/dL
+  - Interpretation: Normoglycemia
+
+- **Ionic Calcium:**
+  - Result: 5.08 mg/dL
+  - Reference Interval: Children (4.8-5.52) Adult (4.64-5.28)
+
+- **Liver Function Test (LFT):**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT/SGPT: 10 U/L
+  - AST/SGOT: 35 U/L
+  - ALP: 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+- **Ammonia Test:**
+  - Result: 86.0 μmol/L (Reference Interval: 9.0-47.0 μmol/L)
+
+#### Urinalysis
+- **Complete Urine Examination (CUE):**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+#### Microbiology
+- **Blood Culture and Sensitivity:**
+  - Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Other Information
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Printed On:** 28/06/2026 03:00
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+### Notes and Observations
+- The patient is a male infant, 4 days old.
+- Hematological parameters are within normal limits with no significant findings.
+- Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+- Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+- Blood culture results are negative for bacterial growth.
+
+---
+
+### Next Steps
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+- Evaluate the cause of proteinuria and bilirubinuria in urine.
+- Follow up with Dr. Srinivas Murki for further management.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+### End of Document
+
+============================================================
+CLINICAL SUMMARY
+============================================================
+
+**PATIENT DEMOGRAPHICS**
+
+- **Patient Name:** B/O Vagdevi  
+- **UHID:** 162608635  
+- **IPD:** LB26/3007  
+- **Gender:** Male  
+- **Age:** 4 Days  
+
+---
+
+**ANTENATAL AND PERINATAL HISTORY**
+
+Not Found
+
+---
+
+**REASON FOR NICU ADMISSION**
+
+The patient was admitted to the NICU due to concerns related to trace proteinuria and bilirubinuria noted in the urine examination.
+
+---
+
+**ADMISSION EXAMINATION**
+
+- **General Appearance:** The infant is a 4-day-old male.
+- **Vital Signs:**
+  - Temperature: Not documented
+  - Heart Rate: Not documented
+  - Respiratory Rate: Not documented
+  - Blood Pressure: Not documented
+- **Physical Examination:**
+  - Hematological parameters are within normal limits with no significant findings.
+  - Biochemical tests indicate normoglycemia and mild liver function abnormalities.
+  - Urinalysis shows trace proteinuria and bilirubinuria, which may warrant further evaluation.
+
+---
+
+**MORBIDITIES AND NICU COURSE**
+
+- **Proteinuria:** Trace proteinuria noted in urinalysis.
+- **Bilirubinuria:** Positive bilirubinuria noted in urinalysis.
+
+The patient was monitored closely for these findings and no specific interventions were required. The liver function tests showed mild abnormalities, but the overall condition remained stable.
+
+---
+
+**IMPORTANT INVESTIGATIONS AND INTERPRETATION**
+
+- **Hematology:**
+  - Blood Group: B
+  - RH Typing: Positive
+  - Complete Blood Count (CBC): Hemoglobin (HB) of 15.6 g/dL, Packed Cell Volume (PCV) of 49.8%, and normal MCV, MCH, and MCHC values.
+- **Biochemistry:**
+  - Random Blood Glucose (RBS): Normoglycemia with a result of 35 mg/dL.
+  - Ionic Calcium: Result of 5.08 mg/dL within the reference interval for children.
+  - Liver Function Test (LFT): Total Bilirubin of 15.5 mg/dL, Direct Bilirubin of 1.8 mg/dL, Indirect Bilirubin of 13.70 mg/dL, ALT/SGPT of 10 U/L, AST/SGOT of 35 U/L, ALP of 214 U/L.
+- **Urinalysis:**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH: 6.0
+  - Glucose: Negative
+  - Protein: B+
+  - Bilirubin: Positive
+  - Ketone: Negative
+  - Blood: Absent
+  - Leucocytes: Trace (6-8/hpf)
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+
+---
+
+**PROCEDURES AND INTERVENTIONS**
+
+No specific procedures or interventions were performed during the NICU stay.
+
+---
+
+**TREATMENTS GIVEN**
+
+- **Blood Group & Rh Typing:** Reconfirmed before any transfusions.
+- **Liver Function Tests:** Monitored closely.
+- **Evaluation of Proteinuria and Bilirubinuria:** Ongoing evaluation with follow-up recommended.
+
+---
+
+**CONDITION AT DISCHARGE**
+
+The patient is in good condition, with no significant morbidities noted. Hematological parameters are within normal limits, and biochemical tests indicate normoglycemia and mild liver function abnormalities. Urinalysis findings of trace proteinuria and bilirubinuria have been monitored.
+
+---
+
+**DISCHARGE MEDICATIONS**
+
+Not Found
+
+---
+
+**DISCHARGE ADVICE**
+
+- Continue to monitor the patient for any changes in urine color or appearance.
+- Follow up with Dr. Srinivas Murki for further management.
+- Reconfirm blood group and Rh typing before any transfusions.
+- Monitor liver function tests closely.
+
+---
+
+**FOLLOW-UP**
+
+- Regular follow-up with Dr. Srinivas Murki is recommended to evaluate the cause of proteinuria and bilirubinuria in urine.
+- Blood group and Rh typing should be reconfirmed before any transfusions.
+- Liver function tests should be monitored closely.
+

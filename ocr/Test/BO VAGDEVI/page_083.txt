@@ -1,0 +1,82 @@
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+REQUISTION FORM
+9M
+ankura
+hospital
+(Diagnostics Services)
+tor women L'children
+Blo. Vagadevi
+Patient Name:
+Age/Sex: D4/male
+MR No: 1626 BP 6S5
+Date & Time: 2816/26
+Ref.by Dr.: Dr. S.mult
+Sample Collected By: Sil. Anaug
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:Omdrcal
+Lab Sample Receiving Date & Time:
+Ward/Room No.:NW
+Clinical Diagnosis & H/O Administration of Drugs:
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O CSF Pyruvate
+O PCV
+O HIV I & II (Rapid)
+O Platelet Count
+O HIVI & II (ELISA)
+O Hemoglobin
+O HbsAg
+O AEC Absolute Eosinophil Count) O Peripheral Smear
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+OHSV-PCR
+O Mantoux Test
+O Complete Urine Examination (CUE)
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Triple Marker
+1. Ammonía
+O Urine Pregnancy Test (UPT)
+2.
+O Gram Stain
+3.
+O AFB Smear
+OVDRL
+MICROBIOLOGY
+O Blood For Culture & Sensitivity
+O Serum IgE
+O New Born Screening
+O Urine For Culture & Sensitivity
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+REVISIONNO.:3|1SSUENO.:4
+AHWC/LAB/F/01
+ANKURA HOSPITAL FORWOMEN AND CHILDREN

@@ -1,0 +1,77 @@
+Here is a structured summary and organization for the provided information:
+
+### Patient Information
+- **Patient Name:** B/O Vagdevi
+- **UHID:** 162608635
+- **IPD No.:** LB26/3007
+- **Gender:** Male
+- **Age:** 4 Days
+
+---
+
+### Lab Reports and Findings
+
+#### Hematology (CBC)
+- **Haemoglobin (HB):** 15.6 g/dL (Reference: 15.00 - 21.00)
+- **Packed Cell Volume (PCV):** 49.8% (Reference: 45.00 - 67.00)
+- **MCV:** 80.9 fL (Reference: 92.00 - 118.00)
+- **MCH:** 25.4 pg
+- **MCHC:** 31.4 g/dL (Reference: 29.00 - 37.00)
+- **RBC Count:** 6.15 × 10^6/uL (Reference: 4.00 - 6.60)
+- **WBC Count:** 9,100 cells/cumm (Reference: 7,000.00-23,000.00)
+- **Platelet Count:** 183,000 /mm³ (Reference: 160,000.00-500,000.00)
+
+#### Blood Group and Rh Typing
+- **Blood Group:** B
+- **Rh Typing:** Positive
+
+#### Biochemistry
+- **C-Reactive Protein (CRP):** 2.4 mg/L (Reference: 0.01 - 6.00)
+- **Renal Function Test (RFT):**
+  - Creatinine - Serum: 0.4 mg/dL (Reference: 0.3 - 0.9)
+  - Blood Urea: 20 mg/dL (Reference: 16.60 - 48.50)
+  - BUN (Blood Urea Nitrogen): 9.4 mg/dL (Reference: 6.00 - 20.00)
+  - Uric Acid: 4.3 mg/dL (Reference: 3.50 - 7.20)
+  - Calcium Serum: 8.6 mg/dL (Reference: 8.80-10.80)
+  - Sodium Serum: 142 mmol/L (Reference: 133.00 - 144.00)
+  - Potassium Serum: 5.1 mmol/L (Reference: 3.40 - 5.10)
+  - Chloride Serum: 107 mmol/L (Reference: 97.00 - 107.00)
+
+#### Urinalysis
+- **Color:** Yellow
+- **Physical Appearance:** Turbid
+- **Specific Gravity:** 1.015
+- **PH Indicators:** Potential of Hydrogen (pH) 6.0
+- **Glucose:** Nil
+- **Protein:** B+
+- **Bilirubin:** Positive + 
+- **Ketone:** Nil
+- **Blood:** Nil
+- **Leucocytes:** Trace (01-05 /hpf)
+- **Pus Cells:** 6-8/hpf
+- **Epithelial cells:** 10-12/hpf
+- **RBC's:** Nil
+
+#### Blood Culture and Sensitivity
+- **Test Name:** Culture and Sensitivity - Automated/VITEK, Blood
+- **Result:** No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### Discharge Summary
+**Not Provided**
+
+---
+
+### Daily Progress Notes
+**Not Provided**
+
+---
+
+### Other Information
+- **Consultant Doctor:** Dr. Srinivas Murki
+- **Admission Date and Time:** 27-06-2026 9:03 PM
+
+---
+
+This structured summary organizes the patient's information, lab reports, findings, and other relevant details for easy reference and record-keeping.

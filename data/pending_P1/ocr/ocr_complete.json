@@ -1,0 +1,10 @@
+{
+  "patient_name": "pending_P1",
+  "stage": "ocr",
+  "status": "completed",
+  "total_pages": 5,
+  "pages_per_batch": 5,
+  "total_batches": 1,
+  "complete_file": "pending_P1_ocr_complete.txt",
+  "completed_at": "2026-08-06T15:16:50"
+}

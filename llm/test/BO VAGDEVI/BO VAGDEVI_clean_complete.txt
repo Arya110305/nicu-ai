@@ -1,0 +1,5963 @@
+
+============================================================
+PAGE_001
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D9M
+
+Admission Record
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+Patient Movement Record
+Patient Movement (Shifting) Information
+OP/ER/Special Room/NICU/PICU/OT
+Handed over by:
+Taken over by:
+
+S.No. | Date       | Time     | Shifted From | Shifted to   | Remarks, if any
+------|------------|----------|--------------|--------------|-----------------
+1     | 03-XX-YYYY | 08:00 AM |             |              |
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/02
+
+============================================================
+PAGE_002
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 49 M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+INITIAL ASSESSMENT
+(Done By Nurse)
+
+Patient Name: Vagdevi B/O Vagdevi UHID: 162608635 IPD: LB26/3007
+MR NO: 
+IP NO: 
+GA: 40 wks
+Birth Weight: 
+grams
+Date/Time of Assessment:
+TOD:
+
+Mother Blood Group: 
+Reason for Admission/Referral: 
+
+VITAL SIGNS:
+Temperature: 36°C
+HR: 120/min
+RR: 45/min
+Retractions: None
+SAS: 36 mg/dL
+Pulse Volume: 58/58
+B.P: 
+SpO2: 97%
+GRBS: 4
+
+Weight: 2.7 kg, HC: 33 cm
+Length: 45 cm
+
+PAIN ASSESSMENT:
+Process Indicator Score Chart
+3
+Gestational Age: 36 weeks or more
+
+Active, awake,
+Quite, awake,
+
+Behavioural Observation
+eyes open,
+eyes open, no facial 
+eyes closed, no facial 
+movement
+
+Heart Rate: 0-beats per minute
+5-15 beats per minute
+15-24 beats per minute
+25 beats per minute
+
+Oxygen Saturation for:
+Saturation: 97%
+
+Brown Bulge: Observe infant's facial action for 30 seconds
+Eye Squeeze: None
+Naso-labial Furrow: None
+
+INTERVENTION:
+Name:
+Sign: 626
+Date: 
+Time: 15 pm
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/NICU/IP/F/03
+
+============================================================
+PAGE_003
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D9M
+
+**ANKURA HOSPITAL FOR WOMEN AND CHILDREN**
+
+**INITIAL ASSESSMENT**
+(Done By: Dr. Sreeram Subramanian)
+
+Patient Name:
+MR No.:
+IP No:
+Date & Time of Assessment: 27/6/12, 09:30
+DOB/Gender: 26th May 2023, Male
+
+**Assessment Done By:** Dr. Sreeram Subramanian
+
+---
+
+**PAST OBSTETRIC HISTORY**
+
+MATERIAL RISK FACTORS
+
+Consanguinity:
+Yes/No
+
+B.W (Birth Weight):
+G (Gender):
+GA (Gestational Age):
+
+Sex:  
+Age: Significant details
+(gms)  
+Age <18/ >35 yrs:
+Yes/ No
+
+Preeclampsia/Eclampsia:
+MC (Maternal Condition) - LOy (Left Occipital)
+
+CS (Caesarean Section):
+Yes/No
+
+GDM/NIDDM/IDDM:
+Yes/No
+
+PPROM (Preterm Premature Rupture of Membranes) >18hrs/ Pre PROM:
+Yes/No
+
+APH (Antepartum Hemorrhage):
+Yes/No
+
+Maternal Fever/ Chorioamnionitis:
+Yes/No
+
+IHD Asthma:
+Yes/No
+
+Chronic Illness:  
+Medication:
+
+Other Problems, if any:  
+Previous Sibling Death:  
+Preterm Labour:
+Yes/No
+
+Assisted Reproduction:
+Yes/No
+
+**OBSTETRIC HISTORY**
+
+Pregnancies (P) / Abortions (A): 1/0
+Live Births (L): 1
+
+Peri-partum History:
+
+Birth Weight: 
+ANC Registered/Non-Registered:
+LMP (Last Menstrual Period):
+EDD (Estimated Due Date):
+
+Fetal Distress:
+Yes/No
+
+Mode of Delivery:  
+SYN (Spontaneous) / Forceps / Ventouse / LSCS (Lower Segment Caesarean Section)
+
+Mother's Blood Group:
+
+Last Hb (Hemoglobin):
+
+If LSCS:
+Emergency:
+Elective:
+
+HIV:
+HBsAg:
+VDRL:
+TORCH:
+
+Indication for Lscs:  
+USG (Ultrasound): Polyhydramnios/Normal/Oligohydramnios
+
+Presentation: Vertex/Breech
+
+Liquor clear/Amniotic Fluid Index <5 cm
+
+IUGR (Intrauterine Growth Restriction):
+Yes/No
+
+Meconium/Foulsmelling:
+Yes/No
+
+Resuscitation: 
+Cried at Birth / Stimulation / Bag/UA Flow: Normal/Diminished/Absent/Reverse
+Mask/Intubation/Chest Compressions/Adrenaline
+
+Antenatal Steroid:
+Drug
+Dose:
+
+APGAR Scores:
+1 Min  
+5 Min  
+10 Min  
+
+Time-lapse since last dose:
+DCC (Delivery Care Co-ordinator):
+Yes/ No
+
+Magnesium Sulphate for Neuro Protection: 
+Yes/ No
+
+Cord ABG (Arterial Blood Gas):
+
+REVISION NO.: 3
+ISSUE NO.: 4
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+AHWC/NICU/IP/F/04
+
+============================================================
+PAGE_004
+============================================================
+
+Patient Name: B/O. Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 D9M  
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+PHYSICAL EXAMINATION
+
+HEAD-NECK
+Retractions: Normal  
+Fractures: None  
+Tachypnea: Present  
+Microcephaly: Absent  
+Apnea: None  
+Macrocephaly: Absent  
+Diminished Breath Sounds: None  
+DDH (Developmental Moulding): None  
+Stridor: None  
+Dysplasia of Hip: None  
+Others: Caput, Malformation (Specify): Cephalhematoma, Abnormal Sutures, Others: Abnormal Fontanelles, Scalp Electrode Mark
+
+CARDIAC-VASCULAR
+Abscess: None  
+
+NEUROLOGY
+Abnormal Facies: None  
+Facies: Normal  
+Dysarthria: None  
+Dysrhythmias: None  
+Cleft Lip: Unilateral or Bilateral  
+Hypotonia: Present  
+Hypertonia: Present  
+Cleft Palate: None  
+Tachycardia (>160/min): Absent  
+Abnormal Cry: None  
+Nasal Flaring: None  
+Bradycardia (<100/min): Absent  
+Abnormal Moro Reflex: Decreased Precordial Activity  
+Neck Masses: None  
+Asymmetric Movement: None  
+Others: Four Limb Pulses, Paralysis  
+
+EARS
+Normal  
+
+SKIN
+Abnormal Location: None  
+
+ABDOMEN
+Normal  
+
+Acrocyanosis: Absent  
+Preauricular Sinus (pit): Absent  
+Distended Abdomen: Absent  
+Central Cyanosis: Absent  
+Scaphoid Abdomen: Absent  
+Pallor: Absent  
+Palpable Mass (Location): None  
+Plethora: Absent  
+Bruising (Location): None  
+Hepatomegaly: Absent  
+Splenomegaly: Absent  
+
+Umbilical Cord: Normal  
+Petechiae: None  
+
+Genitalia: Normal  
+Jaundice: Not specified  
+
+Anus: Normal  
+Meconium Staining: None  
+
+EYES
+Edema (Specify): Normal  
+Birthmark (Specify): None  
+
+MUSCULOSKELETAL
+CHEST-LUNG
+Spine: Normal  
+Abnormal Chest Shape: None  
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+REVISION NO.: 3  
+ISSUE NO.: 4
+
+AHWC/NICU/IP/F/05
+
+============================================================
+PAGE_005
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+PHYSICAL EXAMINATION
+
+Feeding History
+Breast Fed / Top Fed:
+Gestational Age by Dates:
+(weeks) by Ultrasound:
+(weeks) by New Ballard Score :
+(weeks)
+
+Anthropometry:
+Length: cm
+Head Circumference: cm
+Admission Weight: kg
+Chest Circumference: cm
+
+VITAL SIGNS:
+Heart Rate:
+RR:
+Blood Pressure: mm Hg
+Temperature: 98.60°F
+SpO2: %, Pain Score: 
+FiO2:
+
+PROVISIONAL DIAGNOSIS:
+Anicec
+Hepatich
+CAB
+Latep Reterm
+SGA
+Male
+Score.
+Swot
+2.11g
+GRBS 8
+
+INVESTIGATIONS:
+CBC
+CRP
+RFT
+LFT
+JNCID
+JBG
+Blood Cls
+DFT
+RBS
+Da. Suvdys
+
+Name of the Doctor: Dr. Srinivas Murki
+Date: 
+Signature of the Doctor: 
+Time: 
+
+REVISION NO.: 3 | ISSUE NO.: 4
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+AHWC/NICU/IP/F/05
+
+============================================================
+PAGE_006
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D
+
+NURSE'S HAND-OFF
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+COMMUNICATION (SBAR)
+for Women & Children
+Patient Name:
+Age/Sex:
+MR No./IP No.:
+DOA: 9/7/2023 Diagnosis:
+
+Seizures
+Surgery/Procedure:
+POD:
+Food/Drug Allergies:
+Past Health History:
+
+Area
+N/E
+
+Shift
+N/P
+
+ACND
+SITUATION
+Diet - Therapeutic Diet
+Pain Score
+Dependent/Independent in feeding
+Tv Cannul
+LINES
+Infusion / Transfusions: 101+5D
+GCS/LOC
+Pain score
+DVT Prophylaxis:
+Vital Signs
+Respiratory Rate
+Heart Rate
+Blood Pressure
+Oxygen Saturation
+Temperature
+Seventh Spinal Traction
+
+Ventilation: None
+Bowel Movement/Flatulence: Normal
+Void/Foley: Normal
+Genital Discharge: Normal
+Skin Integrity/Score
+Fall Risk/Score
+Restrains
+ADL: None
+
+Critical Lab Values Ordered / Planned
+EEG: N/L
+
+Blood Count: S/C
+Reporting Pending
+
+Ward Cue
+Plan of Care
+Time of Inform
+Time of Visit
+Time of Inform
+Time of Visit
+Time of Inform
+Consultations
+Time of Visit
+
+DMO Orders
+DMO Sign
+
+Remarks:
+28/09/2023 16:00
+Date/Time Handing Over Given By:
+Name/ID: Lokesh 10636
+Taken Over By:
+Name / ID:
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 0 | ISSUE NO.: 1
+AHWC/IP/F/07
+
+============================================================
+PAGE_007
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+NURSE'S HAND OFF:
+ankura
+9M
+hospital
+COMMUNICATION (SBAR)
+nen & children
+28/6/26
+
+Patient Name: Vagdevi
+Age/Sex: 
+MR No./IP No.: LB26/3007
+UHID NO: 162608635
+DOA:
+IPD NO: LB26/3007
+Surgery/Procedure:
+
+Adm Date: 27-06-2026 09:03 PM
+
+Shift:
+NCCO
+Mng - Evening
+Epn-8Am
+
+Area
+NCCO
+
+Vital Signs:
+He.10G-SP02.100 R:112, SPO2:96% HR: 115
+
+Support:
+Ventilation: NIPPV
+Bowel movement/flatulence: Not passed
+Foley: Not passed
+Genital discharge: No
+Skin integrity/Score: Normal
+Fall risk/Score: 0
+
+Plan of Care:
+Diet - Therapeutic Diet 10ml and hourly
+Dependent in feeding
+
+IV Fluids: 10.10+05 10y.D.
+GCS/LOC: Normal, Consconscious
+Pain score: 0i-01-02.
+
+Critical Lab Values:
+Ordered / planned
+UvC-feeds
+EEG: NSG
+Bld cls: Blood calful Reporting pending
+
+Handing over given by:
+Name/ID: Soascels.12277 Shancy-2634
+
+Taken over by:
+Name / ID: Shandy
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 0 | ISSUE NO.: 1
+AHWC/IP/F/07
+
+============================================================
+PAGE_008
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+NURSE'S HAND OFF:
+ankura hospital for women and children
+9M
+296/26
+COMMUNICATION (SBAR)
+for women & children
+8/0
+
+Patient Name: B/O Vagdevi  
+Age/Sex: 4 M
+MR No./IP No.: LB26/3007
+DOA: 28th Jun
+
+Seizures
+Diagnosis:
+Surgery/Procedure:
+POD:
+
+Food/Drug Allergies:
+Past Health History:
+
+Area
+No.
+OVICU
+Shift
+Morning
+Evening
+Spn-EA♡
+ACND
+SITUIN S
+15 ml and q6h
+15 mg and by/
+15 mg q2d/y
+Diet - Therapeutic Diet
+Dependent/Independent in feeding
+Self-Ent
+
+81F CBO
+3/f TB0
+UVC
+UVC
+UVE
+LINES
+1v Commun
+i Cannula
+e Cannula
+Ev Cannula
+Infusion / Transfusions
+101D 10.4 q6h
+101D 10·H m11mr10-1dEm0081
+
+GCS/LOC
+ConsCrouS
+Conscioune
+Conscioes
+Pain score
+-01-
+— 01 -
+01
+DVT Prophylaxis
+
+VITALS
+HR: 128) 80 mmHg S:96 PR:116 SpO2:96 PEF:302207.
+
+SEENT
+From air
+Ventilation
+RIA
+RO
+
+Bowel movement/flatulence
+Void/Foley
+void
+Genital discharge
+X
+X
+c
+
+Skin integrity/Score
+Normal
+noor mal
+alormal
+Fall risk/Score
+Restrains
+
+ADL
+Critical lab values
+SRONS
+Ordered / planned
+NS4
+
+MRITHM
+Neurological opinion
+SECN
+Reporting pending
+
+Plan of care
+C8T
+Continw
+Warn Curr
+8aun
+
+Time of inform
+2016/6 8:04
+Time of visit
+2016/6 8:40
+Time of inform
+2016/6 9:08
+Time of visit
+2016/6 10:38
+
+Consultations
+Time of visit
+DMO Orders
+DMO sign
+
+Remarks:
+2916 12:06-20:06 2016/6 14:58 2016/6 15:08 2016/6 17:38
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 0 | ISSUE NO.: 1
+AHWC/IP/F/07
+
+============================================================
+PAGE_009
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+NURSE'S HAND OFF:
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+COMMUNICATION (SBAR)
+9M
+Hospital for women & children
+B/D: Vagdevi
+Age/Sex: Male, 4 days
+MR No./IP No.: 162608635
+
+Diagnosis:
+DOA: Not specified
+Surgery/Procedure: Not specified
+POD: Not specified
+
+Food/Drug Allergies: Not documented
+Past Health History: Not documented
+
+Area: Neonatal
+Allw: Allocated to NICU
+Neo: Neonatology
+
+Shift:
+Morning: EPM-54P
+Evening: SHaney -2634
+
+VITALS:
+Room Temp: 9M
+Robomar: A/C, UNITIN, ACUND, CY
+
+GCS/LOC: Conscious, Conscious
+Pain Score: 2
+DVT Prophylaxis: Not specified
+
+VITALS:
+HR: 128
+SPO2: 96%
+Bowel Movement/Flatulence: None
+Void/Foley: None
+Genital Discharge: None
+Skin Integrity/Score: Normal
+Fall Risk/Score: 20
+ADL: Dependent/Independent in feeding, 30ml/hrly, 8 spoon feed
+
+Infusion/Lines:
+UVC Lines: UVC, UVC, UvC
+Abx: 1.01 D-3.5 ml/hour, 10-5% solution
+
+Diet - Therapeutic Diet, Dependent/Independent in feeding, 30ml/hrly, 8 spoon feed
+
+Critical Lab Values: None
+
+Ordered/Planned:
+MRI Today
+MVR Today
+SECNS: Reporting pending
+
+Plan of Care:
+Continw con
+Continue
+
+Time of Information:
+Time of Visit:
+Consultations:
+Time of Visit:
+Time of Inform:
+Time of Visit:
+
+DMO Orders:
+DMO Sign: Not specified
+
+Remarks:
+3461268mm 1020m 2016/26 20m-8pm
+Date/Time: 25/08/2020, 17:00
+Handing Over Given By: Breotlglza6
+Name/ID: Shay - 2634
+
+Taken Over By:
+Name/ID: Shay - 2634
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 0 | ISSUE NO.: 1
+AHWC/IP/F/07
+
+============================================================
+PAGE_010
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+Progress Notes:
+
+Patient Name:
+MR No.: 2716126
+DATE & TIME: A J day old male baby delivered by spontaneous vaginal delivery (previous cesarean section in labor, shifted to mother’s side).
+Baby placed on CIAB at 2404 h/o.
+On DOLY, baby was leupipodal monitor with head cyanotic. Wheeze was noted.
+At 1058, baby was adjusted level hypothermic, but poor respiration noted, Ileus 8cm.
+Brought here for further management on 26th Aug 2015.
+
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_011
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D9M
+
+Progress Notes:
+Patient Name: 
+MR No.:
+Date & Time:
+
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+Adecurion
+Baby at birth for 1 week.
+Weight: 2.15 kg
+Temperature: 98.6°F
+SpO2: 97%
+GRBS: 
+Delt Activity: 
+Sleep Delayed +
+Baby consented to suctioning.
+Weight: 2.28 kg
+
+After steady growth, 
+O7 GIR SpO2 95%.
+180 cm.
+
+Supply TachyIn 
+Several episodes of VBG.
+Serum ACTH,
+Baby had
+pH: 7.373
+senee..
+PCO2: 37.13 mm Hg
+HCO3: 21.3
+
+GRBS:
+Twy, Pepticonten
+Lac: 2.15 g/dL
+Linir
+Beve
+45
+
+Jay^.wit=K
+Hugldok
+58/38
+
+BP
+COP: 2.4 mm Hg S.Ca: 86 mmol/L
+2:00 PM 
+75 bpm
+1025. 1107
+S.Cret: 0.4 mg/dL
+PCv: 49.8 mm Hg
+102
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_012
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA PROGRESS NOTES
+Hospital: Ankura Hospital for Women and Children
+
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+DATE & TIME: 29-Jun-2023
+
+NAME & SIGN
+
+Intake: NPO
+Output: 
+Foley: 304 ml
+
+Urine: 15 ml
+Stool: None
+
+NIBP: 145/85 mmHg
+Passed stool
+Temperature: 37.9°C
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_013
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+PROGRESS NOTES
+
+Date & Time: 28/6/26
+Name & Sign:
+
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+C/S: B
+Kasthikeya Sis
+9A·m
+Multiple episodes of sepsure on minimal Oxygen
+Baby GRBs: 105 mg/kg
+
+Activity: Better
+4F Flat
+
+Perfusion:
+Pulse: Wf
+Plan:
+1. TF 10ml and brly.
+NSG:
+Dehydration (+)
+LFNC O.1 litres/min
+eG
+HR – 127, SpO2 - 99
+Sos ventilation
+ENBS
+BP - 64/43 (so) mmHg
+Demipistol/Phenobambit
+U·0 — 1.8 ml/kg br
+Maintenance
+5
+Jmj- Optine x3 days
+TV - 150ml/kg/day
+GIR - 8
+
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_014
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+---
+
+**PROGRESS NOTES**
+
+**Patient Name:** B/O. Vagdevi  
+**MR No.:** 2810186  
+**DATE & TIME:** [Not provided]  
+**PAIN SCORE:** 0  
+**REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4:** None
+
+---
+
+**LABORATORY**
+
+**LFNC:**
+- C Reactive Protein (CRP): 0.1 mg/L
+- Complete Blood Count (CBC): Min (data not provided)
+
+---
+
+**PHYSICAL ASSESSMENT**
+
+**Vital Signs:**
+- Temperature: 36.5°C  
+- Heart Rate: 80 bpm
+
+---
+
+**TREATMENTS**
+
+- Inj. Levipil 1 mg IV idol
+- Prenobawuotcne D&L3 
+- Optineuron INY
+
+---
+
+**VENTRICULOTONY**
+
+- S5
+
+---
+
+**NURSING**
+
+- Greenar TO DO  
+- I 6 Hey
+
+---
+
+**EEG & ENBS**
+
+- Fentanyl 10 μg IV
+- Ankura Hospital for Women and Children  
+- REVISION NO.: 3 | ISSUE NO.: 4  
+- AHWC/IP/F/10
+
+============================================================
+PAGE_015
+============================================================
+
+Patient Name: B/O Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+PROGRESS NOTES
+
+Patient Name:
+MR No.:
+Date & Time:
+
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+20/6/2023 | 11:36 am
+
+Name & Sign
+
+Pain Score:  
+(required intervention if pain score is ≥ 4)
+
+Late SGA (Small for Gestational Age)  
+Seizure, Hypoglycemic episode since birth  
+Rape in labor (36 weeks)  
+Last seizure (20 mg/kg/dose) maintained on IV Lenifilast (5 mg by mouth/day), IV maintenance of Gardenal D3 Opti'neuron 10% D  
+T/F 10 ml Q2H  
+GIR 8 mg T5 → 105 → 93 → 50
+
+GRB8 (GR—6)  
+Cefotaxime calcium 8 mg/kg/day IV
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_016
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+PROGRESS NOTES
+
+Patient Name:
+MR No.:
+Date & Time:
+
+PAIN SCORE:  
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+Cerebral dysgenesis
+FEG
+Diarrhoea
+Activity
+No seizure
+Plan
+MRI
+
+Neurologist opinion
+
+PH, CRP - 2.4, 7.87
+CBC - 8.6
+PaO2 - 31.3
+HCO3 - 21.3
+Ketones - 0.4
+Lactate - 2.15
+Urea - 20
+Electrolytes - 142 /5.1 | 107
+TLC - 9,100
+Ammonia - 86
+Pit - 1.83
+TBIL - 15.5
+PCN - 49.8
+
+REVISION NO.: 3  
+ISSUE NO.: 4
+
+AHWC/IP/F/10
+
+============================================================
+PAGE_017
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D 9M
+
+ANKURA PROGRESS NOTES
+
+Name: Vagdevi
+UHIDNO: 162608635
+Patient Name:
+IPD NO: LB26/3007
+MR No.:
+Age: 4 D 9 M Gender: Male
+Consult: DR. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+Date: 27/6/26
+A 6 day Intake
+NIBP: 125/84
+Resp: 24 by mouth
+O2 Saturation: 96%
+Heart Rate: 110
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_018
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+Progress Notes:
+Patient Name: 
+MR No.:
+Date & Time:
+
+Pain Score: 
+
+Required Intervention if Pain Score is ≥ 4:
+Dr. Srinivas Murki
+DOC-Fdays/sezeres
+36wks
+typoglycemia,
+NBO RD,
+no improvement
+sensoricem
+nbo focal s
+shows
+AF level
+no dismefisum
+screenlegitive-
+No significant findings on admission
+
+Neurology opinion:
+MRI showed:
+15-20ml
+S/F+DBF.
+Tadim cnsT
+fluid cnsT
+optineeron
+Stop: levgas
+stop: oral glcium 82.5mT/D.
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+Revision No.: 3 | Issue No.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_019
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+PROGRESS NOTES
+
+NAME & SIGN:
+PAIN SCORE:
+
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+MRI Revealed Hypoglycemia, Jaundice on Admission.
+
+No Seizures.
+Admitted at 36 wks/g, 2.1 kg.
+
+Hemoglobin: 8 g/dL
+
+Plan:
+No specific interventions required at this time.
+Hospitalization for observation and management of jaundice and hypoglycemia.
+
+Rehabilitation Plan:
+Rhbobacbiton Cae.
+Atop
+Lelipie
+7
+Caleinou
+Oftireule n7
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_020
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+ANKURA PROGRESS NOTES
+Hospital
+
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+Date & Time: 29/6/26
+
+Fresh Orders:
+11 AM - 
+   - 15 ml 
+   - IVF 10% Dextrose in Ringer's solution
+   - KCl 3.5 ml/hr
+Stop Inj. Levipil
+Inj. Phenobarbitone for maintenance dose
+Inj. D21035 Optinevron
+Inj. Taxim till cultures
+
+Neurologist Opinion:
+MRI Brain: Calcimax plus
+
+Warmth Care:
+Monitor Vitals
+GRBS: 3 times monitoring every 6 hours
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_021
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+PROGRESS NOTES
+NAME & SIGN: Dr. Sreeram Subramanian
+DATE & TIME: 29-1-6 96
+
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+Sensorium improving
+Growth and Development (GED) - normal
+Head lag (+)
+Hypofonia, U/A mild
+
+C/S: Hypoglycemia/IUGR
+Plan:
+Tone assessment
+Blood betoes
+ENBS
+Hydration
+
+Inj. Taxim adlib
+Abmc soft feeds
+IVF 10% D G1R-8 Tolerating
+Critical sample if needed
+GRBS αs0 mgid/
+
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_022
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D 9M
+
+Ankura Hospital for Women and Children
+Progress Notes
+Name: B/O Vagdevi
+UHID NO: 162608635
+Patient Name:
+MR No.:
+IPDNO: LB26/3007
+Age : 4 D Gender : Male
+Consult : DR. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+
+Pain Score:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+Date: 30/06/2026
+Intake
+Output
+T. wt: 2.30 kg
+O. wt: 2.24 kg
+BP: 58/95 mmHg
+
+Gen Laxation: Stool passed 3 times
+Dyphagia
+Anus
+Ans: Time Passing
+
+Revision No.: 3 | Issue No.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_023
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+PROGRESS NOTES
+
+Patient Name:
+MR No.:
+Date & Time: 20/6/26 3:30 PM
+Name & Sign:
+
+Pain Score:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+S/B A. Keerilh
+(Pranemo)
+
+No acidosis
+O2 level
+CVP
+Normal
+
+Body habitus
+Excessive
+To send S. Dulcini
+for next
+S. Cortisol.
+Critical
+Blood relations
+Sample
+One
+Sugars
+Anemia (Plain)
+Bowel
+MRI
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_024
+============================================================
+
+Patient Name: B/O. Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 49 M
+
+---
+
+Ankura Hospital for Women and Children
+
+Progress Notes:
+
+Patient Name:
+MR No.:
+Date & Time:
+
+**Progress Notes**
+
+Name & Sign
+
+Pain Score:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+Date: 30/6/2026
+Delivered at 36 weeks  
+In labour
+
+Symptomatic Hypoglycemia, Neonatal Seizures
+
+Baby on Phenobarbitone maintenance (inj.)  
+Weight: 2.30 kg
+
+Plan:
+GIR-6  
+ENBs  
+CUE - Bactenia (+)  
+IVF given by spoon
+
+MRI: 760 mg/dl  
+Maintaining sugars
+
+---
+
+Revision No.: 3  
+Issue No.: 4
+
+AHWC/IP/F/10
+
+============================================================
+PAGE_025
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+PROGRESS NOTES
+
+Patient Name:
+MR No.:
+Date & Time:
+
+PROGRESS NOTES
+
+NAME & SIGN
+Pain Score:
+
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+SIB Br. Srinivas Murki
+Admit Date: T. 2.11 ng
+Late Poretiom/3
+Gestational Age: 36 weeks
+Singleton
+Hypoglycemia
+Seizures
+IVGR
+Improved
+Pulmonology w/k
+Head lag
+AF→i
+Gross Motor
+Scarf
+Midline Crossings
+Cereotoxia
+Shoulder Dystocia
+Pelvis
+Sacroiliac
+LL Tone 2
+Tapus Scoliosis
+Actively Focused
+MRI Brain: Good
+Sp02: Normal
+Intake & Output: ad lib
+Focal Deficits:
+Cerebellar Ataxia
+Parietal Veins
+No Hypoglycemia Lasted
+For 24 hours
+Phenobarbital Prescribed for 24 hours
+Abx 600 mg x 5 days
+
+Dr. Srinivas Murki
+M.D.(Ped), DNB., Div(Neonatology)
+Reg. No.: 50515
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_026
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+PROGRESS NOTES
+
+Patient Name:
+MR No.:
+Date & Time: 30/6/26
+Pain Score:
+
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+1) SIF ad lib 1ml Q6+1 and stop plenids, taper
+2) Phenobarbitone IV 30ml Q2H
+3) Inj. Phenobarbitone maintenance till MRI report
+4) Pyridoxine (Day 5)
+5) Inj. Jaxim Syp Calcimax plus
+6) Monitor Q6H GRBS
+7) MRI Brain
+8) Monitor vitals
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+Revision No.: 3 | Issue No.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_027
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+PROGRESS NOTES
+
+Patient Name:
+MR No.:
+Date & Time:
+
+Pain Score:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+No Deizuees
+No other
+No
+No Pseudo-glycemic
+No Epirodes
+Poor
+Hypotonia
+Pleun
+
+Vitals: Ftable
+Tcuim: Accepting
+Ooel: Feedu
+Stop
+Stop
+Feedowne
+
+Revision No.: 3 | Issue No.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_028
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+---
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+PROGRESS NOTES  
+DATE & TIME: 3/7/2026  
+NAME & SIGN: Deddy DoL  
+
+PAIN SCORE: -  
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)  
+
+Output:  
+T.wf: —2.26kg  
+2.30[]  
+ywt:  
+Dy! Tani'm 05  
+ABS:  
+4 tince passed  
+GRNS.: —  
+9p negde  
+
+REVISION NO.: 3 | ISSUE NO.: 4  
+AHWC/IP/F/10
+
+============================================================
+PAGE_029
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+PROGRESS NOTES
+DATE & TIME: 01/07/2026
+PAIN SCORE:
+
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+Late Preterm
+LSCS
+CIAB
+36 weeks
+Delivered in labour
+
+Vitals:
+RR - 96%
+SpO2 - 96%
+HR - 120/min
+BP - 72/80 mmHg
+
+No fever, hypoglycemia: 
+Blood sugar: 109 → 108 → 99 → 94 only; feeds stopped
+
+IV fluids started.
+Nutrition:
+Feedings: 30 ml q6h
+Current weight - 2.26 kg, feeding adequate
+Voracine stopped
+MRI not done (as of day 4)
+
+Blood C/S: Negative
+I/V fluids: Administered daily
+Taxim given
+
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_030
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+PROGRESS NOTES
+
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+NAME & SIGN: Dr. Koorik
+
+Patient Name: 
+MR No.: 
+DATE&TIME:
+
+B O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+Pain Score:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+
+Dr. Koorik
+
+48hs
+HR - 113/min, SpO2 - 94%
+DOtT - on
+MRI - off
+Feeo - good
+
+Syp. - good
+Dlan - implored
+SI - Nil
+L Shoceldor - 0 mL
+Uyp. - normal
+Galdanil - 8 mg
+Uypotonia a gp.
+Calimou ple
+BERA
+Neweeser +/v
+8hifo
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE_031
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D 9M
+
+ANKURA HOSPITAL FOR WOMEN & CHILDREN
+
+MEDICATION CHART
+
+Name : Vagdevi
+UHID NO: 162608635
+IPD NO: LB26/3007
+
+Age : 4 Days Gender : Male  
+Consult : Dr. Srinivas Murki
+
+Nard / Room No:
+Adm Date: 27-06-2026 09:03 PM
+Allergies & Adverse drug reactions: Yes
+Medications / Anesthesia Pre-Medications / SOS
+
+Name & Sign (Prescribed) Name & Sign (Administration)
+Given Check
+
+STAT Medications:
+Date & Time Prescribed by Dose Route Frequency
+
+2716 2096c2 IV F5 boli stat  Sr  
+2716 45 IV Levpil stat  
+
+8 2716 2016 Ju Phenobarbiton UJV stat 266 mg
+9 2716 286 Iay.vitk IugIv at
+
+SOS Medications:
+Date & Time Prescribed by Dose Route Frequency Name & Sign (Prescribed) Name & Sign (Administration)
+
+Given Check
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/11
+
+============================================================
+PAGE_032
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/11
+
+MEDICATION CHART
+IP NO: LB 26/3007
+Regular Medication
+Start Date: 25/16
+Date: 25/16
+Drug: INJ. TAXIM
+Time: 7/6 26 AM
+Given Dose: 105 mg
+Route: I·V
+Frequency: q8h
+
+Stop Date: 25/16
+Given Time: 25/16 PM
+Instructions if any: Rejec 'phn Lafo Rofe
+
+Prescribed by Dr. Sign
+
+Authenticated Dr.:
+Sign
+Sign
+Sign
+Sign
+Sign
+Regular Medication
+IP No: 2896 26
+Date: 28/6/26
+Start Date: 28/6/26
+Drug: JNJ·CAACIUM GLUCONATE
+Given Time: AM
+Dose: 4 ml x 12
+Route: PO
+Frequency: q6h
+
+Stop Date: 28/6/26
+Given Time: PM
+Instructions if any: 4.5 ml + 4.5 ml
+
+Prescribed by Dr. Sign
+Authenticated Dr.:
+Sign
+Sign
+Sign
+Sign
+Sign
+Regular Medication
+IP No: 2816/25
+Date: 29/6/26
+Start Date: 28/6/26
+Drug: INJ. PHENDBARBITONE
+Given Time: PM
+Dose: 5.5 mg
+Route: I·V
+Frequency: q12h
+
+Stop Date: 29/6/26
+Given Time: AM
+Instructions if any:
+
+Prescribed by Dr. Sign
+Authenticated Dr.:
+Sign
+Sign
+Sign
+Sign
+Sign
+Regular Medication
+IP No: 2816/25
+Date: 30/6/26
+Start Date: 29/6/26
+Drug: LE VI PI L
+Given Time: PM
+Dose: 25 mg
+Route: PO
+Frequency: qd
+
+Stop Date: 30/6/26
+Given Time: AM
+Instructions if any:
+
+Prescribed by Dr. Sign
+Authenticated Dr.:
+Sign
+Sign
+Sign
+Sign
+Sign
+
+============================================================
+PAGE_033
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/11
+
+MEDICATION CHART
+
+Regular Medication  
+IP No: 2896, 8016, 2916
+
+| Start Date   | Drug           | Date    | Time     | Dose      | Route | Frequency |
+|--------------|----------------|---------|----------|-----------|-------|-----------|
+| 28/16/06     | Pancuronium    | 5 Am    |          | 3 μg      | I.V.  | OD        |
+|              |                |         |          |           |       | 0         |
+| 29/06/16     | Calcimax Plus  | 6 Pm    | 80 μg    | Oral      | 1 tab | hourly    |
+| 30/06/16     | T-Benadon      | 4 Pm    | 1 tab   (80 mg) | Oral | daily   |
+|              |                |         |          |           |       |           |
+| 01/07/16     | Gardenal       | 12 Pm   | 1.5 ml  (20 mg/ml) | Oral | hourly |
+
+Instructions if any
+
+Prescribed by Dr.
+Authenticated Dr:
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/11
+
+============================================================
+PAGE_034
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSING CARE PLAN
+
+Patient Name: Ankura Hospital for Women & Children
+MR No.: 
+
+Evaluation:
+9819460:400
+
+Plan:
+1. Monitor patient’s vitals.
+2. Provide necessary care and support.
+
+Behavioral:
+Age/Sex: 4 Days Male
+Diagnosis:
+
+Hosp Adhe:
+04-94D
+
+Monitoring:
+00:19/04
+
+Nurse Sent:
+Jamn
+
+Patient Name:
+Ateme
+
+3X
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/05
+
+============================================================
+PAGE_035
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+NURSING CARE PLAN
+
+Patient Name: Srinivas Murki
+
+MR No.:
+Evaluation
+Focus of Care: Neonatal Jaundice (NNJ)
+Assessment Checklists on Admission:
+
+Comfort and Positioning
+Drovedentally Provided
+DOA: 210700019
+
+Planning
+Age/Examination Date: 
+Diagnosis: Neonatal Jaundice (NNJ)
+
+Level of Monitoring: Intermittent
+
+To Provide:
+Food: None
+
+Nursing Actions:
+Contraindicated
+Vitals:
+Temperature: 38.2°C
+Respiratory Rate: 40 breaths/min
+Heart Rate: 160 beats/min
+B/P: 70/90 mmHg
+
+Planning:
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/05
+
+============================================================
+PAGE_036
+============================================================
+
+Patient Name: B/O. Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 D9M  
+
+---
+
+**Ankura Hospital for Women & Children**
+
+**Nursing Care Plan**
+
+Patient Name:
+
+Signed:
+MR No.: 11278908
+
+**Evaluation**
+General Assessment
+Vitals checked
+Admitted on 
+Medications as ordered
+
+Fever of concern
+Respiratory distress
+
+DOA:  
+Papillon order
+Paediatrics ward
+PPROM order
+Poser order
+Cesarean section
+
+Age/DOB:
+Diagnosis:
+Gestational age
+Genocritical condition
+Sexual maturity
+Per Diagnosis orders
+Medications as ordered
+
+No orders for 24 hours
+
+**Planning**
+Parental involvement  
+Home care
+Hospitalization
+Positioning
+51.47
+
+Nurse Sensation
+Caring attitude
+0+0% oxygen
+Hydration and nutrition
+Patient assessment
+99018
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+Revision No.: 3 | Issue No.: 4
+AHWC/IP/F/05
+
+============================================================
+PAGE_037
+============================================================
+
+Patient Name: B/O. Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+NURSING CARE PLAN  
+MR No.:  
+Evaluation:  
+Signs:  
+Huddns:  
+09:41, 8th May 2023  
+
+Implementation:  
+As of:  
+Patient:  
+Weight: 980g (91%)  
+Age/Ex:  
+Diagnosis: Neonatal Jaundice (NNJ)  
+Respiratory Distress Syndrome (RDS)  
+294 cm Head Circumference (HC)  
+Liver Function Test (LFT), Renal Function Test (RFT)  
+Upper Respiratory Infection (URI)  
+
+Planning:  
+Aims and Objectives:  
+Implementation Plan:  
+Nursing Care:  
+Administered:  
+Time: 09:41, 8th May 2023  
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+REVISION NO.: 3 | ISSUE NO.: 4  
+AHWC/IP/F/05
+
+============================================================
+PAGE_038
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN & CHILDREN
+
+NURSING CARE PLAN
+
+Patient Name: 
+Sign: 
+
+MR No.: 102269
+
+Evaluation:
+Age: 4 D9M
+Gender: Male
+Diagnosis: Neonatal Jaundice (NNJ)
+Date of Admission (DOA): 31 Oct 2022
+
+Plan:
+
+Administer CPAP for respiratory support as per protocol.
+
+Nursing Interventions:
+- Monitor patient's vital signs regularly.
+- Provide adequate phototherapy to manage jaundice.
+- Ensure proper feeding and hydration.
+- Document all observations and interventions meticulously.
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/05
+
+============================================================
+PAGE_039
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSING CARE PLAN
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+Assessment:
+MR No.: 1145
+Signs & Symptoms:
+
+- Good General Condition
+- Comfortable
+
+Plan:
+Admit patient
+DOA: 25-12-2018
+
+GRBSG:
+- H = 8
+- S = 6
+- P = 90
+
+Planning:
+UTI
+URT
+
+Nursing Care Plan:
+- Administer medications as per doctor's order
+- Monitor patient continuously
+Date: 25/12/2019
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/05
+
+============================================================
+PAGE_040
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSING CARE PLAN
+
+Hospital: Ankura Hospital for Women and Children
+
+MR No.: 2059Vg
+
+Assumption 1: Newborn
+Assumption 2: Male
+Assumption 3: Age 4 Days
+
+Diagnosis:
+URI (Upper Respiratory Infection)
+
+DOA: 3 PM
+
+HID: 0162608635
+PD: 13007
+
+Comfort
+Fever, 104°F
+
+Planning:
+
+ Admission Date: 3 PM
+
+Comprehensive Care Plan
+
+Urinary Symptoms
+
+Oxygen Administration
+
+Monitoring of Vital Signs
+
+Head Circumference Measurement
+
+Complete Blood Count (CBC)
+C Reactive Protein (CRP)
+
+Liver Function Test (LFT)
+Renal Function Test (RFT)
+
+Revision No.: 3
+Issue No.: 4
+AHWC/IP/F/05
+
+============================================================
+PAGE_041
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSING CARE PLAN
+MR No.: U0114830
+
+Evaluation:
+Signs: 
+Age/ex: 
+Diagnosis: Neonatal Jaundice (NNJ)
+Evidence: 
+
+Plan Today:
+Monitor urination and respiration.
+Administer phototherapy as per doctor's advice.
+
+Comfortable position: Prone with a blanket over the chest for warmth. 
+DOA: 04/04/2023
+DOD: N/A
+
+Family involvement:
+Discuss care plan with parents to ensure understanding and participation.
+
+Planning:
+HID No.: 62608635
+Bonn-Vatn Body
+D.N. 1 3007
+Ine90 h.u.o. 3=2
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/05
+
+============================================================
+PAGE_042
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSING CARE PLAN
+
+Patient Name:
+Age: 4 D9M
+Gender: Male
+MR No.:
+
+Evaluation
+Signs & Symptoms:
+DOB: GohidDUO) 1022ur6
+Medication Given:
+Administration:
+DOA:
+Discharged On:
+Paediatrician:
+Age/Examination Date:
+
+Diagnosis: Neonatal Jaundice
+
+Planning
+Admission: 314.1
+C.O.N.T.R.U.L.: 1704.1
+Order No.: 62608635
+IPD No.: 3007
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/05
+
+============================================================
+PAGE_043
+============================================================
+
+Patient Name: B/O. Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+NURSING CARE PLAN  
+
+MR No.: 14802  
+DOA: 01/04/2016
+
+Diagnosis:
+Age: 30 weeks
+Gender: Male
+
+Planning:
+Nurse's Assessment:  
+On admission, the patient was found to have neonatal jaundice. Continuous positive airway pressure (CPAP) was initiated for respiratory distress syndrome (RDS).
+
+Plan:
+- Monitor the infant’s vital signs closely.
+- Administer phototherapy as prescribed.
+- Provide nutritional support and ensure proper feeding.
+- Conduct regular assessments of head circumference (HC).
+- Order complete blood count (CBC), liver function test (LFT), and renal function test (RFT) as needed.
+
+Revision No.: 3  
+Issue No.: 4
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+IP/F/05
+
+============================================================
+PAGE_044
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSING CARE PLAN
+
+Signatory:
+Date: 
+MR No.:
+
+Revision No.: 3 | Issue No.: 4
+AHWC/IP/F/05
+
+Planning
+Nurse:
+Patient:
+Date of Admission (DOA):
+Age/Sex:
+Diagnosis
+
+ANKURA NURSING CARE PLAN
+
+============================================================
+PAGE_045
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+NURSING CARE PLAN
+
+Department: NICU
+
+Patient Name: Ankura HN: 1978 Sign MR No.: u011483 Room No.:
+
+Assessment:
+Age/Date of Birth (DOB): 4 Days
+Diagnosis: Neonatal Jaundice (NNJ)
+
+Plan:
+Doctor's Advice Date of Admission (DOA): 06/06/2000
+
+Nursing Actions:
+- Monitor patient regularly.
+- Administer phototherapy as per protocol.
+
+Revision No.: 3 | Issue No.: 4
+
+AHWC/IP/F/05
+
+============================================================
+PAGE_046
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSES NOTES
+
+Hospital:
+Ankura Hospital for Women and Children
+
+MR No.: 162808635
+Patient Name: B/O Vagdevi (Male)
+Sex: Male
+Ward/Room No.:
+Name of the Nurse / Date / Time
+
+Nurses Notes:
+
+ID No. & Sign
+
+Assess the General Condition: 
+10:00 PM, 10:50 PM, 11:00 PM
+0.5°Hr.
+Cough, Bpysso (1 po), Hid 10 y. + 50 @ 13 F
+10:50 PM, 10:636 PM
+Urin passed, stool not passed
+
+12:47 AM, Ckp Blood Group v34, Lobe ds P. Cavum, Rbs 10636
+AmCve, RF-S, LFT, Seued tobab
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_047
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+NURSES NOTES
+Ankura Hospital for Women and Children
+UHID: 162608635
+Patient Name:
+MR No:
+
+Name of the Nurse / Date / Time:
+Nurses Note
+ID No. & Sign
+
+- Bolus 20 mg given.
+- Neostigmine given on demand.
+
+Vital Signs:
+HR = 124/act, SpO2 = 95%, Temp = 36.5°C
+
+- Phenol locked in locker.
+- Administered with gavage tube.
+
+Loje
+- Gavaged phenobarbital loading dose given.
+- Given neostigmine on demand.
+
+Vital Signs:
+HR = 124/act, SpO2 = 95%, Temp = 36.5°C
+
+- Placed on oxygen. 
+- Oxygen saturation (SpO2) 80%.
+
+Nurse's Note:
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_048
+============================================================
+
+Patient Name: B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSES NOTES
+Hospital : Ankura Hospital for Women and Children
+Patient Name:
+MR No:
+DOB/Age: 4 D9M
+Sex: Male
+Ward/Room No.: Not Available
+Name of the Nurse / Date / Time:
+Nurses Note
+ID No. & Sign: 12277
+
+Report 
+28/6/2026
+From Night Taken Handover Case
+Anasceys Anasuys Tom) Sisteu Rojo
+
+Condition of the Patient:
+
+General Asses:
+8.15am - Baby Anasuys was radiant and in good general condition with adequate activity.
+
+8.30am - Baby 12277 was still good and active. Vitals were passed well. Monitoring of baby continued.
+Line Fix at 9pm Anasceps 5no. Inserted
+10am - UVC for reducing uric acid, consistency for UUC Anascues
+
+Dooe X-Ray 12277 ordered by the doctor as per requirement.
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_049
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+NURSES NOTES
+Ankura Hospital for Women and Children
+Neonatology
+
+Patient Name:
+MR No:
+DOB/Age:
+Sex:
+Ward/Room No.:
+Name of the Nurse / Date / Time
+
+Nurses Notes
+ID No. & Sign
+- Administered 10ml IsomilkgIday
+5th Dextrose + Anasug
+10ml Dextrose u.r.ml +u.5ml 6th bily
+- Calcium
+17277
+Antibiotic, Toxiim
+Leviphil,
+I nj ÷
+Gardinal,
+due
+
+NSG
+Anasugs E6G done,
+for operation
+Neurology
+12277
+Plan mom
+10ml 2nd hourly
+- Started. Acfivity good
+No seizure
+given to baby hand over duty
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_050
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D 9M
+
+Ankura Hospital for Women and Children  
+Nurses Notes  
+Name : Vagdevi  
+UHIDNO: 162608635  
+IPD NO: LB26/3007  
+
+Patient Name:
+Age : 4 D Gender : Male
+MR No:
+
+Consult : Dr. Srinivas Murki  
+Adm Date : 27-06-2026 09:03 PM  
+DOB/Age :
+Ward/Room No. :
+
+JCA.
+Name of the nurse / Date / Time
+
+Nurses Note  
+ID No. & Sign  
+
+Evening Duty Report  
+Report on 28-06-2026
+Pro
+Sini Anasaya
+2:00 PM
+Hand Over taken from
+Aby
+by Shancy
+Baby under continuous cardiac and pulse oximetry monitoring
+
+Morning Vitals Checked and recorded:
+SpO2 : 96%
+Temp : 36.5°C
+HR : 128 bpm
+
+Pro
+Baby on nasal cannula for low O2
+4:00 PM
+FiO2 : 0%, D + 5p
+Volume (0.7 - 1.3 mL/kg/min) at 6 L/min
+Pro
+Doctor’s rounds done
+PM
+
+5:00 PM
+— Oxygen saturation maintained  
+— TPR chart maintained
+
+PM
+
+All due medication given as per doctors’ order:
+Inj Optineuron
+Inj Devipil 25 mg BD
+Inj Phenobarbitone 5.5 mg
+Inj Cal Glucona Q 6 H
+Inj Tadim BD  
+Continue & good baby active.
+
+Ephedrine 10 mL and hydralazine given
+
+Pro
+Duty
+3:00 PM
+Assy
+Hand over given to night duty by Shancy
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+REVISION NO.: 3 | ISSUE NO.: 4  
+AHWC/IP/F/04
+
+============================================================
+PAGE_051
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D
+
+ankura Hospital for Women and Children
+
+Nurses Notes
+Ward/Room No.: 
+Consult: Dr. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+
+Name of the nurse / ID No. & Sign:
+ID No.: 2896/26
+
+Nurses Note
+Night Shift
+Condition at 10:00 PM
+Baby: Born 4 days ago with 02 Support
+Tf: 37°C, HR: 150/min.
+-> Baby is sound
+-> Vomit passed
+
+At 11:00 PM:
+Given as per medication line:
+- Phenobarbitone
+- Leveton BD
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_052
+============================================================
+
+Patient Name : B/O. Vagdevi  
+UHID : 162608635  
+IPD : LB26/3007  
+Gender : Male  
+Age : 4 days
+
+NURSES' NOTES  
+Ankura Hospital for Women and Children  
+
+**Patient Information:**  
+Name: Vagdevi  
+DOB/Age: Not Clearly Mentioned  
+UHID NO.: 162608635  
+Ward/Room No.: Not Clearly Mentioned  
+IPD NO.: LB26/3007  
+Age : 4 days, Gender : Male  
+
+**Nurse on Duty:** [ID No. & Sign]  
+Adm Date : 27-06-2026 09:03 PM
+
+**Vital Signs:**
+- AR: 12/8 ppg 85 bpm 
+- SpO2: 95% 
+- HR: 109 bpm 
+- Resp: 24 breaths/min 
+
+**Observations:**
+- Baby is crying and feeding well.
+- No seizures noted.
+
+**Revisions:**  
+Revision No.: 3 | Issue No.: 4  
+
+AHWC/IP/F/04
+
+============================================================
+PAGE_053
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D 9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSES' NOTES
+
+Name : Vagdevi
+UHID NO: 162608635
+IPD NO: LB26/3007
+Consult : Dr. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+DOB/Age:
+Ward/Room No.:
+Name of the Nurse / Date / Time
+
+Morning Duty Report on 29/10/2026
+Shancy
+
+8:00 - Hand over from Shency 3134
+Roja by Shancy
+
+9:00 - Baby under warmer connected
+Monitoring and recorded:
+SpO2: 96%
+Temp: 36.5°C
+HR: 128 bpm
+
+Baby in room ad
+Shancy
+
+10:00 - Taking 15 ml syr and bottle.
+Baby feed accepting well
+10.5 ml from low flow
+
+12:00 - Baby passed urine & stool
+Fresh
+
+2:00 - Hand over by Shancy
+
+Doctor's Rounds done by Dr. Srinivas Murki at 1:00 PM
+Medication given as per doctor's order:
+- Inj. Optineuron in' Jatem
+- Okal Calumax Plus in' Pheno Bambuone
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_054
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D 9M
+
+ankura
+NURSES NOTES
+hospital
+loc women and children
+Name : Vagdevi
+UHID NO:162608635
+Patient Name:
+MR No:
+IPD NO: LB26/3007
+Age : 4 D Gender : Male
+DOB/Age:
+Ward/Room No.:
+Consult : DR. Srinivas Murki
+Adm Date : 27-06-2026 09:03 PM
+
+Name of the nurse /
+Date / Time
+Nurses Note
+ID No. & Sign
+Evening) Duty Report
+Sure
+
+Case hand over taken from Sr Shary
+spontaneously by Bunitha
+Condition at the time:
+→ Assessed the general condition and monitored under warmar. Baby kept on 000m au.
+Suc, Releved, Chered.
+
+3pm = Baby's vital signs: 
+Temp - 101.5 - SpO2 96 RR-CU6
+HR-76 - Cap 36.5
+The temp was recorded as 81.0° C.
+
+→ Managed.
+- Baby passed urine and stool.  
+Nursed by Suresh Sr.
+
+Newspologist opinion done by Dr. Teerthi Kandhari 
+Bill paid for MRI
+
+Test due: Plan
+Syrup Calcumax P - 3.5·pheno
+
+Continued.
+6 ph
+2w
+Barbitone -
+Evening rounds done
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_055
+============================================================
+
+Patient Name: B/O. Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 Days
+
+ANKURA NURSES' NOTES  
+Hospital: Ankura Hospital for Women and Children  
+
+Name: Vagdevi  
+UHIDNO: 162608635  
+Patient Name (IPD NO): LB26/3007  
+MR No:  
+Age: 4 Days, Gender: Male  
+DOB/Age: Consulted by Dr. Srinivas Murki  
+Ward/Room No:  
+Adm Date: 27-06-2026 09:03 PM  
+
+Nurses' Notes  
+ID No. & Sign
+
+Observations:
+No complaints on examination.
+General condition stable.
+
+Revisions:  
+Revision NO.: 3 | Issue NO.: 4  
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+AHWC/IP/F/04
+
+============================================================
+PAGE_056
+============================================================
+
+Patient Name: B/O. Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 days
+
+---
+
+Ankura Hospital for Women and Children
+
+Nurses Notes
+
+Hospital: Ankura  
+Speciality: Women and Children
+
+Name: Vagdevi
+Patient Name: UHID NO: 162608635
+MR No:
+IPD NO: LB26/3007
+DOB/Age: Age : 4 days Gender: Male
+Ward/Room No.:
+Consult: Dr. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+
+Nurses Note ID No. & Sign  
+Date: 25-06-2026
+
+Neonatal Report - Day 4
+
+Baby is stable.
+
+Vital Signs:
+HR: 123/min
+SpO2: 98%
+Temp: 36.8°C
+
+I/V: On nasogastric tube.
+
+Babu
+Tani'm BD  
+Gannidal  
+Lactulose  
+Furosemide
+
+Room air.
+
+Optine Ron O.D.
+
+Revision No.: 3  
+Issue No.: 4
+
+---
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+AHWC/IP/F/04
+
+============================================================
+PAGE_057
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+NURSES NOTES
+Hospital: Ankura Hospital for Women and Children
+Name: Vagdevi
+UHIDNO: 162608635
+Patient Name:
+MR No:
+IPD NO: LB26/3007
+Age: 4 Days Gender: Male
+DOB/Age:
+Consult: Dr. Srinivas Murki
+Ward/Room No.:
+Adm Date: 27-06-2026 09:03 PM
+
+Name of the nurse / Date / Time
+
+Nurses Note
+ID No. & Sign
+
+Calcimasp
+->onl  
+devipee
+> Stp
+344
+opinin doe
+—Nevrole16
+10636
+Brain
+> plau. muk!
+4AS 
+-7 Gens 615 ly.
+Life
+Cce
+→warm
+16636
+-Y Iv camnul preset God
+5AP
+10.51 ly
+- Ir Heid 10y.@
+(6636
+Batleng
+goveue
+609
+reerdudh
+wf.clukeds
+Ldje
+&M
+636
+Saff
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_058
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+Ankura Hospital for Women and Children
+Nurses Notes
+Name: Vagdevi
+Patient Name/UHID NO: 162608635
+MR No:
+IPD NO: LB26/3007
+Age: 4 D Gender: Male
+DOB/Age:
+Ward/Room No.:
+Consult: Dr. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+
+Nurses Note ID No. & Sign
+Morning & Evening Report
+Sure
+3016126
+Case Handover from Roja to Bunitha
+8 AM
+Condition of the Baby:
+→ Assessed general condition, monitored under warm incubator.
+Baby kept on Eucapnic headspace.
+At 9 AM: 
+→ Baby is on 80% oxygen.
+Recurring conditions noted: Cheered, baby's vitals recorded.
+JIR-1 (SpO2 - 96) RR-CU6
+Temp - 36.5
+Chort - 81 cm.
+→ Baby passed urine and stool.
+Morning rounds done.
+
+Prescription:
+Pyradlaxine – 80 mg
+Today: Tab Gime, bill paid for MRI contrast
+
+Medications:
+Syrup Calcumax P - Cj·Pheno
+Continued.
+
+Evening & Night Report by Swetha
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_059
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSE'S NOTES
+
+Name : Vagdevi
+UHID NO: 162608635
+IPD NO: LB26/3007
+Patient Name:
+Age : 4 Days Gender : Male
+MR No:
+Consult : Dr. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+DOB/Age:
+Ward/Room No.:
+Name of the nurse /
+Date / Time
+
+Nurses Note
+ID No. & Sign
+Morning Duty Report on 30-06-2026
+Shancy
+8:00 AM
+Hand Over taken from Sin Sunitha by a634
+Shancy
+Cardiac Baby under warmer connected
+Shancy
+Monitor Baby monitored
+
+9:00 AM
+Extant checked recorded
+Sp02 96.7%
+Temp: 36.5°C
+HR: 128 bpm
+Baby in room
+
+10:00 AM
+Baby feed accepting well
+(UF to 5% D- 3.5 ml/kg on colostrum)
+
+11:00 AM
+Doctors rounds done
+Medication given as per doccons
+Order:
+Tab. Pyridoxine 80 mg OD, stat given q.d.
+Inj. Jatem
+Inj. Okal Calcumar plus
+Pheno
+
+12:00 PM
+Baby passed stool
+MR I done.
+
+PM Duty
+Shaney
+2:00 PM
+Hand Over
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_060
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+---
+
+**Nurses' Notes**
+Hospital: Ankura Hospital for Women and Children
+
+**Name:** Vagdevi
+**UHID NO.:** 162608635
+**IPD NO.:** LB26/3007
+**Patient Name:** Baby of Vagdevi
+**Age:** 4 Days Gender: Male
+**MR No.:** 
+**Consult:** Dr. Srinivas Murki
+**Adm Date:** 27-06-2026 09:03 PM
+**DOB/Age:** 
+**Ward/Room No.:** 
+**Name of the Nurse / Date / Time**
+
+**Nurses' Notes**
+**Morning Duty Report on 30/06/2026**
+Shancy
+
+- Baby under warmer, connected monitor.
+- 2:00 PM - SpO2: 96%, Temp: 36.5°C, HR: 128 bpm
+- Baby in room.
+
+**PM Duty Report on 30/06/2026**
+Shancy
+
+- Baby taking 30 ml of milk and bottle.
+- 4:00 PM - Baby feed accepting well, TuF to %.D - 3.5 ml on low flow.
+- Doctors' rounds done.
+
+**6:00 PM**
+Shancy
+
+- Medication given as per doctor's order:
+  - Tab. Pyridoxine 80 mg OD stat
+  - Inj. Oxytocin 10 units subcutaneous
+  - Inj. Phenoobarb 250 mg intramuscular
+  - Inj. Calcimax Plus
+
+- Baby passed urine and stool.
+
+**7:00 PM**
+Shancy
+
+- MRI done.
+- Handover to Sus on 8:00 PM
+
+---
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+REVISION NO.: 3 | ISSUE NO.: 4  
+AHWC/IP/F/04
+
+============================================================
+PAGE_061
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+NURSES' NOTES
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+Name : Vagdevi
+UHID NO: 162608635
+Patient Name:
+MR No:
+IPD NO: LB26/3007
+Age : 4 Days Gender : Male
+DOB/Age:
+Consult : Dr. Srinivas Murki Room No.:
+Adm Date: 27-06-2026 09:03 PM
+
+Name of the nurse /
+Date / Time
+Nurses Note
+ID No. & Sign
+
+Weight/Dy Repost
+3.06 kg
+
+General Condition
+ Awake and Active
+
+Urinary Output
+ 1063 ml
+
+Covm a.i.
+Passed BNlop (son) stool, vomited once
+
+Doctor's Orders
+2A1
+As per
+Coricup Sup
+Loge Con dive
+
+Dosage: 
+7 Days phenobarbital 15 mg/kg
+615 mg/Day
+
+Monetiny
+G kns mr? dhe
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 |ISSUE NO.: 4
+AHWC/IP/F/04
+
+============================================================
+PAGE_062
+============================================================
+
+Patient Name: B/O. Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 Days
+
+---
+
+**Ankura Hospital for Women and Children**
+
+**NURSES' NOTES**
+
+Name: Vagdevi
+
+Patient Name:
+UHID NO.: 162608635
+MR No.:
+IPD NO.: LB26/3007  
+DOB/Age:
+
+Adm Date: 27-06-2026 09:03 PM  
+Consult: Dr. Srinivas Murki
+
+---
+
+**Nurses' Note**
+
+ID No. & Sign
+
+HR: 142/min  
+SpO2: 95%  
+Temp: 36.2°C  
+BP: 74/86 mmHg  
+RR: 20 breaths/min  
+
+**Notes:**
+- Warm
+- Vomited twice
+- Battles for feeds
+- Clubbed fingers
+
+---
+
+Room No.:  
+Overnight Nurse: Verde  
+Shift Start: 8 AM  
+Shift End: 4 PM  
+
+---
+
+**REVISION NO.: 3 | ISSUE NO.: 4**
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+AHWC/IP/F/04
+
+============================================================
+PAGE_063
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospital for Women and Children  
+Nurses Notes
+Name : Vagdevi  
+Patient UHID NO : 162608635  
+MR No:  
+IPD NO: LB26/3007  
+DOB/Age:  
+Age : 4 Days Gender : Male  
+Ward/Room No.:  
+Consult : Dr. Srinivas Murki  
+Adm Date: 27-06-2026 09:03 PM
+
+Nurses Note
+ID No. & Sign
+Case handover taken from Sr Roja at 8 AM to 10:2 PM by Bunitha.
+
+Temperature : 36.5, Heart Rate : 146, SpO2 : 96, Respiratory Rate : 60.
+Dr. Karthick Br round's done at 12 PM
+
+Acetaminophen given orally 30 ml end bottle.
+Spooned feed given.
+
+Continued and started on Cardinal Syrup.
+No new complaints.
+
+Case handover given to morning duty by Sh.
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4  
+AHWC/IP/F/04
+
+============================================================
+PAGE_064
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+Ankura Hospital for Women and Children
+
+INTAKE & OUTPUT CHART
+by Ankura Hospital for Women & Children
+
+Name: Vagdevi  
+Patient UHID No.: 162608635  
+Gender / Age: MR. No.: IPD NO: LB26/3007 DOA: Term / Preterm: AGA: wks days Admit Wt.: Yest. Wt.: 
+
+Adm Date: 27-06-2026 09:03 PM
+
+Past 24 hrs.
+Output:
+Urine: ml/hr
+Stool: Other:
+
+INTAKE
+OUTPUT
+IV
+IV/ORAL
+ORAL
+N.G. Asp/
+Others
+Urine
+Stool
+Type of
+Hrly
+Feeds
+Total
+VOMIT (medication
+Fluid
+Total
+/Blood)
+IVF 10% Oxymetazoline HCl Nasal Drops
+
+8 am: 15.7 ml  
+9 am: 15.3 ml  
+10 am: 2 pm: 15.1701 ml  
+11 am: 13.7 ml 120 ml
+12 pm: 15.7 ml  
+1 pm: 13.17 am 10 ml  
+2 pm: 10.17 am 4 pm: 15 ml  
+5 pm: 10 ml  
+6 pm: 10 ml  
+7 pm: 70 ml  
+8 pm: 10 ml  
+9 pm: 10 ml  
+10 pm: 10 ml  
+11 pm: 10 ml  
+12 am: 10 ml  
+
+1 am: 10 ml  
+T/C: 10 ml
+
+TOTAL AWC/IP/F/09
+
+============================================================
+PAGE_065
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+INTAKE & OUTPUT CHART
+
+by ANKURA HOSPITAL FOR WOMEN & CHILDREN
+BRTH 6 HOURS LATER
+Vagdevi
+162608635
+
+Patient Name:
+Gender / Age: Male / 4 Days
+MR. No.: 20/6
+DOA: Term
+GA: 39 Weeks
+
+Past 24 hrs. Intake (ml/kg/day):
+Urine (ml/hr):
+Stool (g):
+
+Admit Wt.:
+Yest. Wt.:
+
+OG/NG Aspiration:
+Total Volume:
+
+Other:
+
+H.C:
+I.V.
+(ml/hr):
+Other:
+
+INTAKE
+OUTPUT
+IV
+IV/ORAL
+ORAL
+N.G. Asp/
+Others
+Urine
+Stool
+Type of
+Hrly
+Feeds
+Total
+VOMIT
+(Fluid/ Blood)
+8 am
+9 am
+No
+
+loasadtoulues
+10 am
+11 am
+12 pm
+9P0
+1 pm
+304
+2 pm
+So0
+0
+3 pm
+4 pm
+5 pm
+6 pm
+7 pm
+8 pm
+9 pm
+10 pm
+41
+11 pm
+7f
+12 am
+71
+1 am
+2 am
+13.7y
+3 am
+4 am
+13.49
+5 am
+13.+ 
+6 am
+13.71
+7 am
+13.70
+
+TOTAL:
+
+AWC/IP/F/09
+
+============================================================
+PAGE_066
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D
+
+Ankura Hospital for Women and Children
+
+INTAKE & OUTPUT CHART
+by Ankura Hospital for Women & Children
+BHIP Beyond
+29106126
+Name: Vagdevi
+Patient Name:
+UHID NO: 162608635
+Gender / Age:
+MR. No.:
+IPDNO: LB26/3007
+DOA:
+Term / Preterm:
+AGA:
+wks
+days
+Admit Wt.: 
+Yest. Wt.: 
+Consult: Dr. Srinivas Murki
+Past 24 hrs. Intake
+Past 24 hrs. Output:
+
+Adm Date: 27-06-2026 09:03 PM
+Total Volume:
+ml/kg/day
+
+Urine:
+Stool:
+
+Type of Feeds Hrly Vomits (medication Fluid Total)
+8 am 10.5 
+9 am S1f- EBm 10.5 
+10 am 10.5 
+11 am 10.5 
+12 pm 10.5 
+1 pm 10.5 
+2 pm 10.5 
+3 pm 10.5 
+4 pm 10.5 
+5 pm 10-5m 
+6 pm 10.5 
+7 pm 105m S/F morgoml 
+8 pm 10-5m S/F-
+9 pm 20p 10.5 
+10 pm 10.5 
+11 pm 10.5 
+12 am 10.5 
+1 am mom 105 
+2 am 10.5 
+3 am 25 10.5 
+4 am 10.5 
+
+9/c
+5 am mom 10-5 
+6 am 10.5 
+7 am 10.5 
+
+251
+TOTAL
+n mom
+
+Note: The admit and yesterday's weight are missing in the provided document.
+
+============================================================
+PAGE_067
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D 9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+INTAKE & OUTPUT CHART
+by ANKURA HOSPITAL FOR WOMEN & CHILDREN
+
+Name : Vagdevi
+Patient Name UHID NO: 162608635
+Gender / Age:
+MR. No.:
+IPDNO: LB26/3007
+DOA:
+Term / Preterm:
+GA:
+wks
+days
+Age : 4 D Gender : Male
+Consult : DR. Srinivas Murki
+
+Past 24 hrs.
+Output:
+Adm Date : 27-06-2026 09:03 PM
+Total Volume (ml/kg/day):
+Urine (ml/hr)
+Admit Wt. (kg)
+Yest. Wt. (kg)
+OG/NG Aspiration :
+H.C:
+
+INTAKE
+OUTPUT
+IV
+IV/ORAL
+ORAL
+N.G. Asp/
+Others
+Urine
+Stool
+Type of
+Hrly
+Feeds
+Total
+VOMIT
+(medication
+Fluid
+Total
+/Blood)
+8 am: 20 ml
+9 am: 30 ml
+10 am: 40 ml
+11 am: 50 ml
+12 pm: 60 ml
+1 pm: 70 ml
+2 pm: 80 ml
+3 pm: 90 ml
+4 pm: 100 ml
+5 pm: 110 ml
+6 pm: 120 ml
+7 pm: 130 ml
+8 pm: 140 ml
+9 pm: 150 ml
+10 pm: 160 ml
+11 pm: 170 ml
+
+INTAKE
+OUTPUT
+IV
+IV/ORAL
+ORAL
+N.G. Asp/
+Others
+Urine
+Stool
+Type of
+Hrly
+Feeds
+Total
+VOMIT
+(medication
+Fluid
+Total
+/Blood)
+8D9
+TOTAL: 3016126
+
+============================================================
+PAGE_068
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D 9M
+
+Ankura Hospital for Women and Children
+INTAKE & OUTPUT CHART
+by Ankura Hospital for Women and Children
+Bntp Beyond
+Name : Vagdevi
+UHID NO:162608635
+Patient Name:
+IPDNO:LB26/3007
+Gender / Age:
+
+Adm Date : 27-06-2026 09:03 PM
+
+DOA: 27-06-2026
+Consult : Dr. Srinivas Murki
+Term / Preterm:
+GA:
+wks
+days
+
+Admit Wt.: Not recorded
+Yest. Wt.: Not recorded
+H.C: Not measured
+OG/NG Aspiration: Not documented
+Stool: Not recorded
+Total Wt.: Not recorded
+
+INTAKE
+OUTPUT
+
+IV
+IV/ORAL
+ORAL
+N.G. Asp/
+Others
+Urine
+Stool
+Type of
+Feeds
+Total
+
+8 am 9 am 10 am 11 am 12 pm 1 pm 2 pm 3 pm 4 pm 5 pm 6 pm 7 pm 8 pm 9 pm 10 pm 11 pm 12 am 1 am 2 am 3 am 4 am 5 am 6 am 7 am
+
+VOMIT
+(medication
+Fluid
+Total
+/Blood)
+
+Foomus
+Spoonst 30ml
+Formale SF 30ml
+
+TOTAL
+AWC/IP/F/09
+
+============================================================
+PAGE_069
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+ANKURA Hospital for Women and Children
+
+LAB INVESTIGATION CHART
+UHID: 162608635
+Patient Name:
+MR. No.: 276
+Gender: Male
+DOB/Age: 
+Ward/Room No.: Blood Group: Rh Type: HIV: HBsAg: HCV:
+
+Date: 
+
+1. Hematology
+HB%: 15.6
+PCV/HCT: 49.8
+WBC: 9,100
+DC-NEUT: 
+DC-LYMPH: 
+Platelet count: 158,000
+Peripheral Smear:
+Reticulocyte count: 
+Band Count:
+
+2. CRP: 
+
+3. Electrolytes
+Na+: 142
+K+: 5.1
+Cl+: 107
+Ca2+: 5.0
+PO4: 
+Mg2+:
+HCO3-: 
+Anion gap: 
+
+4. Renal Function Tests
+Urea: 20
+BUN: 
+Creatinine: 0.4
+Calculated GFR: 
+FENa: 
+
+5. Liver Function Tests
+Total Bilirubin: 13.5
+Direct Bilirubin: 1.5
+Indirect Bilirubin: 
+AST: 31
+ALT: 214
+ALP:
+GGT:
+Total Protein: 5.2
+Albumin: 3.4
+PT/INR:
+
+============================================================
+PAGE_070
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+Ankura Hospital for Women and Children
+VITALS MONITORING CHART
+
+MR No.: 
+Current Weight:
+Name: Vagdevi
+Patient UHID NO: 162608635
+Current Height:
+IPD NO: LB26/3007
+Age: Age: 4 Days Gender: Male
+Blood Group & Rh Type:
+Adm Date: 27-06-2026 09:03 PM
+
+| Time | 22/6/26 | 
+|------|--------|
+| Hours | po po po po A po po po po |
+| Minutes | 40 40 40 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 |
+| Temperature | 42.0 41.5 41.0 40.5 40.0 39.5 39.0 38.5 38.0 37.5 37.0 36.5 36.0 35.5 35.0 34.5 34.0 33.5 33.0 32.5 32.0 31.5 31.0 30.5 30.0 |
+| Heart Rate | 105.8 104.0 102.0 100.4 98.6 97.0 95.0 93.0 91.0 89.0 87.0 85.0 83.0 81.0 79.0 77.0 75.0 73.0 71.0 69.0 67.0 65.0 63.0 61.0 |
+| Respiratory Rate | 42.0 40.5 39.0 37.5 36.0 34.5 33.0 31.5 30.0 28.5 27.0 25.5 24.0 22.5 21.0 19.5 18.0 16.5 15.0 13.5 12.0 10.5 9.0 7.5 |
+| SPO2 | 100.4 98.6 97.0 95.0 93.0 91.0 89.0 87.0 85.0 83.0 81.0 79.0 77.0 75.0 73.0 71.0 69.0 67.0 65.0 63.0 61.0 59.0 57.0 55.0 |
+| Blood Pressure | 140/92 138/90 136/88 134/86 132/84 130/82 128/80 126/78 124/76 122/74 120/72 118/70 116/68 114/66 112/64 110/62 108/60 106/58 104/56 102/54 100/52 98/50 96/48 94/46 |
+| Urine Output | - 2-132/0+25/+125wn13210s - |
+
+Consult: Dr. Srinivas Murki
+Revision No.: 3
+Issue No.: 4
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+AHWC/IP/F/08
+
+============================================================
+PAGE_071
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+VITALS MONITORING CHART
+MR No.: 
+Current Weight:
+Name: Vagdevi
+Patient UHID NO: 162608635
+Current Height:
+IPD NO: LB26/3007
+Age:
+Blood Group & Rh Type:
+Sex: Male
+Consult: Dr. Srinivas Murki
+Date: 28-06-2026
+Adm Date: 27-06-2026 09:03 PM
+
+Hours: 
+8 9 10 11 12 1 2 3 4 5 6 7 8 9 10 11 12 1
+Minutes: 
+a.m. a.m. p.m. p.m. 
+
+Temperature:
+104.4 104.0 103.6 103.2 102.8 102.4 102.0 101.6 101.2 100.8 100.4
+
+Heart Rate:
+120 120 115 110 105 100 95 90 85 80 75 70 65 60 55 50 45 40 35 30
+
+Oxygen Saturation:
+100.0 99.0 98.0 97.0 96.0 95.0 94.0 93.0 92.0 91.0 90.0 89.0 88.0 87.0 86.0 85.0 84.0 83.0 82.0 81.0
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+Revision No.: 3 | Issue No.: 4
+AHWC/IP/F/08
+
+============================================================
+PAGE_072
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+VITALS MONITORING CHART
+Name: Vagdevi
+MR No.:
+Current Weight:
+UHID NO: 162608635
+Patient Name: B/O Vagdevi
+IPD NO: LB26/3007
+Current Height:
+Age: 4 Days Gender: Male
+
+Adm Date: 27-06-2026 09:03 PM
+
+| Time | Day | Hours | Minutes |
+|------|-----|-------|---------|
+| Am   | 8   | 9     | 10      | 11     | 12    | 1 PM | 12 AM | 1 AM | 2 AM | 3 AM | 4 AM | 5 AM | 6 AM |
+| 7 AM | 8   | 9     | 10      | 11     | 12    | 1 PM | 12 AM | 1 AM | 2 AM | 3 AM | 4 AM | 5 AM | 6 AM |
+| 8 AM | 8   | 9     | 10      | 11     | 12    | 1 PM | 12 AM | 1 AM | 2 AM | 3 AM | 4 AM | 5 AM | 6 AM |
+| 9 AM | 8   | 9     | 10      | 11     | 12    | 1 PM | 12 AM | 1 AM | 2 AM | 3 AM | 4 AM | 5 AM | 6 AM |
+| 10 AM| 8   | 9     | 10      | 11     | 12    | 1 PM | 12 AM | 1 AM | 2 AM | 3 AM | 4 AM | 5 AM | 6 AM |
+| 11 AM| 8   | 9     | 10      | 11     | 12    | 1 PM | 12 AM | 1 AM | 2 AM | 3 AM | 4 AM | 5 AM | 6 AM |
+| Noon | 8   | 9     | 10      | 11     | 12    | 1 PM | 12 AM | 1 AM | 2 AM | 3 AM | 4 AM | 5 AM | 6 AM |
+| 1 PM | 8   | 9     | 10      | 11     | 12    | 1 PM | 12 AM | 1 AM | 2 AM | 3 AM | 4 AM | 5 AM | 6 AM |
+
+| Temp (°C) | 42.0 | 41.5 | 41.0 | 40.5 | 40.0 | 39.5 | 39.0 | 38.5 | 38.0 | 37.5 | 37.0 | 36.5 | 36.0 | 35.5 | 35.0 | 34.5 | 34.0 |
+|-----------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| BP (mmHg)  | 120  | 115  | 110  | 105  | 100  | 95   | 90   | 85   | 80   | 75   | 70   | 65   | 60   | 55   | 50   | 45   | 40   |
+| HR (bpm)   | 160  | 159  | 158  | 157  | 156  | 155  | 154  | 153  | 152  | 151  | 150  | 149  | 148  | 147  | 146  | 145  | 144  |
+| Resp (breaths/min) | 30  | 29   | 28   | 27   | 26   | 25   | 24   | 23   | 22   | 21   | 20   | 19   | 18   | 17   | 16   | 15   | 14   |
+
+Consult: Dr. Srinivas Murki
+Sex: Male
+
+Revision No.: 3
+Issue No.: 4
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+AHWC/IP/F/08
+
+============================================================
+PAGE_073
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 days
+
+VITALS MONITORING CHART  
+Ankura Hospital for Women and Children
+
+MR No.: 
+Name: Vagdevi
+Current Weight:
+UHID NO: 162608635
+Patient IPD NO: LB26/3007
+Age: Age: 4 days Gender: Male
+Blood Group & Rh Type: 
+Consult: Dr. Srinivas Murki
+
+Adm Date: 27-06-2026 09:03 PM
+
+| Time | Temperature (°C) | Heart Rate (bmp) | Respiratory Rate (bpm) |
+|------|-----------------|-----------------|-----------------------|
+| 8:00 | 38.6            | 104              | 32                    |
+| 9:00 | 38.5            | 104              | 31                    |
+| 10:00| 38.4            | 102              | 30                    |
+| 11:00| 38.2            | 98               | 27                    |
+| 12:00| 38.0            | 96               | 25                    |
+| 13:00| 37.8            | 94               | 24                    |
+| 14:00| 37.6            | 92               | 23                    |
+| 15:00| 37.5            | 90               | 22                    |
+| 16:00| 37.4            | 88               | 21                    |
+| 17:00| 37.2            | 86               | 20                    |
+| 18:00| 37.0            | 84               | 19                    |
+| 19:00| 36.8            | 82               | 18                    |
+| 20:00| 36.6            | 80               | 17                    |
+| 21:00| 36.4            | 78               | 16                    |
+| 22:00| 36.2            | 76               | 15                    |
+
+REVISION NO.: 3 | ISSUE NO.: 4  
+AHWC/IP/F/08
+
+============================================================
+PAGE_074
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D
+
+VITALS MONITORING CHART
+Hospital: Ankura Hospital for Women and Children
+MR No.: 
+Current Weight:
+Name: Vagdevi
+Patient UHID NO: 162608635
+Current Height:
+IPD NO: LB26/3007
+Age:
+Blood Group & Rh Type:
+Gender: Male
+
+Consult: Dr. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+
+Month | Time | Day 
+8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+9 | 10 | 11 | 12 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+
+Hours: 
+8 - 12
+Minutes:
+00 - 60
+
+Vitals:
+- Temperature: 36.2°C to 42.0°C
+- Heart Rate: 60 to 110 beats per minute
+- Respiratory Rate: 16 to 30 breaths per minute
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/08
+
+============================================================
+PAGE_075
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+PATIENT & FAMILY EDUCATION FORM
+
+Name: Vagdevi
+UHIDNO: 162608635
+Patient Name: 
+MR NO:
+IPD NO: LB26/3007
+Age: 4 D Gender: Male
+DOB/AGE:
+
+ENDER:
+IP NO:
+Consult: Dr. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+
+NAME & SIGN OF EDUCATION/INFORMATION PROVIDED ON
+DATE & TIME
+
+THE PATIENT
+REMARKS (TOPIC CONTENT)
+OF THE STAFF
+ATTENDANT
+26/6/26
+Baby: Minimal 02 requirement
+4-5 episodes of seizures over night
+Plan: Sos ventilation, inj. midazolam 60 mg
+GRBS: 7
+Seizures: Further seizures noted today
+MRI brain: 29/5/26
+Further seizures no
+T8: Stable
+Plan to do MRI cut off
+Sugar is normal
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/15
+
+============================================================
+PAGE_076
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+PATIENT & FAMILY EDUCATION FORM
+
+Name : Vagdevi
+UHIDNO: 162608635
+Patient NIPD NO : LB26/3007
+MR NO:
+Age : 4 Days Gender : Male
+DOB/AGE: Consult : Dr. Srinivas Murki
+GENDER:
+IP NO:
+Adm Date : 27-06-2026 09:03 PM
+
+REMARKS (TOPIC CONTENT)
+
+Further seizures noted.
+CN
+8AM
+Stable
+30/6/26
+Further seizure
+Hypoglycaemia
+PH
+Stable
+MTRI
+Bown
+CPR
+OCCIPUT
+L
+Involvement
+Right side
+MEG
+Poyres
+Hor
+Explained to attendant
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/15
+
+============================================================
+PAGE_077
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D 9M
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+PATIENT & FAMILY EDUCATION FORM
+Name: Vagdevi
+UHID NO: 162608635
+IPD NO: LB26/3007
+Patient Name:
+MR NO:
+
+Age: 4 D Gender: Male
+Consult: DR. Srinivas Murki
+DOB/Age:
+Gender:
+IP No:
+Adm Date: 27-06-2026 09:03 PM
+
+NAME & SIGN OF EDUCATION/INFORMATION PROVIDED ON
+NAME & SIGN
+DATE & TIME
+THE PATIENT
+REMARKS
+(TOPIC CONTENT)
+OF THE STAFF
+ATTENDANT
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/15
+
+============================================================
+PAGE_078
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+PERIPHERAL CANNULATION
+Ankura Hospital for Women & Children
+Name : Vagdevi
+Patient Name:
+Age/Sex:
+Date of Admission (DOA): 
+UHID NO: 162608635
+IPD NO : LB26/3007
+MR.No/IP.No:
+Department:
+Age : 4 D Gender : Male
+
+1st CANNULA:
+Consult : Dr. Srinivas Murki
+Sr. Ropi
+Date : 27-06-2026 09:03 PM
+Insertion Date:
+Time:
+Inserted by:
+Place of Insertion:
+Cannula size:
+Removal Date:
+Removed by:
+Reason:
+
+2nd CANNULA:
+Insertion Date:
+Time:
+Inserted by:
+Place of Insertion:
+Cannula size:
+Removal Date:
+Removed by:
+Reason:
+
+3rd CANNULA:
+Insertion Date:
+Time:
+Inserted by:
+Place of Insertion:
+Cannula size:
+Removal Date:
+Removed by:
+Reason:
+
+IF PERIPHERAL VENOUS THROMBOPHLEBITIS:
+Thrombophlebitis identified on:
+Grade of Thrombophlebitis: GRO / GR1 / GR2 / GR3 / GR4 / GR5 (Please Tick)
+INFLUSATE SOLUTION ON FLOW:
+Name of the Drug and Mg
+Name of the Fluids and Rate of Flow per Hour
+
+Note:
+GRO - No Pain or Redness (observe the cannula)
+GR1 - Pain or Redness (observe the cannula)
+GR2 - Pain, erythema, swelling (resite the cannula)
+GR3 - Pain, erythema, swelling (resite and treatment)
+GR4 - Pain, erythema, induration, palpable venous cord (resite and treatment)
+GR5 - Pain, erythema, induration, palpable venous cord, pyrexia (resite and treatment)
+
+Name and Sign:
+Date and Time:
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 1 | ISSUE NO.: 2
+AHWC/HIC/F/19
+
+============================================================
+PAGE_079
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D
+
+PERIPHERAL CANNULATION
+9M
+
+ANKURA
+SHEET
+Hospital for Women and Children
+Date Time
+VIP Score
+Remarks
+Signature
+2H6/% 9PM
+4 O4
+28/6/26 Anasuya
+28|06|26 8AM Shanku
+27/6/26 6PM - 0
+30/6/26 8AM 110+(26
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 1 ISSUE NO.: 2
+AHWC/HIC/F/19
+
+============================================================
+PAGE_080
+============================================================
+
+Patient Name : B/O VAGDEVI  
+UHID : 162608635  
+IPD : LB26/3007  
+Gender : Male  
+Age : 4 D
+
+NOSOCOMIAL INFECTION
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+SURVEILLANCE FORM
+
+PATIENT DETAILS:
+Name of the Patient: VAGDEVI
+Age: 4 D
+Sex: Male
+UHID NO: 162608635
+IPD NO : LB26/3007
+MR No/IP No:
+DOA:
+Ward:
+
+Consult : DR. SRINIVAS MURKI
+
+Adm Date: 27-06-2026 09:03 PM
+
+Signs and symptoms:
+Diagnosis:
+Invasive devices Details:
+Insertion date Removal date
+1. IV cannula 20-12-2026
+2. Foley's catheter 28-06-2026
+3. Central line UVC
+4. Ventilator
+
+REVISION NO.: 1  
+ISSUE NO.: 2
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+NICU/PICU/NEONATOLOGY/PEDIATRICS
+
+============================================================
+PAGE_081
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+Requisition Form
+9M
+Ankura Hospital (Diagnostics Services) for Women and Children
+Vagdevi
+162608635
+Patient Name: 
+4 dy MR No:
+Age/Sex: Male, 4 days
+Date & Time: 28/6/26
+Ref.by Dr.: MS. numw
+
+Sample Collected By:
+
+Primary Sample Type: Blood
+Sample Site:
+
+Lab Sample Receiving Date & Time:
+
+Ward/Room No.:
+
+Clinical Diagnosis & H/O Administration of Drugs:
+
+HEAMOGLOBIN/PATHOLOGY
+AFB For Culture & Sensitivity
+Complete Blood Picture (CBP)
+CSF Lactate
+PCV
+CSF Pyruvate
+HIV I & II (Rapid)
+Platelet Count
+HIV I & II (ELISA)
+Hemoglobin
+HbsAg
+Absolute Eosinophil Count (AEC)
+Peripheral Smear
+Hepatitis - A (IgM)
+Smear for MP
+Leptospira IgM
+Parasite V & F
+Weil Felix
+QBC
+HCV
+ESR (Erythrocyte Sedimentation Rate)
+Dengue IgG
+Blood Group & Rh Type
+Direct Coombs Test
+Dengue IgM
+Indirect Coombs Test
+Dengue NS1 Antigen
+Bleeding Time
+OTB PCR
+Clotting Time
+HSV-PCR
+Mantoux Test
+Complete Urine Examination (CUE)
+RA Factor
+Stool Routine Examination
+Rotavirus Antigen Defection
+CSF Cell Type & Count
+ASO
+Factor Assay
+Widal Test
+Anemia Profile
+TORCH Profile
+Special Investigations:
+Triple Marker
+
+1. CBP lRp: Rrr LF-9.
+Urine Pregnancy Test (UPT)
+Bloodels vo4, B/0od Group.
+
+2. Gram Stain
+Rns. D. Gle'um
+
+3. AFB Smear
+OVDRL
+
+Microbiology
+Blood For Culture & Sensitivity
+Serum IgE
+New Born Screening
+Urine For Culture & Sensitivity
+Metabolic Screening
+Stool For Culture & Sensitivity
+Karotype Test
+Throat Swab For Culture & Sensitivity
+Syndrome Evaluation System (SES)
+CSF For Culture & Sensitivity
+
+REVISION NO.:3 ISSUENO.:4
+AHWC/LAB/F/01
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+============================================================
+PAGE_082
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+REQUISITION FORM
+9M
+Ankura Hospital (Diagnostics Services) for Women and Children
+Vagadevi
+162608635
+Patient Name:
+4 dy MR No:
+Age/Sex: 4 D, Male
+Date & Time: 28/6/26
+Ref.by Dr.: Srinivas Murki
+
+Sample Collected By:
+Primary Sample Type: Blood / Urine / Sputum / Pus / Fluid - Pleural / Pericardial / Ascitic / CSF / Others:
+Sample Site:
+Lab Sample Receiving Date & Time:
+Ward/Room No.:
+Clinical Diagnosis & H/O Administration of Drugs:
+
+HEAMOGLOBIN/PATHOLOGY
+- AFB For Culture & Sensitivity
+- Complete Blood Picture (CBP)
+- CSF Lactate
+- OPCRV
+- CSF Pyruvate
+- HIV I & II (Rapid)
+- Platelet Count
+- HIV I & II (ELISA)
+- Hemoglobin
+- HbsAg
+- AEC Absolute Eosinophil Count
+- Peripheral Smear
+- Hepatitis - A (IgM)
+- Smear for MP
+- Leptospira IgM
+- Parasite V & F
+- Weil Felix
+- QBC
+- OCV
+- HCV
+- ESR (Erythrocyte Sedimentation Rate)
+- Dengue IgG
+- Blood Group & Rh Type
+- Direct Coombs Test
+- Dengue IgM
+- Indirect Coombs Test
+- Dengue Ns1 Antigen
+- Bleeding Time
+- OTBPCR
+- Clotting Time
+- OHSV-PCR
+- Mantoux Test
+- Complete Urine Examination (CUE)
+- RA Factor
+- Stool Routine Examination
+- Rotavirus Antigen Defection
+- CSF Cell Type & Count
+- ASO
+- Factor Assay
+- Widal Test
+- Anemia Profile
+- TORCH Profile
+- Special Investigations:
+  - Triple Marker
+1. Urine Pregnancy Test (UPT)
+2. Gram Stain
+3. AFB Smear
+
+MICROBIOLOGY
+- Blood For Culture & Sensitivity
+- Serum IgE
+- New Born Screening
+- Urine For Culture & Sensitivity
+- Metabolic Screening
+- Stool For Culture & Sensitivity
+- Karotype Test
+- Throat Swab For Culture & Sensitivity
+- Syndrome Evaluation System (SES)
+- CSF For Culture & Sensitivity
+
+REVISION NO.: 3
+ISSUE NO.: 4
+AHWC/LAB/F/01
+Ankura Hospital for Women and Children
+
+============================================================
+PAGE_083
+============================================================
+
+Patient Name: B/O Vagadevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 D
+
+REQUISITION FORM
+9M
+Ankura Hospital (Diagnostics Services) for Women and Children
+Blo. Vagadevi
+
+Patient Name:
+Age/Sex: 4 M
+MR No: 1626 BP 658
+Date & Time: 28/06/2016, 26  
+Ref.by Dr.: Dr. Srinivas Murki
+Sample Collected By: Sil. Anaug
+
+Primary Sample Type: Blood/Urine/Sputum/Pus/Fluid - Pleural/Pericardial/Ascitic/CSF/Others:
+Sample Site: Oropharyngeal
+
+Lab Sample Receiving Date & Time:
+
+Ward/Room No.: NW
+
+Clinical Diagnosis & H/O Administration of Drugs:
+
+HEAMOGLOBIN/PATHOLOGY
+- AFB For Culture & Sensitivity
+- Complete Blood Picture (CBP)
+- CSF Lactate
+- CSF Pyruvate
+- PCV
+- HIV I & II (Rapid)
+- Platelet Count
+- HIV I & II (ELISA)
+- Hemoglobin
+- HbsAg
+- AEC Absolute Eosinophil Count
+- Peripheral Smear
+- Hepatitis - A (IgM)
+- Smear for MP
+- Leptospira IgM
+- Parasite V & F
+- Weil Felix
+- QBC
+- HCV
+- ESR (Erythrocyte Sedimentation Rate)
+- Dengue IgG
+- Blood Group & Rh Type
+- Direct Coombs Test
+- Dengue IgM
+- Indirect Coombs Test
+- Dengue Ns1 Antigen
+- Bleeding Time
+- OTB PCR
+- Clotting Time
+- HSV-PCR
+- Mantoux Test
+- Complete Urine Examination (CUE)
+- RA Factor
+- Stool Routine Examination
+- Rotavirus Antigen Defection
+- CSF Cell Type & Count
+- ASO
+- Factor Assay
+- Widal Test
+- Anemia Profile
+- TORCH Profile
+- Special Investigations:
+  - Triple Marker: 
+    1. Ammonia
+    2. Urine Pregnancy Test (UPT)
+  - VDRL
+
+MICROBIOLOGY
+- Blood For Culture & Sensitivity
+- Serum IgE
+- New Born Screening
+- Urine For Culture & Sensitivity
+- Metabolic Screening
+- Stool For Culture & Sensitivity
+- Karyotype Test
+- Throat Swab For Culture & Sensitivity
+- Syndrome Evaluation System (SES)
+- CSF For Culture & Sensitivity
+
+REVISION NO.: 3  
+ISSUE NO.: 4  
+AHWC/LAB/F/01
+
+============================================================
+PAGE_084
+============================================================
+
+Patient Name : B/O. Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+REQUISITION FORM
+9M
+Ankura Hospital (Diagnostics Services) for Women and Children
+
+Patient Name: Vagadevi
+Age/Sex: 4 days (Male)
+MR No: 162608635
+Date & Time: 08/06/2023
+Ref. by Dr.: Dr. Srinivas Murki
+Sample Collected By: SIS.
+Amasuya
+
+Primary Sample Type: Blood / Urine / Sputum / Pus / Fluid - Pleural / Pericardial / Ascitic / CSF / Others:
+Ntw
+Sample Site: Urethral
+Lab Sample Receiving Date & Time:
+Ward/Room No.:
+
+Clinical Diagnosis & H/O Administration of Drugs:
+HEAMOGLOBIN/PATHOLOGY
+- AFB For Culture & Sensitivity
+- Complete Blood Picture (CBP)
+- CSF Lactate
+- CSF Pyruvate
+- PCV
+- HIV I & II (Rapid)
+- Platelet Count
+- HIV I & II (ELISA)
+- Hemoglobin
+- HbsAg
+- Eosinophil Count (Eosinophilic Count) O Peripheral Smear
+- Hepatitis - A (IgM)
+- Smear for MP
+- Leptospira IgM
+- Parasite V & F
+- Weil Felix
+- QBC
+- HCV
+- ESR (Erythrocyte Sedimentation Rate)
+- Dengue IgG
+- Blood Group & Rh Type O Direct Coombs Test
+- Dengue IgM
+- Indirect Coombs Test
+- Dengue Ns1 Antigen
+- Bleeding Time
+- OTBPCR
+- Clotting Time
+- HSV-PCR
+- Mantoux Test
+- Complete Urine Examination (CUE)
+- RA Factor
+- Stool Routine Examination
+- Rotavirus Antigen Defection
+- CSF Cell Type & Count
+- ASO
+- Factor Assay
+- Widal Test
+- Anemia Profile
+- TORCH Profile
+- Special Investigations:
+  - Triple Marker
+
+Microbiology:
+1. Urine
+   - Urine Pregnancy Test (UPT)
+2.
+   - Gram Stain
+3.
+   - AFB Smear
+OVDRL
+
+MICROBIOLOGY
+- Blood For Culture & Sensitivity
+- Serum IgE
+- New Born Screening
+- Urine For Culture & Sensitivity
+- Metabolic Screening
+- Stool For Culture & Sensitivity
+- Karyotype Test
+- Throat Swab For Culture & Sensitivity
+- Syndrome Evaluation System (SES)
+- CSF For Culture & Sensitivity
+
+REVISION NO.: 3|1
+ISSUE NO.: 4
+AHWC/LAB/F/01
+ANKURAHOSPITALFORWOMENANDCHILDREN
+
+============================================================
+PAGE_085
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 MANKARA
+
+BILLING RECORD
+
+Patient Name:
+MR. No.:
+Doctor's Name:
+Date & Time: 20/6/28
+Ward / Room No.
+Age / Gender:
+
+Morning shift
+Evening Shift
+Night Shift
+
+S.No
+PROCEDURES
+
+Arterial Line Insertion
+P. Ladamp Laceration
+Ascitic Tap
+Bone Marrow Aspiration
+CUG, Cystoscopy Urethroscopy Gastroscopy
+Central Line Insertion
+CPR
+CVP line Insertion
+Dressing (Minor/Medium/Major/Special)
+Radiology Investigations
+
+S. No
+LAB INVESTIGATIONS, Specify
+
+Arterial Blood Gas Analysis
+Liver Function Test
+Renal Function Test
+Complete Blood Count
+C Reactive Protein
+Upper Respiratory Infection
+Neonatal Jaundice
+Respiratory Distress Syndrome
+Appropriate for Gestational Age
+Preterm Premature Rupture of Membranes
+Lower Segment Caesarean Section
+
+Cross Consultation
+
+IV Cannulation
+Lumbar Drain Insertion
+Lumbar Puncture
+Tracheostomy
+Nebulization
+PICC Line Insertion
+Pigtail Catheter
+Alpha Mattress/DVT Pump
+Plural Tap
+Body Warmer
+Ryles Tube Insertion
+BIPAP
+Sedation Anesthesia
+CPAP
+Surfactant Administration
+NST/CTG/Fetal Monitoring
+Tracheostomy Decannulation
+Infusion/Syringe Pump
+Phototherapy
+Oxygen Charges
+Ventilator Charges
+ABG (Arterial Blood Gas Analysis)
+GRBS (Blood Glucose by Glucometer)
+
+Bedside Equipments
+
+Pigtail Catheter
+Alpha Mattress/DVT Pump
+Plural Tap
+Body Warmer
+Ryles Tube Insertion
+BIPAP
+Sedation Anesthesia
+CPAP
+Surfactant Administration
+NST/CTG/Fetal Monitoring
+Tracheostomy Decannulation
+Infusion/Syringe Pump
+Phototherapy
+Oxygen Charges
+Ventilator Charges
+
+Consultations
+
+Morning shift
+Evening Shift
+Night Shift
+
+6 Doctors Visit
+Urine Sugar/Ketone (Rat Strips/Albumin)
+Physiotherapy
+Blood Transfusions
+Diet
+OT Charges
+Transfer IN/OUT
+
+Others
+
+Morning shift Evening Shift Night Shift
+
+Cough
+Name of Nursing staff
+Name of PCC/Billing staff (Receiving Staff)
+
+Signature
+Employee ID
+
+Note: Nurse must update the sheet after each procedure.
+Name of the Staff Handing Over
+Nurses must sign (Shift wise) once the details are completely filled in the billing Activity Sheet.
+
+One copy of billing activity sheet must be sent to billing department daily before 8.00 am by concerned Nursing staff.
+Signature
+
+Daily updation of patient bills in HIMS by billing staff must be done.
+Final verification of bill from the file at the time of discharge must be done.
+Employee ID
+AHWC/IP/F/17
+
+============================================================
+PAGE_086
+============================================================
+
+Patient Name: B/O Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 Days
+
+BILLING RECORD
+Ankura Hospital  
+9M Ward  
+Blo. vagdevi  
+
+Doctor's Name:
+Dr. Srinivas Murki
+
+Ward /Room No.: Not Available
+Age / Gender: 4 Days
+
+Date & Time: 28|6|2023
+
+S.No. | PROCEDURES
+Morning Shift | Evening Shift | Night Shift
+1 | Arterial Line Insertion
+1 | Ammonia, urine for els
+2 | Ascitic Tap
+2 | Bone Marrow Aspiration
+3 | EKG
+4 | Central Line Insertion
+4 |
+5 | CPR
+5 |
+6 | CVP line Insertion
+6 |
+7 | Dressing: Minor/Medium/Major/Special
+
+S.No. | LAB INVESTIGATIONS, Specify
+Morning Shift | Evening Shift | Night Shift
+1 | Ammonia, urine for els
+
+RADIOLOGY INVESTIGATIONS:
+X-Ray
+
+1 | Emergency/Elective Intubation
+2 | Foleys Catherization
+3 | HD Cathter
+4 | Hemodialysis
+5 | ICD Insertion
+
+CROSS CONSULTATION:
+6 | IV Cannulation
+7 | Lumbar Drain insertion
+8 | Lumbar Puncture
+9 | Tracheostomy
+10 | Nebulization
+11 | PICC line Insertion
+
+BEDSIDE EQUIPMENTS:
+Start | Stop
+12 | Pigtail Catheter
+13 | Alpha Matress/DVT Pump
+14 | Plueral Tap
+15 | Body warmer
+16 | CNT
+17 | Ryles Tube Insertion
+18 | BIPAP
+19 | CPAP
+20 | Surfactant Administration.
+21 | NST/CTG/Fetal Monitoring
+22 | Tracheostomy Decannulation
+23 | Infusion/Syringe Pump
+24 | Tracheostomy Tube Change
+25 | Phototherapy
+26 | Oxygen Charges
+27 | Umblical Catheterisation.
+28 | Ventricular Tapping
+29 | ABG (Arterial Blood Gas Analysis)
+30 | Monitor charges
+
+CONSULTATION:
+Morning Shift | Evening Shift | Night Shift
+31 | ECG-12 Lead
+32 | Urine Sugar/Ketone (Rato Strips/Albumin)
+33 | Physiotherapy
+34 | Blood Transfusions
+35 | Diet
+
+OTHERS:
+Morning Shift | Evening Shift | Night Shift
+36 | OT Charges
+37 | Transfer IN/OUT
+
+Nurses must update the sheet after each procedure.
+Name of Nursing staff: Shaxy  
+Name of PCC/Billing staff (Receiving Staff): Anasuy  
+
+Note: Nurse must update the sheet after each procedure.  
+Signature:  
+Employee ID: 2634  
+Employee ID: 10636
+
+Daily updation of patient bills in HIMS by billing staff must be done.  
+Final verification of bill from the file at the time of discharge must be done.
+
+Name of the Staff Handing Over: One copy of billing activity sheet must be sent to billing department daily before 8:00 am by concerned Nursing staff.
+Employee ID: AHWC/IP/F/17
+
+============================================================
+PAGE_087
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D
+
+BILLING RECORD  
+ankura hospital  
+
+Patient Name:
+Blo vagdevi
+MR. No.: 162608635
+Doctor's Name:
+Dr. Srinivas Murki
+Ward /Room No.
+Age / Gender:
+Male
+Date & Time:
+29/10/2026
+
+S.No.
+
+PROCEDURES  
+Morning shift Evening Shift Night Shift  
+S. No.
+
+LAB INVESTIGATIONS, Specify  
+Morning shift Evening Shift Night Shift  
+1 Arterial Line Insertion 1  
+2 Ascitic Tap 2  
+3 Bone Marrow Aspiration 3  
+4 Central Line Insertion 4  
+5 CPR 5  
+6 CVP line Insertion 6  
+7 Dressing Minor/Medium/Major/Special
+
+RADIOLOGY INVESTIGATIONS  
+8 Emergency/Elective Intubation 1  
+9 Foleys Catherization 2  
+10 HD Catheter 3  
+11 Hemodialysis 4  
+12 ICD Insertion  
+
+CROSS CONSULTATION  
+13 IV Cannulation 1 Dr. Sreeram Subramanian 2  
+14 Lumbar Drain insertion NS4 done. 3  
+15 Lumbar Puncture 4  
+16 Tracheostomy 5  
+17 Nebulization 6  
+18 PICC line Insertion
+
+BEDSIDE EQUIPMENTS  
+Start Stop Start Stop Start Stop
+19 Pigtail Catheter 1 Alpha Matress/DVT Pump 2  
+20 Plueral Tap Body warmer 3  
+21 Ryles Tube Insertion BIPAP 4  
+22 Sedation Anesthesia CPAP 5  
+23 Surfactant Administration NST/CTG/Fetal Monitoring Infusion/Syringe Pump 6  
+24 Tracheostomy Decannulation CNT 8/3/P 7  
+25 Tracheostomy Tube Change Phototherapy 8  
+26 Umblical Catheterisation Oxygen Charges 9  
+27 Ventricular Tapping Ventillator Charges 10
+
+MONITORING  
+ABG (Arterial Blood Gas Analysis) Monitor charges CNT
+GRBS (Blood Glucose by Glucometer)
+
+CONSULTATION  
+Morning shift Evening Shift Night Shift
+30 ECG-12 Lead Doctors Visit 1 2  
+31 Urine Sugar/Ketone (Rato Strips/Albumin) Physiotherapy 3 Diet Others
+
+OTHERS  
+Morning shift Evening Shift Night Shift
+4 OT Charges 5 Transfer IN/OUT
+
+Note: Nurse must update the sheet after each procedure.
+Nurses must sign (Shift wise) once the details are completely filled in the billing Activity Sheet.
+Name of the Staff Handing Over One copy of billing activity sheet must be sent to billing department daily before 8.00 am by concerned Nursing staff.
+
+Daily updation of patient bills in HIMS by billing staff must be done.
+Final verification of bill from the file at the time of discharge must be done.
+
+Employee ID AHWC/IP/F/17
+
+============================================================
+PAGE_088
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+Name: Vagdevi
+Ward / Room No. 101
+Consult: Dr. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+
+S.No | Procedures
+Morning Shift | Evening Shift | Night Shift
+1 | Arterial Line Insertion
+2 | Ascitic Tap
+3 | Bone Marrow Aspiration
+4 | Central Line Insertion
+5 | CPR
+6 | CVP Line Insertion
+7 | Dressing (Minor/Medium/Major/Special)
+
+S.No | Lab Investigations, Specify
+Morning Shift | Evening Shift | Night Shift
+1 | Arterial Blood Gas Analysis (ABG)
+2 | Complete Blood Count (CBC)
+3 | C-reactive Protein (CRP)
+4 | Liver Function Test (LFT)
+5 | Renal Function Test (RFT)
+6 | Upper Respiratory Infection (URI)
+
+Radiology Investigations:
+1 | Emergency Intubation
+2 | Foley Catheterization
+3 | Hemodialysis
+4 | ICD Insertion
+5 | MRI Done
+6 | IV Cannulation
+7 | Lumbar Drain Insertion
+8 | Lumbar Puncture
+9 | Tracheostomy
+10 | Nebulization
+11 | PICC Line Insertion
+12 | Pigtail Catheter
+13 | Plural Tap
+14 | Ryles Tube Insertion
+15 | Body Warmer
+
+Bedside Equipments:
+1 | Alpha Mattress/DVT Pump
+2 | BIPAP
+3 | CPAP
+4 | Continuous Positive Airway Pressure (CPAP)
+5 | Oxygen Charges
+6 | Ventilator Charges
+7 | ABG (Arterial Blood Gas Analysis)
+
+Consultation:
+Morning Shift | Evening Shift | Night Shift
+1 | 12-Lead ECG
+2 | Doctors Visit
+3 | Urine Sugar/Ketone (Rat Strips/Albumin)
+4 | Blood Transfusions
+5 | Diet
+
+Others:
+Morning Shift | Evening Shift | Night Shift
+1 | OT Charges
+2 | Transfer IN/OUT
+
+Note: Nurse must update the sheet after each procedure.
+Name of Nursing Staff: Qo Shancy
+Name of PCC/Billing Staff (Receiving Staff): Employee ID 2634, 16636
+
+Signature: 
+Employee ID: AHWC/IP/F/17
+
+============================================================
+PAGE_089
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+ankura Hospital for Women and Children
+
+BILL
+
+Name : Vagdevi
+UHID NO: 162608635
+MR. No.: 066-35
+IPDNO: LB26/3007
+Doctor's Name:
+Ward / Room No. NC
+
+Age / Gender : 4 Days, Male
+Date & Time: 27-06-2026 09:03 PM
+Consult : DR. SRINIVAS MURKI
+
+LAB INVESTIGATIONS, Specify
+Morning shift | Evening Shift | Night Shift
+1. Arterial Line Insertion
+2. Ascitic Tap
+3. Bone Marrow Aspiration
+4. Central Line Insertion
+5. CPR
+6. CVP line Insertion
+7. Dressing (Minor/Medium/Major/Special)
+
+RADIOLOGY INVESTIGATIONS
+8. Emergency/Elective Intubation
+9. Foleys Catherization
+10. HD Cathter
+11. Hemodialysis
+12. ICD Insertion
+
+CROSS CONSULTATION
+13. IV Cannulation
+14. Lumbar Drain insertion
+15. Lumbar Puncture
+16. Tracheostomy
+17. Nebulization
+
+BEDSIDE EQUIPMENTS
+Start | Stop
+18. Pigtail Catheter
+19. Alpha Matress/DVT Pump
+20. Plueral Tap
+21. Body warmer
+22. Ryles Tube Insertion
+23. BIPAP
+24. CPAP
+25. Surfactant Administration
+26. NST/CTG/Fetal Monitoring
+27. Tracheostomy Decannulation
+28. Infusion/Syringe Pump
+
+S.No | Start | Stop
+29. Phototherapy
+30. Oxygen Charges
+31. Ventillator Charges
+
+ABG (Arterial Blood Gas Analysis)
+32. Monitor charges
+
+CONSULTATION
+Morning shift | Evening Shift | Night Shift
+33. ECG-12 Lead
+34. Doctors Visit
+35. Urine Sugar/Ketone (Rato Strips/Albumin)
+36. Physiotherapy
+37. Blood Transfusions
+38. Diet
+
+OTHERS
+Morning shift | Evening Shift | Night Shift
+39. OT Charges
+40. Transfer IN/OUT
+
+Note: Nurse must update the sheet after each procedure.
+Name of Nursing staff:
+Name of PCC/Billing staff (Receiving Staff):
+Signature:
+
+Employee ID: AHWC/IP/F/17
+
+============================================================
+PAGE_090
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Mankura Hospital REQUISITION FOR MICROBIOLOGY & IMMUNO-SEROLOGY Patient's Name: Vagdevi Age: 4 Sex: Male UHID NO: 162608635 Date: IP NO/OP NO: LB26/3007 Collection Time: Nature of Specimen: CLINICAL DIAGNOSIS: Rsepsm) Previous Culture No/Date: Clinical details (Brief history) required with Antibiotic history Physical findings: Other pertinent/specialized investigations Risk Stratification of patient (s) Patient Type-1 (CAI) Patient Type-2 (HAI) Patient Type-3 (NI) No contact with health care system Contact with health care system (e.g. long hospitalization and or invasive procedures, recent hospital admission, nursing home, dialysis) without invasive procedure No prior antibiotic therapy Recent antibiotic therapy Recent & multiple antibiotic therapies Patient young with few co-morbid conditions Patient old with multiple co-morbidities Cystic fibrosis, structural lung disease, advanced AIDS, neutropenia, other severe immunodeficiency. Signature of the Doctor
+
+============================================================
+PAGE_091
+============================================================
+
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Months
+
+ANKURA Hospital for Women & Children
+
+Vagadai GRBS MONITORING  
+UHID: 8608635
+Patient Name:
+Age: 4M Sex: Male IP No: 
+
+Consultant: DOA:
+
+Diagnosis: 
+
+Informed to 
+GRBS Nurse Sign Parent Sign (Dr. Name)
+
+28-6
+9:20:00
+36 mg/dl
+
+Br. Dowey
+65rugde
+10:00 p.m.
+Dr. Lavuy
+Lane
+72 mg/dl
+4:00 p.m.
+
+Dr. Ananthor Anasuys
+24-16
+Somgde
+Ananten
+11:00 p.m.
+Ly
+
+29-16
+98 mg/dl
+Dr. Anaulte
+6:00 p.m.
+Loje
+
+29-16
+122 mg/dl
+10:00 a.m.
+Dr. Jujashw
+#
+12:41
+99 n.g./dL
+r-Anauelen
+4:11:75 A.M.
+
+94 mg/dL  
+W-Analtr
+4
+
+============================================================
+PAGE_092
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+IPDNO: LB26/3007
+SCORE
+DATE
+MORNING
+STAFF LEVEL
+AFTER NOON
+STAFF LEVEL
+NIGHT
+STAFF LEVEL
+Age: 4 D Gender: Male
+NAME: Vagdevi
+
+Consult : Dr. Srinivas Murki
+Adm Date: 27-06-2026 09:03 PM
+
+LEVEL OF ALERT
+Alert age appropriate
+CONSCIOUSNESS
+Irritable or lethargic
+1
+Responds to pain
+2
+Unconscious/seizures
+3
+
+RESPIRATORY STATUS
+Normal breathing room air
+1
+Mild distress oxygen support
+2
+Moderate distress / frequent suction
+3
+Severe distress CPAP / Ventilator
+3
+Stable vitals
+0
+
+CARDIOVASCULAR STATUS
+Tachycardia / IV fluids
+1
+Inotropes/invasive monitoring
+2
+Shack risk
+3
+
+FEEDING & NUTRITION
+Oral feeds independently
+0
+Assisted feeding
+1
+NG feeds
+2
+TPN/feeding intolerance
+3
+
+ELIMINATION
+Normal urine stool
+0
+Diaper care assistance
+1
+Catheter /strict monitoring
+2
+Oliguria / anuria
+3
+
+MEDICATION
+Oral medications
+0
+IV medications
+1
+Multiple IV infusions
+2
+High risk drug titration
+3
+
+PAIN & COMFORT
+Comfortable
+0
+Intermittent pain
+1
+Persistent pain
+2
+Severe pain continuous care
+3
+
+PROCEDURES & DEVICES
+None
+0
+IV line
+1
+Multiple lines / drains
+2
+Ventilator / central lines
+3
+
+PARENTAL SUPPORT NEED
+Routine guidance
+Frequent reassuring
+1
+Continuous emotional support
+2
+Anxious Parents
+3
+
+Category I: Routine nursing care
+Category II: Increased nursing observation
+Category III: Close monitoring and high nursing
+Category IV: One-to-one intensive nursing care
+
+INCHARGE NAME & SIGN
+Score 0-6
+II Score 7-19
+Score 20-30
+Score > 30
+
+NUR.SUPERVISOR NAME & SIGN
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE
+
+============================================================
+PAGE_093
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+Name : Bllo Devi
+MRD No : 08635
+SCORE
+DATE
+MORNING
+STAFF LEVEL
+AFTERNOON
+STAFF LEVEL
+NIGHT
+STAFF LEVEL
+DOA : 29/10/2026
+
+NAME 
+SCORE
+NAME 
+SCORE
+NAME 
+SCORE
+NAME 
+DIAGNOSIS
+Score 8
+LEVEL OF CONSCIOUSNESS
+Alert, age appropriate
+CONSCIOUSNESS
+Irritable or lethargic
+2
+Hypersensitive to stimuli
+3
+RESPIRATORY STATUS
+Normal breathing room air
+0
+Mild distress oxygen support
+1
+Moderate distress / frequent suction
+2
+Severe distress CPAP / Ventilator
+3
+CARDIOVASCULAR STATUS
+Stable vitals
+0
+Tachycardia / IV fluids
+1
+Inotropes / invasive monitoring
+2
+Shack risk
+3
+FEEDING & NUTRITION
+Oral feeds independently
+0
+Assisted feeding
+1
+NG feeds
+2
+TPN/feeding intolerance
+3
+ELIMINATION
+Normal urine stool
+0
+Diaper care assistance
+1
+Catheter / strict monitoring
+2
+Oliguria / anuria
+3
+MEDICATION
+Oral medications
+0
+IV medications
+1
+Multiple IV infusions
+2
+High risk drug titration
+3
+PAIN & COMFORT
+Comfortable
+0
+Intermittent pain
+1
+Persistent pain
+2
+Severe pain continuous care
+3
+PROCEDURES & DEVICES
+None
+0
+IV line
+1
+Multiple lines / drains
+2
+Ventilator / central lines
+3
+PARENTAL SUPPORT NEED
+Routine guidance
+0
+Frequent reassuring
+1
+Continuous emotional support
+2
+
+Category I
+Category II
+Category III
+Category IV
+
+INCHARGE NAME & SIGN
+Score 0-6
+Score 7-19
+Score 20-30
+Score > 30
+Routine nursing care
+Increased nursing observation
+Close monitoring and high nursing
+One-to-one intensive nursing care
+
+NUR.SUPERVISOR NAME & SIGN
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE
+
+============================================================
+PAGE_094
+============================================================
+
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D
+
+UHIDNO:162608635
+IPD NO:LB26/3007
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+
+Name: Vagdevi
+Age: 4 D
+Gender: Male
+Consult: Dr. Srinivas Murki
+SCORE
+Date:
+
+Morning
+Staff Level:
+Afternoon
+Staff Level:
+Night
+Staff Level:
+DOA
+Adm Date: 27-06-2026 09:03 PM
+
+SCORE
+Name: 
+Score: 
+Name: 
+Score: 
+Name: 
+Diagnosis: 
+Level of Alertness: Age Appropriate (Alert)
+Respiratory Status: Normal Breathing Room Air
+Cardiovascular Status: Stable Vitals
+Feeding & Nutrition: Oral Feeds Independently
+Elimination: Normal Urine Stool
+Medication: Oral Medications
+Complexity: Routine Nursing Care
+Pain & Comfort: Comfortable
+Procedures & Devices: None
+Parental Support Need: Routine Guidance
+
+Incharge Name & Sign:
+Score 0-6: Routine Nursing Care
+Score 7-19: Increased Nursing Observation
+Score 20-30: Close Monitoring and High Nursing
+Score > 30: One-to-One Intensive Nursing Care
+
+NUR. SUPERVISOR NAME & SIGN
+
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE
+
+============================================================
+PAGE_095
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+IPD No : LB26/3007
+
+SCORE
+Name: Vagdevi
+Date:
+Morning Staff Level
+Afternoon Staff Level
+Night Staff Level
+Adm Date: 27-06-2026 09:03 PM
+Consult : Dr. Srinivas Murki
+Score: 80
+
+LEVEL OF ALERTNESS
+Age appropriate alertness
+Irritable or lethargic
+Responds to pain
+Unconscious / seizures
+
+RESPIRATORY STATUS
+Normal breathing room air
+Mild distress oxygen support
+Moderate distress / frequent suction
+Severe distress CPAP / Ventilator
+
+CARDIOVASCULAR STATUS
+Stable vitals
+Tachycardia / IV fluids
+Inotropes / invasive monitoring
+Shack risk
+
+FEEDING & NUTRITION
+Oral feeds independently
+Assisted feeding
+NG feeds
+TPN/ feeding intolerance
+
+ELIMINATION
+Normal urine stool
+Diaper care assistance
+Catheter / strict monitoring
+Oliguria / anuria
+
+MEDICATION
+Oral medications
+IV medications
+Multiple IV infusions
+High risk drug titration
+
+PAIN & COMFORT
+Comfortable
+Intermittent pain
+Persistent pain
+Severe pain continuous care
+
+PROCEDURES & DEVICES
+None
+IV line
+Multiple lines / drains
+Ventilator / central lines
+
+PARENTAL SUPPORT NEED
+Routine guidance
+Frequent reassuring
+Anxious Parents
+Continuous emotional support
+
+Category I: Routine nursing care
+Category II: Increased nursing observation
+Category III: Close monitoring and high nursing care
+Category IV: One-to-one intensive nursing care
+
+Incharge Name & Sign:
+Nursing Supervisor Name & Sign:
+
+Level 1 Nurse
+Level 2 Nurse
+Level 3 Nurse
+Level 4 Nurse
+
+============================================================
+PAGE_096
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospital for Women and Children
+LB Nagar Pvt Ltd
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad, Telangana,
+500035
+
+Phone : 9053108108
+Website : https://www.ankurahospitals.com
+Email : info@ankurahospital.com
+
+Laboratory Report
+
+Patient Name: Baby of Vagdevi
+Lab No.: 1646870
+UHID: 162608635 / LB26/3007
+Sample Date: 27/06/2026 10:35 PM
+Age/Gender: 4 Days/Male
+Receiving Date: 28/06/2026 1:18 AM
+Bed No/Ward: IPD
+
+Report Date: 28/06/2026 3:03 AM
+Referred By: Dr. Srinivas Murki
+Report Status: Final
+
+Patient Mob:
+
+Biochemistry
+
+Test Name: C-Reactive Protein (CRP)
+Result: 2.4 mg/L
+Unit: mg/L
+Reference Interval: 0.01-6.00
+Method: Immunoturbidimetry
+
+Interpretation:
+In many cases, the changes in plasma CRP level precede changes in clinical symptoms.
+The degree of elevation of CRP reflects the mass or activity of the inflamed tissue and correlates well with disease activity during acute inflammation or infection.
+
+Because the increase is non-specific, it cannot be interpreted without a complete clinical history, and even then, only by comparison with previous values.
+A persistently raised CRP level generally indicates that therapy is ineffective.
+Normal CRP levels do not exclude the presence of minor degrees of acute, localized inflammation or some chronic diseases such as SLE and ulcerative colitis.
+
+Dr. B Roshini Sumalini
+MBBS, MD Pathology
+Consultant Pathologist
+
+Printed on 28/06/2026 3:00 AM
+Approved By: Dr. B Roshini Sumalini
+Page: 1 of 4
+Verified By: Mr. Neelam Edukonduлу
+
+============================================================
+PAGE_097
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospital for Women and Children
+LB Nagar, Pvt Ltd
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad, Telangana, 500035
+Phone : 9053108108 Website : https://www.ankurahospitals.com Email : info@ankurahospital.com
+
+Laboratory
+Patient Name : Baby of Vagdevi
+Lab No : 1646870
+UHID : 162608635 / LB26/3007
+Sample Date : 27/06/2026 10:35PM
+Age/Gender : 4 Days/Male
+Receiving Date : 28/06/2026 1:18AM
+Bed No/Ward : IPD
+Report Date : 28/06/2026 3:03AM
+Referred By : Dr. Srinivas Murki
+Report Status : Final
+Patient Mob :
+
+Biochemistry
+Renal Function Test (RFT)
+Test Name Result Unit Biological Method Ref. Interval
+Creatinine - Serum 0.4 mg/dL Jaffe Kinetic 0.3 - 0.9
+Blood Urea 20 mg/dL 16.60 - 48.50 Urease
+Blood Urea Nitrogen (BUN) 9.4 mg/dL 6.00 - 20.00 
+Uric Acid 4.3 mg/dL 3.50 - 7.20 Enzymatic, Colorimetric
+Calcium Serum 8.6 mg/dL 8.80-10.80 Photometric
+Sodium Serum 142 mmol/L 133.00 - 144.00 
+Potassium Serum 5.1 mmol/L 3.40 - 5.10 IFCC
+Chloride Serum 107 mmol/L 97.00 - 107.00 
+
+Interpretation :
+A kidney function test is a collective term for a variety of individual tests and procedures that can be done to evaluate how well the kidneys are functioning. Many conditions can affect the ability of the kidneys to carry out their vital functions. Some lead to a rapid (Acute) decline in kidney function, others lead to a gradual (Chronic) decline in function. Both result in a buildup of toxic waste products both done on urine samples and blood samples. A number of symptoms may indicate a problem with your kidneys. These include high blood pressure, blood in urine, frequent urges to urinate, difficulty beginning urination, painful urination, swelling in the hands and feet due to a buildup of fluids in the body. A single symptom may not mean something serious. However, when occurring simultaneously, these symptoms suggest that your kidneys are not working properly. Kidney function tests can help determine the reason.
+
+Electrolytes are present in the human body and the balancing act of the electrolytes in our bodies is essential for normal function of our cells and organs. There has to be a balance between Ionized calcium this test if you have signs of kidney or Parathyroid disease. The test may also be done to monitor progress and treatment of these diseases.
+
+-End Of Report-
+Dr. B Roshini Sumalini
+MBBS, MD Pathology
+Consultant Pathologist
+Printed on 28/06/2026 03:00
+Approved By Dr. B Roshini Sumalini
+Page: 2 of 4
+Verified By Mr. Neelam EdukonduLu
+
+============================================================
+PAGE_098
+============================================================
+
+Patient Name : Baby of Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospital for Women and Children
+LB Nagar Pvt Ltd
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad, Telangana,
+500035
+Phone : 9053108108 Website : https://www.ankurahospitals.com Email : info@ankurahospital.com
+
+Laboratory
+Patient Name: Baby of Vagdevi
+Lab No: 1646870
+UHID: 162608635 / LB26/3007
+Sample Date: 27/06/2026 10:35 PM
+Age/Gender: 4 Days/Male
+Receiving Date: 28/06/2026 1:18 AM
+Bed No/Ward: IPD LB26/3007
+Report Date: 28/06/2026 3:03 AM
+Referred By: Dr. Srinivas Murki
+Report Status: Final
+
+Hematology
+COMPLETE BLOOD COUNT (CBC)
+Test Name: Result: Unit: Biological Method: Reference Interval:
+Haemoglobin (HB) 15.6 g/dL 15.00 - 21.00 Direct cyanmethaemoglobin method
+Packed Cell Volume (PCV) 49.8% 45.00 - 67.00 Impedance/Calculate
+MCV 80.9 fL 92.00 - 118.00 Impedance/Calculate
+MCH 25.4 pg 31.00 - 37.00 MCHC 31.4 gm/dl 29.00 - 37.00 Impedance/Calculate d RBC Count 6.15 × 10^6/uL 4.00 - 6.60 Impedance WBC Count 9,100 cells/cumm 7,000.00-23,000.00 Impedance/Flowcytometry Platelet Count 183,000 /mm3 160,000.00-500,000.00 Impedance Differential Count: Neutrophils 68% 22.00 - 42.00 Impedance/RBC Flowcytometry Lymphocytes 24% 28.00 - 35.00 Impedance/RBC Flowcytometry Eosinophils 03% 1.00 - 8.00 Impedance/Flowcytometry Monocytes 05% 4.00 - 7.00 Impedance/Flowcytometry Basophils 00% < 1.00 Impedance/Flowcytometry Peripheral Smear: RBC - Normocytic Normochromic Microscopic WBC - Neutrophilia Microscopic Platelet - Adequate Microscopic
+
+Report Approved By: Dr. B Roshini Sumalini
+MBBS, MD Pathology
+Consultant Pathologist
+Printed on 28/06/2026 03:00
+
+Page: 1 of 4
+
+============================================================
+PAGE_099
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospital for Women and Children
+LB Nagar, Pvt Ltd
+9M
+ankura
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L.B. Nagar, Hyderabad, Telangana,
+500035
+
+Phone : 9053108108
+Website : https://www.ankurahospitals.com
+Email : info@ankurahospital.com
+
+Laboratory
+Patient Name: Baby Of Vagdevi
+Lab No: 1646870
+UHID: 162608635 / LB26/3007
+Sample Date: 27/06/2026 10:35 PM
+Age/Gender: 4 Days/Male
+Receiving Date: 28/06/2026 1:18 AM
+Bed No/Ward: IPD
+Report Date: 28/06/2026 3:03 AM
+Referred By: Dr. Srinivas Murki
+Report Status: Final
+
+Patient Mob:
+
+Hematology
+Blood Grouping and RH Typing
+Test Name Result Unit Biological Method Ref. Interval
+BLOOD GROUP B Slide Agglutination Method
+RH TYPING Positive
+
+Comments / Interpretation:
+Reconfirm the Blood Group & Rh Typing along with cross matching before blood transfusion.
+Recent blood transfusion, if any, interferes with interpretation of blood grouping.
+The blood group and Rh antigen may change in the new born, hence please repeat the test after 6 months.
+Subgroups and Bombay blood group needs to be further verified.
+
+--End Of Report--
+Dr. B Roshini Sumalini
+MBBS, MD Pathology
+Consultant Pathologist
+
+Printed on: 28/06/2026 03:00
+Approved By Dr. B Roshini Sumalini
+Page: 4 of 4
+Verified By Mr. Neelam EdukonduLU
+
+============================================================
+PAGE_100
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospitals LB Nagar Pvt Ltd
+9M
+ankura
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad, Telangana,
+500035
+
+Phone : 9053108108
+Website : https://www.ankurahospitals.com
+Email : info@ankurahospital.com
+
+Laboratory
+
+Patient Name: Baby Of Vagdevi
+Lab No: 1646874
+UHID: 162608635 / LB26/3007
+Sample Date: 28/06/2026 12:57AM
+Age/Gender: 5 Days/Male
+Receiving Date: 28/06/2026 1:18AM
+Bed No/Ward: IPD
+
+Report Date: 28/06/2026 3:03AM
+Referred By: Dr. Srinivas Murki
+Report Status: Final
+
+Patient Mob:
+
+Biochemistry
+
+Random Blood Glucose (RBS)
+Test Name: Result: Unit: Biological Method: Ref. Interval:
+Random Blood Glucose (RBS) 35 mg/dL Neonates: (1 day) (30-Hexokinase 110) Neonates (> 1 day) (40-100) Children: 60-150 Adults : 60-140 Interpretation:
+Normoglycemia: Random Plasma Glucose <140 mg/dl Diabetes: Random Blood Glucose >/= 200 mg/dl *Fasting and PP glucose estimation is advised when Random Blood Glucose level is 140-200 mg/dl
+
+--End Of Report--
+
+Dr. B Roshini Sumalini
+MBBS, MD Pathology
+Consultant Pathologist
+
+Printed on: 28/06/2026 03:00
+Approved By: Dr. B Roshini Sumalini
+Page: 1 of 2
+
+Verified By: Mr. Neelam Edukondalu
+
+============================================================
+PAGE_101
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospital for Women and Children
+LB Nagar, Pvt Ltd
+9M
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L.B. Nagar, Hyderabad, Telangana,
+500035
+
+Phone : 9053108108
+Website : https://www.ankurahospitals.com
+Email : info@ankurahospital.com
+
+Laboratory
+Patient Name : Baby Of Vagdevi
+Lab No : 1646874
+UHID : 162608635 / LB26/3007
+Sample Date : 28/06/2026 12:57 AM
+Age/Gender : 5 Days/Male
+Receiving Date : 28/06/2026 1:18 AM
+Bed No/Ward : IPD
+Report Date : 28/06/2026 3:03 AM
+Referred By : Dr. Srinivas Murki
+Report Status : Final
+
+Patient Mob :
+
+Biochemistry
+Ionic Calcium
+Test Name : Result : Unit : Biological Method :
+Ref. Interval :
+Ionic Calcium : 5.08 mg/dL Children (4.8-5.52) Adult (4.64-5.28)
+
+--End Of Report--
+Dr. B Roshini Sumalini
+MBBS, MD Pathology
+Consultant Pathologist
+
+Printed on 28/06/2026 03:00
+Approved By Dr. B Roshini Sumalini
+Page: 2 of 2
+Verified By Mr. Neelam Edukondulu
+
+============================================================
+PAGE_102
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospital for Women and Children  
+LB Nagar, Pvt Ltd  
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad, Telangana - 500035
+
+Phone : 9053108108  
+Website : <https://www.ankurahospitals.com>  
+Email : info@ankurahospital.com  
+
+Laboratory
+Patient Name: Baby of Vagdevi
+Lab No: 1646873
+UHID: 162608635 / LB26/3007
+Sample Date: 27/06/2026 11:42PM  
+Age/Gender: 4 Days/Male
+Receiving Date: 28/06/2026 1:18AM  
+Bed No/Ward: IPD
+Report Date: 28/06/2026 3:03AM  
+Referred By: Dr. Srinivas Murki
+Report Status: Final
+
+Patient Mob:
+
+Biochemistry
+Liver Function Test (LFT)
+Test Name          Result    Unit           Biological Method   Ref. Interval
+TOTAL BILIRUBIN     15.5      mg/dL         Colorimetric diazo Below 6 mg/dl
+24-48 Hours - Below 10  
+mg/dL               mg/dL
+48-72 Hours - Below 12  
+md/dL               md/dL
+Older than 72 Hours Below 15 mg/dL
+
+DIRECT BILIRUBIN    1.8      mg/dL         Diazonium        0.33 - 0.71
+INDIRECT BILIRUBIN  13.70     mg/dL         0.00 - 12.00
+ALANINE TRANSAMINASE (ALT/SGPT) 10      U/L          IFCC             10.00 - 50.00
+ASPARTATE TRANSFERASE (SGOT / AST) 35     U/L          IFCC             10.00 - 50.00
+ALKALINE PHOSPHATASE (ALP)         214     U/L          Colorimetric Assay 83.00 - 248.00
+TOTAL PROTEIN       5.2      g/dL          Turbidimetric    <15
+
+Albumin              3.4      g/dL          2.8 - 5.2
+Globulin             1.8      g/dL          2.1 - 3.5
+A/G Ratio            1.9
+
+Liver function tests help diagnose liver disease, determine its severity, and identify its type. These tests are typically done together, and abnormal results can indicate hepatic etiology. If multiple tests are abnormal at the same time, it's likely due to a liver problem, but if only one test is abnormal, it may be due to some other medical condition which shall be correlated clinically.
+
+End Of Report  
+Dr. B Roshini Sumalini  
+MBBS, MD Pathology  
+Consultant Pathologist
+
+Printed on 28/06/2026 03:00  
+Approved By Dr. B Roshini Sumalini  
+Page: 1 Of 1  
+
+Verified By Mr. Neelam EdukonduLu
+
+============================================================
+PAGE_103
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+Laboratory  
+Lab No : 1646891  
+UHID/IP No : 162608635 / LB26/3007  
+Sample Date : 28/06/2026 9:07 AM  
+Age/Gender : 5 Days/Male  
+Receiving Date : 28/06/2026 9:08 AM  
+Bed No/Ward : NICU Ward  
+Report Date : 28/06/2026 9:51 AM  
+Referred By : Dr. Srinivas Murki  
+Report Status : Final
+
+Patient Mob : 
+
+Biochemistry  
+Ammonia  
+Test Name : Result : Unit : Method : Ref. Interval :  
+Ammonia : 86.0 μmol/L : 9.0-47.0  
+
+--End Of Report--
+
+Dr. B Roshini Sumalini
+MBBS, MD Pathology
+Consultant Pathologist
+
+Printed on : 28/06/2026 09:48  
+Approved By : Dr. B Roshini Sumalini  
+Page: 1 of 1  
+
+Verified By : Mr. Neelam Edukondu卢
+
+============================================================
+PAGE_104
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+Laboratory
+Patient Name: Baby Of Vagdevi  
+Lab No: 1646879  
+UHID/IP No: 162608635 / LB26/3007  
+Sample Date: 28/06/2026 6:23AM  
+Age/Gender: 5 Days/Male  
+Receiving Date: 28/06/2026 6:52AM  
+Bed No/Ward: NICU Ward  
+Report Date: 28/06/2026 10:10AM  
+Referred By: Dr. Srinivas Murki  
+Report Status: Final
+
+Patient Mob:
+
+CLINICAL PATHOLOGY
+COMPLETE URINE EXAMINATION (CUE)
+Test Name    Result        Unit       Biological Method   Ref. Interval  
+Colour         Yellow           
+Physical Appearance Turbid  
+Specific gravity 1.015     0.000 - 1.035  
+PH Indicators  Potential of Hydrogen (PH) 6.0 Reagent Strip Method
+Glucose        Nil           Hexokinase   
+Protein        B+            Reagent Strip method-Dia screen 
+Bilirubin      Positive +    
+Ketone         Nil           Rotheras     
+Blood          Nil           Absent      
+Leucocytes     Trace        
+Leucocyte Esterase Nil       
+Urobilinogen   Negative      Fast Blue Color  
+Nitrate        Negative      
+Pus cells      6-8/hpf       01-05 /hpf Light Microscopy/Automate
+Epithelial cells 10-12/hpf    01-05 /hpf Light Microscopy/Automate 
+RBC's          Nil           Absent /hpf Light Microscopy/Automate  
+Crystals       Nil           Light Microscopy/Automated  
+Casts          Nil           Light Microscopy/Automated  
+
+OTHERS
+BACTERIA PRESENT
+
+Interpretation:
+A complete urinalysis is a test that examines the urine for various abnormalities. It can detect potential health issues, such as kidney disease,
+urinary tract infections, or excessive levels of waste products, even if symptoms are not present. Any abnormal results require further clinical
+evaluation to determine their significance and underlying cause.
+
+---End Of Report---
+
+Dr. B Roshini Sumalini  
+MBBS, MD Pathology  
+Consultant Pathologist
+
+Printed on: 28/06/2026 10:16  
+Approved By: Dr. B Roshini Sumalini  
+Page: 1 of 1  
+
+Verified By: Mr. Neelam Edukonduleh
+
+============================================================
+PAGE_105
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospitals LB Nagar Pvt Ltd
+9M
+ankura
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad, Telangana,
+500035
+hospital
+Phone : 9053108108 Website : https://www.ankurahospitals.com email : info@ankurahospital.com
+
+Laboratory
+Patient Name: Baby Of Vagdevi
+Lab No: 1646870
+UHID: 162608635 / LB26/3007
+Sample Date: 27/06/2026 10:35PM
+Age/Gender: 4 Days/Male
+Receiving Date: 28/06/2026 10:37AM
+Bed No/Ward: IPD
+Report Date: 29/06/2026 8:16AM
+Referred By: Dr. Srinivas Murki
+Report Status: Final
+Patient Mob:
+
+MICROBIOLOGY
+
+Culture and Sensitivity - Automated/VITEK, Blood
+Test Name:
+Result: No bacterial growth seen after 24 hours of aerobic incubation.
+Unit:
+Biological Method: Automated colorimetric microbial detection and identification by Vitek 2 compact
+Culture Result: PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+
+Note:
+The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color change caused by production. Microbial metabolism releases metabolites, altering pH and changing the bottle sensor color from green to yellow. The system monitors this change in real time; bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+
+---
+
+Dr. Gayatri Koride
+MBBS, MD (Microbiology)
+Consultant Microbiologist
+
+Printed on 30/06/2026 02:57
+Approved By Dr. Gayatri Koride
+Page: 1 Of 1
+Verified By Dr. Gayatri Koride
+
+============================================================
+PAGE_106
+============================================================
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+Laboratory
+Patient Name: Baby of Vagdevi
+Lab No: 1646870
+UHID/IP No: 162608635 / LB26/3007
+Sample Date: 27/06/2026 10:35 PM
+Age/Gender: 4 Days/Male
+Receiving Date: 28/06/2026 10:37 AM
+Bed No/Ward: NICU Ward
+Report Date: 29/06/2026 8:16 AM
+Referred By: Dr. Srinivas Murki
+Report Status: Final
+Patient Mob:
+
+Microbiology
+Culture and Sensitivity - Automated/VITEK, Blood
+Test Name: Result:
+Unit: 
+Biological Method: 
+Ref. Interval: 
+Specimen Type: BLOOD
+
+Automated colorimetric microbial detection and identification by Vitek 2 compact.
+Culture Result: PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+
+Note:
+The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color change caused by production. Microbial metabolism releases metabolic products, altering pH and changing the bottle sensor color from green to yellow. The system monitors this change in real time; bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+--End Of Report--
+
+Dr. Gayatri Koride
+MBBS, MD (Microbiology)
+Consultant Microbiologist
+
+Printed on 30/06/2026 08:53
+Approved By Dr. Gayatri Koride
+Page: 1 of 1
+Verified By Dr. Gayatri Koride

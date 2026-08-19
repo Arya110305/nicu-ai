@@ -1,0 +1,174 @@
+NICU DISCHARGE SUMMARY
+======================
+
+**PATIENT AND BIRTH DETAILS**
+
+Patient Name: VAGDEVI (Baby of)
+Mother Name: Not specified.
+Father Name: Not specified.
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 days, 9 months
+Admission Date: 27-06-2026 09:03 PM
+Discharge Date: Not specified.
+Birth Weight: Approximately 2.3 kg (DOL 30/06/2026)
+Admission Weight: Not specified.
+Discharge Weight: 2.26 kg (40g ↓, DOL 29/06/2026)
+Blood Group: B
+Rh Typing: Positive
+Gestational Age: Approximately 36 weeks.
+
+Place of Birth: Not specified.
+Mode of Delivery: Not specified.
+Indication: Not specified.
+APGAR: Not specified.
+Resuscitation at Birth: Bag-and-mask ventilation, Chest compressions.
+Cry at Birth: Delayed Cry (documented in Daily Clinical Progress 28/06)
+
+**ANTENATAL AND PERINATAL HISTORY**
+
+Patient VAGDEVI, a male infant born approximately 36 weeks gestation, was admitted with symptomatic hypoglycemia and neonatal seizures. Maternal details are limited but indicate a booked pregnancy.  Maternal blood group is B positive. No specific antenatal complications or illnesses were explicitly documented beyond the need for pyridoxine administration (stat given q car).
+
+**HISTORY OF PRESENT ILLNESS / REASON FOR ADMISSION**
+
+The infant presented with lethargy, respiratory distress, and acrocyanosis. Seizures began on DOL 1, occurring over a period of approximately 48 hours and requiring treatment with inj. Phenobarbitone.  Hypoglycemia was also present, with a documented GRBS of 35 mg/dL. Outside hospital management included a 10% dextrose bolus and Levetiracetam loading dose prior to transfer.
+
+**OUTSIDE-HOSPITAL MANAGEMENT**
+
+Prior to admission, the infant received a 10% dextrose bolus and a loading dose of Levetiracetem.
+
+**ADMISSION EXAMINATION**
+
+On admission (27/06/2026), the infant exhibited gross head lag, scarf crossing midline, shoulder dystonia, and hypotonia ("tapu sugarlids"). Vital signs included HR 130 bpm, SpO2 98%, and temperature 36.5°C. Respiratory support was initially provided via NIPPV.
+
+**DIAGNOSES / CLINICAL PROBLEMS**
+
+The documented diagnoses include symptomatic hypoglycemia and neonatal seizures. Other clinically important problems noted are respiratory distress and acrocyanosis.  A urine analysis revealed positive bilirubin and protein, with pus cells (6-8/hpf) and bacteria present. Stool culture was negative for bacterial growth after 24 hours of aerobic incubation. Ammonia levels were elevated at 86.0 umol/L.
+
+**MORBIDITIES AND COURSE DURING NICU STAY**
+
+**PRESENTATION / ONSET:**
+
+The baby presented with symptomatic hypoglycemia and neonatal seizures. Symptoms included lethargy, respiratory distress, and acrocyanosis. Initial examination revealed gross head lag, scarf crossing midline, shoulder dystonia, and tapu sugarlids (tone). A random blood glucose was 32 mg/dL at the referring hospital prior to referral.
+
+**IMPORTANT INVESTIGATIONS / FINDINGS:**
+
+*   **Neurological:** Seizures were documented for approximately 48 hours. Neurological examination revealed gross head lag, scarf crossing midline, shoulder dystonia, and tapu sugarlids (tone). MRI brain was ordered.
+*   **Glucose/Metabolic:** Initial GRBS was 109 mg/dL. Subsequent random blood glucose values included 7.60 mg/dL (28/06), 35 mg/dL (28/06), and 94 mg/dL (29/06). Ionic Calcium was 5.08 mg/dL. Ammonia level was elevated at 86.0 umol/L.
+*   **Respiratory:** Initially required NIPPV for respiratory distress.
+*   **Infective:** CUE-Bacteria(+) on inj. Cefotaxime D3. Urine analysis showed pus cells (6-8/hpf), epithelial cells (10-12/hpf) and bacteria present. Stool culture was negative.
+*   **Hematological:** Hemoglobin 15.6 g/dL, PCV 49.8%, WBC Count 9100 cells/cumm.
+*   **Renal:** Creatinine 0.4 mg/dL, Urea 20 mg/dL.
+*   **Hepatic:** Total Bilirubin 15.5 mg/dL, Direct Bilirubin 1.8 mg/dL, Indirect Bilirubin 13.70 mg/dL, ALT 10 U/L, AST 35 U/L, ALP 214 U/L.
+
+**TREATMENT COURSE:**
+
+*   **Hypoglycemia:** Initially treated with dextrose bolus and glucose infusion at a rate of 8 mg/kg/hr (UF 10γ.D- 10.5 ml 1h2 on c0low). GRBS monitoring was implemented.
+*   **Seizures:** Received Levetiracetam loading dose, followed by Phenobarbitone maintenance.  Pyridoxine was administered stat q car. Seizure activity persisted for approximately 48 hours.
+*   **Respiratory Support:** Initially required NIPPV; transitioned to room air on DOL 29/06.
+*   **Infection:** Started on inj. Cefotaxime D3, continued until D415.
+*   **Electrolyte Correction:** Inj. Calcimaxplus Q6H was administered.
+
+**MEDICATION TIMELINE:**
+
+*   **Levetiracetam:** Loading dose administered; stopped on 29/06.
+*   **Phenobarbitone:** Initially given as maintenance, converted to oral formulation.
+*   **Cefotaxime:** Started D3 and continued until D415.
+*   **Calcimaxplus:** Administered Q6H.
+
+**DAILY PROGRESSION (Chronological):**
+
+*   **28/06:** Baby on minimal oxygen. Four to five seizures overnight. GRBS 7.60 mg/dL. Plan for ventilation and midazolam was considered, but not implemented based on subsequent stabilization.
+*   **29/06:** Levetiracetam stopped. Phenobarbitone continued. MRI brain planned after sugars normalize. Peripheral Cannulation performed.
+*   **30/06:** No further hypoglycemic episodes. Hypotonia noted. Passed urine and stool. Neurology opinion by Dr. teerthi Kandhana madau was obtained. Spoon feed 30ml initiated, with additional IV fluids. Glucose infusion rate adjusted to SIF-EBm 15ml.
+*   **DOL 29/06:** Respiratory support transitioned to room air. Weight decreased from 2.3 kg to 2.26 kg (40g ↓). GRBS was 94 mg/dL.
+
+**NEUROLOGICAL COURSE:**
+
+Seizures were present for approximately 48 hours and treated with inj. Phenobarbitone maintenance. Neurological examination revealed gross head lag, scarf crossing midline, shoulder dystonia, and tapu sugarlids (tone). MRI brain was ordered to investigate the etiology of seizures.  Pyridoxine trial was initiated.
+
+**GLUCOSE / METABOLIC COURSE:**
+
+Symptomatic hypoglycemia was present initially. GRBS values fluctuated, requiring adjustments in glucose infusion rates. Glucose monitoring continued throughout the admission. Ionic calcium and ammonia levels were also monitored.
+
+**RESPIRATORY COURSE:**
+
+Initially required NIPPV for respiratory distress; transitioned to room air on DOL 29/06.
+
+**FEEDING / NUTRITION COURSE:**
+
+Initially NPO, then progressed to spoon feeds (30 ml) ad lib with supplemental IV fluids.
+
+**CONSULTATIONS:**
+
+*   **Pediatric Neurology:** Dr. teerthi Kandhana madau was consulted regarding seizures and neurological findings.
+
+**PROCEDURES:**
+
+*   Peripheral IV Cannulation
+*   UVC
+*   MRI brain (ordered, results pending)
+
+**INVESTIGATIONS**
+
+**Complete Blood Picture:** 28/06: Hemoglobin (HB): 15.6 g/dL, Packed Cell Volume (PCV): 49.8 %, MCV: 80.9 fL, MCH: 25.4 pg, MCHC: 31.4 gm/dl, RBC Count: 6.15 x10^6/uL, WBC Count: 9100 cells/cumm, Platelet Count: 183000 /mm3, Neutrophils: 68 %, Lymphocytes: 24%, Eosinophils: 03%, Monocytes: 05%, Basophils: 0%.
+
+**Inflammatory Markers:** CRP: 2.4 mg/L
+
+**Renal Function:** Urea: 20 mg/dL, Creatinine: 0.4 mg/dL
+
+**Electrolytes & Minerals:** Sodium Serum: 142 mmol/L, Potassium Serum: 5.1 mmol/L, Chloride Serum: 107 mmol/L, Calcium Serum: 8.6 mg/dL, Ionic Calcium: 5.08 mg/dL
+
+**Liver Function:** Total Bilirubin: 15.5 mg/dL, Direct Bilirubin: 1.8 mg/dL, Indirect Bilirubin: 13.70 mg/dL, Alanine Transaminase (ALT/SGPT): 10 U/L, Aspartate Transferase (AST): 35 U/L, Alkaline Phosphatase (ALP): 214 U/L, Total Protein: 5.2 mg/dL, Albumin: 3.4 g/dL, Globulin: 1.8 g/dL
+
+**Blood Gas:** 28/06: pH 7.373, pCO2 37.13, HCO3 21.3, BE -4
+
+**Glucose / Metabolic Investigations:** Random Blood Glucose (RBS): 35 mg/dL, GRBS: 109 mg/dL (28/06), GRBS: 7.60 mg/dL (28/06), GRBS: 60 mg/dL (DOL 30/06), GRBS: 94 mg/dL (DOL 30/06), Ammonia: 86.0 umol/L
+
+**Microbiology:** Stool Culture: No bacterial growth seen after 24 hours of aerobic incubation. Urine Examination: Yellow, turbid, pH 6.0, glucose negative, protein positive, bilirubin positive, ketones negative, blood negative, leucocytes trace, pus cells 6-8/hpf, epithelial cells 10-12/hpf, bacteria present.
+
+**Imaging:** MRI brain ordered (29/06) - Plan after sugars normalize.
+
+**PROCEDURES AND INTERVENTIONS**
+
+*   Peripheral Cannulation
+*   UVC insertion
+*   Respiratory Support: LFNC 0.1 L/min (initially)
+*   Respiratory Support: NIPPV (initially)
+*   Intubation (implied by respiratory support)
+*   Extubation (implied by transition to room air)
+
+**TREATMENTS GIVEN**
+
+*   Levetiracetam: Loading dose administered. Stopped on 29/06.
+*   Phenobarbitone: Maintenance dose administered, converted to oral formulation.
+*   Inj. Cefotaxime (D3) - indication not specified.
+*   Pyridoxine: Stat given q car.
+*   Calcimaxplus Q6H
+*   Optineuron
+
+**FINAL STATUS**
+
+The baby demonstrated improvement with treatment, including stabilization of glucose levels and resolution of seizure activity. Respiratory support was weaned to room air. Feeding progressed to spoon feeds ad lib.
+
+**CONDITION AT DISCHARGE**
+
+The baby is currently stable on room air. He was initially requiring LFNC at 0.1 L/min, which was subsequently reduced to 0.1 L/min. Neurologically, he had recurrent seizures for 48 hours, treated with Phenobarbitone; however, there have been no further seizures documented. Gross head lag, scarf crossing midline and shoulder dystonia were noted initially. He is now taking spoon feeds ad lib and tolerating them well. His GRBS has stabilized, and IV glucose infusion was stopped.  He passed urine and stool.
+
+**DISCHARGE MEDICATIONS**
+
+*   Phenobarbitone syrup: maintenance
+*   Calcium Q6H
+
+**DISCHARGE ADVICE**
+
+Continue Phenobarbitone syrup as prescribed. Continue Calcium supplementation.
+
+**FOLLOW-UP**
+
+Neurology review to follow. MRI brain report pending.
+
+**PENDING REPORTS / INVESTIGATIONS**
+
+MRI brain report pending.

@@ -1,0 +1,157 @@
+SOURCE PAGE: PAGE_076
+DOCUMENT TYPE: PATIENT & FAMILY EDUCATION FORM
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+MATERNAL AND ANTENATAL HISTORY
+Name: VAGDEVI
+DOB/AGE: [UNCERTAIN: Consult: DR. SRINIVAS MURKI]
+Adm Date: 27-06-2026 09:03 PM
+
+DIAGNOSES AND CLINICAL PROBLEMS
+further seiaures
+hypoglyeemia
+
+CLINICAL CONDITION
+Stable
+
+NURSING DOCUMENTATION
+Topic Content: further seiaures, hypoglyeemia, Stable
+Name & Sign of Staff Attendant: [UNCERTAIN: Tf]
+Date & Time: 30/16/86
+MTRIBecwn ecporn
+Qlwcorling
+S1O
+OCCiPTTU
+Iabe
+inveverau
+R
+Srde
+mexon
+Peeqrerrs now expllened
+
+SOURCE PAGE: PAGE_077
+DOCUMENT TYPE: PATIENT & FAMILY EDUCATION FORM
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+MATERNAL AND ANTENATAL HISTORY
+Name: VAGDEVI
+DOB/AGE: [UNCERTAIN: Consult: DR. SRINIVAS MURKI]
+Adm Date: 27-06-2026 09:03 PM
+
+NURSING DOCUMENTATION
+Topic Content: [UNCERTAIN: II AH DTscheeepe Baby abe]
+Name & Sign of Staff Attendant: [UNCERTAIN: ]
+Date & Time: [UNCERTAIN: ]
+
+SOURCE PAGE: PAGE_078
+DOCUMENT TYPE: PERIPHERAL CANNULATION SHEET
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+Consult: DR. SRINIVAS MURKI
+
+PROCEDURES
+1st CANNULA: [UNCERTAIN: Sr. Rofi]
+Insertion Date: [UNCERTAIN:]
+Time: 2≠1626
+Place of Insertion: Liglkt Hard
+Cannula size: [UNCERTAIN:]
+Removal Date: [UNCERTAIN:]
+Removed by: [UNCERTAIN:]
+Reason: [UNCERTAIN:]
+
+2nd CANNULA: [UNCERTAIN:]
+Insertion Date: [UNCERTAIN:]
+Time: [UNCERTAIN:]
+Inserted by: [UNCERTAIN:]
+Place of Insertion: [UNCERTAIN:]
+Cannula size: [UNCERTAIN:]
+Removal Date: [UNCERTAIN:]
+Removed by: [UNCERTAIN:]
+Reason: [UNCERTAIN:]
+
+3d CANNULA: [UNCERTAIN:]
+Insertion Date: [UNCERTAIN:]
+Time: [UNCERTAIN:]
+Inserted by: [UNCERTAIN:]
+Place of Insertion: [UNCERTAIN:]
+Cannula size: [UNCERTAIN:]
+Removal Date: [UNCERTAIN:]
+Removed by: [UNCERTAIN:]
+Reason: [UNCERTAIN:]
+
+PERIPHERAL VENOUS THERMBOPHLEBITIS
+Grade of Thrombophlebitis: GRO / GR1 / GR2 / GR3 / GR4 / GR5 (Please Tick)
+
+INFLUSATE SOLUTION ON FLOW
+Name of the Drug and Mg: [UNCERTAIN:]
+Name of the Fluids and Rate of on flow per Hour: [UNCERTAIN:]
+
+NOTE:
+GR0 - No Pain or Redness (observe the cannula)
+GR1 - Pain or Redness (observe the cannula)
+GR2 - Pain, erythema, swelling (resite the cannula)
+GR3 - Pain, erythema, swelling (resite and treatment)
+GR4 - Pain, erythema, induration, palpable venous cord (resite and treatment)
+GR5 - Pain, erythema, induration, palpable venous cord, pyrexia (resite and treatment)
+
+SOURCE PAGE: PAGE_079
+DOCUMENT TYPE: PERIPHERAL CANNULATION SHEET
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+VITAL SIGNS
+Date: 28/6/26 Time: 9P3 VIP SCORE: -0- Remarks: [UNCERTAIN: ] Signature: Anasuys
+Date: 28/06/26 Time: apm VIP SCORE: -0- Remarks: [UNCERTAIN: shanel.] Signature: [UNCERTAIN:]
+Date: 27/6lm Time: 8pm VIP SCORE: – 0- Remarks: [UNCERTAIN: e] Signature: [UNCERTAIN:]
+Date: 8016(26 Time: 8cum VIP SCORE: —o - Remarks: [UNCERTAIN: eX] Signature: [UNCERTAIN:]
+Date: 30(6126) Time: 8pm VIP SCORE: - 0 Remarks: [UNCERTAIN: dy] Signature: [UNCERTAIN:]
+Date: 110+(26 Time: CB VIP SCORE: o – Remarks: [UNCERTAIN:] Signature: [UNCERTAIN:]
+
+SOURCE PAGE: PAGE_080
+DOCUMENT TYPE: NOSOCOMIAL INFECTION SURVEILLANCE FORM
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+Consult: DR. SRINIVAS MURKI
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Signs and symptoms: [UNCERTAIN:]
+Diagnosis: [UNCERTAIN:]
+
+PROCEDURES
+1. IV cannula Insertion date: 27/6/26 Removal date: 22/6/26
+2. Foley's catheter Insertion date: [UNCERTAIN:] Removal date: 28/6|26
+3. Central line Insertion date: [UNCERTAIN:] Removal date: [UNCERTAIN:]
+4. Ventilator Insertion date: [UNCERTAIN:] Removal date: Uvc

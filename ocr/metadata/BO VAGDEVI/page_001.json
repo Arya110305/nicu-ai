@@ -1,0 +1,66 @@
+{
+  "pdf_name": "BO VAGDEVI",
+  "page": 1,
+  "processing_time": 24.01,
+  "statistics": {
+    "words": 76,
+    "characters": 445,
+    "lines": 26,
+    "blocks": 26,
+    "numbers": 11
+  },
+  "confidence": {
+    "average": 95.78,
+    "minimum": 66.62,
+    "maximum": 100.0
+  },
+  "medical": {
+    "count": 12,
+    "fields": [
+      "Admission",
+      "Admission Record",
+      "Age",
+      "Gender",
+      "ICU",
+      "IM",
+      "IPD",
+      "NICU",
+      "PICU",
+      "Patient Movement Record",
+      "Patient Name",
+      "UHID"
+    ]
+  },
+  "health": {
+    "score": 63.14,
+    "status": "★★☆☆☆ Review"
+  },
+  "ocr_text": [
+    "Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D",
+    "9M",
+    "ankura",
+    "ADMISSION RECORD",
+    "hospital",
+    "Patient Movement Record",
+    "Patient Movement (Shifting) information",
+    "OP/ER/Special Room/NICU/PICU/OT",
+    "S.No",
+    "Time",
+    "Handed over by",
+    "Taken over by",
+    "Date",
+    "Shifted From",
+    "Shifted to",
+    "Remarks, if any",
+    "-Staff Name & Sign",
+    "-Staff Name & Sign",
+    "） 2%",
+    "9:020",
+    "EP",
+    "Lofe",
+    "aeiw",
+    "ANKURA HOSPITAL FOR WOMEN AND CHILDREN",
+    "REVISION NO.: 3 | ISSUE NO.: 4",
+    "AHWC/IP/F/02"
+  ]
+}

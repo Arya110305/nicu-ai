@@ -1,0 +1,105 @@
+### Page 104-107 Structured Laboratory Reports
+
+#### Patient Information:
+- **Patient Name:** B/O Vagdevi
+- **UHID/IP No:** 162608635 / LB26/3007 
+- **Age/Gender:** 4 Days/Male
+
+---
+
+### Page 104: Ammonia Test Report
+**Lab No:** 1646891  
+**UHID/IP No:** 162608635 / LB26/3007  
+**Sample Date:** 28/06/2026 9:07 AM  
+**Age/Gender:** 5 Days/Male  
+**Receiving Date:** 28/06/2026 9:08 AM  
+**Bed No/Ward:** NICU Ward  
+**Report Date:** 28/06/2026 9:51 AM  
+**Referred By:** Dr. Srinivas Murki  
+**Report Status:** Final  
+
+- **Test Name:** Ammonia  
+- **Result:** 86.0 μmol/L
+- **Unit:** μmol/L
+
+---
+
+### Page 105: Urine Examination Report (CUE)
+**Lab No:** 1646879  
+**UHID/IP No:** 162608635 / LB26/3007  
+**Sample Date:** 28/06/2026 6:23 AM  
+**Age/Gender:** 5 Days/Male  
+**Receiving Date:** 28/06/2026 6:52 AM  
+**Bed No/Ward:** NICU Ward  
+**Report Date:** 28/06/2026 10:10 AM  
+**Referred By:** Dr. Srinivas Murki  
+**Report Status:** Final  
+
+| Test Name       | Result         | Unit           | Biological Method             | Ref. Interval      |
+|-----------------|----------------|----------------|------------------------------|--------------------|
+| Colour          | Yellow         |                |                              |                    |
+| Physical Appearance | Turbid        |                |                              |                    |
+| Specific gravity | 1.015         | 0.000 - 1.035   |                              |                    |
+| PH Indicators   | Potential of Hydrogen (PH) 6.0 Reagent Strip Method |    |                             |                    |
+| Glucose         | Nil            | Hexokinase     |                              |                    |
+| Protein         | B+             | Reagent Strip method-Dia screen |      |                            |
+| Bilirubin       | Positive +     |                |                              |                    |
+| Ketone          | Nil            | Rotheras       |                              |                    |
+| Blood           | Nil            | Absent         |                              |                    |
+| Leucocytes      | Trace          |                |                              | 01-05 /hpf Light Microscopy/Automate |
+| Leucocyte Esterase | Nil          |                |                              |                    |
+| Urobilinogen    | Negative       | Fast Blue Color|                              |                    |
+| Nitrate         | Negative       |                |                              |                    |
+| Pus cells       | 6-8/hpf        | 01-05 /hpf Light Microscopy/Automate |      |                            |
+| Epithelial cells | 10-12/hpf     | 01-05 /hpf Light Microscopy/Automate |      |                            |
+| RBC's           | Nil            | Absent /hpf Light Microscopy/Automate |    |                            |
+| Crystals        | Nil            |                |                              |                    |
+| Casts           | Nil            |                |                              |                    |
+
+**Interpretation:**
+A complete urinalysis is a test that examines the urine for various abnormalities. It can detect potential health issues, such as kidney disease, urinary tract infections, or excessive levels of waste products, even if symptoms are not present. Any abnormal results require further clinical evaluation to determine their significance and underlying cause.
+
+---
+
+**Dr. B Roshini Sumalini**
+MBBS, MD Pathology
+Consultant Pathologist
+
+Printed on: 28/06/2026 10:16  
+Approved By: Dr. B Roshini Sumalini  
+Page: 1 of 1  
+Verified By: Mr. Neelam Edukonduleh
+
+---
+
+### Page 106: Blood Culture and Sensitivity Report
+**Lab No:** 1646870  
+**UHID/IP No:** 162608635 / LB26/3007  
+**Sample Date:** 27/06/2026 10:35 PM  
+**Age/Gender:** 4 Days/Male  
+**Receiving Date:** 28/06/2026 10:37 AM  
+**Bed No/Ward:** NICU Ward  
+**Report Date:** 29/06/2026 8:16 AM  
+**Referred By:** Dr. Srinivas Murki  
+**Report Status:** Final  
+
+- **Test Name:** Culture and Sensitivity - Automated/VITEK, Blood
+- **Result:** PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+- **Unit:** 
+- **Biological Method:** Automated colorimetric microbial detection and identification by Vitek 2 compact.
+- **Ref. Interval:** 
+- **Specimen Type:** BLOOD
+
+**Note:**
+The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color change caused by production. Microbial metabolism releases metabolic products, altering pH and changing the bottle sensor color from green to yellow. The system monitors this change in real time; bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+
+---
+
+**Dr. Gayatri Koride**
+MBBS, MD (Microbiology)
+Consultant Microbiologist
+
+Printed on: 30/06/2026 08:53  
+Approved By Dr. Gayatri Koride  
+Page: 1 of 1  
+Verified By Dr. Gayatri Koride

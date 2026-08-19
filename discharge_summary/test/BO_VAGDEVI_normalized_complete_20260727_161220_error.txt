@@ -1,0 +1,40 @@
+NICU DISCHARGE SUMMARY GENERATION ERROR
+========================================================================
+Time: 2026-07-27T16:12:20
+Source file: /Users/arya/Nicu_Project/nicu-ai/normalizer/output/BO VAGDEVI_normalized_complete.txt
+Error type: OllamaResponseError
+Error message: Ollama generation ended before completion.
+
+TRACEBACK
+========================================================================
+Traceback (most recent call last):
+  File "/Users/arya/Nicu_Project/nicu-ai/discharge_summary/generator.py", line 736, in main
+    results.append(generator.process_file(source_file))
+                   ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/Users/arya/Nicu_Project/nicu-ai/discharge_summary/generator.py", line 501, in process_file
+    discharge_summary = self.generate_discharge_summary(
+        evidence_report=evidence_report,
+        template_text=template_text,
+    )
+  File "/Users/arya/Nicu_Project/nicu-ai/discharge_summary/generator.py", line 613, in generate_discharge_summary
+    return generate_with_model(
+        self.model,
+    ...<2 lines>...
+        stage_name="final discharge summary generation",
+    )
+  File "/Users/arya/Nicu_Project/nicu-ai/discharge_summary/generator.py", line 342, in generate_with_model
+    response = model.generate_text(
+        system_prompt=system_prompt,
+        user_prompt=user_prompt,
+    )
+  File "/Users/arya/Nicu_Project/nicu-ai/discharge_summary/generator_model.py", line 487, in generate_text
+    result = self.generate(
+        prompt=user_prompt,
+        system_prompt=system_prompt,
+        **generation_kwargs,
+    )
+  File "/Users/arya/Nicu_Project/nicu-ai/discharge_summary/generator_model.py", line 631, in generate
+    raise OllamaResponseError(
+        "Ollama generation ended before completion."
+    )
+discharge_summary.generator_model.OllamaResponseError: Ollama generation ended before completion.

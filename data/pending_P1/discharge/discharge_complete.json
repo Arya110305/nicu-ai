@@ -1,0 +1,10 @@
+{
+  "patient_name": "pending_P1",
+  "stage": "discharge",
+  "status": "completed",
+  "workers": 4,
+  "normalized_file": "pending_P1_normalized_complete.txt",
+  "summary_file": "pending_P1_discharge_summary.txt",
+  "elapsed_seconds": 69.51,
+  "completed_at": "2026-08-06T15:19:15"
+}

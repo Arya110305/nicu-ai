@@ -1,0 +1,82 @@
+DOCUMENT INFORMATION
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+Name: Vagdevi
+Ward / Room No. 101
+Adm Date: 27-06-2026 09:03 PM
+
+PATIENT IDENTIFICATION
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 Days
+
+CONSULTATIONS
+Consult: Dr. Srinivas Murki
+
+PROCEDURES
+Arterial Line Insertion
+Ascitic Tap
+Bone Marrow Aspiration
+Central Line Insertion
+CPR
+CVP Line Insertion
+Dressing (Minor/Medium/Major/Special)
+
+LABORATORY INVESTIGATIONS
+Arterial Blood Gas Analysis (ABG)
+Complete Blood Count (CBC)
+C-reactive Protein (CRP)
+Liver Function Test (LFT)
+Renal Function Test (RFT)
+Upper Respiratory Infection (URI)
+
+IMAGING AND DIAGNOSTIC STUDIES
+MRI Done
+
+PROCEDURES
+Emergency Intubation
+Foley Catheterization
+Hemodialysis
+ICD Insertion
+IV Cannulation
+Lumbar Drain Insertion
+Lumbar Puncture
+Tracheostomy
+Nebulization
+PICC Line Insertion
+Pigtail Catheter
+Plural Tap
+Ryles Tube Insertion
+
+BEDSIDE EQUIPMENTS
+Alpha Mattress/DVT Pump
+BIPAP
+CPAP
+Continuous Positive Airway Pressure (CPAP)
+Oxygen Charges
+Ventilator Charges
+ABG (Arterial Blood Gas Analysis)
+
+CONSULTATIONS
+12-Lead ECG
+Doctors Visit
+Urine Sugar/Ketone (Rat Strips/Albumin)
+Blood Transfusions
+Diet
+
+OTHERS
+OT Charges
+Transfer IN/OUT
+
+NURSING DOCUMENTATION
+Note: Nurse must update the sheet after each procedure.
+
+NURSING STAFF IDENTIFICATION
+Name of Nursing Staff: Qo Shancy
+
+BILLING STAFF IDENTIFICATION
+Name of PCC/Billing Staff (Receiving Staff): Employee ID 2634, 16636
+
+SIGNATURES AND EMPLOYEE IDs
+Signature:
+Employee ID: AHWC/IP/F/17

@@ -1,0 +1,202 @@
+### Structured Patient Information and Laboratory Reports
+
+---
+
+#### **Patient Information**
+
+- **Patient Name:** B/O Vagdevi
+- **UHID:** 162608635
+- **IPD No.:** LB26/3007
+- **Gender:** Male
+- **Age:** 4 Days
+
+---
+
+#### **Laboratory Reports**
+
+##### **Hematology**
+- **Test Name:** Blood Grouping and RH Typing
+- **Result:**
+  - **Blood Group:** B
+  - **RH Typing:** Positive
+- **Comments / Interpretation:** 
+  - Reconfirm the blood group & Rh typing along with cross matching before blood transfusion.
+  - Recent blood transfusions may interfere with interpretation of blood grouping. 
+  - The blood group and Rh antigen may change in the newborn, hence please repeat the test after 6 months.
+
+- **Report Details:**
+  - Patient Name: Baby Of Vagdevi
+  - Lab No.: 1646870
+  - UHID/IP No.: 162608635 / LB26/3007
+  - Sample Date: 27/06/2026 10:35 PM
+  - Age/Gender: 4 Days/Male
+  - Receiving Date: 28/06/2026 1:18 AM
+  - Bed No/Ward: IPD
+  - Report Date: 28/06/2026 3:03 AM
+  - Referred By: Dr. Srinivas Murki
+  - Report Status: Final
+
+- **Reported By:** Dr. B Roshini Sumalini  
+  - MBBS, MD Pathology
+  - Consultant Pathologist
+
+- **Printed On:** 28/06/2026 03:00
+- **Approved By:** Dr. B Roshini Sumalini
+- **Page:** 4 of 4
+- **Verified By:** Mr. Neelam Edukondu
+
+---
+
+##### **Biochemistry - Liver Function Test (LFT)**
+- **Test Name:** Ionic Calcium  
+- **Result:** 5.08 mg/dL (Children: 4.8-5.52; Adult: 4.64-5.28)
+- **Report Details:**
+  - Patient Name: Baby of Vagdevi
+  - Lab No.: 1646873
+  - UHID/IP No.: 162608635 / LB26/3007
+  - Sample Date: 27/06/2026 11:42 PM 
+  - Age/Gender: 4 Days/Male
+  - Receiving Date: 28/06/2026 1:18 AM 
+  - Bed No/Ward: IPD
+  - Report Date: 28/06/2026 3:03 AM 
+  - Referred By: Dr. Srinivas Murki
+  - Report Status: Final
+
+- **Reported By:** Dr. B Roshini Sumalini  
+  - MBBS, MD Pathology
+  - Consultant Pathologist
+
+- **Printed On:** 28/06/2026 03:00
+- **Approved By:** Dr. B Roshini Sumalini
+- **Page:** 1 of 1
+- **Verified By:** Mr. Neelam EdukonduLu
+
+---
+
+##### **Biochemistry - Renal Function Test (RFT)**
+- **Test Name:** 
+  - Creatinine - Serum: 0.4 mg/dL (Ref. Interval: 0.3 - 0.9)
+  - Blood Urea: 20 mg/dL (Ref. Interval: 16.60 - 48.50)  
+  - BUN (Blood Urea Nitrogen): 9.4 mg/dL (Ref. Interval: 6.00 - 20.00)
+  - Uric Acid: 4.3 mg/dL (Ref. Interval: 3.50 - 7.20)  
+  - Calcium Serum: 8.6 mg/dL (Ref. Interval: 8.80-10.80)
+  - Sodium Serum: 142 mmol/L (Ref. Interval: 133.00 - 144.00)
+  - Potassium Serum: 5.1 mmol/L (Ref. Interval: 3.40 - 5.10)  
+  - Chloride Serum: 107 mmol/L (Ref. Interval: 97.00 - 107.00)
+
+- **Report Details:**
+  - Patient Name: Baby of Vagdevi
+  - Lab No.: 1646870
+  - UHID/IP No.: 162608635 / LB26/3007
+  - Sample Date: 27/06/2026 10:35 PM
+  - Age/Gender: 4 Days/Male
+  - Receiving Date: 28/06/2026 1:18 AM 
+  - Bed No/Ward: IPD
+  - Report Date: 28/06/2026 3:03 AM  
+  - Referred By: Dr. Srinivas Murki
+  - Report Status: Final
+
+- **Reported By:** Dr. B Roshini Sumalini  
+  - MBBS, MD Pathology
+  - Consultant Pathologist
+
+- **Printed On:** 28/06/2026 03:00
+- **Approved By:** Dr. B Roshini Sumalini
+- **Page:** 2 of 4
+- **Verified By:** Mr. Neelam EdukonduLu
+
+---
+
+##### **Biochemistry - Random Blood Glucose (RBS)**
+- **Test Name:** Random Blood Glucose (RBS)
+- **Result:** 35 mg/dL
+- **Ref. Interval:**
+  - Neonates (<1 day): <110 mg/dL
+  - Neonates (>1 day): 40-100 mg/dL 
+  - Children: 60-150 mg/dL  
+  - Adults: 60-140 mg/dL
+
+- **Report Details:** 
+  - Patient Name: Baby of Vagdevi
+  - Lab No.: 1646874
+  - UHID/IP No.: 162608635 / LB26/3007
+  - Sample Date: 28/06/2026 12:57 AM 
+  - Age/Gender: 5 Days/Male  
+  - Receiving Date: 28/06/2026 1:18 AM
+  - Bed No/Ward: IPD  
+  - Report Date: 28/06/2026 3:03 AM 
+  - Referred By: Dr. Srinivas Murki  
+  - Report Status: Final
+
+- **Reported By:** Dr. B Roshini Sumalini
+  - MBBS, MD Pathology
+  - Consultant Pathologist  
+
+- **Printed On:** 28/06/2026 03:00
+- **Approved By:** Dr. B Roshini Sumalini  
+- **Page:** 1 of 2
+- **Verified By:** Mr. Neelam Edukondulu
+
+---
+
+##### **Biochemistry - Ammonia**
+- **Test Name:** Ammonia
+- **Result:** 86.0 μmol/L (Ref. Interval: 9.0-47.0 μmol/L)
+- **Report Date:** 29/06/2026 8:16 AM  
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+- **Printed On:** 30/06/2026 02:57
+- **Approved By:** Dr. Gayatri Koride
+- **Page:** 1 Of 1  
+- **Verified By:** Dr. Gayatri Koride  
+
+---
+
+##### **Microbiology - Culture and Sensitivity**
+- **Test Name:** Culture and Sensitivity - Automated/VITEK, Blood
+- **Result:** PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+- **Biological Method:** Automated colorimetric microbial detection and identification by Vitek 2 compact.
+- **Specimen Type:** BLOOD
+
+- **Report Date:** 29/06/2026 8:16 AM  
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final  
+
+---
+
+##### **Urine Examination (CUE)**
+- **Test Name:** Complete Urine Examination (CUE)
+- **Results:**
+  - **Color:** Yellow
+  - **Physical Appearance:** Turbid
+  - **Specific Gravity:** 1.015 
+  - **PH Indicators:** Potential of Hydrogen (pH) 6.0, Reagent Strip Method  
+  - **Glucose:** Nil, Hexokinase  
+  - **Protein:** B+, Reagent Strip method-Dia screen
+  - **Bilirubin:** Positive + 
+  - **Ketone:** Nil, Rotheras  
+  - **Blood:** Nil, Absent
+  - **Leucocytes (WBC):** Trace, 01-05 /hpf Light Microscopy/Automate
+  - **Leucocyte Esterase:** Nil
+  - **Urobilinogen:** Negative, Fast Blue Color  
+  - **Nitrate:** Negative 
+  - **Pus Cells:** 6-8/hpf, 01-05 /hpf Light Microscopy/Automate
+  - **Epithelial cells:** 10-12/hpf, 01-05 /hpf Light Microscopy/Automate  
+  - **RBC's:** Nil, Absent
+
+- **Interpretation:**
+  A complete urinalysis is a test that examines the urine for various abnormalities. It can detect potential health issues, such as kidney disease or urinary tract infections.
+
+- **Reported By:** Dr. B Roshini Sumalini
+  - MBBS, MD Pathology  
+  - Consultant Pathologist
+
+- **Printed On:** 28/06/2026 10:16
+- **Approved By:** Dr. B Roshini Sumalini
+- **Page:** 1 of 1  
+- **Verified By:** Mr. Neelam Edukonduleh  
+
+---
+
+These structured reports provide comprehensive details for the patient's blood group, liver and kidney function tests, urine analysis, and microbiology culture results. The information is organized to ensure accurate and timely diagnosis and treatment.

@@ -1,0 +1,40 @@
+DOCUMENT INFORMATION
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/15
+
+PATIENT IDENTIFICATION
+Patient Name : B/O Vagdevi
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 Days
+UHIDNO: 162608635
+Patient NIPD NO : LB26/3007
+MR NO:
+DOB/AGE:
+Adm Date : 27-06-2026 09:03 PM
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Further seizures noted.
+Hypoglycaemia
+
+CLINICAL OBSERVATIONS
+Stable
+Stable
+Involvement Right side
+CN
+PH
+MTRI
+Bown
+CPR
+OCCIPUT L
+MEG
+Poyres
+Hor
+
+DAILY PROGRESS
+30/6/26
+8AM
+Further seizure 
+Explained to attendant

@@ -1,0 +1,11 @@
+Field Name : Admission Date  
+Value : 27-06-2026 09:03 PM  
+
+Field Name : Admission Diagnosis  
+Value : Not Found  
+
+Field Name : Reason for Admission  
+Value : Fever of concern, Respiratory distress  
+
+Field Name : Referring Hospital  
+Value : Not Found

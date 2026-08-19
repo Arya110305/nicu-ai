@@ -1,0 +1,69 @@
+DOCUMENT INFORMATION
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 0 | ISSUE NO.: 1
+AHWC/IP/F/07
+
+PATIENT IDENTIFICATION
+Patient Name : B/O Vagdevi
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+MR No./IP No.: LB26/3007
+DOA:
+IPD NO: LB26/3007
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+He.10G-SP02.100 R:112, SPO2:96% HR: 115
+
+RESPIRATORY SUPPORT
+Ventilation: NIPPV
+
+CLINICAL OBSERVATIONS
+Bowel movement/flatulence: Not passed
+Foley: Not passed
+Genital discharge: No
+Skin integrity/Score: Normal
+Fall risk/Score: 0
+GCS/LOC: Normal, Consconscious
+Pain score: 0i-01-02.
+
+FEEDING AND NUTRITION
+Diet - Therapeutic Diet 10ml and hourly
+Dependent in feeding
+
+FLUIDS AND INTAKE-OUTPUT
+IV Fluids: 10.10+05 10y.D.
+
+LABORATORY INVESTIGATIONS
+UvC-feeds
+Bld cls: Blood calful Reporting pending
+
+IMAGING AND DIAGNOSTIC STUDIES
+EEG: NSG
+
+NURSING DOCUMENTATION
+Shift: NCCO
+Mng - Evening
+Epn-8Am
+Area
+NCCO
+9M
+hospital
+COMMUNICATION (SBAR)
+nen & children
+28/6/26
+
+HANDING OVER INFORMATION
+Handing over given by:
+Name/ID: Soascels.12277 Shancy-2634
+Taken over by:
+Name / ID: Shandy
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+Age/Sex: 
+Surgery/Procedure:

@@ -1,0 +1,82 @@
+{
+  "pdf_name": "BO VAGDEVI",
+  "page": 27,
+  "processing_time": 26.46,
+  "statistics": {
+    "words": 94,
+    "characters": 510,
+    "lines": 45,
+    "blocks": 45,
+    "numbers": 13
+  },
+  "confidence": {
+    "average": 90.22,
+    "minimum": 63.11,
+    "maximum": 100.0
+  },
+  "medical": {
+    "count": 9,
+    "fields": [
+      "Age",
+      "Gender",
+      "IM",
+      "IPD",
+      "MR No",
+      "PO",
+      "Patient Name",
+      "Progress Notes",
+      "UHID"
+    ]
+  },
+  "health": {
+    "score": 60.46,
+    "status": "★★☆☆☆ Review"
+  },
+  "ocr_text": [
+    "Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D",
+    "ankura",
+    "9M",
+    "PROGRESS NOTES",
+    "hospital",
+    "Patient Name:",
+    "MR No.:",
+    "DATE &TIME",
+    "PROGRESS NOTES",
+    "NAME & SIGN",
+    "PAIN SCORE:",
+    "(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)",
+    "3010189",
+    "UB",
+    "Dr. Seee oun",
+    "8",
+    "6 Pm",
+    "on",
+    "loom",
+    "an",
+    "NO",
+    "Jezuees",
+    "fuother",
+    "NO",
+    "Hoypo geyeenic",
+    "epirodes",
+    "Poot",
+    "MRI",
+    "Blawn",
+    "Hypotonia",
+    "Pllen",
+    "D415",
+    "vitels – ftable",
+    "Tcuim",
+    "Accepting",
+    "山",
+    "oelll",
+    "Feedu",
+    "Stop",
+    "Stop",
+    "Pyeedowne",
+    "d",
+    "ANKURA HOSPITAL FOR WOMEN AND CHILDREN",
+    "REVISION NO.: 3 | ISSUE NO.: 4",
+    "AHWC/IP/F/10"
+  ]
+}

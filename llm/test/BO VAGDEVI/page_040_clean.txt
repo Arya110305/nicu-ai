@@ -1,0 +1,47 @@
+Patient Name: B/O. Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSING CARE PLAN
+
+Hospital: Ankura Hospital for Women and Children
+
+MR No.: 2059Vg
+
+Assumption 1: Newborn
+Assumption 2: Male
+Assumption 3: Age 4 Days
+
+Diagnosis:
+URI (Upper Respiratory Infection)
+
+DOA: 3 PM
+
+HID: 0162608635
+PD: 13007
+
+Comfort
+Fever, 104°F
+
+Planning:
+
+ Admission Date: 3 PM
+
+Comprehensive Care Plan
+
+Urinary Symptoms
+
+Oxygen Administration
+
+Monitoring of Vital Signs
+
+Head Circumference Measurement
+
+Complete Blood Count (CBC)
+C Reactive Protein (CRP)
+
+Liver Function Test (LFT)
+Renal Function Test (RFT)
+
+Revision No.: 3
+Issue No.: 4
+AHWC/IP/F/05

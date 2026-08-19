@@ -1,0 +1,236 @@
+### PATIENT INFORMATION
+
+**Patient Name:** B/O. Vagdevi  
+**UHID No.:** 162608635  
+**IPD No.:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### BIRTH DETAILS
+
+- **Not provided**
+
+---
+
+### MATERNAL HISTORY
+
+- **Not provided**
+
+---
+
+### ADMISSION
+
+- **Adm Date & Time:** 27-06-2026, 09:03 PM
+- **Consultant:** Dr. Srinivas Murki  
+
+---
+
+### NICU COURSE
+
+#### Laboratory
+
+##### Hematology (CBC)
+- **Haemoglobin (HB):** 15.6 g/dL  
+- **Packed Cell Volume (PCV):** 49.8%  
+- **MCV:** 80.9 fL  
+- **MCH:** 25.4 pg  
+- **MCHC:** 31.4 g/dL  
+- **RBC Count:** 6.15 × 10^6/uL  
+- **WBC Count:** 9,100 cells/cumm  
+- **Platelet Count:** 183,000 /mm³
+
+##### Blood Group and RH Typing
+- **Blood Group:** B  
+- **RH TYPING:** Positive  
+
+**Comments / Interpretation:**
+- Reconfirm the blood group & Rh typing along with cross matching before blood transfusion.
+- Recent blood transfusions may interfere with interpretation of blood grouping. 
+- The blood group and Rh antigen may change in the newborn, hence please repeat the test after 6 months.
+
+##### Biochemistry - Random Blood Glucose (RBS)
+- **Result:** 35 mg/dL  
+- **Reference Interval:**
+  - Neonates (<1 day): <110 mg/dL
+  - Neonates (>1 day): 40-100 mg/dL 
+  - Children: 60-150 mg/dL 
+  - Adults: 60-140 mg/dL
+
+**Interpretation:** Normoglycemia (Random Plasma Glucose <140 mg/dl)
+
+##### Biochemistry - Renal Function Test (RFT)
+- **Creatinine - Serum:** 0.4 mg/dL  
+- **Blood Urea:** 20 mg/dL 
+- **BUN (Blood Urea Nitrogen):** 9.4 mg/dL
+- **Uric Acid:** 4.3 mg/dL 
+- **Calcium Serum:** 8.6 mg/dL 
+- **Sodium Serum:** 142 mmol/L 
+- **Potassium Serum:** 5.1 mmol/L 
+- **Chloride Serum:** 107 mmol/L 
+
+##### Biochemistry - Liver Function Test (LFT)
+- **Total Bilirubin:** 15.5 mg/dL  
+- **Direct Bilirubin:** 1.8 mg/dL
+- **Indirect Bilirubin:** 13.70 mg/dL 
+- **Alanine Transaminase (ALT/SGPT):** 10 U/L 
+- **Aspartate Transaminase (AST/SGOT):** 35 U/L  
+- **Alkaline Phosphatase (ALP):** 214 U/L
+- **Total Protein:** 5.2 g/dL 
+- **Albumin:** 3.4 g/dL 
+- **Globulin:** 1.8 g/dL 
+
+##### Biochemistry - Ammonia Test
+- **Result:** 86.0 μmol/L  
+- **Reference Interval:** 9.0-47.0 μmol/L
+
+##### Urinalysis (CUE)
+- **Color:** Yellow 
+- **Physical Appearance:** Turbid 
+- **Specific Gravity:** 1.015 
+- **PH Indicators:** Potential of Hydrogen (pH) 6.0, Reagent Strip Method  
+- **Glucose:** Nil, Hexokinase  
+- **Protein:** B+, Reagent Strip method-Dia screen
+- **Bilirubin:** Positive + 
+- **Ketone:** Nil, Rotheras  
+- **Blood:** Nil, Absent
+- **Leucocytes (WBC):** Trace, 01-05 /hpf Light Microscopy/Automate
+- **Pus Cells:** 6-8/hpf, 01-05 /hpf Light Microscopy/Automate
+- **Epithelial cells:** 10-12/hpf, 01-05 /hpf Light Microscopy/Automate  
+- **RBC's:** Nil, Absent
+
+**Interpretation:**
+A complete urinalysis is a test that examines the urine for various abnormalities. It can detect potential health issues, such as kidney disease or urinary tract infections.
+
+##### Blood Culture and Sensitivity (Automated/VITEK, Blood)
+- **Result:** PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+- **Biological Method:** Automated colorimetric microbial detection and identification by Vitek 2 compact.
+
+---
+
+### DAILY PROGRESS
+
+**Not provided**
+
+---
+
+### LABORATORY
+
+#### Hematology (CBC)
+- **Haemoglobin (HB):** 15.6 g/dL  
+- **Packed Cell Volume (PCV):** 49.8%  
+- **MCV:** 80.9 fL  
+- **MCH:** 25.4 pg  
+- **MCHC:** 31.4 g/dL  
+- **RBC Count:** 6.15 × 10^6/uL  
+- **WBC Count:** 9,100 cells/cumm  
+- **Platelet Count:** 183,000 /mm³
+
+#### Blood Group and RH Typing
+- **Blood Group:** B  
+- **RH TYPING:** Positive  
+
+**Comments / Interpretation:**
+- Reconfirm the blood group & Rh typing along with cross matching before blood transfusion.
+- Recent blood transfusions may interfere with interpretation of blood grouping. 
+- The blood group and Rh antigen may change in the newborn, hence please repeat the test after 6 months.
+
+#### Biochemistry - Random Blood Glucose (RBS)
+- **Result:** 35 mg/dL  
+- **Reference Interval:**
+  - Neonates (<1 day): <110 mg/dL
+  - Neonates (>1 day): 40-100 mg/dL 
+  - Children: 60-150 mg/dL 
+  - Adults: 60-140 mg/dL
+
+**Interpretation:** Normoglycemia (Random Plasma Glucose <140 mg/dl)
+
+#### Biochemistry - Renal Function Test (RFT)
+- **Creatinine - Serum:** 0.4 mg/dL  
+- **Blood Urea:** 20 mg/dL 
+- **BUN (Blood Urea Nitrogen):** 9.4 mg/dL
+- **Uric Acid:** 4.3 mg/dL 
+- **Calcium Serum:** 8.6 mg/dL 
+- **Sodium Serum:** 142 mmol/L 
+- **Potassium Serum:** 5.1 mmol/L 
+- **Chloride Serum:** 107 mmol/L 
+
+#### Biochemistry - Liver Function Test (LFT)
+- **Total Bilirubin:** 15.5 mg/dL  
+- **Direct Bilirubin:** 1.8 mg/dL
+- **Indirect Bilirubin:** 13.70 mg/dL 
+- **Alanine Transaminase (ALT/SGPT):** 10 U/L 
+- **Aspartate Transaminase (AST/SGOT):** 35 U/L  
+- **Alkaline Phosphatase (ALP):** 214 U/L
+- **Total Protein:** 5.2 g/dL 
+- **Albumin:** 3.4 g/dL 
+- **Globulin:** 1.8 g/dL 
+
+#### Biochemistry - Ammonia Test
+- **Result:** 86.0 μmol/L  
+- **Reference Interval:** 9.0-47.0 μmol/L
+
+#### Urinalysis (CUE)
+- **Color:** Yellow 
+- **Physical Appearance:** Turbid 
+- **Specific Gravity:** 1.015 
+- **PH Indicators:** Potential of Hydrogen (pH) 6.0, Reagent Strip Method  
+- **Glucose:** Nil, Hexokinase  
+- **Protein:** B+, Reagent Strip method-Dia screen
+- **Bilirubin:** Positive + 
+- **Ketone:** Nil, Rotheras  
+- **Blood:** Nil, Absent
+- **Leucocytes (WBC):** Trace, 01-05 /hpf Light Microscopy/Automate
+- **Pus Cells:** 6-8/hpf, 01-05 /hpf Light Microscopy/Automate
+- **Epithelial cells:** 10-12/hpf, 01-05 /hpf Light Microscopy/Automate  
+- **RBC's:** Nil, Absent
+
+**Interpretation:**
+A complete urinalysis is a test that examines the urine for various abnormalities. It can detect potential health issues, such as kidney disease or urinary tract infections.
+
+#### Blood Culture and Sensitivity (Automated/VITEK, Blood)
+- **Result:** PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+- **Biological Method:** Automated colorimetric microbial detection and identification by Vitek 2 compact.
+
+---
+
+### MEDICATIONS
+
+**Not provided**
+
+---
+
+### PROCEDURES
+
+- Arterial Line Insertion
+- Ascitic Tap
+- Bone Marrow Aspiration
+- Central Line Insertion
+- CPR
+- CVP Line Insertion
+- Dressing (Minor/Medium/Special)
+
+---
+
+### SCREENING
+
+- **Vagadai GRBS Monitoring**
+  - **GRBS Value:** 
+    - Date/Time: 28-6 9:20:00, 72 mg/dl (Dr. Dowey)
+    - Date/Time: 28-6 10:00 p.m., 72 mg/dl (Dr. Lavuy)
+    - Date/Time: 29-6 11:00 p.m., 72 mg/dl (Dr. Ananthor)
+    - Date/Time: 29-6 4:00 p.m., 122 mg/dl (Dr. Anasuys)
+    - Date/Time: 29-6 6:00 p.m., 98 mg/dl (Dr. Anaulte)
+    - Date/Time: 29-6 10:00 a.m., 122 mg/dl (Dr. Jujashw)
+    - Date/Time: 29-6 12:41, 94 mg/dL (Dr. Analtr)
+
+---
+
+### DISCHARGE
+
+**Not provided**
+
+---
+
+This structured format consolidates the relevant patient information and laboratory findings for a clear and organized record.

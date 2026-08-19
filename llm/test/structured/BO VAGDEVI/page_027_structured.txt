@@ -1,0 +1,36 @@
+DOCUMENT INFORMATION
+Revision No.: 3 | Issue No.: 4
+AHWC/IP/F/10
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D9M
+
+CLINICAL OBSERVATIONS
+No Deizuees
+No other
+No
+No Pseudo-glycemic
+No Epirodes
+Poor
+Hypotonia
+Pleun
+
+VITAL SIGNS
+Ftable
+
+FEEDING AND NUTRITION
+Accepting
+Feedu
+Stop
+Stop
+Feedowne
+
+PROGRESS NOTES
+Date & Time: 
+Pain Score: (REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+Tcuim: Accepting
+Ooel: Feedu

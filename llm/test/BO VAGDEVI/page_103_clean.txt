@@ -1,0 +1,31 @@
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+
+Laboratory  
+Lab No : 1646891  
+UHID/IP No : 162608635 / LB26/3007  
+Sample Date : 28/06/2026 9:07 AM  
+Age/Gender : 5 Days/Male  
+Receiving Date : 28/06/2026 9:08 AM  
+Bed No/Ward : NICU Ward  
+Report Date : 28/06/2026 9:51 AM  
+Referred By : Dr. Srinivas Murki  
+Report Status : Final
+
+Patient Mob : 
+
+Biochemistry  
+Ammonia  
+Test Name : Result : Unit : Method : Ref. Interval :  
+Ammonia : 86.0 μmol/L : 9.0-47.0  
+
+--End Of Report--
+
+Dr. B Roshini Sumalini
+MBBS, MD Pathology
+Consultant Pathologist
+
+Printed on : 28/06/2026 09:48  
+Approved By : Dr. B Roshini Sumalini  
+Page: 1 of 1  
+
+Verified By : Mr. Neelam Edukondu卢

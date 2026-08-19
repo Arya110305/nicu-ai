@@ -1,0 +1,31 @@
+DOCUMENT INFORMATION
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/05
+
+PATIENT IDENTIFICATION
+Patient Name : B/O Vagdevi
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 Days
+Patient Name: Ankura Hospital for Women & Children
+MR No.: 
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Diagnosis:
+
+CLINICAL OBSERVATIONS
+Evaluation: 9819460:400
+
+DAILY PROGRESS
+Plan: 1. Monitor patient’s vitals.
+Plan: 2. Provide necessary care and support.
+
+NURSING DOCUMENTATION
+Behavioral: Age/Sex: 4 Days Male
+Hosp Adhe: 04-94D
+Monitoring: 00:19/04
+Nurse Sent: Jamn
+Patient Name: Ateme
+3X

@@ -1,0 +1,114 @@
+SOURCE PAGE: PAGE_071
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date : 28|6 |20
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+Current Weight: [UNCERTAIN: value missing from chart]
+Current Height: [UNCERTAIN: value missing from chart]
+Blood Group & Rh Type: [UNCERTAIN: value missing from chart]
+Consult : DR. SRINIVAS MURKI
+
+CLINICAL CONDITION
+(Chart contains temperature and pulse oximetry values over time, but specific readings are not extracted due to the chart format.)
+
+======================================================================
+SOURCE PAGE: PAGE_072
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date : 29|06|26
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+Current Weight: [UNCERTAIN: value missing from chart]
+Current Height: [UNCERTAIN: value missing from chart]
+Blood Group & Rh Type: [UNCERTAIN: value missing from chart]
+Consult : DR. SRINIVAS MURKI
+
+CLINICAL CONDITION
+(Chart contains temperature and pulse oximetry values over time, but specific readings are not extracted due to the chart format.)
+
+======================================================================
+SOURCE PAGE: PAGE_073
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date : 80|6|26
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+Current Weight: [UNCERTAIN: value missing from chart]
+Current Height: [UNCERTAIN: value missing from chart]
+Blood Group & Rh Type: [UNCERTAIN: value missing from chart]
+Consult : DR. SRINIVAS MURKI
+
+CLINICAL CONDITION
+(Chart contains temperature and pulse oximetry values over time, but specific readings are not extracted due to the chart format.)
+
+======================================================================
+SOURCE PAGE: PAGE_074
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date : 01|4|26
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+Current Weight: [UNCERTAIN: value missing from chart]
+Current Height: [UNCERTAIN: value missing from chart]
+Blood Group & Rh Type: [UNCERTAIN: value missing from chart]
+Consult : DR. SRINIVAS MURKI
+
+CLINICAL CONDITION
+(Chart contains temperature and pulse oximetry values over time, but specific readings are not extracted due to the chart format.)
+
+======================================================================
+SOURCE PAGE: PAGE_075
+DOCUMENT TYPE: PATIENT & FAMILY EDUCATION FORM
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHIDNO: 162608635
+IPDNO: LB26/3007
+Age : 4 D
+Gender : Male
+
+DOCUMENT INFORMATION
+Adm Date: 27-06-2026 09:03 PM
+Consult: DR. SRINIVAS MURKI
+
+NURSING DOCUMENTATION
+28/6/26 11Am - Baby on minimal O2. 4-5 episodes of seizures overnight. Plan for SOS ventilation, inj midazolam, GRBS 7 60 mglds. No further seizures.
+29/6/26 - Stop Lenipi'l Gardenal & Phenon. Continue Neuro (o) MRI brain today for further seizures.
+29/6/26 7:30 p/m - Stable, plan to do MRI after sugar is normal.

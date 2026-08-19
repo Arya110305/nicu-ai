@@ -1,0 +1,191 @@
+Here is the structured and organized information for Vagdevi's patient record:
+
+---
+
+### Patient Information
+
+- **Patient Name:** B/O Vagdevi 
+- **UHID NO:** 162608635 
+- **IPD NO:** LB26/3007 
+- **Gender:** Male 
+- **Age:** 4 Days
+- **MR No.**: 1626 BP 658
+- **Adm Date & Time:** 27-06-2026 09:03 PM
+
+### ANKURA Hospital for Women and Children - Patient Acuity Score & Allocation
+
+- **IPD NO:** LB26/3007 
+- **Consultant:** Dr. Srinivas Murki
+- **Adm Date & Time:** 27-06-2026 09:03 PM
+
+### BIRTH DETAILS, MATERNAL HISTORY, ADMISSION DETAILS
+
+- **BIRTH DETAILS**: Not provided.
+- **MATERNAL HISTORY**: Not provided.
+- **ADMISSION DETAILS**:
+    - **Date & Time:** 27/06/2026 9:03 PM
+    - **Consultant:** Dr. Srinivas Murki
+
+### DIAGNOSIS, VITALS, LABORATORY, MEDICATIONS, PROCEDURES, ETC.
+
+- **Diagnosis**: Not provided.
+- **Vitals**: Not provided.
+- **Laboratory**:
+  - **Morning Shift (28/06/23)**: 
+    - Arterial Blood Gas Analysis
+    - Complete Blood Count (CBC)
+    - C-reactive Protein (CRP)
+    - Liver Function Test (LFT)
+    - Renal Function Test (RFT)
+    - Upper Respiratory Infection (URI)
+  - **Evening Shift**: Same as Morning Shift.
+  - **Night Shift**: Same as Morning and Evening Shift.
+
+- **Medications**: Not provided.
+- **Procedures**:
+  - Arterial Line Insertion
+  - Ascitic Tap
+  - Bone Marrow Aspiration
+  - Central Line Insertion
+  - CPR
+  - CVP Line Insertion
+
+### REQUISITION FORM, PERIPHERAL CANNULATION, LABORATORY TESTS, ETC.
+
+- **Peri-Cannulation**:
+    - Cannula: 1st 
+      - Date: 27-06-2026
+      - Time: 09:03 PM
+      - Inserted By: Dr. Srinivas Murki, Sr. Ropi
+      - Place of Insertion: Not specified
+    - Reason: Not specified
+
+- **Lab Requisition Form**: 
+  - **Patient Name:** Ankura Hospital (Diagnostics Services) for Women and Children Vagdevi
+  - **Age/Sex:** 4 M
+  - **Date & Time:** 28/06/23
+  - **Ref.by Dr. Srinivas Murki**
+
+### OTHER INFORMATION
+
+- **Note**: Nurse must update the sheet after each procedure.
+  - Name of the Staff Handing Over: Shaxy 
+  - Name of PCC/Billing staff (Receiving Staff): Anasuy  
+  - Employee ID: 2634, 10636
+  - Daily updation of patient bills in HIMS by billing staff must be done.
+  - Final verification of bill from the file at the time of discharge must be done.
+
+---
+
+### Laboratory Tests
+
+- **Hematology**: 
+    - AFB For Culture & Sensitivity
+    - Complete Blood Picture (CBP)
+    - CSF Lactate
+    - PCV
+    - HIV I & II (Rapid)
+    - Platelet Count
+    - HIV I & II (ELISA)
+    - Hemoglobin
+    - HbsAg
+    - AEC Absolute Eosinophil Count
+    - Peripheral Smear
+    - Hepatitis - A (IgM)
+    - Smear for MP
+    - Leptospira IgM
+    - Parasite V & F
+    - Weil Felix
+    - QBC
+    - HCV
+    - ESR (Erythrocyte Sedimentation Rate)
+    - Dengue IgG
+    - Blood Group & Rh Type
+    - Direct Coombs Test
+    - Dengue IgM
+    - Indirect Coombs Test
+    - Dengue Ns1 Antigen
+    - Bleeding Time
+    - OTB PCR
+    - Clotting Time
+    - HSV-PCR
+    - Mantoux Test
+    - Complete Urine Examination (CUE)
+    - RA Factor
+    - Stool Routine Examination
+    - Rotavirus Antigen Defection
+    - CSF Cell Type & Count
+    - ASO
+    - Factor Assay
+    - Widal Test
+    - Anemia Profile
+    - TORCH Profile
+    - Special Investigations: 
+      - Triple Marker
+
+- **Microbiology**: 
+  - Blood For Culture & Sensitivity
+  - Serum IgE
+  - New Born Screening
+  - Urine For Culture & Sensitivity
+  - Metabolic Screening
+  - Stool For Culture & Sensitivity
+  - Karotype Test
+  - Throat Swab For Culture & Sensitivity
+  - Syndrome Evaluation System (SES)
+  - CSF For Culture & Sensitivity
+
+### Specific Laboratory Reports
+
+- **CRP**: 2.4 mg/L, Reference: 0.01-6.00
+- **Renal Function Test (RFT)**:
+    - Creatinine: 0.4 mg/dL 
+    - Blood Urea: 20 mg/dL 
+    - BUN (Blood Urea Nitrogen): 9.4 mg/dL 
+    - Uric Acid: 4.3 mg/dL 
+    - Calcium Serum: 8.6 mg/dL 
+    - Sodium Serum: 142 mmol/L 
+    - Potassium Serum: 5.1 mmol/L 
+    - Chloride Serum: 107 mmol/L 
+
+- **Complete Blood Count (CBC)**:
+    - Haemoglobin: 15.6 g/dL
+    - Packed Cell Volume (PCV): 49.8%
+    - MCV: 80.9 fL
+    - MCH: 25.4 pg 
+    - MCHC: 31.4 gm/dL 
+    - RBC Count: 6.15 × 10^6/uL 
+    - WBC Count: 9,100 cells/cumm 
+    - Platelet Count: 183,000 /mm3 
+
+- **Blood Grouping and RH Typing**: B Positive
+
+- **Random Blood Glucose (RBS)**:
+    - Result: 35 mg/dL
+    - Reference Interval for Neonates (>1 day): 40-100 mg/dL  
+
+- **Ionic Calcium**:
+    - Result: 5.08 mg/dL 
+    - Reference Interval for Children: 4.8-5.52 
+
+- **Ammonia**:
+    - Result: 86.0 μmol/L
+    - Reference Interval: 9.0-47.0 μmol/L
+
+- **Urine Examination**: 
+    - Bilirubin Positive +, Other findings as per table.
+
+### Discharge Summary and Other Information
+
+- **Discharge Summary**: Not provided.
+- **Other Information**:
+    - Note: Nurse must update the sheet after each procedure.
+    - Daily updation of patient bills in HIMS by billing staff must be done.
+    - Final verification of bill from the file at the time of discharge must be done.  
+    - Employee ID: AHWC/IP/F/17
+
+---
+
+### Summary
+
+This structured format covers all necessary sections for Vagdevi's medical record, ensuring that relevant information is organized and easily accessible for future reference or treatment decisions.

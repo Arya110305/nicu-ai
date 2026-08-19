@@ -1,0 +1,1616 @@
+########################################################################
+STRUCTURED PART 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0022
+########################################################################
+
+SOURCE PAGE: PAGE_0001
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI (Baby of)
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 days, 9 months
+
+BIRTH DETAILS
+Gestational Age: Approximately 36 weeks.
+
+ADMISSION DETAILS
+Reason for admission: Not specified in this page.
+
+SOURCE PAGE: PAGE_0002
+DOCUMENT TYPE: Initial Assessment
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI (Baby of)
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 days, 9 months
+Weight: 2.9 kg
+Length: 45 cm
+Head Circumference: 33 cm
+
+VITAL SIGNS
+Temperature: 36.50°C
+Heart Rate: Not specified
+Respiratory Rate: Not specified
+Blood Pressure: Not specified
+SpO2: Not specified
+GRBS: 36 mg/dL
+
+PROCEDURES
+UVC: Performed
+
+SOURCE PAGE: PAGE_0003
+DOCUMENT TYPE: Initial Assessment (Doctor's)
+
+MATERNAL / ANTENATAL HISTORY
+Consanguinity: Yes/No - Unclear.
+PIH/Eclampsia: Yes/No - Unclear.
+GDM/NIDDM/IDDM: Yes/No - Unclear.
+PROM >18hrs/ Pre PROM: Yes/No - Unclear.
+APH: Yes/No - Unclear.
+Maternal Fever/ Chorioamnionitis: Yes/No - Unclear.
+
+BIRTH DETAILS
+Birth Weight: Not specified (gms)
+APGAR: Not specified
+Cord ABG: Not specified
+
+SOURCE PAGE: PAGE_0004
+DOCUMENT TYPE: Physical Examination
+
+PHYSICAL EXAMINATION
+HEAD-NECK: Normal
+CARDIOVASCULAR: Normal
+NEUROLOGY: Normal
+ABDOMEN: Normal
+SKIN: Normal
+EYES: Normal
+MUSCULOSKELETAL: Normal
+CHEST-LUNG: Normal
+
+SOURCE PAGE: PAGE_0005
+DOCUMENT TYPE: Progress Notes
+
+DIAGNOSES / CLINICAL PROBLEMS
+Hypoglycemia
+Seizures
+
+MEDICATIONS
+Levetiracetam (dose not specified)
+Phenobarbitone (dose not specified)
+
+INVESTIGATIONS
+CRP: 2.4 mg/L
+Creatinine: 0.4 mg/dL
+Urea: 20 mg/dL
+Blood Gas: pH 7.373, PCO2 37.13, HCO3 21.3, BE -4
+
+SOURCE PAGE: PAGE_0006
+DOCUMENT TYPE: Nurse's Hand Off
+
+ADMISSION DETAILS
+Date of Admission: 27/06/2026
+POD: Not specified
+
+MEDICATIONS
+IV fluids (GIR)
+Levipil
+Phenobarbitone
+
+VITAL SIGNS
+Heart Rate: 130 bpm
+Respiratory Rate: Not specified
+SpO2: 98%
+
+SOURCE PAGE: PAGE_0007
+DOCUMENT TYPE: Nurse's Hand Off
+
+MEDICATIONS
+IV fluids (GIR)
+Levipil
+Phenobarbitone
+
+VITAL SIGNS
+Heart Rate: 128 bpm
+Respiratory Rate: Not specified
+SpO2: 96%
+
+SOURCE PAGE: PAGE_0008
+DOCUMENT TYPE: Nurse's Hand Off
+
+MEDICATIONS
+IV fluids (GIR)
+Levipil
+Phenobarbitone
+
+VITAL SIGNS
+Heart Rate: 128 bpm
+Respiratory Rate: Not specified
+SpO2: 96%
+
+SOURCE PAGE: PAGE_0009
+DOCUMENT TYPE: Nurse's Hand Off
+
+MEDICATIONS
+IV fluids (GIR)
+Levipil
+Phenobarbitone
+
+VITAL SIGNS
+Heart Rate: 128 bpm
+Respiratory Rate: Not specified
+SpO2: 96%
+
+SOURCE PAGE: PAGE_0010
+DOCUMENT TYPE: Progress Notes
+
+DATE: 28/06/2026
+Respiratory Support: LFNC 0.1 L/min
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Levetiracetam, Phenobarbitone, Optineuron
+
+SOURCE PAGE: PAGE_0011
+DOCUMENT TYPE: Progress Notes
+
+MEDICATIONS
+Levetiracetam (maintenance)
+Phenobarbitone (maintenance)
+Optineuron
+
+SOURCE PAGE: PAGE_0012
+DOCUMENT TYPE: Progress Notes
+
+DATE: 28/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Levetiracetam, Phenobarbitone
+
+SOURCE PAGE: PAGE_0013
+DOCUMENT TYPE: Progress Notes
+
+DATE: 29/06/2026
+Respiratory Support: Room air.
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Levipil, Phenobarbitone
+
+SOURCE PAGE: PAGE_0014
+DOCUMENT TYPE: Progress Notes
+
+MRI brain ordered.
+
+SOURCE PAGE: PAGE_0015
+DOCUMENT TYPE: Progress Notes
+
+MEDICATIONS
+Levetiracetam (stopped)
+Phenobarbitone (maintenance)
+Optineuron (stopped)
+
+SOURCE PAGE: PAGE_0016
+DOCUMENT TYPE: Progress Notes
+
+DATE: 29/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Calcium, Phenobarbitone
+
+SOURCE PAGE: PAGE_0017
+DOCUMENT TYPE: Progress Notes
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+
+SOURCE PAGE: PAGE_0018
+DOCUMENT TYPE: Progress Notes
+
+MEDICATIONS
+Levetiracetam (stopped)
+Phenobarbitone (maintenance)
+Optineuron (stopped)
+
+SOURCE PAGE: PAGE_0019
+DOCUMENT TYPE: Progress Notes
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+
+SOURCE PAGE: PAGE_0020
+DOCUMENT TYPE: Progress Notes
+
+MEDICATIONS
+Inj. Taxim
+
+SOURCE PAGE: PAGE_0021
+DOCUMENT TYPE: Progress Notes
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+
+SOURCE PAGE: PAGE_0022
+DOCUMENT TYPE: Progress Notes
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+
+
+########################################################################
+STRUCTURED PART 0002
+SOURCE PAGES: PAGE_0023 TO PAGE_0050
+########################################################################
+
+SOURCE PAGE: PAGE_23
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+
+MATERNAL / ANTENATAL HISTORY
+[UNCERTAIN: antenatal scans]
+
+BIRTH DETAILS
+Gestational age: preterm
+
+ADMISSION DETAILS
+Reason for admission: symptomatic hypoglycemia, neonatal seizures
+
+NICU COURSE
+Diagnoses: hypoglycemic seizures
+Symptoms: lethargy, respiratory distress, acrocyanosis.
+Respiratory support: NIPPV
+Oxygen requirement: Af @ level
+Neurological findings: gross head lag, scarf crossing midline, shoulder dystonia, tone - tapu sugarlids
+Seizures: seizure x 48 hours on inj. phenobarbitone maintenance
+Hypoglycemia: GRBS – 109 mg/dL
+
+MEDICATIONS
+Levetiracetam (loading dose)
+Phenobarbital: maintenance
+
+INVESTIGATIONS
+MRI brain
+
+PROCEDURES
+UVC
+
+CONSULTATIONS
+Dr. Srinivas Murki
+
+DAILY PROGRESS
+Feeding progression: spoon feed ad lib, extra IVF
+Fluids: IV fluids
+
+DISCHARGE-RELATED INFORMATION
+Plan: with GIR-6
+
+SOURCE PAGE: PAGE_24
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+
+ADMISSION DETAILS
+DOL: 30/06/2026
+Symptoms: symptomatic hypoglycemia, neonatal seizures. Seizure x 48 hours on inj. phenobarbitone maintenance.
+
+NICU COURSE
+Weight: 2.3 kg
+Glucose: 60 mg/dL, GRBS — 109 mg/dL, 60mg/dl, 94mg/dL
+Infection: CUE—Bacteria(+) on inj. Cefotaxime D3
+
+MEDICATIONS
+Phenobarbital: maintenance
+
+INVESTIGATIONS
+GRBS: 109 mg/dL
+
+SOURCE PAGE: PAGE_25
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+
+ADMISSION DETAILS
+DOL: 30/06/2026
+Symptoms: hypoglycemic seizures. AF → i Gross head lag. Scarf Crossing midlive. Shoulder dystonia. Tone - Tapu sugarlids. MRI brain.
+
+NICU COURSE
+Neurological findings: gross head lag, scarf crossing midline, shoulder dystonia, tone - tapu sugarlids.
+Seizures: seizure x 48 hours
+Hypoglycemia: hypoglycemic episodes
+
+MEDICATIONS
+Phenobarbital: maintenance
+
+PROCEDURES
+MRI brain
+
+CONSULTATIONS
+Dr. Srinivas Murki
+
+DAILY PROGRESS
+Feeding progression: ad lib
+
+SOURCE PAGE: PAGE_26
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+
+MEDICATIONS
+Phenobarbital: maintenance
+Pyridoxine
+Taxim (D415)
+Calcimaxplus Q6H
+
+INVESTIGATIONS
+GRBS monitoring
+
+PROCEDURES
+MRI brain
+
+SOURCE PAGE: PAGE_27
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+
+NICU COURSE
+Symptoms: hypoglycemic episodes. Hypotonia
+
+MEDICATIONS
+Phenobarbital: maintenance
+
+DAILY PROGRESS
+Vitals stable
+
+SOURCE PAGE: PAGE_28
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+
+ADMISSION DETAILS
+DOL: 01/07/2026
+
+NICU COURSE
+Weight: 2.26 kg
+
+MEDICATIONS
+Phenobarbital: maintenance
+
+SOURCE PAGE: PAGE_29
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+
+ADMISSION DETAILS
+DOL: 01/07/2026
+Symptoms: symptomatic hypoglycemia / neonatal seizures.
+
+NICU COURSE
+Respiratory support: Room air
+Weight: 2.26 kg (40g ↓)
+
+MEDICATIONS
+Phenobarbital: maintenance
+
+INVESTIGATIONS
+GRBS: 94 mg/dL
+
+SOURCE PAGE: PAGE_30
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+
+NICU COURSE
+Symptoms: No hypoglycemic episodes. Hypotonia
+
+MEDICATIONS
+Phenobarbital: maintenance
+
+INVESTIGATIONS
+MRI brain
+
+SOURCE PAGE: PAGE_31
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+MEDICATIONS
+Levipil
+Phenobarbital
+Optineuron
+Taxim
+
+SOURCE PAGE: PAGE_32
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+MEDICATIONS
+Phenobarbital: dose change to oral
+
+SOURCE PAGE: PAGE_33
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+MEDICATIONS
+Gardenal
+
+SOURCE PAGE: PAGE_34
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_35
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_36
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_37
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_38
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_39
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_40
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_41
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_42
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Vitals: HR: 124 bpm, SpO2: 95%, Temp: 36.5°C
+
+MEDICATIONS
+Levipil (loading dose)
+Phenobarbital (loading dose)
+Taxim
+
+SOURCE PAGE: PAGE_43
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Vitals: HR: 128 bpm, SpO2: 96%
+
+MEDICATIONS
+Phenobarbital: maintenance
+
+SOURCE PAGE: PAGE_44
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_45
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_46
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: NIPPV at 10 L/min.
+
+SOURCE PAGE: PAGE_47
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_48
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Vitals: HR: 124 bpm, SpO2: 95%, Temp: 36.5°C
+
+SOURCE PAGE: PAGE_49
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+SOURCE PAGE: PAGE_50
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Vitals: HR: 128 bpm, SpO2: 96%
+Feeding: IV fluids.
+
+
+########################################################################
+STRUCTURED PART 0003
+SOURCE PAGES: PAGE_0051 TO PAGE_0072
+########################################################################
+
+SOURCE PAGE: PAGE_0051
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+MATERNAL / ANTENATAL HISTORY
+[UNCLEAR: antenatal scans]
+
+BIRTH DETAILS
+Gestational age: [UNCLEAR: gestational age]
+Birth weight: [UNCLEAR: birth weight]
+
+ADMISSION DETAILS
+Admission Date: 27-06-2026 09:03 PM
+
+NICU COURSE
+Respiratory support: Oxygen support
+Seizures: [UNCLEAR: seizure history]
+Feeding history: Feeding progression
+
+MEDICATIONS
+[UNCLEAR: medication dose appears to be 80] phenobarbitone BD
+[UNCLEAR: medication dose appears to be Tanefn BD]
+Glucose infusion: Cal. glielowak blt
+
+PROCEDURES
+IV cannulation: IV line present
+
+VITAL SIGNS
+Vital signs checked and recorded.
+
+SOURCE PAGE: PAGE_0052
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Vital signs checked and recorded.
+
+SOURCE PAGE: PAGE_0053
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+ADMISSION DETAILS
+DOL: 29/06/2026
+
+NICU COURSE
+Respiratory support: Room air.
+Feeding progression: Baby taking 15 ml slf and baly.
+Feeding progression: Baby feed accepting well.
+Glucose infusion: UF 10γ.D- 10.5 ml 1h2 on c0low
+Seizures: [UNCLEAR: seizure history]
+
+MEDICATIONS
+Optineuron IM
+Jaim
+OkalCalcemaoplus
+Phenobarbitone
+
+PROCEDURES
+UVC: UVC
+
+SOURCE PAGE: PAGE_0054
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Symptoms: Passed urine and stool.
+
+MEDICATIONS
+[UNCLEAR: medication dose appears to be Calcumax p]
+Phenobarbitone
+
+CONSULTATIONS
+Neurologist opinion by Dr. teerthi Kand hana madau
+
+INVESTIGATIONS
+MRI contrast bill raised.
+
+SOURCE PAGE: PAGE_0055
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Symptoms: [UNCLEAR: symptoms]
+
+SOURCE PAGE: PAGE_0056
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Respiratory support: Room air.
+Seizures: [UNCLEAR: seizure history]
+
+MEDICATIONS
+[UNCLEAR: medication dose appears to be pheno barbuone]
+
+SOURCE PAGE: PAGE_0057
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Respiratory support: Room air.
+Seizures: [UNCLEAR: seizure history]
+
+MEDICATIONS
+[UNCLEAR: medication dose appears to be pheno barbuone]
+
+PROCEDURES
+IV cannulation: IV cannulation present
+
+SOURCE PAGE: PAGE_0058
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Respiratory support: Room air.
+Seizures: [UNCLEAR: seizure history]
+
+MEDICATIONS
+[UNCLEAR: medication dose appears to be pheno barbi tono]
+
+SOURCE PAGE: PAGE_0059
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Respiratory support: Room air.
+Feeding progression: Baby taking 30 ml slf and baly.
+Glucose infusion: UF t0γ.D- 3.5 ml 1hr on colow
+Seizures: [UNCLEAR: seizure history]
+
+MEDICATIONS
+Pyridoxine 80 mg OD, stat given q car
+Jazim
+Okalcalcumaoplus
+Phenobarbitone
+
+PROCEDURES
+UVC: MRI done.
+
+SOURCE PAGE: PAGE_0060
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Respiratory support: Room air.
+Seizures: [UNCLEAR: seizure history]
+
+MEDICATIONS
+Pyridoxine 80 mg OD, stat given q car
+Phenobarbitone
+
+PROCEDURES
+UVC: MRI done.
+
+SOURCE PAGE: PAGE_0061
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Symptoms: Passed urine and stool.
+
+MEDICATIONS
+[UNCLEAR: medication dose appears to be pheno barbi tono]
+
+SOURCE PAGE: PAGE_0062
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Respiratory support: Room air.
+Seizures: [UNCLEAR: seizure history]
+
+MEDICATIONS
+[UNCLEAR: medication dose appears to be pheno barbi tono]
+
+SOURCE PAGE: PAGE_0063
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Respiratory support: Room air.
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+Pyridoxine 80 mg OD, stat given q car
+
+SOURCE PAGE: PAGE_0064
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+Pyridoxine 80 mg OD, stat given q car
+
+SOURCE PAGE: PAGE_0065
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+Pyridoxine 80 mg OD, stat given q car
+
+SOURCE PAGE: PAGE_0066
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+Pyridoxine 80 mg OD, stat given q car
+
+SOURCE PAGE: PAGE_0067
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+Pyridoxine 80 mg OD, stat given q car
+
+SOURCE PAGE: PAGE_0068
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 D 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+Pyridoxine 80 mg OD, stat given q car
+
+SOURCE PAGE: PAGE_0069
+DOCUMENT TYPE: Laboratory Report
+
+CRP: 2.4 mg/L
+Creatinine: 0.4 mg/dL
+Urea: 20 mg/dL
+
+SOURCE PAGE: PAGE_0070
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+Vital signs documented throughout the page.
+
+SOURCE PAGE: PAGE_0071
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+Vital signs documented throughout the page.
+
+SOURCE PAGE: PAGE_0072
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+Vital signs documented throughout the page.
+
+
+########################################################################
+STRUCTURED PART 0004
+SOURCE PAGES: PAGE_0073 TO PAGE_0086
+########################################################################
+
+PAGE 73
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+MR Number:
+
+VITAL SIGNS
+Vital signs monitoring chart.
+
+PAGE 74
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+MR Number:
+
+VITAL SIGNS
+Vital signs monitoring chart.
+
+PAGE 75
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+MR Number:
+
+ADMISSION DETAILS
+Admission Date: 27-06-2026 09:03 PM
+
+DAILY PROGRESS
+28/06: Baby on minimal O2. 4-5 episodes of seizures overnight. Plan sos ventilation and midazolam. GRBS 7.60 mg/dL. No further seizures.
+29/06: Stop Levetiracetam. Continue Phenobarbital. Newro (O). MRI brain today for further seizures.
+29/06: Stable. Plan to do MRI after sugars are normal.
+
+PAGE 76
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+MR Number:
+
+ADMISSION DETAILS
+Admission Date: 27-06-2026 09:03 PM
+
+DAILY PROGRESS
+Further seizures and hypoglycemia. Stable.
+
+PAGE 77
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+MR Number:
+
+ADMISSION DETAILS
+Admission Date: 27-06-2026 09:03 PM
+
+PAGE 78
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+MR Number:
+
+PROCEDURES
+Peripheral Cannulation.
+
+PAGE 79
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+MR Number:
+
+PAGE 80
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+MR Number:
+
+PAGE 81
+REQUISTION FORM
+Investigations requested.
+
+PAGE 82
+REQUISTION FORM
+Investigations requested.
+
+PAGE 83
+REQUISTION FORM
+Patient Name: Vagadevi
+Date: 28/6/26
+Ref. by Dr.: MS. nunm
+Sample Collected By: Sis. AnaLug
+Clinical Diagnosis & H/O Administration of Drugs: Ammonia
+
+PAGE 84
+REQUISTION FORM
+Patient Name: vagadevi
+Date: 28/6/26
+Ref. by Dr.: Dr. S.mulk
+Sample Collected By: Sis. fnasuy
+Clinical Diagnosis & H/O Administration of Drugs:
+
+PAGE 85
+BILLING RECORD
+Patient Name: Rlo. vagdcvi
+Admission Date: 27-06-2026 09:03 PM
+
+PAGE 86
+BILLING RECORD
+Patient Name: Rlo. vagdcvi
+Admission Date: 27-06-2026 09:03 PM
+
+
+########################################################################
+STRUCTURED PART 0005
+SOURCE PAGES: PAGE_0087 TO PAGE_0096
+########################################################################
+
+SOURCE PAGE: PAGE_0087
+DOCUMENT TYPE: Billing Record
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+MATERNAL / ANTENATAL HISTORY
+[UNCLEAR: Doctor's Name: Os- ·murk]
+
+BIRTH DETAILS
+Gestational age: [UNCLEAR: 9M]
+
+ADMISSION DETAILS
+Admission Date: 29/06/2026
+
+PROCEDURES
+Arterial Line Insertion
+Ascitic Tap
+Bone Marrow Aspiration
+Central Line Insertion
+CPR
+CVP line Insertion
+Dressing Minor/Medium/Major/Special
+Emergency/Elective Intubation
+Foleys Catherization
+HD Cathter
+Hemodialysis
+ICD Insertion
+IV Cannulation
+Lumbar Drain insertion
+Lumbar Puncture
+Tracheostomy
+Nebulization
+PICC line Insertion
+Pigtail Catheter
+Plueral Tap
+Ryles Tube Insertion
+Sedation Anesthesia
+Surfactant Administration
+Tracheostomy Decannulation
+Tracheostomy Tube Change
+Umblical Catheterisation
+Ventricular Tapping
+Ventillator Charges
+
+CONSULTATIONS
+[UNCLEAR: xicurologist apnian]
+
+SOURCE PAGE: PAGE_0088
+DOCUMENT TYPE: Billing Record
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+BIRTH DETAILS
+Gestational age: [UNCLEAR: 9M]
+
+ADMISSION DETAILS
+Admission Date: 27-06-2026 09:03 PM
+
+PROCEDURES
+Arterial Line Insertion
+Ascitic Tap
+Bone Marrow Aspiration
+Central Line Insertion
+CPR
+CVP line Insertion
+Dressing Minor/Medium/Major/Special
+Emergency/Elective Intubation
+Foleys Catherization
+HD Cathter
+Hemodialysis
+ICD Insertion
+IV Cannulation
+Lumbar Drain insertion
+Lumbar Puncture
+Tracheostomy
+Nebulization
+PICC line Insertion
+Pigtail Catheter
+Plueral Tap
+Ryles Tube Insertion
+Sedation Anesthesia
+Surfactant Administration
+Tracheostomy Decannulation
+Tracheostomy Tube Change
+Umblical Catheterisation
+Ventricular Tapping
+
+INVESTIGATIONS
+MRI done
+
+SOURCE PAGE: PAGE_0089
+DOCUMENT TYPE: Billing Record
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+ADMISSION DETAILS
+Admission Date: 27-06-2026 09:03 PM
+
+PROCEDURES
+Arterial Line Insertion
+Ascitic Tap
+Bone Marrow Aspiration
+Central Line Insertion
+CPR
+CVP line Insertion
+Dressing Minor/Medium/Major/Special
+Emergency/Elective Intubation
+Foleys Catherization
+HD Cathter
+Hemodialysis
+ICD Insertion
+IV Cannulation
+Lumbar Drain insertion
+Lumbar Puncture
+Tracheostomy
+Nebulization
+PICC line Insertion
+Pigtail Catheter
+Plueral Tap
+Ryles Tube Insertion
+Sedation Anesthesia
+Surfactant Administration
+Tracheostomy Decannulation
+Tracheostomy Tube Change
+Umblical Catheterisation
+Ventricular Tapping
+
+SOURCE PAGE: PAGE_0090
+DOCUMENT TYPE: Requisition Form
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Age: [UNCLEAR: 4 D]
+Gender: Male
+
+INVESTIGATIONS
+ABG (Arterial Blood Gas Analysis)
+GRBS (Blood Glucose by Glucometer).
+
+SOURCE PAGE: PAGE_0091
+DOCUMENT TYPE: GRBS Monitoring Chart
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Age: [UNCLEAR: 4 D]
+Gender: Male
+
+MEDICATIONS
+GRBS values documented with dates and times.
+
+SOURCE PAGE: PAGE_0092
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Age: [UNCLEAR: 4 D]
+Gender: Male
+
+SOURCE PAGE: PAGE_0093
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Age: [UNCLEAR: 4 D]
+Gender: Male
+
+SOURCE PAGE: PAGE_0094
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Age: [UNCLEAR: 4 D]
+Gender: Male
+
+SOURCE PAGE: PAGE_0095
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Age: [UNCLEAR: 4 D]
+Gender: Male
+
+SOURCE PAGE: PAGE_0096
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Age: [UNCLEAR: 4 D]
+Gender: Male
+
+INVESTIGATIONS
+CRP: 2.4 mg/L (Reference Range not provided)
+
+
+########################################################################
+STRUCTURED PART 0006
+SOURCE PAGES: PAGE_0097 TO PAGE_0106
+########################################################################
+
+SOURCE PAGE: PAGE_0097
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+MATERNAL / ANTENATAL HISTORY
+NO DATA
+
+BIRTH DETAILS
+GESTATIONAL AGE: Unknown
+BIRTH WEIGHT: Unknown
+DELIVERY METHOD: Unknown
+APGAR: Unknown
+PLACE OF BIRTH: Unknown
+
+ADMISSION DETAILS
+UHID: 162608635
+IPD: LB26/3007
+
+INVESTIGATIONS
+LABORATORY VALUES:
+CRP: 2.4 mg/L
+Creatinine: 0.4 mg/dL
+Urea: 20 mg/dL
+Blood Urea Nitrogen (BUN): 9.4 mg/dL
+Uric Acid: 4.3 mg/dL
+Calcium Serum: 8.6 mg/dL
+Sodium Serum: 142 mmol/L
+Potassium Serum: 5.1 mmol/L
+Chloride Serum: 107 mmol/L
+
+CONSULTATIONS
+Specialist: Dr. Srinivas Murki
+
+SOURCE PAGE: PAGE_0098
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+INVESTIGATIONS
+LABORATORY VALUES:
+Hemoglobin (HB): 15.6 g/dL
+Packed Cell Volume (PCV): 49.8 %
+MCV: 80.9 fL
+MCH: 25.4 pg
+MCHC: 31.4 gm/dl
+RBC Count: 6.15 x10^6/uL
+WBC Count: 9100 cells/cumm
+Platelet Count: 183000 /mm3
+Neutrophils: 68 %
+Lymphocytes: 24%
+Eosinophils: 03%
+Monocytes: 05%
+Basophils: 0%
+Peripheral Smear (RBC): Normocytic Normochromic
+Peripheral Smear (WBC): Neutrophilia
+Peripheral Smear (Platelet): Adequate
+
+SOURCE PAGE: PAGE_0099
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+INVESTIGATIONS
+LABORATORY VALUES:
+Blood Group: B
+Rh Typing: Positive
+
+SOURCE PAGE: PAGE_100
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+INVESTIGATIONS
+LABORATORY VALUES:
+Random Blood Glucose (RBS): 35 mg/dL
+Ionic Calcium: 5.08 mg/dL
+
+SOURCE PAGE: PAGE_101
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+INVESTIGATIONS
+LABORATORY VALUES:
+Total Bilirubin: 15.5 mg/dL
+Direct Bilirubin: 1.8 mg/dL
+Indirect Bilirubin: 13.70 mg/dL
+Alanine Transaminase (ALT/SGPT): 10 U/L
+Aspartate Transferase (AST): 35 U/L
+Alkaline Phosphatase (ALP): 214 U/L
+Total Protein: 5.2 mg/dL
+Albumin: 3.4 g/dL
+Globulin: 1.8 g/dL
+
+SOURCE PAGE: PAGE_102
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+INVESTIGATIONS
+LABORATORY VALUES:
+Ammonia: 86.0 umol/L
+
+SOURCE PAGE: PAGE_103
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: Baby Of VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+INVESTIGATIONS
+LABORATORY VALUES:
+Quantity: 20 ML
+Colour: Yellow
+Physical Appearance: Turbid
+Specific gravity: 1.015
+PH: 6.0
+Glucose: Nil
+Protein: +
+Bilirubin: Positive
+Ketone: Nil
+Blood: Nil
+Leucocytes: Trace
+Pus cells: 6-8 /hpf
+Epithelial cells: 10 - 12 /hpf
+Bacteria Present
+
+SOURCE PAGE: PAGE_104
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: Baby Of VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+INVESTIGATIONS
+LABORATORY VALUES:
+Culture Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+SOURCE PAGE: PAGE_105
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: Baby Of VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+INVESTIGATIONS
+LABORATORY VALUES:
+Culture Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+SOURCE PAGE: PAGE_106
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: Baby Of VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+INVESTIGATIONS
+LABORATORY VALUES:
+Culture Result: No bacterial growth seen after 24 hours of aerobic incubation.

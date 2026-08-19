@@ -1,0 +1,10 @@
+Field Name : Value
+
+CBC : Complete Blood Count (CBC)
+CRP : C-Reactive Protein (CRP) - 2.4 mg/L
+Blood Culture : PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+Electrolytes : Sodium: 142 mmol/L, Potassium: 5.1 mmol/L, Chloride: 107 mmol/L
+Bilirubin : Total Bilirubin: 15.5 mg/dL, Direct Bilirubin: 1.8 mg/dL, Indirect Bilirubin: 13.70 mg/dL
+Blood Gas : Not Found
+Blood Sugar : Random Blood Glucose (RBS) - 35 mg/dL
+Other : Not Found

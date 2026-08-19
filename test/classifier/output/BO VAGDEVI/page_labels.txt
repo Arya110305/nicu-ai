@@ -1,0 +1,632 @@
+page_001_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+
+page_002_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - OTHER
+
+page_003_structured.md
+  - PATIENT_INFORMATION
+  - BIRTH_DETAILS
+  - MATERNAL_HISTORY
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - PROCEDURES
+  - DAILY_PROGRESS
+  - SCREENING
+  - DISCHARGE
+
+page_004_structured.md
+  - PATIENT_INFORMATION
+  - OTHER
+
+page_005_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - PROCEDURES
+  - LABORATORY
+  - OTHER
+
+page_006_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - LABORATORY
+  - DAILY_PROGRESS
+  - DISCHARGE
+
+page_007_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - DAILY_PROGRESS
+  - OTHER
+
+page_008_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - OTHER
+
+page_009_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - OTHER
+
+page_010_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - OTHER
+
+page_011_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - DAILY_PROGRESS
+  - OTHER
+
+page_012_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - OTHER
+  - NICU_COURSE
+
+page_013_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - OTHER
+
+page_014_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+  - VITALS
+  - MEDICATIONS
+  - PROCEDURES
+  - OTHER
+
+page_015_structured.md
+  - PATIENT_INFORMATION
+  - MEDICATIONS
+  - OTHER
+
+page_016_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+
+page_017_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - OTHER
+
+page_018_structured.md
+  - PATIENT_INFORMATION
+  - BIRTH_DETAILS
+  - ADMISSION
+  - MEDICATIONS
+  - PROCEDURES
+  - OTHER
+
+page_019_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - PROCEDURES
+  - DAILY_PROGRESS
+  - DISCHARGE
+
+page_020_structured.md
+  - PATIENT_INFORMATION
+  - MEDICATIONS
+  - PROCEDURES
+  - VITALS
+  - OTHER
+
+page_021_structured.md
+  - PATIENT_INFORMATION
+  - BIRTH_DETAILS
+  - MATERNAL_HISTORY
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - PROCEDURES
+  - DAILY_PROGRESS
+  - SCREENING
+  - DISCHARGE
+
+page_022_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+
+page_023_structured.md
+  - PATIENT_INFORMATION
+  - OTHER
+
+page_024_structured.md
+  - PATIENT_INFORMATION
+  - BIRTH_DETAILS
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - PROCEDURES
+  - DISCHARGE
+
+page_025_structured.md
+  - PATIENT_INFORMATION
+  - PROCEDURES
+  - DAILY_PROGRESS
+  - OTHER
+
+page_026_structured.md
+  - PATIENT_INFORMATION
+
+page_027_structured.md
+  - PATIENT_INFORMATION
+  - OTHER
+  - PROCEDURES
+  - VITALS
+
+page_028_structured.md
+  - PATIENT_INFORMATION
+  - PROCEDURES
+  - OTHER
+
+page_029_structured.md
+  - PATIENT_INFORMATION
+  - BIRTH_DETAILS
+  - VITALS
+  - LABORATORY
+  - OTHER
+
+page_030_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - OTHER
+
+page_031_structured.md
+  - PATIENT_INFORMATION
+  - MEDICATIONS
+  - OTHER
+
+page_032_structured.md
+  - MEDICATIONS
+
+page_033_structured.md
+  - MEDICATIONS
+  - OTHER
+
+page_034_structured.md
+  - PATIENT_INFORMATION
+  - NICU_COURSE
+  - OTHER
+
+page_035_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - MEDICATIONS
+  - PROCEDURES
+  - OTHER
+
+page_036_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - PROCEDURES
+  - DAILY_PROGRESS
+  - SCREENING
+  - DISCHARGE
+
+page_037_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - OTHER
+
+page_038_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - NICU_COURSE
+  - PROCEDURES
+  - OTHER
+
+page_039_structured.md
+  - PATIENT_INFORMATION
+  - NICU_COURSE
+  - OTHER
+
+page_040_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - PROCEDURES
+  - SCREENING
+
+page_041_structured.md
+  - PATIENT_INFORMATION
+  - NICU_COURSE
+  - PROCEDURES
+  - OTHER
+
+page_042_structured.md
+  - PATIENT_INFORMATION
+  - DISCHARGE
+
+page_043_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - PROCEDURES
+  - DAILY_PROGRESS
+
+page_044_structured.md
+  - PATIENT_INFORMATION
+  - OTHER
+
+page_045_structured.md
+  - PATIENT_INFORMATION
+  - NICU_COURSE
+
+page_046_structured.md
+  - PATIENT_INFORMATION
+  - NICU_COURSE
+  - LABORATORY
+  - OTHER
+
+page_047_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - PROCEDURES
+  - OTHER
+
+page_048_structured.md
+  - PATIENT_INFORMATION
+  - NICU_COURSE
+  - PROCEDURES
+  - OTHER
+
+page_049_structured.md
+  - PATIENT_INFORMATION
+  - NICU_COURSE
+  - MEDICATIONS
+  - OTHER
+
+page_050_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - MEDICATIONS
+  - OTHER
+
+page_051_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - MEDICATIONS
+  - OTHER
+
+page_052_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - OTHER
+
+page_053_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - MEDICATIONS
+  - OTHER
+
+page_054_structured.md
+  - PATIENT_INFORMATION
+  - NICU_COURSE
+  - VITALS
+  - MEDICATIONS
+  - OTHER
+
+page_055_structured.md
+  - PATIENT_INFORMATION
+  - OTHER
+
+page_056_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - MEDICATIONS
+  - PROCEDURES
+  - OTHER
+
+page_057_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - MEDICATIONS
+  - OTHER
+
+page_058_structured.md
+  - PATIENT_INFORMATION
+  - NICU_COURSE
+  - VITALS
+  - MEDICATIONS
+  - OTHER
+
+page_059_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - MEDICATIONS
+  - OTHER
+
+page_060_structured.md
+  - PATIENT_INFORMATION
+
+page_061_structured.md
+  - PATIENT_INFORMATION
+  - MEDICATIONS
+  - OTHER
+
+page_062_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - OTHER
+
+page_063_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - MEDICATIONS
+  - OTHER
+
+page_064_structured.md
+  - PATIENT_INFORMATION
+  - OTHER
+
+page_065_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - BIRTH_DETAILS
+  - MATERNAL_HISTORY
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - PROCEDURES
+  - DAILY_PROGRESS
+  - SCREENING
+  - DISCHARGE
+  - OTHER
+
+page_066_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - OTHER
+
+page_067_structured.md
+  - PATIENT_INFORMATION
+  - BIRTH_DETAILS
+  - ADMISSION
+
+page_068_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - PROCEDURES
+  - OTHER
+
+page_069_structured.md
+  - LABORATORY
+  - OTHER
+
+page_070_structured.md
+  - VITALS
+  - PATIENT_INFORMATION
+
+page_071_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+
+page_072_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - OTHER
+
+page_073_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - OTHER
+
+page_074_structured.md
+  - VITALS
+  - OTHER
+
+page_075_structured.md
+  - PATIENT_INFORMATION
+
+page_076_structured.md
+  - PATIENT_INFORMATION
+
+page_077_structured.md
+  - PATIENT_INFORMATION
+
+page_078_structured.md
+  - PROCEDURES
+
+page_079_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+
+page_080_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - DISCHARGE
+  - OTHER
+
+page_081_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+  - OTHER
+
+page_082_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+
+page_083_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+  - OTHER
+
+page_084_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+
+page_085_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - PROCEDURES
+  - DAILY_PROGRESS
+  - OTHER
+
+page_086_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - PROCEDURES
+  - VITALS
+  - LABORATORY
+  - OTHER
+
+page_087_structured.md
+  - PATIENT_INFORMATION
+  - BIRTH_DETAILS
+  - MATERNAL_HISTORY
+  - ADMISSION
+  - NICU_COURSE
+  - PROCEDURES
+  - DAILY_PROGRESS
+  - OTHER
+
+page_088_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - VITALS
+  - LABORATORY
+  - PROCEDURES
+  - DAILY_PROGRESS
+  - OTHER
+
+page_089_structured.md
+  - PROCEDURES
+  - MEDICATIONS
+  - LABORATORY
+  - VITALS
+  - SCREENING
+  - OTHER
+
+page_090_structured.md
+  - PATIENT_INFORMATION
+  - OTHER
+
+page_091_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - LABORATORY
+  - OTHER
+
+page_092_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - PROCEDURES
+  - OTHER
+
+page_093_structured.md
+  - PATIENT_INFORMATION
+  - VITALS
+  - MEDICATIONS
+  - PROCEDURES
+  - OTHER
+
+page_094_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - BIRTH_DETAILS
+  - MATERNAL_HISTORY
+  - VITALS
+  - LABORATORY
+  - MEDICATIONS
+  - PROCEDURES
+  - DAILY_PROGRESS
+  - SCREENING
+
+page_095_structured.md
+  - PATIENT_INFORMATION
+  - ADMISSION
+  - DAILY_PROGRESS
+
+page_096_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+
+page_097_structured.md
+  - LABORATORY
+  - PATIENT_INFORMATION
+
+page_098_structured.md
+  - LABORATORY
+  - PATIENT_INFORMATION
+
+page_099_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+
+page_100_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+
+page_101_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+  - OTHER
+
+page_102_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+  - OTHER
+
+page_103_structured.md
+  - LABORATORY
+  - OTHER
+
+page_104_structured.md
+  - LABORATORY
+  - OTHER
+
+page_105_structured.md
+  - PATIENT_INFORMATION
+  - LABORATORY
+
+page_106_structured.md
+  - LABORATORY
+  - PROCEDURES
+  - VITALS
+  - MEDICATIONS
+  - OTHER
+

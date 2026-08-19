@@ -1,0 +1,42 @@
+DOCUMENT INFORMATION
+ANKURA Hospital for Women and Children
+
+PATIENT IDENTIFICATION
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+MR. No.: 276
+Gender: Male
+
+LABORATORY INVESTIGATIONS
+HB%: 15.6
+PCV/HCT: 49.8
+WBC: 9,100
+DC-NEUT: 
+DC-LYMPH: 
+Platelet count: 158,000
+Peripheral Smear:
+Reticulocyte count: 
+Band Count:
+CRP: 
+Na+: 142
+K+: 5.1
+Cl+: 107
+Ca2+: 5.0
+PO4: 
+Mg2+:
+HCO3-: 
+Anion gap: 
+Urea: 20
+BUN: 
+Creatinine: 0.4
+Calculated GFR: 
+FENa: 
+Total Bilirubin: 13.5
+Direct Bilirubin: 1.5
+Indirect Bilirubin: 
+AST: 31
+ALT: 214
+ALP:
+GGT:
+Total Protein: 5.2
+Albumin: 3.4
+PT/INR:

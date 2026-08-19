@@ -1,0 +1,93 @@
+DOCUMENT INFORMATION
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+AHWC/IP/F/08
+Revision No.: 3
+Issue No.: 4
+
+PATIENT IDENTIFICATION
+Patient Name: B/O Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 Days
+MR No.:
+Current Weight:
+Current Height:
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+Temp (°C): 42.0
+Temp (°C): 41.5
+Temp (°C): 41.0
+Temp (°C): 40.5
+Temp (°C): 40.0
+Temp (°C): 39.5
+Temp (°C): 39.0
+Temp (°C): 38.5
+Temp (°C): 38.0
+Temp (°C): 37.5
+Temp (°C): 37.0
+Temp (°C): 36.5
+Temp (°C): 36.0
+Temp (°C): 35.5
+Temp (°C): 35.0
+Temp (°C): 34.5
+Temp (°C): 34.0
+BP (mmHg): 120
+BP (mmHg): 115
+BP (mmHg): 110
+BP (mmHg): 105
+BP (mmHg): 100
+BP (mmHg): 95
+BP (mmHg): 90
+BP (mmHg): 85
+BP (mmHg): 80
+BP (mmHg): 75
+BP (mmHg): 70
+BP (mmHg): 65
+BP (mmHg): 60
+BP (mmHg): 55
+BP (mmHg): 50
+BP (mmHg): 45
+HR (bpm): 160
+HR (bpm): 159
+HR (bpm): 158
+HR (bpm): 157
+HR (bpm): 156
+HR (bpm): 155
+HR (bpm): 154
+HR (bpm): 153
+HR (bpm): 152
+HR (bpm): 151
+HR (bpm): 150
+HR (bpm): 149
+HR (bpm): 148
+HR (bpm): 147
+HR (bpm): 146
+HR (bpm): 145
+HR (bpm): 144
+Resp (breaths/min): 30
+Resp (breaths/min): 29
+Resp (breaths/min): 28
+Resp (breaths/min): 27
+Resp (breaths/min): 26
+Resp (breaths/min): 25
+Resp (breaths/min): 24
+Resp (breaths/min): 23
+Resp (breaths/min): 22
+Resp (breaths/min): 21
+Resp (breaths/min): 20
+Resp (breaths/min): 19
+Resp (breaths/min): 18
+Resp (breaths/min): 17
+Resp (breaths/min): 16
+Resp (breaths/min): 15
+Resp (breaths/min): 14
+
+CONSULTATIONS
+Consult: Dr. Srinivas Murki
+
+UNCLASSIFIED CLINICAL TEXT
+Sex: Male

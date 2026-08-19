@@ -1,0 +1,50 @@
+## Discharge Summary
+
+**Patient Demographics:**
+
+Name: B/O Vagdevi
+UHID: 162608635
+IPD No.: LB26/3007
+Gender: Male
+Age at Discharge: 4 days
+
+**Antenatal History:** Not documented.
+
+**Perinatal History:** Not documented.
+
+**Birth Details:** Not documented.
+
+**Reason for Admission:**  The reason for admission is not explicitly stated in the available record.
+
+**Admission Examination:** Not documented.
+
+**Major Morbidities During NICU Stay:** Elevated total bilirubin (15.5 mg/dL with direct component of 1.8mg/dL) and mild proteinuria were noted during the hospital stay.  Elevated ammonia levels were also present at 86.0 μmol/L.
+
+**Clinical Course During NICU Stay:** Vagdevi was a 4-day-old male admitted to Ankura Hospital for Women and Children. Peripheral intravenous access was established on June 27, 2026.  Blood cultures remained negative after 24 hours of incubation. Urine examination revealed turbid appearance with protein B+, bilirubin positive, and 6-8 pus cells/hpf.
+
+**Investigations and Their Interpretation:**
+
+*   **Hematology:** Complete blood count demonstrated hemoglobin of 15.6 g/dL, PCV of 49.8%, WBC count of 9,100 cells/cumm, and platelet count of 183,000 /mm3. Peripheral smear showed normocytic normochromic red blood cells, neutrophilia, and adequate platelets.
+*   **Biochemistry:**  Renal function tests were within normal limits (Creatinine 0.4 mg/dL, Blood Urea 20mg/dL). Liver function tests revealed elevated total bilirubin with a predominantly indirect component. Alkaline phosphatase was also mildly elevated at 214 U/L. Total protein and albumin levels were normal.
+*   **Microbiology:** Blood culture was negative for bacterial growth after 24 hours.
+*   **Urine Examination:** Showed turbidity, proteinuria, and bilirubinuria with mild pyuria.
+
+**Procedures and Interventions:** Peripheral intravenous cannulation was performed on June 27, 2026.
+
+**Medications and Treatments:**  No specific medications or treatment durations are documented in the provided record.
+
+**Feeding and Nutrition:** Not documented.
+
+**Respiratory Support:** Not documented.
+
+**Neurological Status:** Not documented.
+
+**Growth During Hospital Stay:** Not documented.
+
+**Discharge Condition:** Stable for discharge at 4 days of age. Bilirubin levels, proteinuria, and elevated ammonia require follow-up as noted below.
+
+**Discharge Medications:** Not documented.
+
+**Follow-up Advice:** Continue monitoring vital signs and clinical status. Follow up with primary care physician regarding persistent bilirubinuria, proteinuria, and previously elevated ammonia levels for further evaluation and management. 
+
+**Final Clinical Summary:**  Vagdevi is a 4-day-old male who was evaluated for mild abnormalities in laboratory values including hyperbilirubinemia, proteinuria, and transiently elevated ammonia. Blood cultures were negative. He is discharged stable with recommendations for continued monitoring and follow-up with his primary care physician to address the aforementioned findings.

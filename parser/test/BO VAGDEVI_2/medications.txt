@@ -1,0 +1,116 @@
+Here is a structured and formatted version of the patient information, laboratory results, and other relevant details:
+
+---
+
+### PATIENT INFORMATION
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days
+**Adm Date:** 27-06-2026 09:03 PM
+
+---
+
+### LABORATORY
+
+#### Hematology
+
+- **Test Name:** Blood Group and Rh Typing  
+- **Result:**
+  - **Blood Group:** B
+  - **Rh Typing:** Positive
+- **Comments / Interpretation:** 
+  - Reconfirm the blood group & Rh typing along with cross matching before blood transfusion.
+  - Recent blood transfusion, if any, interferes with interpretation of blood grouping.
+  - The blood group and Rh antigen may change in a newborn, hence please repeat the test after 6 months.
+  - Subgroups and Bombay blood group need to be further verified.
+
+#### Biochemistry
+
+- **Test Name:** Random Blood Glucose (RBS)  
+- **Result:** 35 mg/dL
+- **Unit:** mg/dL
+- **Biological Method:** Hexokinase
+- **Ref. Interval:**
+  - Neonates (<1 day): <110 mg/dL
+  - Neonates (>1 day): 40-100 mg/dL
+  - Children: 60-150 mg/dL
+  - Adults: 60-140 mg/dL
+
+#### Biochemistry - Liver Function Test (LFT)
+|Test Name              | Result   | Unit     | Biological Method    | Ref. Interval|
+|-----------------------|----------|----------|---------------------|--------------|
+|Total Bilirubin        | 15.5     | mg/dL    | Colorimetric diazo   | Below 6 mg/dl |
+|Direct Bilirubin       | 1.8      | mg/dL    | Diazonium           | 0.33 - 0.71  |
+|Indirect Bilirubin     | 13.70    | mg/dL    |                     | 0.00 - 12.00 |
+|Alanine Transaminase (ALT/SGPT) | 10      | U/L      | IFCC                | 10.00 - 50.00|
+|Aspartate Transaminase (AST/SGOT) | 35     | U/L      | IFCC                | 10.00 - 50.00|
+|Alkaline Phosphatase (ALP)       | 214     | U/L      | Colorimetric Assay  | 83.00 - 248.00 |
+|Total Protein          | 5.2      | g/dL     | Turbidimetric       | <15          |
+|Albumin                | 3.4      | g/dL     | 2.8 - 5.2           |
+|Globulin               | 1.8      | g/dL     | 2.1 - 3.5           |
+|A/G Ratio              | 1.9      |         |                     |
+
+#### Biochemistry - Renal Function Test (RFT)
+|Test Name| Result| Unit| Biological Method| Ref. Interval|
+|---|---|---|---|---|
+|Creatinine - Serum| 0.4| mg/dL| Jaffe Kinetic| 0.3 - 0.9|
+|Blood Urea| 20| mg/dL| 16.60 - 48.50| Urease|
+|BUN (Blood Urea Nitrogen)| 9.4| mg/dL| 6.00 - 20.00||
+|Uric Acid| 4.3| mg/dL| 3.50 - 7.20| Enzymatic, Colorimetric|
+|Calcium Serum| 8.6| mg/dL| Photometric| 8.80-10.80|
+|Sodium Serum| 142| mmol/L| 133.00 - 144.00||
+|Potassium Serum| 5.1| mmol/L| IFCC| 3.40 - 5.10|
+|Chloride Serum| 107| mmol/L| 97.00 - 107.00||
+
+#### Biochemistry - Ammonia
+- **Test Name:** Ammonia  
+- **Result:** 86.0 μmol/L
+- **Unit:** μmol/L
+- **Method:** Not specified
+- **Ref. Interval:** 9.0-47.0 μmol/L
+
+#### Urinalysis (CUE)
+| Test Name       | Result         | Unit           | Biological Method             | Ref. Interval      |
+|-----------------|----------------|----------------|------------------------------|--------------------|
+|Colour          | Yellow         |                |                              |                    |
+|Physical Appearance | Turbid        |                |                              |                    |
+|Specific gravity | 1.015         | 0.000 - 1.035   |                              |                    |
+|PH Indicators   | Potential of Hydrogen (PH) 6.0 Reagent Strip Method |    |                             |                    |
+|Glucose         | Nil            | Hexokinase     |                              |                    |
+|Protein         | B+             | Reagent Strip method-Dia screen |      |                            |
+|Bilirubin       | Positive +     |                |                              |                    |
+|Ketone          | Nil            | Rotheras       |                              |                    |
+|Blood           | Nil            | Absent         |                              |                    |
+|Leucocytes      | Trace          |                | 01-05 /hpf Light Microscopy/Automate |
+|Leucocyte Esterase | Nil          |                |                              |                    |
+|Urobilinogen    | Negative       | Fast Blue Color|                              |                    |
+|Nitrate         | Negative       |                |                              |                    |
+|Pus cells       | 6-8/hpf        | 01-05 /hpf Light Microscopy/Automate |      |                            |
+|Epithelial cells | 10-12/hpf     | 01-05 /hpf Light Microscopy/Automate |      |                            |
+|RBC's           | Nil            | Absent /hpf Light Microscopy/Automate |    |                            |
+|Crystals        | Nil            |                |                              |                    |
+|Casts           | Nil            |                |                              |                    |
+
+#### Microbiology - Blood Culture and Sensitivity
+- **Test Name:** Culture and Sensitivity - Automated/VITEK, Blood  
+- **Result:** PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+
+---
+
+### OTHER INFORMATION
+
+**Dr. B Roshini Sumalini**
+MBBS, MD Pathology
+Consultant Pathologist
+
+Printed on 30/06/2026 08:53  
+Approved By Dr. Gayatri Koride  
+Page: 1 of 1  
+Verified By Dr. Gayatri Koride
+
+---
+
+This structured format provides a clear and organized overview of the patient's information, laboratory results, and relevant details for easy reference.

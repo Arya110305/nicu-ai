@@ -1,0 +1,5 @@
+Patient: pending_BO_VAGDEVI
+Stage: normalizer
+Time: 2026-08-11T12:53:27.342633
+Error type: RuntimeError
+Error: Normalizing Patient Record failed: One or more normalizer batches failed: batch 2: Normalizer batch 2 failed. Error saved to: /Users/arya/Nicu_Project/nicu-ai/data/pending_BO_VAGDEVI/normalizer/errors/pending_BO_VAGDEVI_normalized_batch_0002_error.txt

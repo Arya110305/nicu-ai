@@ -1,0 +1,70 @@
+########################################################################
+STRUCTURED BATCH 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0005
+########################################################################
+
+SOURCE PAGE: PAGE_0001
+DOCUMENT TYPE: Admission Record
+
+Patient Movement Record
+S.No
+Date
+Time
+Handed over by
+Taken over by
+Shifted From
+Shifted to
+Remarks, if any
+-Staff Name & Sign
+-Staff Name & Sign
+1. 151612 6:30 OP forcevc Nicu Socwsanua. Q3 19/6/26 2pm Bhavai Bhavii.
+2. Tau FcR
+3. 2116 FCR Shanay 10pm NICU Shancy
+
+SOURCE PAGE: PAGE_0002
+DOCUMENT TYPE: Neonatal Inpatient Medical Record
+
+MR No: 607289
+IP No: 2558
+Patient Name: ankura
+Consultant Name: Do.S. mur
+DOA &Time: 3115/2G
+DOD & Time: 4: 42am
+DOB/Gender: male
+Admission Provisional Diagnosis: [UNCLEAR]
+Final Diagnosis: [UNCLEAR]
+Admission data entry: By [Capitals Only] Signature: Date & Time:
+
+SOURCE PAGE: PAGE_0003
+DOCUMENT TYPE: Neonatal Inpatient Medical Record
+
+Patient Name: ankura
+MR No: 607289
+IP No: LB26/2772
+Consultant NameName : N AKSHAYA
+DOA & Time: [UNCLEAR]
+DOD & Time: [UNCLEAR]
+UHIDNO:162607289
+DOB/Gender: Age : 15 D Gender: Male
+Consult : DR. SRINIVAS MURKI
+Adm Date: 15-06-2026 12:19 PM
+Admission Provisional Diagnosis: [UNCLEAR]
+Final Diagnosis: [UNCLEAR]
+Admission data entry: By [Capitals Only] Signature: Date & Time:
+
+SOURCE PAGE: PAGE_0004
+DOCUMENT TYPE: Neonatal Inpatient Medical Record
+
+Patient Name: ankura
+MR No: 607-289
+IP No: 2558
+Consultant Name: D.S. murk
+DOA & Time: 3115/2G
+DOD & Time: 4: 42am
+DOB/Gender: male
+Admission Provisional Diagnosis: [UNCLEAR]
+Final Diagnosis: [UNCLEAR]
+Admission data entry: By [Capitals Only] Signature: Date & Time:
+
+SOURCE PAGE: PAGE_0005
+DOCUMENT TYPE: UNCERTAIN

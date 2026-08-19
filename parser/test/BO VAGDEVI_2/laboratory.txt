@@ -1,0 +1,365 @@
+### Patient Information
+
+**Patient Name:** B/O Vagdevi
+**UHID:** 162608635
+**IPD:** LB26/3007
+**Gender:** Male
+**Age:** 4 Days
+
+
+### Laboratory Tests
+
+---
+
+#### **Biochemistry - Blood Glucose**
+- **Test Name:** Random Blood Glucose (RBS)
+- **Result:** 35 mg/dL
+- **Unit:** mg/dL
+- **Biological Method:** Hexokinase
+- **Reference Interval:**
+  - Neonates: <110 mg/dL
+  - Neonates (> 1 day): 40-100 mg/dL
+  - Children: 60-150 mg/dL
+  - Adults: 60-140 mg/dL
+
+- **Interpretation:**
+  - Normoglycemia: Random Plasma Glucose <140 mg/dl
+  - Diabetes: Random Blood Glucose >/= 200 mg/dl
+  - Fasting and PP glucose estimation is advised when Random Blood Glucose level is 140-200 mg/dL
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646874
+- **UHID/IP No.:** 162608635 / LB26/3007
+- **Sample Date:** 28/06/2026 12:57 AM
+- **Age/Gender:** 5 Days/Male
+- **Receiving Date:** 28/06/2026 1:18 AM
+- **Bed No/Ward:** IPD
+- **Report Date:** 28/06/2026 3:03 AM
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 28/06/2026 03:00  
+**Approved By:** Dr. B Roshini Sumalini
+
+---
+
+#### **Biochemistry - Liver Function Test (LFT)**
+- **Test Name:** Various LFT Tests
+- **Result:**
+  - Total Bilirubin: 15.5 mg/dL
+  - Direct Bilirubin: 1.8 mg/dL
+  - Indirect Bilirubin: 13.70 mg/dL
+  - ALT (Alanine Transaminase): 10 U/L
+  - AST (Aspartate Transaminase): 35 U/L
+  - ALP (Alkaline Phosphatase): 214 U/L
+  - Total Protein: 5.2 g/dL
+  - Albumin: 3.4 g/dL
+  - Globulin: 1.8 g/dL
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646873
+- **UHID/IP No.:** 162608635 / LB26/3007
+- **Sample Date:** 27/06/2026 11:42 PM 
+- **Age/Gender:** 4 Days/Male
+- **Receiving Date:** 28/06/2026 1:18 AM 
+- **Bed No/Ward:** NICU Ward
+- **Report Date:** 28/06/2026 3:03 AM 
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 28/06/2026 03:00  
+**Approved By:** Dr. B Roshini Sumalini
+
+---
+
+#### **Biochemistry - Renal Function Test (RFT)**
+- **Test Name:** Various RFT Tests
+- **Result:**
+  - Creatinine: 0.4 mg/dL
+  - Blood Urea: 20 mg/dL
+  - BUN (Blood Urea Nitrogen): 9.4 mg/dL
+  - Uric Acid: 4.3 mg/dL
+  - Calcium: 8.6 mg/dL
+  - Sodium: 142 mmol/L
+  - Potassium: 5.1 mmol/L
+  - Chloride: 107 mmol/L
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646870
+- **UHID/IP No.:** 162608635 / LB26/3007
+- **Sample Date:** 27/06/2026 10:35 PM 
+- **Age/Gender:** 4 Days/Male
+- **Receiving Date:** 28/06/2026 1:18 AM 
+- **Bed No/Ward:** NICU Ward
+- **Report Date:** 28/06/2026 3:03 AM 
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 28/06/2026 03:00  
+**Approved By:** Dr. B Roshini Sumalini
+
+---
+
+#### **Hematology - Complete Blood Count (CBC)**
+- **Test Name:** CBC
+- **Result:**
+  - Haemoglobin: 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV: 80.9 fL
+  - MCH: 25.4 pg
+  - MCHC: 31.4 g/dL
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm3
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646870
+- **UHID/IP No.:** 162608635 / LB26/3007
+- **Sample Date:** 27/06/2026 10:35 PM 
+- **Age/Gender:** 4 Days/Male
+- **Receiving Date:** 28/06/2026 1:18 AM 
+- **Bed No/Ward:** NICU Ward
+- **Report Date:** 28/06/2026 3:03 AM 
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 28/06/2026 03:00  
+**Approved By:** Dr. B Roshini Sumalini
+
+---
+
+#### **Hematology - Blood Grouping and RH Typing**
+- **Test Name:** Blood Grouping and RH Typing
+- **Result:**
+  - Blood Group: B
+  - Rh Typing: Positive
+
+**Comments / Interpretation:**
+  - Reconfirm the Blood Group & Rh Typing along with cross matching before blood transfusion.
+  - Recent blood transfusion, if any, interferes with interpretation of blood grouping.
+  - The blood group and Rh antigen may change in the new born, hence please repeat the test after 6 months.
+  - Subgroups and Bombay blood group needs to be further verified.
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646870
+- **UHID/IP No.:** 162608635 / LB26/3007
+- **Sample Date:** 27/06/2026 10:35 PM 
+- **Age/Gender:** 4 Days/Male
+- **Receiving Date:** 28/06/2026 1:18 AM 
+- **Bed No/Ward:** NICU Ward
+- **Report Date:** 28/06/2026 3:03 AM 
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 28/06/2026 03:00  
+**Approved By:** Dr. B Roshini Sumalini
+
+---
+
+#### **Microbiology - Blood Culture and Sensitivity**
+- **Test Name:** Culture and Sensitivity - Automated/VITEK, Blood
+- **Result:** PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+
+**Notes:**
+  - The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color change caused by production.
+  - Microbial metabolism releases metabolic products, altering pH and changing the bottle sensor color from green to yellow.
+  - The system monitors this change in real time; bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646891
+- **UHID/IP No.:** 162608635 / LB26/3007
+- **Sample Date:** 28/06/2026 9:07 AM 
+- **Age/Gender:** 5 Days/Male
+- **Receiving Date:** 28/06/2026 9:08 AM 
+- **Bed No/Ward:** NICU Ward
+- **Report Date:** 29/06/2026 8:16 AM 
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 30/06/2026 02:57  
+**Approved By:** Dr. Gayatri Koride  
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride
+
+---
+
+#### **Microbiology - Urine Culture and Sensitivity**
+- **Test Name:** Culture and Sensitivity
+- **Result:** No bacterial growth seen after 24 hours of aerobic incubation.
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646879
+- **UHID/IP No.:** 162608635 / LB26/3007
+- **Sample Date:** 28/06/2026 6:23 AM 
+- **Age/Gender:** 5 Days/Male
+- **Receiving Date:** 28/06/2026 6:52 AM 
+- **Bed No/Ward:** NICU Ward
+- **Report Date:** 28/06/2026 10:10 AM 
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 28/06/2026 10:16  
+**Approved By:** Dr. Gayatri Koride  
+**Page:** 1 of 1  
+**Verified By:** Mr. Neelam Edukonduleh
+
+---
+
+#### **Clinical Pathology - Urine Examination**
+- **Test Name:** Complete Urine Examination (CUE)
+- **Result:**
+  - Color: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - PH Indicators: Potential of Hydrogen (PH) 6.0 Reagent Strip Method
+  - Glucose: Nil
+  - Protein: B+
+  - Bilirubin: Positive +
+  - Ketone: Nil
+  - Blood: Nil
+  - Leucocytes: Trace
+  - Leucocyte Esterase: Nil
+  - Urobilinogen: Negative
+  - Nitrate: Negative
+  - Pus Cells: 6-8/hpf
+  - Epithelial Cells: 10-12/hpf
+  - RBC's: Nil
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646879
+- **UHID/IP No.:** 162608635 / LB26/3007
+- **Sample Date:** 28/06/2026 6:23 AM 
+- **Age/Gender:** 5 Days/Male
+- **Receiving Date:** 28/06/2026 6:52 AM 
+- **Bed No/Ward:** NICU Ward
+- **Report Date:** 28/06/2026 10:10 AM 
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 28/06/2026 10:16  
+**Approved By:** Dr. Gayatri Koride  
+**Page:** 1 of 1  
+**Verified By:** Mr. Neelam Edukonduleh
+
+---
+
+#### **Biochemistry - Ammonia**
+- **Test Name:** Ammonia
+- **Result:** 86.0 μmol/L
+- **Unit:** μmol/L
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646891
+- **UHID/IP No.:** 162608635 / LB26/3007
+- **Sample Date:** 28/06/2026 9:07 AM 
+- **Age/Gender:** 5 Days/Male
+- **Receiving Date:** 28/06/2026 9:08 AM 
+- **Bed No/Ward:** NICU Ward
+- **Report Date:** 28/06/2026 9:51 AM 
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride  
+**Page:** 1 of 1  
+**Verified By:** Mr. Neelam Edukonduleh
+
+---
+
+#### **Hematology - Peripheral Smear**
+- **Cell Type Results:**
+  - Neutrophils: 68%
+  - Lymphocytes: 24%
+  - Eosinophils: 3%
+  - Monocytes: 5%
+  - Basophils: 0%
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646870
+- **UHID/IP No.:** 162608635 / LB26/3007
+- **Sample Date:** 27/06/2026 10:35 PM 
+- **Age/Gender:** 4 Days/Male
+- **Receiving Date:** 28/06/2026 1:18 AM 
+- **Bed No/Ward:** NICU Ward
+- **Report Date:** 28/06/2026 3:03 AM 
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 28/06/2026 03:00  
+**Approved By:** Dr. B Roshini Sumalini
+
+---
+
+### Summary
+The laboratory tests conducted on the patient B/O Vagdevi, a 4-day-old male infant, show normal values for various biochemical and hematological parameters, with some minor deviations that require further monitoring and clinical assessment.
+
+- **Blood Glucose:** Normoglycemia within acceptable range.
+- **Liver Function Test (LFT):** Slightly elevated ALP levels, otherwise within reference intervals.
+- **Renal Function Test (RFT):** Within normal limits.
+- **Complete Blood Count (CBC):** Normal parameters with slight variations in WBC and RBC counts.
+- **Blood Grouping and RH Typing:** B positive, requiring further confirmation post-blood transfusion if any.
+
+The microbiology results indicate no bacterial growth after 24 hours of incubation, which may warrant repeat testing or other diagnostic measures depending on clinical signs. 
+
+Urine examination shows turbid urine with minor proteinuria and a trace of leukocytes, necessitating follow-up evaluations to rule out urinary tract infections.
+
+Overall, the patient is stable but requires continuous monitoring for any changes in condition or test results.
+
+**Reported By:** Dr. B Roshini Sumalini  
+**MBBS, MD Pathology**  
+**Consultant Pathologist**
+
+**Printed On:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride  
+**Page:** 1 of 1  
+**Verified By:** Mr. Neelam Edukonduleh

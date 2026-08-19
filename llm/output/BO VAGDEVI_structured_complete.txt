@@ -1,0 +1,3404 @@
+######################################################################
+STRUCTURED CHUNK 001
+SOURCE PAGES: PAGE_001 TO PAGE_005
+######################################################################
+
+SOURCE PAGE: PAGE_001
+DOCUMENT TYPE: ADMISSION RECORD
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D 9M
+
+DOCUMENT INFORMATION
+Hospital: ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+Revision No.: 3
+Issue No.: 4
+Form Number: AHWC/IP/F/02
+
+NURSING DOCUMENTATION
+Patient Movement Record - details of shifting between locations (OP/ER/Special Room/NICU/PICU/OT) are documented.
+
+SOURCE PAGE: PAGE_002
+DOCUMENT TYPE: INITIAL ASSESSMENT
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+
+BIRTH DETAILS
+Birth Weight: 2.9kg
+Gestational Age: 36 weeks or more
+
+ADMISSION DETAILS
+Date/Time of assessment: [UNCERTAIN]
+TOD: [UNCERTAIN]
+
+VITAL SIGNS
+Temperature: 36.50
+Heart Rate: [UNCERTAIN] minutes
+Respiratory Rate: [UNCERTAIN] minutes
+Blood Pressure: 95/[UNCERTAIN]
+SpO2: [UNCERTAIN]
+GRBS: 36mg/dL
+Weight: [UNCERTAIN] Kg/gms, Length: [UNCERTAIN] cms, HC: 33 cms
+
+PAIN ASSESSMENT
+Pain assessment chart with scoring options (0-3) for behavioral state, heart rate and oxygen saturation.
+
+SOURCE PAGE: PAGE_003
+DOCUMENT TYPE: INITIAL ASSESSMENT
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+
+MATERNAL AND ANTENATAL HISTORY
+Past Obstetric History documented (G2P1L)
+Material Risk Factors assessed - Consanguinity, Maternal Age, PIH/Eclampsia, GDM/NIDDM/IDDM, PROM >18hrs/ Pre PROM, APH, Maternal Fever/ Chorioamnionitis, IHD Asthma, Chronic Illness, Medication, Previous Sibling Death, Preterm Labour, Assisted Reproduction.
+
+BIRTH DETAILS
+Mode of Delivery: [UNCERTAIN] (SVD/ Forceps/Ventouse/LSCS)
+If LSCS: Emergency/Elective - Indication for Lscs: [UNCERTAIN]
+USG findings: Polyhydramnios/Normal/ Oligohydramnios
+Presentation: Vertex/ Breech
+Liquor clear/[UNCERTAIN]
+IUGR: Yes/No
+Meconium/Foulsmelling
+
+RESUSCITATION
+Resuscitation details documented (cried at birth/ stimulation/ Bag Mask/ Intubation/ chest compressions/adrenaline)
+
+OTHER DETAILS
+Antenatal Steroid - Drug, Dose, Time-lapse since last dose.
+APGAR: 1 Min/[UNCERTAIN] 5 Min/[UNCERTAIN] 10 Min
+DCC: Yes/ No
+Magnesium Sulphate for Neuro Protection: Yes/ No
+Cord ABG: [UNCERTAIN]
+
+SOURCE PAGE: PAGE_004
+DOCUMENT TYPE: PHYSICAL EXAMINATION
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+
+PHYSICAL EXAMINATION
+Detailed physical examination findings documented for HEAD-NECK, CARDIOVASCULAR, NEUROLOGY, EARS, SKIN, ABDOMEN, CHEST-LUNG and MUSCULOSKELETAL systems. Includes normal and abnormal findings with specific details where applicable (e.g., cleft lip/palate, murmurs, dysrhythmias).
+
+SOURCE PAGE: PAGE_005
+DOCUMENT TYPE: PHYSICAL EXAMINATION
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+
+FEEDING AND NUTRITION
+Feeding History: Breast Fed / Top Fed
+
+BIRTH DETAILS
+Gestational Age by Dates: [UNCERTAIN] weeks, US: [UNCERTAIN] weeks, New Ballard Score: [UNCERTAIN] weeks.
+
+ANTHROPOMETRY
+Length: [UNCERTAIN] cm
+Head Circumference: [UNCERTAIN] cm
+Admission Weight: [UNCERTAIN] kg
+Chest Circumference: [UNCERTAIN] cm
+
+VITAL SIGNS
+Heart Rate: 130
+Respiratory Rate: [UNCERTAIN]
+Blood Pressure: [UNCERTAIN] mm Hg
+Temperature: [UNCERTAIN]
+SpO2: [UNCERTAIN]
+Pain Score: [UNCERTAIN]
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Provisional Diagnosis: Enicecs, U S CHAB Hpeslyceedr, latepretem, SGA, wale, TSerm. 30wf, 2.1lg, GRBS: 82ug/dl
+
+LABORATORY INVESTIGATIONS
+Investigations planned: CBP, CRP, RfT, VBG, Blood ClS, dFT, RBS, NDD
+
+CLINICAL PLAN
+Treatment Plan: Ivfleids (GIR:) , Ief r2s bolul, Tuy.TAXIYD.
+
+
+######################################################################
+STRUCTURED CHUNK 002
+SOURCE PAGES: PAGE_006 TO PAGE_010
+######################################################################
+
+SOURCE PAGE: PAGE_006
+DOCUMENT TYPE: NURSE'S HAND OFF
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+ADMISSION DETAILS
+DOA: 296/26
+Diagnosis: Seizures
+
+NURSING DOCUMENTATION
+Shift: 8pm-Am
+ITN: 8
+Diet: Therapeutic Diet
+Feeding: Dependent in feeding
+Lines: Tv Cannul
+
+VITAL SIGNS
+GCS/LOC: -2-
+Pain score: -2-
+HR: [UNCERTAIN: Helu2futspart]
+SpO2: [UNCERTAIN: _SEN]
+Ventilation: Roomar
+
+INTAKE AND OUTPUT
+Bowel movement/flatulence: void
+Void/foley: void
+Genital discharge: Nornal
+Skin integrity/Score: Normal
+Fall risk/Score: 
+
+RESPIRATORY SUPPORT
+Oxygen Support: [UNCERTAIN: SEN]
+
+CLINICAL PLAN
+EEGnlsq
+ECNS
+Bloodcs
+Reporting pending
+
+DAILY PROGRESS
+Remarks: Date/Time 2≠16128m-80
+Handing over given by: Loje 10636
+Taken over by: ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+SOURCE PAGE: PAGE_007
+DOCUMENT TYPE: NURSE'S HAND OFF
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+ADMISSION DETAILS
+DOA: 28/6/26
+Adm Date: 27-06-2026 09:03 PM
+Consult: DR. SRINIVAS MURKI s:
+
+NURSING DOCUMENTATION
+Shift: mrng, Evening, 5pm-8Am
+IT: 8
+Diet: Therapeutic Diet
+Feeding: Dependent
+Lines: Iv cannal, uvc, Ure, i0 cannula, Ir Cannula
+Infusion /Transfusions: IV.Fluids, 10.10+05, 10J.D.
+
+VITAL SIGNS
+GCS/LOC: Normal, Conscr'oces, lonslious
+Pain score: -01-, -01-, -02-
+HR: 112, S002:96%
+SpO2: 1/2115/1S029.5f
+
+RESPIRATORY SUPPORT
+Ventilation: RIA
+Oxygen Support: 02 Support
+
+INTAKE AND OUTPUT
+Bowel movement/flatulence: Not passid, Not passed
+Void/foley: Foley, foley
+Genital discharge: 10
+Skin integrity/Score: Normal, Dsy, Norcal
+Fall risk/Score: -0-
+
+CLINICAL PLAN
+Uvc-feeds, Uve live., EEG. NSG, ECNS, Bloodcb, Bld cls
+Reporting pending: Blood calful, EEG, eEC., NSG 
+
+DAILY PROGRESS
+Remarks: Date/Time 2=/6/26 80m-2pm) 28106 2pm-8pm 246, 8pのさ4
+Handing over given by: Joasceels.12277 shancy-2634
+Taken over by: shandy
+
+SOURCE PAGE: PAGE_008
+DOCUMENT TYPE: NURSE'S HAND OFF
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+NURSING DOCUMENTATION
+Shift: morning, Evening, Spn-∈A∞
+ITN: 8
+Diet: Therapeutic Diet
+Feeding: slf-eem, BlF CB, 3/F tB0
+Lines: uvc, CVC, ove, iu cannuta, Ev cannue, Iv Camnule
+Infusion /Transfusions: (01).D-10-4ly, 101.0-10.4m1lhr 10-1Denr081
+
+VITAL SIGNS
+GCS/LOC: conscious, Conscioune, conscipces
+Pain score: -01-, -01-, - 01.
+HR: 128
+SpO2: 96%, +1R-116, SPO296 1K42/ S02287
+
+RESPIRATORY SUPPORT
+Ventilation: RIA, Rrom air, R10
+Oxygen Support: [UNCERTAIN: SEN]
+
+INTAKE AND OUTPUT
+Bowel movement/flatulence: J
+Void/foley: void
+Genital discharge: x, X, c
+Skin integrity/Score: Normal, noormal, alormal
+Fall risk/Score: 
+
+CLINICAL PLAN
+NSU, NIRI THm, Neorologe openion, ECNS
+Reporting pending
+
+DAILY PROGRESS
+Remarks: Date/Time 2916126.8Am-2pm 2916126 2pm108y 2916/66 80m840
+Handing over given by: Sr. Roja, Suthhr, Raye C0636
+Taken over by: sr.Shanxy
+
+SOURCE PAGE: PAGE_009
+DOCUMENT TYPE: NURSE'S HAND OFF
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+NURSING DOCUMENTATION
+Shift: amorning, Evening, epm-54
+ITN: 8
+Diet: Therapeutic Diet
+Feeding: depenclet, 30mland irly, 8poon feed, slf- FF, Depecrdhe
+Lines: UVC, UvC
+
+Infusion /Transfusions: Abx, 10ソ.D-3.5m1lhy, 10-1.0.3.59
+
+VITAL SIGNS
+GCS/LOC: “0, conscious, constious
+Pain score: “ , -02-, -02-
+HR: IUG
+SpO2: SPO-9HR:12, S2:96422
+
+RESPIRATORY SUPPORT
+Ventilation: Roomai, RoDomar
+
+INTAKE AND OUTPUT
+Bowel movement/flatulence: V, 一
+Void/foley: J
+Genital discharge: 0, x, α
+Skin integrity/Score: Normal, Nornal
+
+Fall risk/Score: 
+
+CLINICAL PLAN
+MRI Today, MRr Todey, ECNS
+Reporting pending
+
+DAILY PROGRESS
+Remarks: Date/Time 3061268mm1020m301612620m-8pm80/6/2,500.81
+Handing over given by: 8ceoflgl2ce6 shaxy -2634., Rofo 10636
+Taken over by: shaney-2634
+
+SOURCE PAGE: PAGE_010
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+
+CLINICAL CONDITION
+5 day old male baby delivered by frrcecs (Preeioncees Inlabeun) at Avea hopibed Ssergapet. Baby CIAB, shifted to mothehsrde a2402. 4 on enderve breast feding. On DOLY, baby hed daladhl 4 fecal serzenres 4 coeat to prsuate horpeRI wheu Teajp. leuipil oodorg dou giver. Sugeu wen cheeks Fiyld Baby was adund fo (OFRD bolys adeusteviohyppn 32mlalL Ieolytup 4 scimen butpoeats J broughtheve 26gTa 157:I fertha mangant
+
+
+######################################################################
+STRUCTURED CHUNK 003
+SOURCE PAGES: PAGE_011 TO PAGE_015
+######################################################################
+
+SOURCE PAGE: PAGE_011
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D 9M
+
+CLINICAL CONDITION
+At the time of admission: bc:2.15, GRBS : S2uglak, dehydration +.
+Baby came and showed to pico d wt:2.28ocg.
+Baby had several episodes of seizure.
+
+LABORATORY INVESTIGATIONS
+VBG: pH:7.373, PCO2:37.13, HCO-45, BE:2.3, lae:2.15
+TC:9100, plT:1,83,000, S.ciet.0.4, PCv:49.8
+
+VITAL SIGNS
+BP: 59/384
+COP:2.4u1CS.Ca.8.6
+102$.)(107
+
+SOURCE PAGE: PAGE_012
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+INTAKE AND OUTPUT
+Intake: NPO feed fed
+Output: 3 ml, 304, 105mgde
+
+CLINICAL CONDITION
+Stool not passed.
+Ans :- In.c Tanxi'm D2
+
+SOURCE PAGE: PAGE_013
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+CLINICAL CONDITION
+Multiple seizure episodes.
+Baby on minimal Oxygen 0.1 liters/min. Activity better.
+Dehydration (+).
+
+VITAL SIGNS
+HR — 127, SpO2-99)
+B·P - 64/43(SO) mm Hg.
+
+RESPIRATORY SUPPORT
+LFNC Q.1 litres/min
+
+MEDICATIONS
+Demipill/Phenobarbit
+U.0— 1.8 ml|kgl br maintenance
+
+PLAN
+TF 10mland haly.
+TV-150mi/kg/day
+GIR-8
+
+SOURCE PAGE: PAGE_014
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+RESPIRATORY SUPPORT
+LFNC 0·1(min
+Tv - 150 mo 1g | 0ay
+GIR -8
+
+MEDICATIONS
+Inj. levipil 5my 1xg ldery
+Prenobautcne Inj.
+D&L3 Optineuron Inj.
+Venrilourion -d2 Ivj Tahi m TO00
+
+CLINICAL CONDITION
+NSG cal greueenat IV I 6Hmy EEG ENBS
+
+SOURCE PAGE: PAGE_015
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+CLINICAL CONDITION
+Late preterm / 36 weeks/ SOGA / 2.1 Ng 1, Hypoglycemic seizure.
+On Room air since bam spa — 98.1. Last seizure episode 5 am on Lenipil ir maintainanu (20mgl/g1/g)
+
+MEDICATIONS
+Grardenal ir maintainana (5mgl/bday) D3 Opt'neuron o~ T/F 10ml Q2H + 1rF 10%.D, GIR 8mg /1hg/ mt, Cepotaxime calcium 8mg/ng/day
+
+LABORATORY INVESTIGATIONS
+GRB 8 - T5 → 105 → 93 → 50 → (GR—6)
+
+
+######################################################################
+STRUCTURED CHUNK 004
+SOURCE PAGES: PAGE_016 TO PAGE_020
+######################################################################
+
+SOURCE PAGE: PAGE_016
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Diffuse cerebral dysgenesis
+
+CLINICAL CONDITION
+No seizure activity
+
+LABORATORY INVESTIGATIONS
+PH: 7.87
+CRP: 2.4
+Catt: 8.6
+PO2: 31.3
+HCO3: 21.3
+Creats: 0.4
+Vrea: 20
+Lactato: 2.15
+Electrolyto: 142 / 5.1 / 107
+Tcc: a100
+Ammonia: 86
+Pit: 1.83L
+TSB: 15.5
+PCN: 49.8
+
+PROCEDURES
+MRI brain - planned
+Neurologist opinion today.
+
+SOURCE PAGE: PAGE_017
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D
+Gender: Male
+Admission Date: 27-06-2026 09:03 PM
+
+CONSULTATIONS
+DR. SRINIVAS MURKI
+
+INTAKE AND OUTPUT
+Urine output: vriaf pased 93 mgde
+Stool output: 2.24by
+
+DAILY PROGRESS
+Weight: 2.2kg [40gr0JT]
+N1 sp :— 65/44
+Aas :- Dey ÷ Tanem(A3)
+SHo01 :- 1 line passed
+
+SOURCE PAGE: PAGE_018
+DOCUMENT TYPE: PROGRESS NOTES
+
+CLINICAL CONDITION
+DY. S-meslo sis
+36 alks I DoC- Idaye/seizures
+Hypoglycemia, nlo RD, improve
+Senstricen nbo focal showldee
+AF level No dismefisum screenNegitive
+No seekure's affee adnissity GELAK Normal
+
+CONSULTATIONS
+Newrobogy opinen- MRIwaited plas
+
+MEDICATIONS
+SIF+DBF 15-20mf
+Tadlim cnlT fleeid cnlt
+Stop: optineeron
+Stop: Levigal oral Galciumples2 suTip.
+
+SOURCE PAGE: PAGE_019
+DOCUMENT TYPE: PROGRESS NOTES
+
+CLINICAL CONDITION
+Hypogdyceme reizund on boom as NO seizuees lost24-h0 to 0 on GiR-8 + T -r0m Ploun NO Hgropeycema Newldlogn opinior MRI Boan eftce n evealepo cpiran ③TH15me 024 TCuiM til
+
+MEDICATIONS
+ContRhenobacbitonk Curse Lelipie ctop Syp. Caeinou Oftineulon XBL
+
+SOURCE PAGE: PAGE_020
+DOCUMENT TYPE: PROGRESS NOTES
+
+FLUIDS
+IVF 10%D℃GlR-8@10:5m1/hr
+
+MEDICATIONS
+Stop Inj. levipil) Inj. Phenobarbitonc maintenance dose TInj. Optinevron Da21D3 5 Inj. Taxim fill cultures
+
+CONSULTATIONS
+Nevsologisf Opinion MRI Brain
+
+OTHER
+Calcimaxplus Oral warmth Care Monitos Vitals
+Fresh orders - 29/6|26 S/r 15 ml and hely 11A·m
+
+
+######################################################################
+STRUCTURED CHUNK 005
+SOURCE PAGES: PAGE_021 TO PAGE_025
+######################################################################
+
+SOURCE PAGE: PAGE_021
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D 9M
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Hypoglycemia
+LUGR (Large for Gestational Age)
+
+CLINICAL CONDITION
+Baby on room air, stable.
+Sensorium improving.
+
+PHYSICAL EXAMINATION
+GEd AK- normal
+Uh - mild hypotonia, head lag (+)
+
+LABORATORY INVESTIGATIONS
+Se. Cortisol
+Blood ketones
+
+PLAN
+ENBS (Early Newborn Blood Screen)
+Hydration—Sir adlib
+AF level
+Inj. Taxim
+Abmc 80ft
+IVR 10%D G1R-8
+
+FEEDING AND NUTRITION
+Tolerating feeds
+
+INTAKE AND OUTPUT
+GRBS < $0 mg/dL
+
+SOURCE PAGE: PAGE_022
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+CONSULTATIONS
+DR. SRINIVAS MURKI
+
+INTAKE AND OUTPUT
+Intake :- s/sadles.
+Output: urine/stools passed
+
+VITAL SIGNS
+T.wt:- 2.30kg
+∴-2.24kg
+
+LABORATORY INVESTIGATIONS
+Gkns : lo9mgde
+D4
+ABs : -Dy! Taxin
+
+SOURCE PAGE: PAGE_023
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Recurrent hypoglycemia
+Possible symptomatic sepsis
+IUGR (Intrauterine Growth Restriction) SGA (Small for Gestational Age)
+
+CLINICAL CONDITION
+No acidosis
+No organomegaly
+Havi⊕ Body excessive
+
+LABORATORY INVESTIGATIONS
+S. cortisol - To send
+ui next
+S. cortisol critical sample
+Blood ketones
+Sugars are Borani, (Plai)once
+
+PLAN
+MRI Brain
+ENBS
+
+SOURCE PAGE: PAGE_024
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Symptomatic hypoglycemia
+Neonatal sepsis
+
+CLINICAL CONDITION
+Baby seizure free x 48 hours on inj. phenobasbitone maintenance
+GRBS — 109 mg/dL
+On spoon feeds adlib with extra IVF
+
+VITAL SIGNS
+Weight: 2.30kg
+
+PLAN
+MRI Brain
+Maintain sugars with GIR-6
+ENBS
+CUE—Bacteria(+)
+on Inj. Cefotaxim D3
+
+SOURCE PAGE: PAGE_025
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+CLINICAL CONDITION
+Improved pulmonary status
+No seizures x 48 hrs
+AF → i Gross head lag
+Scarf Crossing midline
+Shoulder hypotonia
+Tone - Tapu svglrids
+Sensorium good ; acting panic
+Sp02- normal
+No focal deficits
+No hypoglycemia last tile
+
+MEDICATIONS
+Phenobarbital support for 24 hrs
+Abx for 5 days
+
+CONSULTATIONS
+Dr. Srinivas Murki, M.D.(Ped), DNB.,Div(Neonatology) Reg. No. 50515
+
+
+######################################################################
+STRUCTURED CHUNK 006
+SOURCE PAGES: PAGE_026 TO PAGE_030
+######################################################################
+
+SOURCE PAGE: PAGE_026
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DIAGNOSES AND CLINICAL PROBLEMS
+[UNCERTAIN: Pain Score]
+
+CLINICAL PLAN
+1) SIF ad lib 30ml Q2H, 1ml Q6+1
+2) Taper and stop IV pleuids
+3) ivj'.phenobarbitone maintenance
+4) Ct T. pyecidoxine till MRI ereport
+5) inj. Taxim (D415)
+6) syp calcimaxplus Q6H
+7) GRBSr monitoring
+8) MRI brain
+9) Monitor vitals
+
+SOURCE PAGE: PAGE_027
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Hypotonia
+MRI Blawn
+
+CLINICAL CONDITION
+Vitals – ftable
+Tcuim Accepting
+
+MEDICATIONS
+Stop Pyeedowne
+
+SOURCE PAGE: PAGE_028
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+INTAKE AND OUTPUT
+Output ! - Unices paned
+
+PHYSICAL EXAMINATION
+T.wt?—2.26kg
+ywt:—
+
+FEEDING AND NUTRITION
+Dy! Tanu'm D5- ABS
+4 tive passed
+
+LABORATORY INVESTIGATIONS
+GRNS:- 94mgde
+
+SOURCE PAGE: PAGE_029
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Preterm /ξm·dscs
+Symptomatic hypoglycemia / Neonalal seizvua
+
+BIRTH DETAILS
+36 weeks in Cabour
+
+VITAL SIGNS
+Spa - a6%
+HR. - 120/mt
+
+CLINICAL CONDITION
+Nofevrittes Geiznres  72 houre
+Hypoglycemia : 109 →108 →99→94
+
+FEEDING AND NUTRITION
+iv pluids stopped ; on only Nuteritins—on 8/F 30ml Q214
+cuorent w8 - 2.26 bg (40g ↓)
+v/o - adegpato
+
+LABORATORY INVESTIGATIONS
+Belood c/s - negatione - y'day ineni's
+
+MEDICATIONS
+Taxim-
+
+SOURCE PAGE: PAGE_030
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Feener seizue(')
+Hypogeypemic eprodes
+
+VITAL SIGNS
+HR - 113/min,(p0g -94%
+
+CLINICAL PLAN
+MRI -on Feee Tff 021
+Syp. Goedlan'il Dean Acrinity imploved
+①ST Dn UL& Shaceldor - syp. GdaniI
+Uypo tonì a ) Sgp. Clliou ple BERA ④ Neweeder +/U 8 goo 8mifo 3 PReorline
+
+
+######################################################################
+STRUCTURED CHUNK 007
+SOURCE PAGES: PAGE_031 TO PAGE_035
+######################################################################
+
+SOURCE PAGE: PAGE_031
+DOCUMENT TYPE: Medication Chart
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+Adm Date: 27-06-2026 09:03 PM
+Consult : DR. SRINIVAS MURKI
+
+MEDICATIONS
+Date & time: 2716
+Medicines: IVf Ds bodly
+Dose: st=t 8
+Route: Iu.LEViPIL
+Frequency: 08
+Name & Sign (Prescribed): [UNCERTAIN: 20962]
+Name & Sign (Administration): 2716
+
+Date & time: 2716
+Medicines: IV stut
+Dose: 2.016
+Route: 4IV
+Frequency: 8tnt
+Name & Sign (Prescribed): [UNCERTAIN: 2296]
+Name & Sign (Administration): 2716
+
+Date & time: 2716
+Medicines: IN PHENOBA1SITOU22
+Dose: IV
+Frequency: 8124
+Name & Sign (Prescribed): [UNCERTAIN: 266]
+Name & Sign (Administration): 216
+
+Date & time: 216
+Medicines: c4t
+Dose: 8
+Route: lwgIv
+Frequency: 286
+Name & Sign (Prescribed): 2116
+Name & Sign (Administration): Inj. OPTINEORON Ivstul 246
+
+VERBAL/TELEPHONE ORDERS
+Nursing Staff: [UNCERTAIN: Verbal/Telephone orders (to be signed within 24 hrs. of order)]
+
+SOURCE PAGE: PAGE_032
+DOCUMENT TYPE: Medication Chart
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+REGULAR MEDICATION
+Date: 25/6/26
+Drug: INJ·TAXIM
+Time: Am
+Dose: 105mg
+Route: I.V
+Frequency: lathboly
+Instructions if any: p0 Roje ropy Rije Refo
+
+Date: 28/6/26
+Drug: INJ·CA人ClUm
+Time: GAUCONATE Am× 12
+Dose: 6thrly
+Route: p3
+Frequency: p0
+Instructions if any: 4.5ml-14.5ml P Hep
+
+Date: 28/6/26
+Drug: PHENOBARBITONE
+Time: LR? 6 leje Rojo THE GIVEN to
+Dose: 5.5mg
+Route: I.V
+Frequency: 12tholy oral
+Instructions if any: Tefr 6 80 b
+
+Date: 28/6/26
+Drug: LE VI PI L
+Time: 12 12 于 Lje TIME GIVEN Aumf
+Dose: 25mg
+Route: 1124
+Frequency: nowily
+Instructions if any: 12
+
+SOURCE PAGE: PAGE_033
+DOCUMENT TYPE: Medication Chart
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+REGULAR MEDICATION
+Date: 28/6/26
+Drug: INJ OPTINEURON
+Time: Roje life
+Dose: 3 m
+Route: V.V
+Frequency: OD
+Instructions if any: dy TIME GIVEN day
+
+Date: 29/6/26
+Drug: SYP CALCIMAXPLUS
+Time: 6pmSn
+Dose: 2.5ml
+Route: oral
+Frequency: 12thbsly
+Instructions if any: p9 T8f
+
+Date: 30/06
+Drug: T. BENADON
+Time: 40my TE
+Dose: 2 Tab
+Route: oral
+Frequency: daily one
+Instructions if any: (80mg)
+
+Date: 1/7
+Drug: SYP GARDENAL
+Time: 1.5ml
+Dose: oral
+Frequency: 125 hourly
+Instructions if any: 20mg/5ml
+
+SOURCE PAGE: PAGE_034
+DOCUMENT TYPE: Nursing Documentation
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+NURSING NOTES
+[UNCERTAIN: Huddns αoπ vaion 09 pmpn npwd 2944 () no,pod nw mption sbidp peerit ge/ex: Behron Diasis 1 - n (). 29f)4(u) 1o4.94d h.adh . mo) coebn b/]
+
+SOURCE PAGE: PAGE_035
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+NURSING CARE PLAN
+[UNCERTAIN: shnsout u me 8Sign 七比271 MR No.: hunzns —olkrance Évalion f2m sl 70dN checkol and papooose (aomfortab) ption doro n ed DOA: owro voy.god gemfeld mss!7 25070)b0019 atade ge/ex: Unsfable preodu! e92e2) Diagsis p Leve To monitol ist Ro pro viode od ao2 vo.y.8od Planning wrom Vitals To dm        3 PM ur en CONS I  RKI 70dN 00 benrns at   Mal WHID : 6608635 PD/ 3007 a DA at m cudz-wos 971918℃]
+
+
+######################################################################
+STRUCTURED CHUNK 008
+SOURCE PAGES: PAGE_036 TO PAGE_040
+######################################################################
+
+SOURCE PAGE: PAGE_036
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: 11278
+Revision No.: 3
+Issue No.: 4
+AHWC/IP/F/05
+
+NURSING DOCUMENTATION
+DOA: [UNCERTAIN: illegible]
+Deficient fluid volume.
+Planning to start feeding.
+[UNCERTAIN: illegible text]
+Position: UPps
+HID : 162608635
+D 600
+Name E
+
+SOURCE PAGE: PAGE_037
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+NURSING DOCUMENTATION
+[UNCERTAIN: illegible text]
+
+SOURCE PAGE: PAGE_038
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+AHWC/IP/F/05
+
+NURSING DOCUMENTATION
+Breathing pattern impaired.
+Generalized condition to assess dehydration.
+Administer as ordered.
+Age : Male
+HID N : 62608635
+D 600
+Name E
+
+SOURCE PAGE: PAGE_039
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+NURSING DOCUMENTATION
+[UNCERTAIN: illegible text]
+Tomo bil pdacd.
+SsecaveCm cae.
+uop ngN d=
+t816010n)N=
+
+SOURCE PAGE: PAGE_040
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: 1055l9vg
+Revision No.: 3
+Issue No.: 4
+AHWC/IP/F/05
+
+NURSING DOCUMENTATION
+[UNCERTAIN: illegible text]
+D N 300
+Name E
+toned al.
+ma c
+n04,40d
+Conbon
+19001/
+
+
+######################################################################
+STRUCTURED CHUNK 009
+SOURCE PAGES: PAGE_041 TO PAGE_045
+######################################################################
+
+SOURCE PAGE: PAGE_041
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: illegible]
+Room : u011H83=
+DOA: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+
+NURSING DOCUMENTATION
+Évalion: [UNCERTAIN: illegible]
+fuocho onded 0mHu0) pfud= option
+Comfrthbleo docor adnice d0664i0 auprd esp nnos dlae todr'scadl ge/ex: idenced Diasis ubyr a muu pPlan todm a ae (Caom oinr euddef= (mN QN= Planning p2idm CO N RKI Ad0000 D 0 - PM
+
+SOURCE PAGE: PAGE_042
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: illegible]
+DOA: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+
+NURSING DOCUMENTATION
+Évalion: i9shaog nupovding Corl(O) 022uod -medli'carln giue pton Hst pasasst oat hay puo or otss pso.nd— 1ρ.10 – 3 510p.1 podraise -agl — IUF. Po dseose coltho Palteen Rlt ge/ex: Diasis pmpained brea t hi'ng genclcoihon To dssov de macdli:atioas paay hi pue Admin'stey As eshe -oumf!f – 00 h  — seoptop rdd Planning 0%01J0 o UR d   pM 1704.10 Ordey ÉAge   eMale
+
+SOURCE PAGE: PAGE_043
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: illegible]
+DOA: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+
+NURSING DOCUMENTATION
+Évalion: An-0Spn/o1÷2H pxap () No4.180d uht pton mwabon po:mu pedd (onpd36.sr. du uhgs 40 ons UR Ad-- -0 - PM Diasis ge     ale
+
+SOURCE PAGE: PAGE_044
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: illegible]
+DOA: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+
+NURSING DOCUMENTATION
+Évalion: [UNCERTAIN: illegible]
+Planing: [UNCERTAIN: illegible]
+
+SOURCE PAGE: PAGE_045
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: u011H83=
+Room : [UNCERTAIN: illegible]
+DOA: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+
+NURSING DOCUMENTATION
+Évalion: fDu ahopen'ded ourn ar of ths ce Comfertblo docor adnice d06100 4und⇐= et toys apird uawb am  e traa s ge/ex: idenced muu fGardinal muy hropol.dhs N QN= (Com ploinkr Planning paid tte CoI: URKT ngqo hus uo = e    Eale
+
+
+######################################################################
+STRUCTURED CHUNK 010
+SOURCE PAGES: PAGE_046 TO PAGE_050
+######################################################################
+
+SOURCE PAGE: PAGE_046
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+NURSING DOCUMENTATION
+Date /Time: [UNCERTAIN]
+Nurses Note: Assess the Genal Cndetion. Bnbylson 02 support woplh 0-5%Her. Cofe Bibyssow lpo tiu Heid 1o IvHud 10%+5D@ 13.Ff vriug parsed 12.4077 storl not passed op Ckp Blood Gromp VB4 Lbje Blond ds P. Cauum, RBs CVE, RF-s, LFT,Seud tobab B dleee.
+
+SOURCE PAGE: PAGE_047
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+NURSING DOCUMENTATION
+Date /Time: [UNCERTAIN]
+Nurses Note: SAoDt vil k. Inag giveee. Iis÷ Tarxia grvece Iy Levipi loding givee YAo-yheno lodinggivue Loe igpheno tr loding givue. 7 Clies Clubeds rerded vitalclubed rerded R= 124/af 5p295t- Tap36.5 Plave Gt G. alsG dee. a10 otlear, Iscee Loje Head ovor givee moning
+
+SOURCE PAGE: PAGE_048
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+NURSING DOCUMENTATION
+Date /Time: 28/6/26
+Nurses Note: taken fom night hand over case Anasceys sister Rojo by 8.15am— Asseis the baby radiant walme -Baby is undce activity good —baby was onNpol. 0.s lites per Imin -Baby is on Npo fill farther ordy Anasuegs qam checked and recaeedd —vitals - Baby was not paesed monitoring ine fix at 9cm) Amascueps 5no. inserted. 10am— Uvc for reducing Amonfa, urine susstency for uuc Anasugs dooe X-Ray given as prr doctor orde 11am—Treatmenf
+
+SOURCE PAGE: PAGE_049
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+NURSING DOCUMENTATION
+Date /Time: [UNCERTAIN]
+Nurses Note: —TV. IsomilkgIday 5t-Dex trose f 10-1-Dextrose Anasuys -Auj: calcium u.rml +u.sml 6th brny anantibiotic, Toxim Inj÷Gardinal, Lrviphil, due NSG Anasugs —E6G done, for Neurologi openion 12277 — plan - starf. πIf. lomi 2nd hoully mom acfivity good Baby was No furthes seizury Anasugs hourly 6fh — GR BSmonitas 1227 other any issus — No given to Eung hand ove dury staff
+
+SOURCE PAGE: PAGE_050
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : VAGDEVI
+UHID NO: 162608635
+IPDNO:LB26/3007
+Age : 4 D
+Gender : Male
+
+CONSULTATIONS
+Consult : DR. SRINIVAS MURKI
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+NURSING DOCUMENTATION
+Date /Time: 28/06/26 Evening Duty Report
+Nurses Note: Hand Over daken7 from 31n Anasuya by 8hancy – Baby under coarmer Connerded éCardiac monidor Temp: 365° C HR: 128 bmt Sp02: 96 γ. Babycs on doω flow 02 Pony Doctors rounds done Go chard main tained TpR chart maintained All dwu medi'caton given asper doctorsorded inyj'. optineuronop iny'.devipil 25 mg BD iy’. pheno bar bitore 5.5 mg iy’.cal ·gluconate Q 6 H ij’. Taoim continue & good Baby active g1veo. TF 10ml and hly Eem pro Hand over given to nightdutgsis: by shaxy
+
+
+######################################################################
+STRUCTURED CHUNK 011
+SOURCE PAGES: PAGE_051 TO PAGE_055
+######################################################################
+
+SOURCE PAGE: PAGE_051
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D 9M
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+CONSULTATIONS
+Consult: DR. SRINIVAS MURKI
+
+NURSING DOCUMENTATION
+Date / Time: 28/06/2026 (0p0)
+Nurses Note: Assess tle Genonl condition Babyiso0v with 02 Support.
+ID No. & Sign: 2896/26
+
+Date / Time: 11p0
+Nurses Note: -Al niediGation givece. as per doctor. orden. yoplineuron op ' BD -D#Lewp
+ID No. & Sign: 2896/26
+
+Date / Time: 12A0
+Nurses Note: -> Fy.! phenoborbi-tone - 80 -YGy.L TanefnBD 9: Cal. glielowak blt -7
+ID No. & Sign: 2896/26
+
+SOURCE PAGE: PAGE_052
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+CONSULTATIONS
+Consult: DR. SRINIVAS MURKI
+
+NURSING DOCUMENTATION
+Date / Time: [UNCERTAIN: warm] (one.)
+Nurses Note: vifal cluked relrded AR: k42/ail 8p295t. Tup 360e 10636 Cuiens 61'5cy.
+ID No. & Sign: 1A0
+
+Date / Time: [UNCERTAIN: Rofe]
+Nurses Note: Buby isow Hr 1o9 ande ley.
+ID No. & Sign: 2A0
+
+Date / Time: [UNCERTAIN: Rofe]
+Nurses Note: stspt Contive. alo ollew Pisiee. Batleing giveers
+ID No. & Sign: 4AY
+
+Date / Time: [UNCERTAIN: cofe]
+Nurses Note: ws: Cleebedp reboded Ns G. dee .
+ID No. & Sign: 70636
+
+Date / Time: [UNCERTAIN: cofe]
+Nurses Note: Sat
+ID No. & Sign: SA1
+
+SOURCE PAGE: PAGE_053
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+CONSULTATIONS
+Consult: DR. SRINIVAS MURKI
+
+NURSING DOCUMENTATION
+Date / Time: 29/06/2026 morning
+Nurses Note: Duty Report on 29l061a6 Hand over taken fnom s1n0o Roja by Shancy Baby undeewarmer Connectedēcardrac monitor.
+ID No. & Sign: 2634
+
+Date / Time: 9:00
+Nurses Note: vidals checked recorded HR: 128 bmt Sp02!96 y.Temp: 86:5 Baby s @n room am
+ID No. & Sign: Q634
+
+Date / Time: 10:00
+Nurses Note: Baby taking 15 ml slf and baly. Baby feed accepting well (UF 10γ.D- 10.5 ml 1h2 on c0low)
+ID No. & Sign: A3
+
+Date / Time: 11:00
+Nurses Note: Doltors rounds done by Ds. S. murki Au due medication given as pee doccors Order imj. Optineuron iny'. Jaim OkalCalcemaoplus iy'- pheno barbuone
+ID No. & Sign: 2634
+
+Date / Time: 12:00
+Nurses Note: Baby passed Ohine & Stool No Fresh usues
+ID No. & Sign: 2639
+
+Date / Time: pm
+Nurses Note: by Shaney
+ID No. & Sign: 2634
+
+SOURCE PAGE: PAGE_054
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+CONSULTATIONS
+Consult: DR. SRINIVAS MURKI
+
+NURSING DOCUMENTATION
+Date / Time: Evening, duty Report
+Nurses Note: Casehand ovcr taken foom Sr Sharcy opmtospn lbyBenitha Assessed the genaral conditiond- the Baby is on ro0m ai Bruce 3pm=Baby vital'scheleed -§7cup-36.5JHR·1ce6·Spos96 RR.CU6 the &1o chortT Recorded →maentand - Baby passed cm and Stool uph =s Nsu dono by Suresh sr. SiH - Ncwrologist opnion donpdy dr teerthi Kand hana madau MRI conhast Bill raised bill paid Test dul πmplan = Continer.syp. Calcumax p -uj·pheno Dit 6pn
+ID No. & Sign: 2916126
+
+Date / Time: [UNCERTAIN: Evcning dRounds done]
+Nurses Note: →Evcning dRounds done
+ID No. & Sign: 2w
+
+SOURCE PAGE: PAGE_055
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+CONSULTATIONS
+Consult: DR. SRINIVAS MURKI
+
+NURSING DOCUMENTATION
+Date / Time: Su6
+Nurses Note: nonifoming fpm=Bp Gees ononiforing
+ID No. & Sign: 2o nw complaiinks
+
+Date / Time: eprm
+Nurses Note: yCase hand oror gren to nigle eSte zu Cluty
+ID No. & Sign: Bith
+
+
+######################################################################
+STRUCTURED CHUNK 012
+SOURCE PAGES: PAGE_056 TO PAGE_060
+######################################################################
+
+SOURCE PAGE: PAGE_056
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+9M
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+Consult: DR. SRINIVAS MURKI
+
+CLINICAL CONDITION
+-> Baby is on Room air
+vital lubearf verded
+HR:123/it Sp2ast.Tap 36.8e
+pm
+-> Baby isow s/radle.
+Yonu/stn paned
+doctor order.
+！Tani'm BD
+7
+m!Gandi'nas BD
+1A0
+
+optinevrow OD
+
+SOURCE PAGE: PAGE_057
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+CLINICAL CONDITION
+-> oral Calcimaxp
+Y Stop dev iped
+-Nevrolegit opinew dre.
+plau. muR! Brauin
+-GRns 615 ly.
+Life
+>warmCace
+-Y Iv camnul preset God
+5A
+10.51 ly
+Lofe
+-> Ir Heid 10y.@
+Batle'ng giveue 
+609
+wf. clukeds reerdidh
+Hand ovor govere mering day
+
+SOURCE PAGE: PAGE_058
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+Consult: DR. SRINIVAS MURKI
+
+CLINICAL CONDITION
+Moming dury Repool-
+Casehand over taren foom Sr Roja byBunitha
+Assesscd) the genaral conditiond- the baby kept on indler warmar
+Baby is on rovm ai
+Baby vital'scheeed
+-7cup-36.5JHR-1ce6-Spos96 RR-CU6
+the 81o chort T Reccrded
+maentand
+- Baby passed cm and Stool
+Rounde done
+Dr- Sriniras8
+
+MEDICATIONS
+Tab-Pyradaxine – 80 mg to be gire
+MRI conhastBill raised bill paid
+Test duu
+syp. Calcumax p - cj·pheno Dit
+= Con tinee. barbi tono-
+
+SOURCE PAGE: PAGE_059
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+CLINICAL CONDITION
+morning Duty Report on 30l061a6
+Hand Over taken fnom S1n sunitha by Shancy
+Baby undeewarmer Connectedēcardrac monitor
+vitals checked  recorded
+HR: 128 bmt Sp02!96 y. Temp: 86:5
+Baby is @n room a
+Baby taking 30 ml slf and baly.
+Baby feed accepting well (UF t0γ.D- 3.5 ml 1h2 on colow)
+Doltors rounds done Au due medication given as pee doccors Order
+Tab. puridoxire 80 mg oD ,stat given q car iny'. Jaxim Okalcalcumaoplus iy'- pheno barhuone
+Babypassed OhineqStool mRI done.
+
+SOURCE PAGE: PAGE_060
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+CLINICAL CONDITION
+morning Duty Report on 30l061a6
+Hand Over faken from S1n0 sunitha by Shancy
+Baby undeewarmer Connectedēcardrac monitor
+—vidals checked  recorded HR: 128 bmt Sp02!96 y.Temp: 86.5 Baby is @n room ar
+Baby taking 30 ml slf and baly. Baby feed accepting well (UF (0γ.D- 3.5 ml 1hr on colow) Doltors rounds done Au due medication given as pee doccors Order Tab. puridoxire 8o mg oD ,stat given q car iny'. Jaxim OkalCalcemao plus iy'' plheno babuone Babypassed Ohine qStool mRI done.
+
+
+######################################################################
+STRUCTURED CHUNK 013
+SOURCE PAGES: PAGE_061 TO PAGE_065
+######################################################################
+
+SOURCE PAGE: PAGE_061
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date / Time: 27-06-2026 09:03 PM
+Consultant: DR. SRINIVAS MURKI
+Room No.: [UNCERTAIN]
+
+NURSING DOCUMENTATION
+Night duty report. Hand over taken from Greiney. Assessed the general condition. Baby is on COOM air. Umbilical stump passed. Baby is on S/radls. All medication given as per doctor orders. SpO2 monitoring. 
+
+SOURCE PAGE: PAGE_062
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date / Time: [UNCERTAIN]
+Consultant: DR. SRINIVAS MURKI
+Room No.: [UNCERTAIN]
+
+NURSING DOCUMENTATION
+Vithal cleaned per rectum. Temperature 36.2C. Alo other issues. Baby battling given. Wt checked recorded. Gens clubedp recorded. Over gover morning day. Baff.
+
+SOURCE PAGE: PAGE_063
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date / Time: [UNCERTAIN]
+Consultant: DR. SRINIVAS MURKI
+Adm Date: 27-06-2026 09:03 PM
+
+NURSING DOCUMENTATION
+Morning duty report. Case hand over taken from Sr Roja. Assessed the general condition of baby, baby kept under warmer and monitor. Baby is on Room air. Vital signs checked and recorded: Temp - 36:5, HR - 146, SpO2 - 96, RR-U6. Dr Karthick round done. 30ml endbrly accepted. Spoon feed continue and start Gardinal Soap. No new complaints. Case handover given to evening duty.
+
+SOURCE PAGE: PAGE_064
+DOCUMENT TYPE: INTAKE & OUTPUT CHART
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID NO: 162608635
+Gender : Male
+Age : 4 D
+IPD NO: LB26/3007
+DOA: [UNCERTAIN]
+CGA: [UNCERTAIN] wks, [UNCERTAIN] days
+
+DOCUMENT INFORMATION
+Adm Date : 27-06-2026 09:03 PM
+Admit Wt.: [UNCERTAIN]
+Yest. Wt.: [UNCERTAIN]
+Total Wt.: [UNCERTAIN]
+H.C: [UNCERTAIN]
+
+INTAKE AND OUTPUT
+Past 24 hrs Intake: [UNCERTAIN] ml/kg/day
+Past 24 hrs Output: [UNCERTAIN] Total Volume: [UNCERTAIN] ml/kg/day
+IVF: 101.0 x frbse + st. Dextrose
+
+INTAKE DETAILS (Hourly)
+8 am: NP6, 5Am, 13.7ml
+9 am: 60, 15.7ml
+10 am: Npo
+11 am: 13.3ml
+12 am: 13.7ml
+1 pm: 15.7ml
+2 pm: 13.aml
+3 pm: 10.0
+4 pm: 10.0, 15ml
+5 pm: 10.0
+6 pm: 10.0, 10ml
+7 pm: 70ml, 10.0
+8 pm: 10.0, 10ml
+9 pm: 10-6
+10 pm: 10 of
+11 pm: 100ρ
+12 am: 10-0
+1 am: 100
+T/C 1op
+2 am: 10.of
+3 am: 10.09
+1/f 109
+4 am: 10.09
+5 am: 10.09
+1f109
+6 am: 10.09
+7 am: 10.09
+
+SOURCE PAGE: PAGE_065
+DOCUMENT TYPE: INTAKE & OUTPUT CHART
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+DOA: [UNCERTAIN]
+CGA: [UNCERTAIN] wks, [UNCERTAIN] days
+Admit Wt.: [UNCERTAIN]
+Yest. Wt.: [UNCERTAIN]
+Total Wt.: [UNCERTAIN]
+H.C: [UNCERTAIN]
+
+INTAKE AND OUTPUT
+Past 24 hrs Intake: [UNCERTAIN] ml/kg/day
+Past 24 hrs Output: [UNCERTAIN] Total Volume: [UNCERTAIN] ml/kg/day
+
+INTAKE DETAILS (Hourly)
+8 am: 1
+9 am: N
+10 am: [UNCERTAIN]
+11 am: [UNCERTAIN]
+12 am: [UNCERTAIN]
+1 pm: [UNCERTAIN]
+2 pm: SAD
+3 pm: [UNCERTAIN]
+4 pm: [UNCERTAIN]
+5 pm: [UNCERTAIN]
+6 pm: 10y+50
+7 pm: [UNCERTAIN]
+8 pm: 13.49
+9 pm: [UNCERTAIN]
+10 pm: [UNCERTAIN]
+11 pm: [UNCERTAIN]
+12 am: [UNCERTAIN]
+1 am: 13.74
+2 am: 13.手
+3 am: 13.4p
+4 am: 13.49
+5 am: 13.4
+6 am: 13.+
+7 am: 13.70
+
+
+######################################################################
+STRUCTURED CHUNK 014
+SOURCE PAGES: PAGE_066 TO PAGE_070
+######################################################################
+
+SOURCE PAGE: PAGE_066
+DOCUMENT TYPE: INTAKE & OUTPUT CHART
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D 9M
+
+DOCUMENT INFORMATION
+Adm Date: 27-06-2026 09:03 PM
+Admit Wt.: [UNCERTAIN: value missing]
+Yest. Wt.: [UNCERTAIN: value missing]
+Total Wt.: [UNCERTAIN: value missing]
+H.C: [UNCERTAIN: value missing]
+Consult: DR. SRINIVAS MURKI
+
+INTAKE AND OUTPUT
+Past 24 hrs. Intake: [UNCERTAIN: value missing] ml/kg/day
+Past 24 hrs. Output: [UNCERTAIN: value missing]
+Total Volume: [UNCERTAIN: value missing] ml/kg/day
+
+INTAKE
+8 am: 10.5 ml
+9 am: 10.5 ml S1F-EBm (15ml)
+10 am: 10.5 ml
+11 am: 10.5 ml 81F-mom 15ml
+12 am: 10.5 ml
+1 pm: 10.5 ml
+2 pm: 10.5 ml slrmm15ml
+3 pm: 10.5 ml
+4 pm: 10.5 ml o)fmn15ml
+5 pm: 10.5 ml
+6 pm: 10.5 ml S/F morgloml
+7 pm: 10.5m
+8 pm: 10-5m s1f
+9 pm: 20p 10.5 Mom
+10 pm: 10.5 s/c 2
+11 pm: 10.5 s/C 1
+12 am: 10.5 s/C 2
+1 am: 10.5 mom
+2 am: 10.5 s/c a.y
+3 am: 10.5 1
+4 am: 10.5 3/C a5
+5 am: 10-5 mom
+6 am: 10.5 – s/S
+7 am: 10.5 251
+
+OUTPUT
+[UNCERTAIN: output details missing]
+
+SOURCE PAGE: PAGE_067
+DOCUMENT TYPE: INTAKE & OUTPUT CHART
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D 9M
+
+DOCUMENT INFORMATION
+Adm Date: 27-06-2026 09:03 PM
+Admit Wt.: [UNCERTAIN: value missing]
+Yest. Wt.: [UNCERTAIN: value missing]
+Total Wt.: [UNCERTAIN: value missing]
+H.C: [UNCERTAIN: value missing]
+Consult: DR. SRINIVAS MURKI
+
+INTAKE AND OUTPUT
+Past 24 hrs. Intake: [UNCERTAIN: value missing] ml/kg/day
+Past 24 hrs. Output: [UNCERTAIN: value missing]
+Total Volume: [UNCERTAIN: value missing] ml/kg/day
+
+INTAKE
+8 am: SIF 20mol
+9 am: √
+10 am: J
+11 am: 81F 30m
+12 am:
+1 pm: 81F 3000 J
+2 pm: s1r
+3 pm:
+4 pm: S/6
+5 pm:
+6 pm:
+7 pm: s|r
+8 pm: 509
+9 pm:
+10 pm: S1r- 81 J
+11 pm: 3/C 809
+12 am: 7
+1 am: S/F
+2 am: 34 J
+3 am: 516 84
+4 am: s1F
+5 am:
+6 am: 8V4 1
+7 am:
+
+OUTPUT
+[UNCERTAIN: output details missing]
+
+SOURCE PAGE: PAGE_068
+DOCUMENT TYPE: INTAKE & OUTPUT CHART
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D 9M
+
+DOCUMENT INFORMATION
+Adm Date: 27-06-2026 09:03 PM
+Date: 0714|2026
+Admit Wt.: [UNCERTAIN: value missing]
+Yest. Wt.: [UNCERTAIN: value missing]
+Total Wt.: [UNCERTAIN: value missing]
+H.C: [UNCERTAIN: value missing]
+Consult: DR. SRINIVAS MURKI
+
+INTAKE AND OUTPUT
+Past 24 hrs. Intake: [UNCERTAIN: value missing] ml/kg/day
+Past 24 hrs. Output: [UNCERTAIN: value missing]
+Total Volume: [UNCERTAIN: value missing] ml/kg/day
+
+INTAKE
+8 am: J
+9 am: Foomus Spoonst 30ml
+10 am:
+11 am: SIF foroouls 30ml
+12 am:
+1 pm: Formule SIF 30ml
+2 pm:
+3 pm:
+4 pm:
+5 pm:
+6 pm:
+7 pm:
+8 pm:
+9 pm:
+10 pm:
+11 pm:
+12 am:
+1 am:
+2 am:
+3 am:
+4 am:
+5 am:
+6 am:
+7 am:
+
+OUTPUT
+[UNCERTAIN: output details missing]
+
+SOURCE PAGE: PAGE_069
+DOCUMENT TYPE: LAB INVESTIGATION CHART
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+LABORATORY INVESTIGATIONS
+HB%: 15.6
+PCV/HCT: 49.8
+WBC: 9100
+DC-NP: [UNCERTAIN: value missing]
+DC-LC: [UNCERTAIN: value missing]
+Platelet count: 153000
+Peripheral Smear: [UNCERTAIN: value missing]
+Reticulocyte count: [UNCERTAIN: value missing]
+Band Count: [UNCERTAIN: value missing]
+CRP: 2.4
+Na+: 1w2
+K+: 5.1
+Cl+: 107
+Ca2+: 5.0.8
+Po4: [UNCERTAIN: value missing]
+Mg2+: [UNCERTAIN: value missing]
+HCO3: [UNCERTAIN: value missing]
+Anion gap: [UNCERTAIN: value missing]
+Urea: 20
+BUN: [UNCERTAIN: value missing]
+Creatinine: 0.4
+Calculated GFR: [UNCERTAIN: value missing]
+FENa: [UNCERTAIN: value missing]
+Total Bilirubin: 15.5
+Direct Bilirubin: 1.54
+Indirect Bilirubin: 13.0
+AST: 35
+ALT: 214
+ALP: [UNCERTAIN: value missing]
+GGT: [UNCERTAIN: value missing]
+Total Protein: 5.2
+Albumin: 3.4
+PT/INR: [UNCERTAIN: value missing]
+
+SOURCE PAGE: PAGE_070
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D 9M
+
+DOCUMENT INFORMATION
+Adm Date: 27-06-2026 09:03 PM
+Consult: DR. SRINIVAS MURKI
+
+VITAL SIGNS
+[UNCERTAIN: vital sign data presented in a chart format, values difficult to extract accurately]
+
+
+######################################################################
+STRUCTURED CHUNK 015
+SOURCE PAGES: PAGE_071 TO PAGE_075
+######################################################################
+
+SOURCE PAGE: PAGE_071
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: missing]
+Date : 28|6 |20
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+Consult : DR. SRINIVAS MURKI
+
+[The remainder of the page contains a vitals monitoring chart with temperature and pulse rate data over time, but no specific values are extracted here as per instructions.]
+
+SOURCE PAGE: PAGE_072
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: missing]
+Date: 29106126
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+Consult : DR. SRINIVAS MURKI
+
+[The remainder of the page contains a vitals monitoring chart with temperature and pulse rate data over time, but no specific values are extracted here as per instructions.]
+
+SOURCE PAGE: PAGE_073
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: missing]
+Date: 80|6126
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+Consult : DR. SRINIVAS MURKI
+
+[The remainder of the page contains a vitals monitoring chart with temperature and pulse rate data over time, but no specific values are extracted here as per instructions.]
+
+SOURCE PAGE: PAGE_074
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: missing]
+Date: 0114|26
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+Consult : DR. SRINIVAS MURKI
+
+[The remainder of the page contains a vitals monitoring chart with temperature and pulse rate data over time, but no specific values are extracted here as per instructions.]
+
+SOURCE PAGE: PAGE_075
+DOCUMENT TYPE: PATIENT & FAMILY EDUCATION FORM
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHIDNO: 162608635
+IPDNO: LB26/3007
+Age : 4 D
+Gender : Male
+
+DOCUMENT INFORMATION
+Consult: DR. SRINIVAS MURKI
+Adm Date: 27-06-2026 09:03 PM
+
+CLINICAL CONDITION
+28/6/26 - Baby on minimal O2
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mglds. No further seizures.
+
+29/6/26 - Stop Lenipi'l Gardenal & Phenon. Continue Neuro (o). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+
+######################################################################
+STRUCTURED CHUNK 016
+SOURCE PAGES: PAGE_076 TO PAGE_080
+######################################################################
+
+SOURCE PAGE: PAGE_076
+DOCUMENT TYPE: PATIENT EDUCATION FORM
+
+PATIENT IDENTIFICATION
+Name : VAGDEVI
+UHID NO: 162608635
+IPD NO : LB26/3007
+Age : 4 D
+Gender : Male
+DOB/AGE: [UNCERTAIN: Consult: DR. SRINIVAS MURKI]
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+DIAGNOSES AND CLINICAL PROBLEMS
+further seiaures
+hypoglycemia
+
+CLINICAL CONDITION
+Stable
+
+NURSING DOCUMENTATION
+Topic Content: Seizure, Hypoglycemia
+Remarks: Stable. MTRIBecwn ecporn Qlwcorling S1O OCCiPTTU Iabe inveverau Srde mexon Peeqrerrs now expllened
+
+SOURCE PAGE: PAGE_077
+DOCUMENT TYPE: PATIENT EDUCATION FORM
+
+PATIENT IDENTIFICATION
+Name : VAGDEVI
+UHID NO: 162608635
+IPD NO : LB26/3007
+Age : 4 D
+Gender : Male
+DOB/AGE: [UNCERTAIN: Consult: DR. SRINIVAS MURKI]
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+NURSING DOCUMENTATION
+[UNCERTAIN: small handwritten notes and markings - illegible]
+
+SOURCE PAGE: PAGE_078
+DOCUMENT TYPE: PERIPHERAL CANNULATION SHEET
+
+PATIENT IDENTIFICATION
+Name : VAGDEVI
+UHID NO: 162608635
+IPD NO : LB26/3007
+Age : 4 D
+Gender : Male
+DOB/AGE: [UNCERTAIN: Consult: DR. SRINIVAS MURKI]
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+PROCEDURES
+1st CANNULA: [Details blank]
+2nd CANNULA: [Details blank]
+3d CANNULA: [Details blank]
+
+PERIPHERAL VENOUS THERMBOPHLEBITIS
+Grade of Thrombophlebitis: GRO / GR1 / GR2 / GR3 / GR4 / GR5 (Please Tick) - not selected.
+
+INFLUSATE SOLUTION ON FLOW
+Name of the Drug and Mg: [Blank]
+Name of the Fluids and Rate of on flow per Hour: [Blank]
+
+SOURCE PAGE: PAGE_079
+DOCUMENT TYPE: PERIPHERAL CANNULATION SHEET
+
+PATIENT IDENTIFICATION
+Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Age : 4 D
+Gender : Male
+
+VITAL SIGNS
+Date: 28/6/26 Time: 9P3 VIP SCORE: -0- Remarks: Anasuys
+Date: 28/06/26 Time: apm VIP SCORE: -0- Remarks: shanel.
+Date: 27/6lm Time: 8pm VIP SCORE: – 0- Remarks: e
+Date: 8016(26 Time: 8cum VIP SCORE: —o - Remarks: eX
+Date: 30(6126) Time: 8pm VIP SCORE: - 0 Remarks: dy
+Date: 110+(26 Time: CB VIP SCORE: o – Remarks:
+
+SOURCE PAGE: PAGE_080
+DOCUMENT TYPE: NOSOCOMIAL INFECTION SURVEILLANCE FORM
+
+PATIENT IDENTIFICATION
+Name : VAGADAVI
+UHID NO: 162608635
+IPD NO : LB26/3007
+Age : 4 D
+Gender : Male
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+INVASIVE DEVICES DETAILS
+1. IV cannula Insertion date: 27/6/26 Removal date: 22/6/26
+2. Foley's catheter Insertion date: 28/6/26 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+DIAGNOSIS
+[Blank]
+
+SIGNS AND SYMPTOMS
+[Blank]
+
+
+######################################################################
+STRUCTURED CHUNK 017
+SOURCE PAGES: PAGE_081 TO PAGE_085
+######################################################################
+
+SOURCE PAGE: PAGE_081
+DOCUMENT TYPE: REQUISITION FORM
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+DOCUMENT INFORMATION
+Date & Time: 286/26
+Ref.by Dr.: MS. nuwlw
+Sample Collected By: Lofe
+
+LABORATORY INVESTIGATIONS
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: 
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Triple Marker
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+SOURCE PAGE: PAGE_082
+DOCUMENT TYPE: REQUISITION FORM
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+DOCUMENT INFORMATION
+Date & Time: 286/26
+Ref.by Dr.: MMS. nunm
+Sample Collected By: Leje
+
+LABORATORY INVESTIGATIONS
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: 
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Triple Marker
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+SOURCE PAGE: PAGE_083
+DOCUMENT TYPE: REQUISITION FORM
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date & Time: 28/6/26
+Ref.by Dr.: Dr. S.mult
+Sample Collected By: Sis. AnaLug
+
+LABORATORY INVESTIGATIONS
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: Umdrcal
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Triple Marker
+1. Ammonía
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+SOURCE PAGE: PAGE_084
+DOCUMENT TYPE: REQUISITION FORM
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date & Time: 28|6|6
+Ref.by Dr.: Dr. S.mulk
+Sample Collected By: Sis. fnasuya
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+
+LABORATORY INVESTIGATIONS
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+for ocduang subsfence
+1. Urinc
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+SOURCE PAGE: PAGE_085
+DOCUMENT TYPE: BILLING RECORD
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date & Time: 20/6/28
+Doctor's Name: irs marlm
+Ward / Room No. N u
+
+PROCEDURES
+Morning shift
+Evening Shift
+Night Shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+LAB INVESTIGATIONS
+1 Arterial Line Insertion
+2 P. Cadum Res VBy
+3 CUG,
+
+RADIOLOGY INVESTIGATIONS
+1 
+2 
+3 
+4 
+
+CROSS CONSULTATION
+1 
+2 
+3 
+4 
+
+BEDSIDE EQUIPMENTS
+Start Stop Start Stop Start Stop
+1 Alpha Matress/DVT Pump
+2 Body warmer
+3 BIPAP
+4 CPAP
+5 NST/CTG/Fetal Monitoring
+6 Infusion/Syringe Pump
+7 Tracheostomy Decannulation
+8 Phototherapy
+9 Tracheostomy Tube Change
+10 Oxygen Charges
+11 Ventilator Charges
+
+CONSULTATION
+Morning shift Evening Shift Night Shift
+Doctors Visit ✓ 
+Physiotherapy
+Diet
+
+OTHERS
+Nursing staff: lofe
+PCC/Billing staff (Recieving Staff):
+Signature
+Employee ID
+
+
+######################################################################
+STRUCTURED CHUNK 018
+SOURCE PAGES: PAGE_086 TO PAGE_090
+######################################################################
+
+SOURCE PAGE: PAGE_086
+DOCUMENT TYPE: BILLING RECORD
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+PROCEDURES
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+LAB INVESTIGATIONS
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+RADIOLOGY INVESTIGATIONS
+x-ray
+
+CROSS CONSULTATION
+None documented.
+
+BEDSIDE EQUIPMENTS
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+CONSULTATION
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+NURSING DOCUMENTATION
+Name of Nursing staff: Anasuep
+Signature: [UNCERTAIN: signature]
+Employee ID: 12277
+
+PCC/Billing Staff
+Name: Dmp
+Signature: [UNCERTAIN: signature]
+Employee ID: 2634
+
+SOURCE PAGE: PAGE_087
+DOCUMENT TYPE: BILLING RECORD
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+PROCEDURES
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+LAB INVESTIGATIONS
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+RADIOLOGY INVESTIGATIONS
+None documented
+
+CROSS CONSULTATION
+xicurologist apnian, Lone, NSG done.
+
+BEDSIDE EQUIPMENTS
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+CONSULTATION
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+NURSING DOCUMENTATION
+Name of Nursing staff: Shanuy uol
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+PCC/Billing Staff
+Name: or
+Signature: [UNCERTAIN: signature]
+Employee ID: 16836
+
+SOURCE PAGE: PAGE_088
+DOCUMENT TYPE: BILLING RECORD
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+Name: VAGDEVI
+MR. No.: 08635
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+CONSULTANT
+DR. SRINIVAS MURKI
+
+PROCEDURES
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+LAB INVESTIGATIONS
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+RADIOLOGY INVESTIGATIONS
+MRI done
+
+CROSS CONSULTATION
+None documented
+
+BEDSIDE EQUIPMENTS
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+CONSULTATION
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+NURSING DOCUMENTATION
+Name of Nursing staff: Qo Shancey
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+PCC/Billing Staff
+Name: 3
+Signature: [UNCERTAIN: signature]
+Employee ID: 2634
+
+SOURCE PAGE: PAGE_089
+DOCUMENT TYPE: BILLING RECORD
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+Name: VAGDEVI
+MR. No.: 08635
+
+PROCEDURES
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+LAB INVESTIGATIONS
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+RADIOLOGY INVESTIGATIONS
+None documented
+
+CROSS CONSULTATION
+None documented
+
+BEDSIDE EQUIPMENTS
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+CONSULTATION
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+NURSING DOCUMENTATION
+Name of Nursing staff: [UNCERTAIN: name]
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+PCC/Billing Staff
+Name: B
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+SOURCE PAGE: PAGE_090
+DOCUMENT TYPE: REQUISITION FOR MICROBIOLOGY & IMMUNO-SEROLOGY
+
+PATIENT IDENTIFICATION
+Patient's Name: Blo Vaedevi
+Age: [UNCERTAIN: age]
+Sex: male
+UHID NO: 162608635
+IP NO/OP NO: UB 26(300)
+
+DATE AND TIME
+Date: 28l6626
+Collection Time: [UNCERTAIN: time]
+
+SPECIMEN DETAILS
+Nature of Specimen: Bloodls
+Previous Culture No/Date: None documented.
+
+CLINICAL INFORMATION
+Clinical details (Brief history): required with Antibiotic history
+Physical findings: None documented
+Other pertinent/specialized investigations: None documented
+
+RISK STRATIFICATION
+Patient Type-1 (CAI)
+Patient Type-2 (HAI)
+Patient Type-3 (NI)
+No contact with health care system
+Contact with health care system (e.g. Long hospitalization and or invasive procedures)
+Recent hospital admission, nursing home, dialysis without invasive procedure
+No prior antibiotic
+Recent antibiotic therapy
+Recent & multiple antibiotic therapies
+
+PATIENT CHARACTERISTICS
+Patient young with few co-morbid conditions
+Patient old with multiple co-morbidities
+Patient characteristics: cystic fibrosis, structural lung disease, advanced AIDS, neutropenia, other severe immunodeficiency.
+
+SIGNATURE
+Signature of the Doctor: [UNCERTAIN: signature]
+
+
+######################################################################
+STRUCTURED CHUNK 019
+SOURCE PAGES: PAGE_091 TO PAGE_095
+######################################################################
+
+SOURCE PAGE: PAGE_091
+DOCUMENT TYPE: GRBS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+GRBS MONITORING
+Date: 28/06 - 30/06
+Time	GRBS	Doctor Name
+9:20p	36mgd	Dr. Dovey
+10 p	65rmgde	Dr Lavuy
+11p	72 mgde	nrLand Coje
+0	2896	
+240	25nigde	DrLard
+2816	Drhanmy
+5Am	10 5fgdee	2816
+1pm	93meddl	Dr. Ananthar Anasuys 2.16
+lip	Somgde	MeAnanten ly
+2916	6Am	98mgde	DYAnaulte Yoje
+2916	6pm	122 mgld	Br Tejasu
+2916	p	99 mgde	nr.Tyus
+4	506	490 legmgde DrTejen
+30161 8 108mgldr 10am Dr-Jujashw
+1244 99ng de rAnauelen e4
+117 5A1 99 mgde WAnalte
+
+SOURCE PAGE: PAGE_092
+DOCUMENT TYPE: PATIENT ACUITY SCORE & ALLOCATION
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+DOCUMENT INFORMATION
+Date: 28/06/26
+Consultant: DR. SRINIVAS MURKI
+Admission Date: 27-06-2026 09:03 PM
+
+DIAGNOSES AND CLINICAL PROBLEMS
+[UNCERTAIN: DIAGNOSIS - not specified]
+
+PATIENT ACUITY SCORE & ALLOCATION TABLE
+(Details of scoring for Consciousness, Respiratory Status, Cardiovascular Status, Feeding & Nutrition, Elimination, Medication Complexity, Pain & Comfort, Procedures & Devices, Parental Support Need are provided in a table format with Morning, Afternoon and Night staff levels. Specific values and names are present on the page.)
+
+Category I: Score 0-6 - Routine nursing care
+Category II: Score 7-19 - Increased nursing observation
+Category III: Score 20-30 - Close monitoring and high nursing
+Category IV: Score > 30 - One-to-one intensive nursing care
+
+NUR.SUPERVISOR NAME & SIGN
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE
+
+SOURCE PAGE: PAGE_093
+DOCUMENT TYPE: PATIENT ACUITY SCORE & ALLOCATION
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+DOA: 27-06-2026
+Diagnosis: Seizures
+
+PATIENT ACUITY SCORE & ALLOCATION TABLE
+(Details of scoring for Consciousness, Respiratory Status, Cardiovascular Status, Feeding & Nutrition, Elimination, Medication Complexity, Pain & Comfort, Procedures & Devices, Parental Support Need are provided in a table format with Morning, Afternoon and Night staff levels. Specific values and names are present on the page.)
+
+SOURCE PAGE: PAGE_094
+DOCUMENT TYPE: PATIENT ACUITY SCORE & ALLOCATION
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date: 30/06/26
+Consultant: DR. SRINIVAS MURKI
+Admission Date: 27-06-2026 09:03 PM
+
+PATIENT ACUITY SCORE & ALLOCATION TABLE
+(Details of scoring for Consciousness, Respiratory Status, Cardiovascular Status, Feeding & Nutrition, Elimination, Medication Complexity, Pain & Comfort, Procedures & Devices, Parental Support Need are provided in a table format with Morning, Afternoon and Night staff levels. Specific values and names are present on the page.)
+
+SOURCE PAGE: PAGE_095
+DOCUMENT TYPE: PATIENT ACUITY SCORE & ALLOCATION
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Date: [UNCERTAIN: 11/7/26]
+Consultant: DR. SRINIVAS MURKI
+Admission Date: 27-06-2026 09:03 PM
+
+PATIENT ACUITY SCORE & ALLOCATION TABLE
+(Details of scoring for Consciousness, Respiratory Status, Cardiovascular Status, Feeding & Nutrition, Elimination, Medication Complexity, Pain & Comfort, Procedures & Devices, Parental Support Need are provided in a table format with Morning, Afternoon and Night staff levels. Specific values and names are present on the page.)
+
+
+######################################################################
+STRUCTURED CHUNK 020
+SOURCE PAGES: PAGE_096 TO PAGE_100
+######################################################################
+
+SOURCE PAGE: PAGE_096
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Lab No : 1646870
+Sample Date : 27/06/2026 10:35PM
+Receiving Date : 28/06/2026 1:18AM
+Report Date : 28/06/2026 3:03AM
+Referred By : Dr. Srinivas Murki
+Report Status : Final
+
+LABORATORY INVESTIGATIONS
+BIOCHEMISTRY
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+Interpretation : [UNCERTAIN: Interpretation text regarding CRP levels and clinical correlation]
+
+SOURCE PAGE: PAGE_097
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Lab No : 1646870
+Sample Date : 27/06/2026 10:35PM
+Receiving Date : 28/06/2026 1:18AM
+Report Date : 28/06/2026 3:03AM
+Referred By : Dr. Srinivas Murki
+Report Status : Final
+
+LABORATORY INVESTIGATIONS
+BIOCHEMISTRY
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+Interpretation : [UNCERTAIN: Interpretation text regarding kidney function tests and electrolytes]
+
+SOURCE PAGE: PAGE_098
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Lab No : 1646870
+Sample Date : 27/06/2026 10:35PM
+Receiving Date : 28/06/2026 1:18AM
+Report Date : 28/06/2026 3:03AM
+Referred By : Dr. Srinivas Murki
+Report Status : Final
+
+LABORATORY INVESTIGATIONS
+HEMATOLOGY
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 L fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 L pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dl
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 H %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 L %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 28.00-35.00 %
+EOSINOPHILS
+Result : 03 %
+Method : Impedance/Flowcytometry
+Ref. Interval : 1.00 - 8.00 %
+MONOCYTES
+Result : 05 %
+Method : Impedance/Flowcytometry
+Ref. Interval : 4.00 - 7.00 %
+BASOPHILS
+Result : 00 %
+Method : Impedance/Flowcytometry
+Ref. Interval : < 1.00 %
+PERIPHERAL SMEAR
+RBC - PERIPHERAL SMEAR : NORMOCYTIC NORMOCHROMIC (Microscopic)
+WBC - PERIPHERAL SMEAR : NEUTROPHILIA (Microscopic)
+PLATELET - PERIPHERAL SMEAR : ADEQUATE (Microscopic)
+
+SOURCE PAGE: PAGE_099
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Lab No : 1646870
+Sample Date : 27/06/2026 10:35PM
+Receiving Date : 28/06/2026 1:18AM
+Report Date : 28/06/2026 3:03AM
+Referred By : Dr. Srinivas Murki
+Report Status : Final
+
+LABORATORY INVESTIGATIONS
+HEMATOLOGY
+BLOOD GROUPING AND RH TYPING
+BLOOD GROUP : "B" (Slide Agglutination Method)
+RH TYPING : Positive
+Comments / Interpretation : [UNCERTAIN: Blood group and Rh typing interpretation text]
+
+SOURCE PAGE: PAGE_100
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Lab No : 1646874
+Sample Date : 28/06/2026 12:57AM
+Receiving Date : 28/06/2026 1:18AM
+Report Date : 28/06/2026 3:03AM
+Referred By : Dr. Srinivas Murki
+Report Status : Final
+
+LABORATORY INVESTIGATIONS
+BIOCHEMISTRY
+RANDOM BLOOD GLUCOSE (RBS)
+Result : 35 mg/dL
+Method : Hexokinase
+Ref. Interval : Neonates: (1 day) (30-110), Neonates :(> 1 day) (40-100), Children: 60-150, Adults ; 60-140
+Interpretation : [UNCERTAIN: Interpretation text regarding blood glucose levels]
+
+
+######################################################################
+STRUCTURED CHUNK 021
+SOURCE PAGES: PAGE_101 TO PAGE_105
+######################################################################
+
+SOURCE PAGE: PAGE_101
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+LABORATORY INVESTIGATIONS
+Lab No : 1646874
+Sample Date : 28/06/2026 12:57AM
+Receiving Date : 28/06/2026 1:18AM
+Report Date : 28/06/2026 3:03AM
+
+BIOCHEMISTRY
+IONIC CALCIUM
+Result : 5.08 mg/dL
+Ref. Interval : Children 4.8-5.52, Adult 4.64-5.28
+
+SOURCE PAGE: PAGE_102
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+LABORATORY INVESTIGATIONS
+Lab No : 1646873
+Sample Date : 27/06/2026 11:42PM
+Receiving Date : 28/06/2026 1:18AM
+Report Date : 28/06/2026 3:03AM
+
+BIOCHEMISTRY
+LIVER FUNCTION TEST (LFT)
+TOTAL BILIRUBIN : 15.5 mg/dL
+Ref. Interval : Below 6 mg/dl, 24-48 Hours - Below 10 mg/dl, 48-72 Hours - Below 12 md/dl, Older than 72 Hours - Below 15 mg/dl
+DIRECT BILIRUBIN : 1.8 H mg/dL
+Ref. Interval : 0.33 - 0.71
+INDIRECT BILIRUBIN : 13.70 H mg/dL
+Ref. Interval : 0.00 - 12.00
+ALANINE TRANSMINASE (ALT/SGPT) : 10 U/L
+Ref. Interval : 10.00 - 50.00
+ASPARTATE TRANSFERASE (SGOT / AST) : 35 U/L
+Ref. Interval : 10.00 - 50.00
+ALKALINE PHOSPHATASE (ALP) : 214 U/L
+Ref. Interval : 83.00 - 248.00
+TOTAL PROTEIN : 5.2 mg/dL
+Ref. Interval : <15
+Albumin : 3.4 g/dL
+Ref. Interval : 2.8 - 5.2
+Globulin : 1.8 L g/dL
+Ref. Interval : 2.1 - 3.5
+A/G Ratio : 1.9
+
+SOURCE PAGE: PAGE_103
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+LABORATORY INVESTIGATIONS
+Lab No : 1646891
+UHID/IP No : 162608635 / LB26/3007
+Sample Date : 28/06/2026 9:07AM
+Receiving Date : 28/06/2026 9:08AM
+Report Date : 28/06/2026 9:51AM
+
+BIOCHEMISTRY
+AMMONIA
+Result : 86.0 H umol/L
+Ref. Interval : 9.0- 47.0
+
+SOURCE PAGE: PAGE_104
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+LABORATORY INVESTIGATIONS
+Lab No : 1646879
+UHID/IP No : 162608635 / LB26/3007
+Sample Date : 28/06/2026 6:23AM
+Receiving Date : 28/06/2026 6:52AM
+Report Date : 28/06/2026 10:10AM
+
+CLINICAL PATHOLOGY
+COMPLETE URINE EXAMINATION (CUE)
+Quantity : 20 ML
+Colour : Yellow
+Appearance : Turbid
+Specific gravity : 1.015
+Ref. Interval : 0.000-1.035
+PH : 6.0
+Glucose : Nil
+Protein : +
+Bilirubin : Positive +
+Ketone : Nil
+BLOOD : Nil
+Leucocytes : Trace
+Urobilinogen : Negative
+Nitrate : Negative
+Pus cells : 6-8 /hpf
+Ref. Interval : 01-05 /hpf
+Epithelial cells : 10 - 12 /hpf
+Ref. Interval : 01-05 /hpf
+RBC's : Nil
+Crystals : Nil
+Casts : Nil
+OTHERS: BACTERIA PRESENT
+
+SOURCE PAGE: PAGE_105
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+LABORATORY INVESTIGATIONS
+Lab No : 1646870
+UHID : 162608635 / LB26/3007
+Sample Date : 27/06/2026 10:35PM
+Receiving Date : 28/06/2026 10:37AM
+Report Date : 29/06/2026 8:16AM
+
+MICROBIOLOGY
+CULTURE AND SENSITIVITY - AUTOMATED/VITEK, BLOOD
+SPECIMEN TYPE : BLOOD
+Culture Result : PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+
+
+######################################################################
+STRUCTURED CHUNK 022
+SOURCE PAGES: PAGE_106 TO PAGE_106
+######################################################################
+
+SOURCE PAGE: PAGE_106
+DOCUMENT TYPE: LABORATORY INVESTIGATIONS
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Lab No : 1646870
+Sample Date : 27/06/2026 10:35PM
+Receiving Date : 28/06/2026 10:37AM
+Report Date : 29/06/2026 8:16AM
+Referred By : Dr. Srinivas Murki
+Report Status : Final
+Bed No/Ward : NICU Ward
+
+LABORATORY INVESTIGATIONS
+Test Name : CULTURE AND SENSITIVITY - AUTOMATED/VITEK, BLOOD
+Specimen Type : BLOOD
+Culture Result : PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+Note : The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color change caused by production. Microbial metabolism releases , altering pH and changing the bottle sensor color from green to yellow. The system monitors this change in real time; bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+
+CONSULTATIONS
+Consultant Microbiologist : Dr. GAYATRI KORIDE, MBBS, MD (Microbiology)
+Verified By : Dr. GAYATRI KORIDE
+Approved By : Dr. GAYATRI KORIDE
+
+DOCUMENT INFORMATION
+Printed on : 30/06/2026 08:53
+Page : 1 Of 1

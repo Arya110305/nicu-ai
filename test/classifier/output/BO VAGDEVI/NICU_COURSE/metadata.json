@@ -1,0 +1,18 @@
+{
+    "section": "NICU_COURSE",
+    "page_count": 12,
+    "pages": [
+        "page_012_structured.md",
+        "page_034_structured.md",
+        "page_038_structured.md",
+        "page_039_structured.md",
+        "page_041_structured.md",
+        "page_045_structured.md",
+        "page_046_structured.md",
+        "page_048_structured.md",
+        "page_049_structured.md",
+        "page_054_structured.md",
+        "page_058_structured.md",
+        "page_087_structured.md"
+    ]
+}

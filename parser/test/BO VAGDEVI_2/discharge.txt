@@ -1,0 +1,107 @@
+### Page Breakdown and Content Organization for Vagdevi's Medical Records
+
+Here is a structured breakdown and organization of the provided patient records:
+
+---
+
+#### **Patient Information**
+- **Name:** B/O Vagdevi 
+- **UHID NO:** 162608635 
+- **IPD NO:** LB26/3007
+- **Gender:** Male 
+- **Age:** 4 Days
+
+#### **Admission Details**
+- **Consultant:** Dr. Srinivas Murki 
+- **Adm Date & Time:** 27-06-2026, 9:03 PM 
+
+---
+
+### **Procedures and Notes**
+
+#### **Peripheral Cannulation (Perfcan)**
+| Cannula | Insertion Date | Time | Inserted by | Place of Insertion | Cannula Size | Removal Date | Removed by | Reason |
+|---------|---------------|------|-------------|-------------------|--------------|--------------|------------|--------|
+| 1st     | 27-06-2026     | 09:03 PM | Dr. Srinivas Murki, Sr. Ropi | Not specified | Not specified | Not specified | Not specified | Not specified |
+| 2nd     | -             | -      | -           | -                | -            | -            | -          | -       |
+| 3rd     | -             | -      | -           | -                | -            | -            | -          | -       |
+
+#### **Revisions and Issue Details**
+- **Revision No.:** 3 
+- **Issue No.:** 4  
+- **Form Number:** AHWC/IP/F/15
+
+---
+
+### **Patient Information**
+
+- **Name:** B/O Vagdevi
+- **Age/Sex:** Male, 4 days
+
+#### **Other Notes and Forms**
+- **Requisition Form for Microbiology & Immunology:**
+  - **Collection Details**: Not specified 
+  - **Clinical Diagnosis**: Rsepsm (Respiratory Symptom)
+  - **Previous Culture Information**: No previous culture number/date provided
+  - **Risk Stratification**: Patient Type-1, Type-2, Type-3 not specified; recent antibiotic therapy not specified
+
+---
+
+### **Vitals and Laboratory Reports**
+
+#### **Morning Shift Lab Tests**
+- Arterial Blood Gas Analysis (ABG)
+- Complete Blood Count (CBC)
+- C-reactive Protein (CRP)
+- Liver Function Test (LFT)
+- Renal Function Test (RFT)
+- Upper Respiratory Infection (URI)
+
+#### **Hematology Report**
+- Hemoglobin, Packed Cell Volume (PCV), MCV, MCH, MCHC, RBC count, WBC count, Platelet count
+  - **Result:** 
+    - Haemoglobin: 15.6 g/dL
+    - PCV: 49.8%
+    - MCV: 80.9 fL
+    - MCH: 25.4 pg
+    - MCHC: 31.4 gm/dL
+    - RBC count: 6.15 × 10^6/uL
+    - WBC count: 9,100 cells/cumm
+    - Platelet count: 183,000 /mm3
+
+#### **Biochemistry Reports**
+- Blood Group and RH Typing (B+)
+- Ionic Calcium: 5.08 mg/dL 
+- Ammonia: 86.0 μmol/L
+- Liver Function Test (LFT) results
+
+---
+
+### **Daily Progress and Notes**
+
+- **Morning Shift:** Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line insertion, Dressing 
+- **Evening Shift:** Same as Morning
+- **Night Shift:** Same as Morning
+
+#### **Nursing Notes**
+- Various procedures and equipment used
+  - Pigtail Catheter, Alpha Matress/DVT Pump, Body warmer, BIPAP, CPAP, Surfactant Administration, Tracheostomy Decannulation, Infusion/Syringe Pump, Phototherapy, Umblical Catheterisation, Ventricular Tapping, ABG (Arterial Blood Gas Analysis), GRBS (Blood Glucose by Glucometer)
+
+---
+
+### **Discharge Summary and Other Information**
+
+- **Name of Nursing Staff:** Shaxy 
+- **Name of PCC/Billing staff (Receiving Staff):** Anasuy
+
+---
+
+### **Final Notes**
+- **Nurse must update the sheet after each procedure.**
+- **Daily updation of patient bills in HIMS by billing staff must be done.**
+
+---
+
+This structured format helps in organizing and accessing important medical information quickly, ensuring comprehensive care for Vagdevi.
+
+If you need further specific details or sections organized differently, please let me know!

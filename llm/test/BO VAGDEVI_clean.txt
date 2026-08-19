@@ -1,0 +1,114 @@
+Based on the provided data, here are some key findings and reports for Baby of Vagadavi (Patient ID: LB26/3007):
+
+### Demographics:
+- **Name:** B/O. Vagadavi (Baby)
+- **Age/Gender:** 4 Days / Male
+
+### Laboratory Reports:
+
+#### Biochemistry:
+1. **C-Reactive Protein (CRP):** 
+   - Result: 2.4 mg/L
+   - Reference Interval: 0.01-6.00 mg/L
+   - Interpretation: Indicates an inflammatory process but requires clinical context.
+
+2. **Renal Function Test (RFT):**
+   - Creatinine: 0.4 mg/dL
+     - Reference Interval: 0.3 - 0.9 mg/dL
+   - Blood Urea: 20 mg/dL
+     - Reference Interval: 16.60 - 48.50 mg/dL
+   - Blood Urea Nitrogen (BUN): 9.4 mg/dL
+     - Reference Interval: 6.00 - 20.00 mg/dL
+   - Uric Acid: 4.3 mg/dL
+     - Reference Interval: 3.50 - 7.20 mg/dL
+
+3. **Ionic Calcium:** 
+   - Result: 5.08 mg/dL
+     - Reference Interval for Children (4 Days): 4.8-5.52 mg/dL
+
+4. **Liver Function Test (LFT):**
+   - Total Bilirubin: 15.5 mg/dL
+     - Reference Interval: Varies based on age, but generally below 6 mg/dL for first few days.
+   - Direct Bilirubin: 1.8 mg/dL
+     - Reference Interval: 0.33-0.71 mg/dL
+   - Indirect Bilirubin: 13.7 mg/dL
+     - Reference Interval: 0-12.00 mg/dL
+   - ALT (SGPT): 10 U/L
+     - Reference Interval: 10.00-50.00 U/L
+   - AST (SGOT): 35 U/L
+     - Reference Interval: 10.00-50.00 U/L
+   - ALP: 214 U/L
+     - Reference Interval: 83.00-248.00 U/L
+
+5. **Random Blood Glucose (RBS):**
+   - Result: 35 mg/dL for a neonate (less than 1 day)
+     - Reference Interval: 30-110 mg/dL
+   - For the baby, it’s considered within normal range.
+
+6. **Ammonia:** 
+   - Result: 86.0 umol/L
+     - Reference Interval: 9.0-47.0 umol/L
+
+#### Hematology:
+1. **Complete Blood Picture (CBC):**
+   - Haemoglobin (Hb): 15.6 g/dL
+     - Reference Interval: 15.00-21.00 g/dL
+   - Packed Cell Volume (PCV): 49.8%
+     - Reference Interval: 45.00-67.00%
+   - MCV: 80.9 fL
+     - Reference Interval: 92.00-118.00 fL
+   - MCH: 25.4 pg
+     - Reference Interval: 31.00-37.00 pg
+   - MCHC: 31.4 g/dL
+     - Reference Interval: 29.00-37.00 g/dL
+   - RBC Count: 6.15 x 10^6/uL
+     - Reference Interval: 4.00-6.60 x 10^6/uL
+   - WBC Count: 9,100 cells/cumm
+     - Reference Interval: 7,000-23,000 cells/cumm
+   - Platelet Count: 183,000/mm³
+     - Reference Interval: 160,000-500,000/mm³
+   - Differential Count:
+     - Neutrophils: 68% 
+     - Lymphocytes: 24%
+     - Eosinophils: 3%
+     - Monocytes: 5%
+     - Basophils: 0%
+
+#### Clinical Pathology:
+1. **Urine Examination (CUE):**
+   - Quantity: 20 mL
+   - Colour: Yellow
+   - Appearance: Turbid
+   - Specific Gravity: 1.015
+   - pH: 6.0
+   - Glucose: Nil
+   - Protein: BILIRUBIN Positive +
+   - Ketone: Nil
+   - Blood: Absent
+   - Leucocytes: Trace
+   - Pus Cells: 6-8 /hpf
+   - Epithelial Cells: 10-12 /hpf
+   - Red Blood Cells (RBC's): Nil
+
+#### Microbiology:
+1. **Blood Culture and Sensitivity - Automated/VITEK:**
+   - Specimen Type: Blood
+   - Culture Result: No bacterial growth seen after 24 hours of aerobic incubation.
+
+### Notes:
+- The baby has a mildly elevated CRP indicating some degree of inflammation.
+- Renal function tests are within normal ranges, but liver enzymes and bilirubin levels suggest potential hepatobiliary issues.
+- Ammonia levels are slightly elevated which may indicate metabolic disturbances or kidney dysfunction.
+- Urine examination shows mild turbidity with trace leukocytes and a positive bilirubin result.
+
+### Clinical Context:
+- The baby might require further clinical evaluation, especially regarding liver function. 
+- Monitoring of ammonia levels should continue as high values could be indicative of certain conditions like hyperammonemia.
+- Regular follow-ups for any signs of infection based on the blood culture results and urinalysis findings. 
+
+Consultation with a pediatrician or hepatologist may be necessary to manage these findings adequately.
+
+### Next Steps:
+1. Follow-up with clinical specialists as per need.
+2. Repeated liver function tests and ammonia levels if symptoms persist.
+3. Continuous monitoring of renal and hepatic functions.

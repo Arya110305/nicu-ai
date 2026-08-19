@@ -1,0 +1,80 @@
+{
+  "pdf_name": "BO VAGDEVI",
+  "page": 20,
+  "processing_time": 26.97,
+  "statistics": {
+    "words": 99,
+    "characters": 596,
+    "lines": 40,
+    "blocks": 40,
+    "numbers": 23
+  },
+  "confidence": {
+    "average": 89.38,
+    "minimum": 0.0,
+    "maximum": 100.0
+  },
+  "medical": {
+    "count": 12,
+    "fields": [
+      "Age",
+      "Culture",
+      "Gender",
+      "HR",
+      "IM",
+      "IPD",
+      "IV",
+      "MR No",
+      "Patient Name",
+      "Progress Notes",
+      "UHID",
+      "pH"
+    ]
+  },
+  "health": {
+    "score": 67.0,
+    "status": "★★☆☆☆ Review"
+  },
+  "ocr_text": [
+    "Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D",
+    "9M",
+    "PROGRESS NOTES",
+    "ankura",
+    "hospital",
+    "chilldren",
+    "Patient Name:",
+    "MR No.:",
+    "DATE&TIME",
+    "PROGRESS NOTES",
+    "NAME & SIGN",
+    "PAIN SCORE:",
+    "(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)",
+    "fresh ordess",
+    "29/6|26",
+    "S/r 15 ml and hely",
+    "11A·m",
+    "D",
+    "",
+    "IVF 10%D℃GlR-8@10:5m1/hr",
+    "3",
+    "Stop",
+    "p Inj. levipil)",
+    "④",
+    "Inj. Phenobarbitonc maintenance",
+    "dore",
+    "TInj. Optinevron",
+    "Da21D3 5",
+    "形多り回り同",
+    "Inj. Taxim fill cultures",
+    "Nevsologisf Opinion",
+    "MRI",
+    "Brain",
+    "Calcimaxplus",
+    "Onal",
+    "warmth Care",
+    "Monitos Vitals",
+    "ANKURA HOSPITAL FOR WOMEN AND CHILDREN",
+    "REVISION NO.: 3 | ISSUE NO.: 4",
+    "AHWC/IP/F/10"
+  ]
+}

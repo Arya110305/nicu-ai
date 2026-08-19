@@ -1,0 +1,45 @@
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospital for Women and Children
+LB Nagar, Pvt Ltd
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad, Telangana, 500035
+Phone : 9053108108 Website : https://www.ankurahospitals.com Email : info@ankurahospital.com
+
+Laboratory
+Patient Name : Baby of Vagdevi
+Lab No : 1646870
+UHID : 162608635 / LB26/3007
+Sample Date : 27/06/2026 10:35PM
+Age/Gender : 4 Days/Male
+Receiving Date : 28/06/2026 1:18AM
+Bed No/Ward : IPD
+Report Date : 28/06/2026 3:03AM
+Referred By : Dr. Srinivas Murki
+Report Status : Final
+Patient Mob :
+
+Biochemistry
+Renal Function Test (RFT)
+Test Name Result Unit Biological Method Ref. Interval
+Creatinine - Serum 0.4 mg/dL Jaffe Kinetic 0.3 - 0.9
+Blood Urea 20 mg/dL 16.60 - 48.50 Urease
+Blood Urea Nitrogen (BUN) 9.4 mg/dL 6.00 - 20.00 
+Uric Acid 4.3 mg/dL 3.50 - 7.20 Enzymatic, Colorimetric
+Calcium Serum 8.6 mg/dL 8.80-10.80 Photometric
+Sodium Serum 142 mmol/L 133.00 - 144.00 
+Potassium Serum 5.1 mmol/L 3.40 - 5.10 IFCC
+Chloride Serum 107 mmol/L 97.00 - 107.00 
+
+Interpretation :
+A kidney function test is a collective term for a variety of individual tests and procedures that can be done to evaluate how well the kidneys are functioning. Many conditions can affect the ability of the kidneys to carry out their vital functions. Some lead to a rapid (Acute) decline in kidney function, others lead to a gradual (Chronic) decline in function. Both result in a buildup of toxic waste products both done on urine samples and blood samples. A number of symptoms may indicate a problem with your kidneys. These include high blood pressure, blood in urine, frequent urges to urinate, difficulty beginning urination, painful urination, swelling in the hands and feet due to a buildup of fluids in the body. A single symptom may not mean something serious. However, when occurring simultaneously, these symptoms suggest that your kidneys are not working properly. Kidney function tests can help determine the reason.
+
+Electrolytes are present in the human body and the balancing act of the electrolytes in our bodies is essential for normal function of our cells and organs. There has to be a balance between Ionized calcium this test if you have signs of kidney or Parathyroid disease. The test may also be done to monitor progress and treatment of these diseases.
+
+-End Of Report-
+Dr. B Roshini Sumalini
+MBBS, MD Pathology
+Consultant Pathologist
+Printed on 28/06/2026 03:00
+Approved By Dr. B Roshini Sumalini
+Page: 2 of 4
+Verified By Mr. Neelam EdukonduLu

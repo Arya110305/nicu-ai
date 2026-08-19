@@ -1,0 +1,115 @@
+SOURCE PAGE: PAGE_041
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: illegible]
+Room : u011H83=
+DOA: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+
+NURSING DOCUMENTATION
+Evaluation: [UNCERTAIN: illegible]
+Comfortable doctor advice.
+ge/ex: [UNCERTAIN: illegible]
+Diasis: [UNCERTAIN: illegible]
+Planning: [UNCERTAIN: illegible]
+
+SOURCE PAGE: PAGE_042
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: illegible]
+DOA: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+
+NURSING DOCUMENTATION
+Evaluation: [UNCERTAIN: illegible]
+Complaints: [UNCERTAIN: illegible]
+ge/ex: [UNCERTAIN: illegible]
+Diasis: [UNCERTAIN: illegible]
+Clinical finding: complained breathing.
+Planning: [UNCERTAIN: illegible]
+
+SOURCE PAGE: PAGE_043
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: illegible]
+DOA: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+
+NURSING DOCUMENTATION
+Evaluation: [UNCERTAIN: illegible]
+ge/ex: [UNCERTAIN: illegible]
+Diasis: [UNCERTAIN: illegible]
+Planning: [UNCERTAIN: illegible]
+
+SOURCE PAGE: PAGE_044
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+
+NURSING DOCUMENTATION
+Evaluation: [UNCERTAIN: illegible]
+DOA: [UNCERTAIN: illegible]
+ge/ex: [UNCERTAIN: illegible]
+Diasis: [UNCERTAIN: illegible]
+Planning: [UNCERTAIN: illegible]
+
+SOURCE PAGE: PAGE_045
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+DOCUMENT INFORMATION
+MR No.: u011H83=
+Room: [UNCERTAIN: illegible]
+DOA: [UNCERTAIN: illegible]
+Revision No.: 3
+Issue No.: 4
+
+NURSING DOCUMENTATION
+Evaluation: [UNCERTAIN: illegible]
+Comfortable doctor advice.
+ge/ex: [UNCERTAIN: illegible]
+Diasis: [UNCERTAIN: illegible]
+Planning: [UNCERTAIN: illegible]

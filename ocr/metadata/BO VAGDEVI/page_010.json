@@ -1,0 +1,80 @@
+{
+  "pdf_name": "BO VAGDEVI",
+  "page": 10,
+  "processing_time": 23.73,
+  "statistics": {
+    "words": 129,
+    "characters": 767,
+    "lines": 39,
+    "blocks": 39,
+    "numbers": 19
+  },
+  "confidence": {
+    "average": 86.56,
+    "minimum": 58.26,
+    "maximum": 100.0
+  },
+  "medical": {
+    "count": 13,
+    "fields": [
+      "AST",
+      "Age",
+      "GA",
+      "Gender",
+      "IM",
+      "IPD",
+      "IV",
+      "MR No",
+      "PO",
+      "Patient Name",
+      "Progress Notes",
+      "RR",
+      "UHID"
+    ]
+  },
+  "health": {
+    "score": 67.51,
+    "status": "★★☆☆☆ Review"
+  },
+  "ocr_text": [
+    "Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D",
+    "9M",
+    "PROGRESS NOTES",
+    "ankura",
+    "hospital",
+    "ta women & children",
+    "Patient Name:",
+    "MR No.:",
+    "DATE&TIME",
+    "PROGRESS NOTES",
+    "NAME & SIGN",
+    "PAIN SCORE:",
+    "(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)",
+    "2716126",
+    "5 day old wale baby delsers",
+    "by frrcecs (Preeioncees Inlabeun",
+    "Latepretems, at Avea hopibed Ssergapet.",
+    "Baby CIAB, shifted to mothehsrde",
+    "a2402",
+    "4 on enderve breast feding",
+    "On DOLY, baby hed daladhl",
+    "4 fecal serzenres 4 coeat to prsuate",
+    "horpeRI wheu Teajp. leuipil oodorg",
+    "dou giver. Sugeu wen cheeks",
+    "Fiyld",
+    "Baby was adund fo",
+    "(OFRD",
+    "bolys",
+    "adeusteviohyppn",
+    "32mlalL",
+    "Ieolytup",
+    "4 scimen butpoeats",
+    "J",
+    "broughtheve",
+    "26gTa 157:I",
+    "fertha mangant",
+    "ANKURA HOSPITAL FOR WOMEN AND CHILDREN",
+    "REVISION NO.: 3 | ISSUE NO.: 4",
+    "AHWC/IP/F/10"
+  ]
+}

@@ -1,0 +1,15 @@
+Mother Age : Not Found
+
+Gravida : 1
+
+Parity : 0
+
+Medical History : Not Found
+
+Pregnancy Complications : Not Found
+
+Medications : Antenatal Steroid, Dose not specified
+
+Antenatal Steroids : Drug, Dose not specified
+
+Blood Group : Not Found

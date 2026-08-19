@@ -1,0 +1,180 @@
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+Name: VAGDEVI
+UHIDNO:162608635
+IPD NO:LB26/3007
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+NamAge : 4 D Gender : Male
+Consult : DR. SRINIVAS MURKI
+SCORE
+DATE
+MORNING
+STAFF
+LEVEL
+AFTER NOON
+STAFF
+LEVEL
+NIGHT
+STAFF
+LEVEL
+DOA
+Adm Date: 27-06-2026 09:03 PM
+SCORE
+NAME
+SCORE
+NAME
+SCORE
+3016/26
+NAME
+DIAGNOSIS
+80
+LEVEL OF
+0
+0
+0
+Shancy
+Alert age appropriate
+0
+CONSCIOUSNESS
+Irritable or lethargic
+1
+Responds to pain
+2
+Unconscious/seizures
+3
+But
+4
+0
+shancy
+RESPIRATORY
+Normal breathing room air
+0
+0
+0
+STATUS
+Mild distress oxygen support
+1
+Moderate distress /frequent suction
+2
+Severe distress CPAP / Ventilator
+3
+Suk
+Shancy
+ay
+CARDIOVASCULAR
+Stable vitals
+0
+0
+0
+STATUS
+Tachycardia / IV fluids
+1
+Inotropes /invasive monitoring
+2
+Shack risk
+3
+FEEDING &
+Oral feeds independently
+0
+NUTRITION
+Assisted feeding
+1
+斗
+NG feeds
+2
+02
+Bul
+02
+Shancy
+TPN/ feeding intolerance
+3
+BeoH
+ELIMINATION
+Normal urine stool
+0
+0
+Shaney
+0
+Diaper care assistance
+1
+Catheter / strict monitoring
+2
+Oliguria / anuria
+3
+MEDICATION
+Oral medications
+0
+BwHe
+b9
+COMPLEXITY
+IV medications
+1
+01
+01
+shaney
+Multiple IV infusions
+2
+High risk drug titration
+3
+PAIN & COMFORT
+Comfortable
+0
+Bur
+1
+01
+01
+shancy
+Intermittent pain
+01
+Persistent pain
+2
+Severe pain continuous care
+3
+PROCEDURES &
+None
+0
+eBue
+9
+DEVICES
+IV line
+1
+01
+01
+Shanay
+V1
+Multiple lines / drains
+2
+Ventilator /central lines
+3
+PARENTAL
+Routine guidance
+0
+u
+SUPPORT NEED
+Frequent reassuring
+1
+Or
+01
+Shancy
+61
+Anxious Parents
+2
+Continuous emotional support
+3
+Category I
+Category
+Category II
+Category IV
+INCHARGE NAME & SIGN
+Score 0-6
+II Score 7-19
+Score 20-30
+Score > 30
+Routine nursing care
+Increased nursing observation
+Close monitoring and high nursing
+One-to-one intensive nursing care
+NUR.SUPERVISOR NAME & SIGN
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE

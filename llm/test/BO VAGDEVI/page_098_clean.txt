@@ -1,0 +1,34 @@
+Patient Name : Baby of Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 Days
+
+Ankura Hospital for Women and Children
+LB Nagar Pvt Ltd
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad, Telangana,
+500035
+Phone : 9053108108 Website : https://www.ankurahospitals.com Email : info@ankurahospital.com
+
+Laboratory
+Patient Name: Baby of Vagdevi
+Lab No: 1646870
+UHID: 162608635 / LB26/3007
+Sample Date: 27/06/2026 10:35 PM
+Age/Gender: 4 Days/Male
+Receiving Date: 28/06/2026 1:18 AM
+Bed No/Ward: IPD LB26/3007
+Report Date: 28/06/2026 3:03 AM
+Referred By: Dr. Srinivas Murki
+Report Status: Final
+
+Hematology
+COMPLETE BLOOD COUNT (CBC)
+Test Name: Result: Unit: Biological Method: Reference Interval:
+Haemoglobin (HB) 15.6 g/dL 15.00 - 21.00 Direct cyanmethaemoglobin method
+Packed Cell Volume (PCV) 49.8% 45.00 - 67.00 Impedance/Calculate
+MCV 80.9 fL 92.00 - 118.00 Impedance/Calculate
+MCH 25.4 pg 31.00 - 37.00 MCHC 31.4 gm/dl 29.00 - 37.00 Impedance/Calculate d RBC Count 6.15 × 10^6/uL 4.00 - 6.60 Impedance WBC Count 9,100 cells/cumm 7,000.00-23,000.00 Impedance/Flowcytometry Platelet Count 183,000 /mm3 160,000.00-500,000.00 Impedance Differential Count: Neutrophils 68% 22.00 - 42.00 Impedance/RBC Flowcytometry Lymphocytes 24% 28.00 - 35.00 Impedance/RBC Flowcytometry Eosinophils 03% 1.00 - 8.00 Impedance/Flowcytometry Monocytes 05% 4.00 - 7.00 Impedance/Flowcytometry Basophils 00% < 1.00 Impedance/Flowcytometry Peripheral Smear: RBC - Normocytic Normochromic Microscopic WBC - Neutrophilia Microscopic Platelet - Adequate Microscopic
+
+Report Approved By: Dr. B Roshini Sumalini
+MBBS, MD Pathology
+Consultant Pathologist
+Printed on 28/06/2026 03:00
+
+Page: 1 of 4

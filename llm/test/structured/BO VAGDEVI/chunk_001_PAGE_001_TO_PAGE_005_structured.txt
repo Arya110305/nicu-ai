@@ -1,0 +1,125 @@
+SOURCE PAGE: PAGE_001
+DOCUMENT TYPE: ADMISSION RECORD
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D 9M
+
+DOCUMENT INFORMATION
+Hospital: ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+Revision No.: 3
+Issue No.: 4
+Form Number: AHWC/IP/F/02
+
+PATIENT MOVEMENT RECORD
+Information regarding patient shifting between locations (OP/ER/Special Room/NICU/PICU/OT) is documented. Details include time, staff involved, and remarks.
+
+SOURCE PAGE: PAGE_002
+DOCUMENT TYPE: INITIAL ASSESSMENT
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+
+BIRTH DETAILS
+Birth Weight: 2.9kg
+Gestational Age: 36 weeks
+
+ADMISSION DETAILS
+Date/Time of assessment: [UNCERTAIN]
+TOD: [UNCERTAIN]
+Reason for admission/referral: [UNCERTAIN]
+
+VITAL SIGNS
+Temperature: 36.50
+Heart Rate: [UNCERTAIN] minutes
+Respiratory Rate: [UNCERTAIN] minutes
+Blood Pressure: 95/[UNCERTAIN]
+SpO2: [UNCERTAIN]
+GRBS: 36mg/dL
+Weight: [UNCERTAIN] Kg/gms, Length: [UNCERTAIN] cms, HC: 33 cms
+
+PAIN ASSESSMENT
+Pain assessment chart with scoring options (0-3) for behavioral state, heart rate & oxygen saturation, eye squeeze and naso-labial furrow. Score: [UNCERTAIN].
+
+SOURCE PAGE: PAGE_003
+DOCUMENT TYPE: INITIAL ASSESSMENT
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+
+MATERNAL AND ANTENATAL HISTORY
+Past Obstetric History documented (G2P1L).
+Maternal Risk Factors assessed: Consanguinity, PIH/Eclampsia, GDM/NIDDM/IDDM, PROM >18hrs/ Pre PROM, APH, Maternal Fever/ Chorioamnionitis, IHD Asthma, Chronic Illness.
+Medication: [UNCERTAIN]
+Previous Sibling Death: [UNCERTAIN]
+Preterm Labour: [UNCERTAIN]
+Assisted Reproduction: [UNCERTAIN]
+
+BIRTH DETAILS
+Birth Weight:(C) [UNCERTAIN] grams
+Mode of Delivery: SyD/ Forceps/Ventouse/LSCS. If LSCS: Emergency/Elective, Indication for Lscs:[UNCERTAIN].
+USG findings: Polyhydramnios/Normal/ Oligohydramnios.
+Presentation: Vertex/ Breech. Liquor clear/[UNCERTAIN]. IUGR: Yes/No. Meconium/Foulsmelling [UNCERTAIN]
+UA Flow: Normal/Diminished /Absent/ Reverse.
+
+RESUSCITATION
+Resuscitation details documented (cried at birth, stimulation, Bag Mask, Intubation, chest compressions, adrenaline).
+APGAR: 1 Min/[UNCERTAIN] 5 Min/[UNCERTAIN] 10 Min/[UNCERTAIN].
+Antenatal Steroid: Drug [UNCERTAIN], Dose [UNCERTAIN], Time-lapse since last dose:[UNCERTAIN] Seconds.
+DCC: Yes/ No. Magnesium Sulphate for Neuro Protection: Yes/ No. Cord ABG: [UNCERTAIN]
+
+SOURCE PAGE: PAGE_004
+DOCUMENT TYPE: PHYSICAL EXAMINATION
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+
+PHYSICAL EXAMINATION
+Detailed physical examination findings documented for Head-Neck, Cardiovascular, Neurology, Ears, Skin, Abdomen, Chest-Lung and Musculoskeletal systems. Findings include normal/abnormal observations with specific details where applicable (e.g., Moulding, Caput Cephalhematoma, Abnormal Sutures, Murmur, Hypotonia, Cleft Lip/Palate, Distended Abdomen, Jaundice).
+
+SOURCE PAGE: PAGE_005
+DOCUMENT TYPE: PHYSICAL EXAMINATION
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+
+FEEDING AND NUTRITION
+Feeding History: Breast Fed / Top Fed: [UNCERTAIN]
+Gestational Age by Dates: [UNCERTAIN] weeks, by US: [UNCERTAIN] weeks, by New Ballard Score: [UNCERTAIN] weeks.
+
+ANTHROPOMETRY
+Length: [UNCERTAIN] cm
+Head Circumference: [UNCERTAIN] cm
+Admission Weight: [UNCERTAIN] kg
+Chest Circumference: [UNCERTAIN] cm
+
+VITAL SIGNS
+Heart Rate: 130
+Respiratory Rate: [UNCERTAIN]
+Blood Pressure: [UNCERTAIN] mm Hg
+Temperature: [UNCERTAIN]
+SpO2: [UNCERTAIN] Pain Score: [UNCERTAIN]
+GRBS: 82ug/dL
+
+PROVISIONAL DIAGNOSIS
+Enicecs, U S CHAB Hpeslyceedr, latepretem, SGA, wale, TSerm. 30wf, 2.1lg
+
+INVESTIGATIONS
+CBP, CRP, RfT, VBG, BloodClS, dFT, RBS, NDD are planned.
+
+TREATMENT PLAN
+Ivfleids (GIR:) [UNCERTAIN], Ief r2s bolul [UNCERTAIN]. Tuy.TAXIYD [UNCERTAIN]
+
+Date: [UNCERTAIN] Time: [UNCERTAIN] Signature of the Doctor: [UNCERTAIN]

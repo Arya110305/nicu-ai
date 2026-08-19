@@ -1,0 +1,50 @@
+DOCUMENT INFORMATION
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D9M
+
+MATERNAL AND ANTENATAL HISTORY
+Late Preterm
+LSCS
+CIAB
+36 weeks
+Delivered in labour
+
+VITAL SIGNS
+DATE & TIME: 01/07/2026
+RR - 96%
+SpO2 - 96%
+HR - 120/min
+BP - 72/80 mmHg
+
+CLINICAL OBSERVATIONS
+No fever, hypoglycemia: 
+Blood sugar: 109 → 108 → 99 → 94 only; feeds stopped
+
+FEEDING AND NUTRITION
+Feedings: 30 ml q6h
+Current weight - 2.26 kg, feeding adequate
+Voracine stopped
+
+FLUIDS AND INTAKE-OUTPUT
+IV fluids started.
+I/V fluids: Administered daily
+
+MEDICATIONS
+Taxim given
+
+LABORATORY INVESTIGATIONS
+Blood C/S: Negative
+Blood sugar: 109
+Blood sugar: 108
+Blood sugar: 99
+Blood sugar: 94
+
+IMAGING AND DIAGNOSTIC STUDIES
+MRI not done (as of day 4)

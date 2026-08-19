@@ -1,0 +1,18 @@
+PATIENT IDENTIFICATION
+B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 D9M
+
+VITAL SIGNS
+HR = 124/act, SpO2 = 95%, Temp = 36.5°C
+
+NURSING DOCUMENTATION
+- Bolus 20 mg given.
+- Neostigmine given on demand.
+- Phenol locked in locker.
+- Administered with gavage tube.
+- Gavaged phenobarbital loading dose given.
+- Given neostigmine on demand.
+- Placed on oxygen. 
+- Oxygen saturation (SpO2) 80%.
+
+VITAL SIGNS
+HR = 124/act, SpO2 = 95%, Temp = 36.5°C

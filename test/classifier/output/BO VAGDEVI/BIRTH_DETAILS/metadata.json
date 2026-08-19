@@ -1,0 +1,15 @@
+{
+    "section": "BIRTH_DETAILS",
+    "page_count": 9,
+    "pages": [
+        "page_003_structured.md",
+        "page_018_structured.md",
+        "page_021_structured.md",
+        "page_024_structured.md",
+        "page_029_structured.md",
+        "page_065_structured.md",
+        "page_067_structured.md",
+        "page_087_structured.md",
+        "page_094_structured.md"
+    ]
+}

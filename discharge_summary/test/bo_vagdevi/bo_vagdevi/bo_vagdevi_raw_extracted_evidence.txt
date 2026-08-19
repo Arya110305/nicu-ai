@@ -1,0 +1,1139 @@
+===== EXTRACTED EVIDENCE CHUNK 1 OF 4 =====
+
+PATIENT IDENTIFIERS
+- MR number: [UNCERTAIN]
+- IP number: LB26/3007
+- baby name: B/O. VAGDEVI
+- mother name: [UNCERTAIN]
+- father name: [UNCERTAIN]
+- contact number: [UNCERTAIN]
+- referral doctor: DR. SRINIVAS MURKI
+- inborn or outborn status: [UNCERTAIN]
+
+ADMISSION AND DISCHARGE
+- admission date and time: 27-06-2026 09:03 PM
+- discharge date and time: [UNCERTAIN]
+- referring hospital: [UNCERTAIN]
+- referral reason: seizures
+- age or day of life at admission: 4 D 9M
+
+BABY DETAILS
+- date and time of birth: 29/6/26
+- sex: Male
+- gestational age: 36 weeks or more
+- term or preterm classification: [UNCERTAIN]
+- birth weight: 2.9kg
+- admission weight: [UNCERTAIN] Kg/gms
+- discharge weight: [UNCERTAIN] kg
+- AGA, SGA or LGA classification: SGA
+- blood group: [UNCERTAIN]
+- length: [UNCERTAIN] cms
+- head circumference: 33 cms
+
+MATERNAL AND ANTENATAL HISTORY
+- maternal age: [UNCERTAIN]
+- gravida and parity: G2P1L
+- antenatal care: [UNCERTAIN]
+- maternal illnesses: [UNCERTAIN]
+- pregnancy complications: Polyhydramnios, IUGR
+- antenatal scans: [UNCERTAIN]
+- maternal medications: [UNCERTAIN]
+- blood group: [UNCERTAIN]
+- infection risk factors: [UNCERTAIN]
+
+PERINATAL AND BIRTH HISTORY
+- singleton or multiple pregnancy: Singleton
+- mode of delivery: [UNCERTAIN] (SVD/ Forceps/Ventouse/LSCS)
+- indication for delivery: [UNCERTAIN]
+- place of birth: [UNCERTAIN]
+- cry at birth: cried at birth
+- resuscitation: stimulation, Bag Mask, Intubation, chest compressions, adrenaline
+- APGAR scores: 1 Min/[UNCERTAIN], 5 Min/[UNCERTAIN], 10 Min/[UNCERTAIN]
+- meconium: [UNCERTAIN]
+- immediate post-birth problems: [UNCERTAIN]
+- feeding before admission: Breast Fed
+
+HISTORY OF PRESENT ILLNESS
+- symptom onset: [UNCERTAIN]
+- day or hour of life: 4
+- initial symptoms: seizures
+- outside-hospital evaluation: [UNCERTAIN]
+- outside investigations: [UNCERTAIN]
+- treatment before referral: Levetiracetam
+- referral reason: seizures
+- condition on arrival: [UNCERTAIN]
+
+DIAGNOSES
+- confirmed diagnoses: [UNCERTAIN]
+- suspected diagnoses: Enicecs, U S CHAB Hpeslyceedr, latepretem
+- provisional diagnoses: SGA, wale, TSerm. 30wf, 2.1lg
+- gestational classification: [UNCERTAIN]
+- growth classification: SGA
+
+ADMISSION EXAMINATION
+- general condition: [UNCERTAIN]
+- hydration: [UNCERTAIN]
+- activity: [UNCERTAIN]
+- sensorium: [UNCERTAIN]
+- temperature: 36.50
+- heart rate: [UNCERTAIN] minutes
+- respiratory rate: [UNCERTAIN] minutes
+- oxygen saturation: [UNCERTAIN]
+- blood pressure: 95/[UNCERTAIN]
+- respiratory support: [UNCERTAIN]
+- respiratory examination: [UNCERTAIN]
+- cardiovascular examination: [UNCERTAIN]
+- abdominal examination: [UNCERTAIN]
+- neurological examination: [UNCERTAIN]
+- tone: [UNCERTAIN]
+- suck: [UNCERTAIN]
+- cry: [UNCERTAIN]
+- skin findings: [UNCERTAIN]
+- jaundice: [UNCERTAIN]
+- other abnormal findings: [UNCERTAIN]
+
+DAILY CLINICAL COURSE
+- chronological daily events: [UNCERTAIN]
+- clinical improvement or deterioration: [UNCERTAIN]
+- treatment changes: [UNCERTAIN]
+- last abnormal event: seizures
+
+GLUCOSE AND HYPOGLYCAEMIA
+- glucose values: 36mg/dL
+- symptoms: [UNCERTAIN]
+- dextrose bolus: [UNCERTAIN]
+- glucose infusion rate: [UNCERTAIN]
+- IV fluid changes: [UNCERTAIN]
+- glucose monitoring: [UNCERTAIN]
+- glucose stability: [UNCERTAIN]
+
+NEUROLOGICAL AND SEIZURE COURSE
+- seizure type: [UNCERTAIN]
+- seizure timing: [UNCERTAIN]
+- last seizure: [UNCERTAIN]
+- anticonvulsants: Levetiracetam
+- neurological examination: [UNCERTAIN]
+- EEG: planned
+- MRI: [UNCERTAIN]
+- neurosonogram: planned
+- neurology consultation: planned
+- neurological condition at discharge: [UNCERTAIN]
+
+NEONATAL JAUNDICE COURSE
+- onset day or hour: [UNCERTAIN]
+- bilirubin values: [UNCERTAIN]
+- blood groups: [UNCERTAIN]
+- phototherapy: [UNCERTAIN]
+- treatment duration: [UNCERTAIN]
+- repeat bilirubin: [UNCERTAIN]
+- BIND findings: [UNCERTAIN]
+- cholestasis findings: [UNCERTAIN]
+- rebound bilirubin: [UNCERTAIN]
+
+RESPIRATORY COURSE
+- distress findings: [UNCERTAIN]
+- chest X-ray: [UNCERTAIN]
+- oxygen support: [UNCERTAIN]
+- LFNC: [UNCERTAIN]
+- HFNC: [UNCERTAIN]
+- CPAP: [UNCERTAIN]
+- NIMV: [UNCERTAIN]
+- mechanical ventilation: [UNCERTAIN]
+- PEEP: [UNCERTAIN]
+- FiO2: [UNCERTAIN]
+- flow: [UNCERTAIN]
+- surfactant: [UNCERTAIN]
+- support duration: [UNCERTAIN]
+- weaning: [UNCERTAIN]
+- room-air stability: RIA, Room air
+
+INFECTION AND SEPSIS COURSE
+- infection risk factors: [UNCERTAIN]
+- cultures: planned
+- CRP: [UNCERTAIN]
+- blood counts: planned
+- urine examination: planned
+- antibiotics: [UNCERTAIN]
+- antibiotic duration: [UNCERTAIN]
+- confirmed or suspected infection: [UNCERTAIN]
+
+CARDIOVASCULAR COURSE
+- haemodynamic status: [UNCERTAIN]
+- blood pressure: [UNCERTAIN]
+- perfusion: [UNCERTAIN]
+- murmurs: [UNCERTAIN]
+- echocardiography: [UNCERTAIN]
+- inotropes: [UNCERTAIN]
+
+NUTRITION AND FEEDING
+- NPO: [UNCERTAIN]
+- IV nutrition: [UNCERTAIN]
+- OGT feeds: [UNCERTAIN]
+- spoon feeds: [UNCERTAIN]
+- expressed breast milk: [UNCERTAIN]
+- direct breastfeeding: dependent
+- formula: [UNCERTAIN]
+- feed volume: 30mland irly, 8poon feed, slf- FF
+- feed frequency: [UNCERTAIN]
+- feed progression: [UNCERTAIN]
+- feed intolerance: [UNCERTAIN]
+- feeding status at discharge: [UNCERTAIN]
+
+LINES AND PROCEDURES
+- UVC: present
+- UAC: [UNCERTAIN]
+- PICC: [UNCERTAIN]
+- peripheral IV line: present
+- lumbar puncture: planned
+- transfusion: [UNCERTAIN]
+- imaging procedures: [UNCERTAIN]
+- other procedures: EEG, ECNS
+- insertion and removal dates: [UNCERTAIN]
+- duration: [UNCERTAIN]
+
+INVESTIGATIONS
+- complete blood picture: planned
+- CRP: [UNCERTAIN]
+- cultures: planned
+- urine examination: planned
+- renal function: [UNCERTAIN]
+- electrolytes: [UNCERTAIN]
+- liver function: [UNCERTAIN]
+- bilirubin: [UNCERTAIN]
+- blood glucose: [UNCERTAIN]
+- blood gas: planned
+- metabolic tests: [UNCERTAIN]
+- MRI: [UNCERTAIN]
+- EEG: planned
+- neurosonogram: planned
+- chest X-ray: [UNCERTAIN]
+- echocardiography: [UNCERTAIN]
+- screening tests: [UNCERTAIN]
+- exact values, dates and units: [UNCERTAIN]
+
+MEDICATIONS DURING ADMISSION
+- exact medicine name: Levetiracetam
+- brand name: [UNCERTAIN]
+- concentration: [UNCERTAIN]
+- dose: [UNCERTAIN]
+- route: [UNCERTAIN]
+- frequency: [UNCERTAIN]
+- start date: [UNCERTAIN]
+- stop date: [UNCERTAIN]
+- duration: [UNCERTAIN]
+- indication: seizures
+- reason for stopping when documented: [UNCERTAIN]
+
+SCREENING TESTS
+- hearing screening: [UNCERTAIN]
+- BERA: [UNCERTAIN]
+- ROP: [UNCERTAIN]
+- pulse oximetry: [UNCERTAIN]
+- thyroid profile: [UNCERTAIN]
+- neurosonogram: planned
+- immunisation: [UNCERTAIN]
+- other neonatal screening: [UNCERTAIN]
+
+DISCHARGE CONDITION
+- activity: [UNCERTAIN]
+- sensorium: [UNCERTAIN]
+- respiratory status: [UNCERTAIN]
+- haemodynamic status: [UNCERTAIN]
+- feeding status: [UNCERTAIN]
+- glucose status: [UNCERTAIN]
+- seizure-free duration: [UNCERTAIN]
+- urine output: [UNCERTAIN]
+- stools: [UNCERTAIN]
+- temperature stability: [UNCERTAIN]
+- weight: [UNCERTAIN]
+- neurological status: [UNCERTAIN]
+- remaining concerns: [UNCERTAIN]
+
+DISCHARGE MEDICATIONS
+- exact medicine name: [UNCERTAIN]
+- concentration: [UNCERTAIN]
+- dose: [UNCERTAIN]
+- route: [UNCERTAIN]
+- frequency: [UNCERTAIN]
+- duration: [UNCERTAIN]
+- special instructions: [UNCERTAIN]
+
+DISCHARGE ADVICE
+- feeding: [UNCERTAIN]
+- warm care: [UNCERTAIN]
+- hygiene: [UNCERTAIN]
+- KMC: [UNCERTAIN]
+- bathing: [UNCERTAIN]
+- immunisation: [UNCERTAIN]
+- seizure advice: [UNCERTAIN]
+- jaundice advice: [UNCERTAIN]
+- danger signs: [UNCERTAIN]
+- other instructions: [UNCERTAIN]
+
+FOLLOW-UP
+- review date: [UNCERTAIN]
+- doctor: [UNCERTAIN]
+- department: [UNCERTAIN]
+- neurology: planned
+- neonatology: [UNCERTAIN]
+- ROP: [UNCERTAIN]
+- hearing: [UNCERTAIN]
+- BERA: [UNCERTAIN]
+- thyroid testing: [UNCERTAIN]
+- neurosonogram: planned
+- developmental follow-up: [UNCERTAIN]
+- laboratory follow-up: [UNCERTAIN]
+
+CONFLICTS OR ITEMS FOR CLINICAL REVIEW
+- conflicting dates: [UNCERTAIN]
+- conflicting weights: [UNCERTAIN]
+- conflicting values: [UNCERTAIN]
+- uncertain OCR: Numerous instances throughout the document.
+- uncertain diagnosis: Several diagnoses are provisional and require further review.
+- inconsistent medication details: [UNCERTAIN]
+- missing important information: Numerous fields contain "[UNCERTAIN]" indicating missing data.
+
+===== EXTRACTED EVIDENCE CHUNK 2 OF 4 =====
+
+PATIENT IDENTIFIERS
+- MR number: [UNCERTAIN: missing]
+- IP number: LB26/3007
+- baby name: B/O. VAGDEVI
+- mother name: [Not documented in this chunk]
+- father name: [Not documented in this chunk]
+- contact number: [Not documented in this chunk]
+- referral doctor: DR. SRINIVAS MURKI
+- inborn or outborn status: Inborn
+
+ADMISSION AND DISCHARGE
+- admission date and time: 27-06-2026 09:03 PM
+- discharge date and time: [Not documented in this chunk]
+- referring hospital: [Not documented in this chunk]
+- referral reason: [Not documented in this chunk]
+- age or day of life at admission: 4 D
+
+BABY DETAILS
+- date and time of birth: [Not documented in this chunk]
+- sex: Male
+- gestational age: [Not documented in this chunk]
+- term or preterm classification: [Not documented in this chunk]
+- birth weight: [Not documented in this chunk]
+- admission weight: 2.30kg (on 29/06/2026)
+- discharge weight: [Not documented in this chunk]
+- AGA, SGA or LGA classification: SGA (Small for Gestational Age)
+- blood group: [UNCERTAIN: missing]
+- length: [Not documented in this chunk]
+- head circumference: [Not documented in this chunk]
+
+MATERNAL AND ANTENATAL HISTORY
+- maternal age: [Not documented in this chunk]
+- gravida and parity: [Not documented in this chunk]
+- antenatal care: [Not documented in this chunk]
+- maternal illnesses: [Not documented in this chunk]
+- pregnancy complications: [Not documented in this chunk]
+- antenatal scans: [Not documented in this chunk]
+- maternal medications: [Not documented in this chunk]
+- blood group: [Not documented in this chunk]
+- infection risk factors: [Not documented in this chunk]
+
+PERINATAL AND BIRTH HISTORY
+- singleton or multiple pregnancy: Singleton
+- mode of delivery: [Not documented in this chunk]
+- indication for delivery: [Not documented in this chunk]
+- place of birth: [Not documented in this chunk]
+- cry at birth: [Not documented in this chunk]
+- resuscitation: [Not documented in this chunk]
+- APGAR scores: [Not documented in this chunk]
+- meconium: [Not documented in this chunk]
+- immediate post-birth problems: [Not documented in this chunk]
+- feeding before admission: [Not documented in this chunk]
+
+HISTORY OF PRESENT ILLNESS
+- symptom onset: [Not documented in this chunk]
+- day or hour of life: [Not documented in this chunk]
+- initial symptoms: [Not documented in this chunk]
+- outside-hospital evaluation: [Not documented in this chunk]
+- outside investigations: [Not documented in this chunk]
+- treatment before referral: [Not documented in this chunk]
+- referral reason: [Not documented in this chunk]
+- condition on arrival: [Not documented in this chunk]
+
+DIAGNOSES
+- confirmed diagnoses: [UNCERTAIN: Pain Score]
+- suspected diagnoses: Diffuse cerebral dysgenesis, possible symptomatic sepsis, recurrent hypoglycemia
+- provisional diagnoses: IUGR (Intrauterine Growth Restriction), SGA (Small for Gestational Age)
+- gestational classification: [Not documented in this chunk]
+- growth classification: SGA
+
+ADMISSION EXAMINATION
+- general condition: [Not documented in this chunk]
+- hydration: [Not documented in this chunk]
+- activity: [Not documented in this chunk]
+- sensorium: Conscious, normal
+- temperature: [Not documented in this chunk]
+- heart rate: 112, 128, 136
+- respiratory rate: [Not documented in this chunk]
+- oxygen saturation: 96%, +1R-116, SPO296 1K42/ S02287
+- blood pressure: [Not documented in this chunk]
+- respiratory support: RIA, Room air, R10
+- respiratory examination: [Not documented in this chunk]
+- cardiovascular examination: [Not documented in this chunk]
+- abdominal examination: [Not documented in this chunk]
+- neurological examination: [Not documented in this chunk]
+- tone: mild hypotonia, head lag (+)
+- suck: [Not documented in this chunk]
+- cry: [Not documented in this chunk]
+- skin findings: Normal
+- jaundice: TSB: 15.5
+- other abnormal findings: [Not documented in this chunk]
+
+DAILY CLINICAL COURSE
+- chronological daily events: Remarks: Date/Time 2916126 80m-2pm 2916 2pm-8pm 246, 8pのさ4; Date/Time 3061268mm1020m301612620m-8pm80/6/2,500.81
+- clinical improvement or deterioration: Improved pulmonary status, sensorium improving
+- treatment changes: Stop Levetiracetam and Phenobarbitone
+- last abnormal event: [Not documented in this chunk]
+- response to treatment: Baby on room air, stable
+
+GLUCOSE AND HYPOGLYCAEMIA
+- glucose values: GRBS — 109 mg/dL, GRBS < $0 mg/dL
+- symptoms: recurrent hypoglycemia
+- dextrose bolus: [Not documented in this chunk]
+- glucose infusion rate: GIR-8
+- IV fluid changes: 10%D
+- glucose monitoring: GRBSr monitoring
+- glucose stability: Hypoglycemia recurrent on boom as NO seizures lost24-h0 to 0 on GiR-8 + T -r0m Ploun NO Hgrope
+
+NEUROLOGICAL AND SEIZURE COURSE
+- seizure type: [Not documented in this chunk]
+- seizure timing: [Not documented in this chunk]
+- last seizure: No seizures x 48 hours
+- anticonvulsants: Phenobarbitone, Levetiracetam (stopped)
+- neurological examination: GEd AK- normal
+- EEG: [Planned]
+- MRI: [Planned]
+- neurosonogram: [Planned]
+- neurology consultation: [Planned]
+- neurological condition at discharge: [Not documented in this chunk]
+
+NEONATAL JAUNDICE COURSE
+- onset day or hour: [Not documented in this chunk]
+- bilirubin values: TSB: 15.5
+- blood groups: [Not documented in this chunk]
+- phototherapy: [Not documented in this chunk]
+- treatment duration: [Not documented in this chunk]
+- repeat bilirubin: AF level
+- BIND findings: [Not documented in this chunk]
+- cholestasis findings: [Not documented in this chunk]
+- rebound bilirubin: [Not documented in this chunk]
+
+RESPIRATORY COURSE
+- distress findings: [Not documented in this chunk]
+- chest X-ray: [Not documented in this chunk]
+- oxygen support: minimal oxygen
+- LFNC: [Not documented in this chunk]
+- HFNC: [Not documented in this chunk]
+- CPAP: [Not documented in this chunk]
+- NIMV: [Not documented in this chunk]
+- mechanical ventilation: [Not documented in this chunk]
+- PEEP: [Not documented in this chunk]
+- FiO2: [Not documented in this chunk]
+- flow: [Not documented in this chunk]
+- surfactant: [Not documented in this chunk]
+- support duration: [Not documented in this chunk]
+- weaning: [Not documented in this chunk]
+- room-air stability: Baby on room air, stable
+
+INFECTION AND SEPSIS COURSE
+- infection risk factors: [Not documented in this chunk]
+- cultures: Bacteria(+)
+- CRP: 2.4
+- blood counts: [Not documented in this chunk]
+- urine examination: [Not documented in this chunk]
+- antibiotics: Inj. Cefotaxime (D3, D415)
+- antibiotic duration: 5 days
+- confirmed or suspected infection: possible symptomatic sepsis
+
+CARDIOVASCULAR COURSE
+- haemodynamic status: [Not documented in this chunk]
+- blood pressure: [Not documented in this chunk]
+- perfusion: [Not documented in this chunk]
+- murmurs: [Not documented in this chunk]
+- echocardiography: [Not documented in this chunk]
+- inotropes: [Not documented in this chunk]
+
+NUTRITION AND FEEDING
+- NPO: [Not documented in this chunk]
+- IV nutrition: 10%D-4ly, 101.0-10.4ml/hr
+- OGT feeds: [Not documented in this chunk]
+- spoon feeds: Spoon feeds adlib
+- expressed breast milk: slf-eem, BlF CB
+- direct breastfeeding: [Not documented in this chunk]
+- formula: FF
+- feed volume: 30ml Q2H, 1ml Q6+1
+- feed frequency: [Not documented in this chunk]
+- feed progression: Tolerating feeds
+- feed intolerance: [Not documented in this chunk]
+- feeding status at discharge: [Not documented in this chunk]
+
+LINES AND PROCEDURES
+- UVC: Present
+- UAC: [Not documented in this chunk]
+- PICC: [Not documented in this chunk]
+- peripheral IV line: Present
+- lumbar puncture: [Not documented in this chunk]
+- transfusion: [Not documented in this chunk]
+- imaging procedures: MRI (planned)
+- other procedures: Foley's catheter
+- insertion and removal dates: UVC 27/06/2026, Foley’s catheter 28/06/2026
+- duration: [Not documented in this chunk]
+
+INVESTIGATIONS
+- complete blood picture: [Not documented in this chunk]
+- CRP: 2.4
+- cultures: Bacteria(+)
+- urine examination: [Not documented in this chunk]
+- renal function: Creats: 0.4, Vrea: 20
+- electrolytes: Electrolyto: 142 / 5.1 / 107
+- liver function: [Not documented in this chunk]
+- bilirubin: TSB: 15.5
+- blood glucose: GRBS — 109 mg/dL, GRBS < $0 mg/dL
+- blood gas: PH: 7.87, PO2: 31.3, HCO3: 21.3
+- metabolic tests: Lactato: 2.15, Ammonia: 86, Pit: 1.83L
+- MRI: [Planned]
+- EEG: [Planned]
+- neurosonogram: [Planned]
+- chest X-ray: [Not documented in this chunk]
+- echocardiography: [Not documented in this chunk]
+- screening tests: AF level
+- exact values, dates and units: See above
+
+MEDICATIONS DURING ADMISSION
+- Phenobarbitone: maintenance, start date: [Not documented in this chunk], stop date: 29/06/2026, duration: [Not documented in this chunk], indication: seizure prophylaxis
+- Levetiracetam: stopped on 29/06/2026
+- Inj. Cefotaxime: D3, D415
+- Syp calcimaxplus: Q6H
+- pyridoxine: stop
+
+SCREENING TESTS
+- hearing screening: [Not documented in this chunk]
+- BERA: [Not documented in this chunk]
+- ROP: [Not documented in this chunk]
+- pulse oximetry: [Not documented in this chunk]
+- thyroid profile: [Not documented in this chunk]
+- neurosonogram: [Planned]
+- immunisation: [Not documented in this chunk]
+- other neonatal screening: [Not documented in this chunk]
+
+DISCHARGE CONDITION
+- activity: [Not documented in this chunk]
+- sensorium: Conscious, improving
+- respiratory status: Baby on room air, stable
+- haemodynamic status: [Not documented in this chunk]
+- feeding status: Tolerating feeds
+- glucose status: GRBS < $0 mg/dL
+- seizure-free duration: 48 hours
+- urine output: void
+- stools: Not passed
+- temperature stability: [Not documented in this chunk]
+- weight: 2.30kg (on 29/06/2026)
+- neurological status: GEd AK- normal
+- remaining concerns: recurrent hypoglycemia, diffuse cerebral dysgenesis
+
+DISCHARGE MEDICATIONS
+- Phenobarbitone: [Not documented in this chunk]
+- Inj. Cefotaxime: [Not documented in this chunk]
+
+DISCHARGE ADVICE
+- feeding: SIF ad lib 30ml Q2H, 1ml Q6+1
+- warm care: [Not documented in this chunk]
+- hygiene: [Not documented in this chunk]
+- KMC: [Not documented in this chunk]
+- bathing: [Not documented in this chunk]
+- immunisation: [Not documented in this chunk]
+- seizure advice: [Not documented in this chunk]
+- jaundice advice: [Not documented in this chunk]
+- danger signs: [Not documented in this chunk]
+- other instructions: Monitor vitals
+
+FOLLOW-UP
+- review date: [Not documented in this chunk]
+- doctor: DR. SRINIVAS MURKI
+- department: [Not documented in this chunk]
+- neurology: [Planned]
+- neonatology: [Not documented in this chunk]
+- ROP: [Not documented in this chunk]
+- hearing: [Not documented in this chunk]
+- BERA: [Not documented in this chunk]
+- thyroid testing: [Not documented in this chunk]
+- neurosonogram: [Planned]
+- developmental follow-up: [Not documented in this chunk]
+- laboratory follow-up: S. cortisol, Blood ketones
+
+CONFLICTS OR ITEMS FOR CLINICAL REVIEW
+- conflicting dates: Several dates are illegible or unclear.
+- conflicting weights: [UNCERTAIN: missing]
+- conflicting values: [UNCERTAIN: missing]
+- uncertain OCR: Numerous instances of illegible text and transcription errors.
+- uncertain diagnosis: [UNCERTAIN: Pain Score]
+- inconsistent medication details: [Not documented in this chunk]
+- missing important information: Several key details are missing, such as gestational age, mode of delivery, and APGAR scores.
+- Oxygen Support: [UNCERTAIN]
+
+===== EXTRACTED EVIDENCE CHUNK 3 OF 4 =====
+
+PATIENT IDENTIFIERS
+- MR number: 08635
+- IP number: LB26/3007
+- baby name: VAGADAVI
+- mother name: [Not documented]
+- father name: [Not documented]
+- contact number: [Not documented]
+- referral doctor: MS. nuwlw, MMS. nunm, Dr. S.mult, Dr. S.mulk
+- inborn or outborn status: [Not documented]
+
+ADMISSION AND DISCHARGE
+- admission date and time: 27-06-2026 09:03 PM
+- discharge date and time: [Not documented]
+- referring hospital: [Not documented]
+- referral reason: [Not documented]
+- age or day of life at admission: 4 D
+
+BABY DETAILS
+- date and time of birth: [Not documented]
+- sex: Male
+- gestational age: [Not documented]
+- term or preterm classification: [Not documented]
+- birth weight: [Not documented]
+- admission weight: [Not documented]
+- discharge weight: [Not documented]
+- AGA, SGA or LGA classification: [Not documented]
+- blood group: [Not documented]
+- length: [Not documented]
+- head circumference: [Not documented]
+
+MATERNAL AND ANTENATAL HISTORY
+- maternal age: [Not documented]
+- gravida and parity: [Not documented]
+- antenatal care: [Not documented]
+- maternal illnesses: [Not documented]
+- pregnancy complications: [Not documented]
+- antenatal scans: [Not documented]
+- maternal medications: [Not documented]
+- blood group: [Not documented]
+- infection risk factors: [Not documented]
+
+PERINATAL AND BIRTH HISTORY
+- singleton or multiple pregnancy: [Not documented]
+- mode of delivery: [Not documented]
+- indication for delivery: [Not documented]
+- place of birth: [Not documented]
+- cry at birth: [Not documented]
+- resuscitation: [Not documented]
+- APGAR scores: [Not documented]
+- meconium: [Not documented]
+- immediate post-birth problems: [Not documented]
+- feeding before admission: [Not documented]
+
+HISTORY OF PRESENT ILLNESS
+- symptom onset: [Not documented]
+- day or hour of life: [Not documented]
+- initial symptoms: [Not documented]
+- outside-hospital evaluation: [Not documented]
+- outside investigations: [Not documented]
+- treatment before referral: [Not documented]
+- referral reason: [Not documented]
+- condition on arrival: [Not documented]
+
+DIAGNOSES
+- confirmed diagnoses: [Blank]
+- suspected diagnoses: [Not documented]
+- provisional diagnoses: [Not documented]
+- gestational classification: [Not documented]
+- growth classification: [Not documented]
+
+ADMISSION EXAMINATION
+- general condition: [Not documented]
+- hydration: [Not documented]
+- activity: [Not documented]
+- sensorium: [Not documented]
+- temperature: [Not documented]
+- heart rate: [Not documented]
+- respiratory rate: [Not documented]
+- oxygen saturation: [Not documented]
+- blood pressure: [Not documented]
+- respiratory support: [Not documented]
+- respiratory examination: [Not documented]
+- cardiovascular examination: [Not documented]
+- abdominal examination: [Not documented]
+- neurological examination: [Not documented]
+- tone: [Not documented]
+- suck: [Not documented]
+- cry: [Not documented]
+- skin findings: [Not documented]
+- jaundice: [Not documented]
+- other abnormal findings: [Not documented]
+
+DAILY CLINICAL COURSE
+- chronological daily events: [Not documented]
+- clinical improvement or deterioration: [Not documented]
+- treatment changes: [Not documented]
+- last abnormal event: [Not documented]
+- response to treatment: [Not documented]
+
+GLUCOSE AND HYPOGLYCAEMIA
+- glucose values: [Not documented]
+- symptoms: [Not documented]
+- dextrose bolus: [Not documented]
+- glucose infusion rate: [Not documented]
+- IV fluid changes: [Not documented]
+- glucose monitoring: [Not documented]
+- glucose stability: [Not documented]
+
+NEUROLOGICAL AND SEIZURE COURSE
+- seizure type: [Not documented]
+- seizure timing: [Not documented]
+- last seizure: [Not documented]
+- anticonvulsants: [Not documented]
+- neurological examination: [Not documented]
+- EEG: [Not documented]
+- MRI: [Not documented]
+- neurosonogram: [Not documented]
+- neurology consultation: [Not documented]
+- neurological condition at discharge: [Not documented]
+
+NEONATAL JAUNDICE COURSE
+- onset day or hour: [Not documented]
+- bilirubin values: [Not documented]
+- blood groups: [Not documented]
+- phototherapy: [Not documented]
+- treatment duration: [Not documented]
+- repeat bilirubin: [Not documented]
+- BIND findings: [Not documented]
+- cholestasis findings: [Not documented]
+- rebound bilirubin: [Not documented]
+
+RESPIRATORY COURSE
+- distress findings: [Not documented]
+- chest X-ray: [Not documented]
+- oxygen support: [Not documented]
+- LFNC: [Not documented]
+- HFNC: [Not documented]
+- CPAP: [Not documented]
+- NIMV: [Not documented]
+- mechanical ventilation: [Not documented]
+- PEEP: [Not documented]
+- FiO2: [Not documented]
+- flow: [Not documented]
+- surfactant: [Not documented]
+- support duration: [Not documented]
+- weaning: [Not documented]
+- room-air stability: [Not documented]
+
+INFECTION AND SEPSIS COURSE
+- infection risk factors: [Not documented]
+- cultures: [Not documented]
+- CRP: [Not documented]
+- blood counts: [Not documented]
+- urine examination: [Not documented]
+- antibiotics: [Not documented]
+- antibiotic duration: [Not documented]
+- confirmed or suspected infection: [Not documented]
+
+CARDIOVASCULAR COURSE
+- haemodynamic status: [Not documented]
+- blood pressure: [Not documented]
+- perfusion: [Not documented]
+- murmurs: [Not documented]
+- echocardiography: [Not documented]
+- inotropes: [Not documented]
+
+NUTRITION AND FEEDING
+- NPO: [Not documented]
+- IV nutrition: [Not documented]
+- OGT feeds: [Not documented]
+- spoon feeds: [Not documented]
+- expressed breast milk: [Not documented]
+- direct breastfeeding: [Not documented]
+- formula: [Not documented]
+- feed volume: [Not documented]
+- feed frequency: [Not documented]
+- feed progression: [Not documented]
+- feed intolerance: [Not documented]
+- feeding status at discharge: [Not documented]
+
+LINES AND PROCEDURES
+- UVC: [Not documented]
+- UAC: [Not documented]
+- PICC: [Not documented]
+- peripheral IV line: Insertion date: 27/06/2026 Removal date: 22/06/2026
+- lumbar puncture: [Not documented]
+- transfusion: [Not documented]
+- imaging procedures: MRI done
+- other procedures: Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank], Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+- insertion and removal dates: See above
+
+INVESTIGATIONS
+- complete blood picture: [Requested]
+- CRP: [Requested]
+- cultures: [Requested]
+- urine examination: [Requested]
+- renal function: [Requested]
+- electrolytes: [Requested]
+- liver function: [Requested]
+- bilirubin: [Requested]
+- blood glucose: [Requested]
+- blood gas: [Requested]
+- metabolic tests: [Requested]
+- MRI: [Requested]
+- EEG: [Not documented]
+- neurosonogram: [Not documented]
+- chest X-ray: [Not documented]
+- echocardiography: [Not documented]
+- screening tests: [Requested]
+- exact values, dates and units: [Not documented]
+
+MEDICATIONS DURING ADMISSION
+- [Not documented]
+
+SCREENING TESTS
+- hearing screening: [Not documented]
+- BERA: [Not documented]
+- ROP: [Not documented]
+- pulse oximetry: [Not documented]
+- thyroid profile: [Not documented]
+- neurosonogram: [Not documented]
+- immunisation: [Not documented]
+- other neonatal screening: [Not documented]
+
+DISCHARGE CONDITION
+- activity: [Not documented]
+- sensorium: [Not documented]
+- respiratory status: [Not documented]
+- haemodynamic status: [Not documented]
+- feeding status: [Not documented]
+- glucose status: [Not documented]
+- seizure-free duration: [Not documented]
+- urine output: [Not documented]
+- stools: [Not documented]
+- temperature stability: [Not documented]
+- weight: [Not documented]
+- neurological status: [Not documented]
+- remaining concerns: [Not documented]
+
+DISCHARGE MEDICATIONS
+- [Not documented]
+
+DISCHARGE ADVICE
+- feeding: [Not documented]
+- warm care: [Not documented]
+- hygiene: [Not documented]
+- KMC: [Not documented]
+- bathing: [Not documented]
+- immunisation: [Not documented]
+- seizure advice: [Not documented]
+- jaundice advice: [Not documented]
+- danger signs: [Not documented]
+- other instructions: [Not documented]
+
+FOLLOW-UP
+- review date: [Not documented]
+- doctor: [Not documented]
+- department: [Not documented]
+- neurology: [Not documented]
+- neonatology: [Not documented]
+- ROP: [Not documented]
+- hearing: [Not documented]
+- BERA: [Not documented]
+- thyroid testing: [Not documented]
+- neurosonogram: [Not documented]
+- developmental follow-up: [Not documented]
+- laboratory follow-up: [Not documented]
+
+CONFLICTS OR ITEMS FOR CLINICAL REVIEW
+- conflicting dates: [Not documented]
+- conflicting weights: [Not documented]
+- conflicting values: [Not documented]
+- uncertain OCR: Several instances of unclear text.
+- uncertain diagnosis: [Not documented]
+- inconsistent medication details: [Not documented]
+- missing important information: [Not documented]
+
+===== EXTRACTED EVIDENCE CHUNK 4 OF 4 =====
+
+PATIENT IDENTIFIERS
+- MR number: 08635
+- IP number: LB26/3007
+- baby name: VAGDEVI
+- mother name: [Not documented]
+- father name: [Not documented]
+- contact number: [Not documented]
+- referral doctor: Dr. Srinivas Murki
+- inborn or outborn status: [Not documented]
+
+ADMISSION AND DISCHARGE
+- admission date and time: 27-06-2026 09:03 PM
+- discharge date and time: [Not documented]
+- referring hospital: [Not documented]
+- referral reason: [Not documented]
+- age or day of life at admission: 4 D
+
+BABY DETAILS
+- date and time of birth: [Not documented]
+- sex: Male
+- gestational age: [Not documented]
+- term or preterm classification: [Not documented]
+- birth weight: [Not documented]
+- admission weight: [Not documented]
+- discharge weight: [Not documented]
+- AGA, SGA or LGA classification: [Not documented]
+- blood group: [Not documented]
+- length: [Not documented]
+- head circumference: [Not documented]
+
+MATERNAL AND ANTENATAL HISTORY
+- maternal age: [Not documented]
+- gravida and parity: [Not documented]
+- antenatal care: [Not documented]
+- maternal illnesses: [Not documented]
+- pregnancy complications: [Not documented]
+- antenatal scans: [Not documented]
+- maternal medications: [Not documented]
+- blood group: [Not documented]
+- infection risk factors: [Not documented]
+
+PERINATAL AND BIRTH HISTORY
+- singleton or multiple pregnancy: [Not documented]
+- mode of delivery: [Not documented]
+- indication for delivery: [Not documented]
+- place of birth: [Not documented]
+- cry at birth: [Not documented]
+- resuscitation: [Not documented]
+- APGAR scores: [Not documented]
+- meconium: [Not documented]
+- immediate post-birth problems: [Not documented]
+- feeding before admission: [Not documented]
+
+HISTORY OF PRESENT ILLNESS
+- symptom onset: [Not documented]
+- day or hour of life: [Not documented]
+- initial symptoms: [Not documented]
+- outside-hospital evaluation: [Not documented]
+- outside investigations: [Not documented]
+- treatment before referral: [Not documented]
+- referral reason: [Not documented]
+- condition on arrival: [Not documented]
+
+DIAGNOSES
+- confirmed diagnoses: [Not documented]
+- suspected diagnoses: [Not documented]
+- provisional diagnoses: [Not documented]
+- gestational classification: [Not documented]
+- growth classification: [Not documented]
+
+ADMISSION EXAMINATION
+- general condition: [Not documented]
+- hydration: [Not documented]
+- activity: [Not documented]
+- sensorium: [Not documented]
+- temperature: [Not documented]
+- heart rate: [Not documented]
+- respiratory rate: [Not documented]
+- oxygen saturation: [Not documented]
+- blood pressure: [Not documented]
+- respiratory support: [Not documented]
+- respiratory examination: [Not documented]
+- cardiovascular examination: [Not documented]
+- abdominal examination: [Not documented]
+- neurological examination: [Not documented]
+- tone: [Not documented]
+- suck: [Not documented]
+- cry: [Not documented]
+- skin findings: [Not documented]
+- jaundice: [Not documented]
+- other abnormal findings: [Not documented]
+
+DAILY CLINICAL COURSE
+- chronological daily events: [Not documented]
+- clinical improvement or deterioration: [Not documented]
+- treatment changes: [Not documented]
+- last abnormal event: [Not documented]
+- response to treatment: [Not documented]
+
+GLUCOSE AND HYPOGLYCAEMIA
+- glucose values: [Not documented]
+- symptoms: [Not documented]
+- dextrose bolus: [Not documented]
+- glucose infusion rate: [Not documented]
+- IV fluid changes: [Not documented]
+- glucose monitoring: [Not documented]
+- glucose stability: [Not documented]
+
+NEUROLOGICAL AND SEIZURE COURSE
+- seizure type: [Not documented]
+- seizure timing: [Not documented]
+- last seizure: [Not documented]
+- anticonvulsants: [Not documented]
+- neurological examination: [Not documented]
+- EEG: [Not documented]
+- MRI: [Not documented]
+- neurosonogram: [Not documented]
+- neurology consultation: [Not documented]
+- neurological condition at discharge: [Not documented]
+
+NEONATAL JAUNDICE COURSE
+- onset day or hour: [Not documented]
+- bilirubin values: [Not documented]
+- blood groups: [Not documented]
+- phototherapy: [Not documented]
+- treatment duration: [Not documented]
+- repeat bilirubin: [Not documented]
+- BIND findings: [Not documented]
+- cholestasis findings: [Not documented]
+- rebound bilirubin: [Not documented]
+
+RESPIRATORY COURSE
+- distress findings: [Not documented]
+- chest X-ray: [Not documented]
+- oxygen support: [Not documented]
+- LFNC: [Not documented]
+- HFNC: [Not documented]
+- CPAP: [Not documented]
+- NIMV: [Not documented]
+- mechanical ventilation: [Not documented]
+- PEEP: [Not documented]
+- FiO2: [Not documented]
+- flow: [Not documented]
+- surfactant: [Not documented]
+- support duration: [Not documented]
+- weaning: [Not documented]
+- room-air stability: [Not documented]
+
+INFECTION AND SEPSIS COURSE
+- infection risk factors: [Not documented]
+- cultures: [Not documented]
+- CRP: 2.4 mg/L on 27/06/2026 10:35PM
+- blood counts: [Not documented]
+- urine examination: [Not documented]
+- antibiotics: [Not documented]
+- antibiotic duration: [Not documented]
+- confirmed or suspected infection: [Not documented]
+
+CARDIOVASCULAR COURSE
+- haemodynamic status: [Not documented]
+- blood pressure: [Not documented]
+- perfusion: [Not documented]
+- murmurs: [Not documented]
+- echocardiography: [Not documented]
+- inotropes: [Not documented]
+
+NUTRITION AND FEEDING
+- NPO: [Not documented]
+- IV nutrition: [Not documented]
+- OGT feeds: [Not documented]
+- spoon feeds: [Not documented]
+- expressed breast milk: [Not documented]
+- direct breastfeeding: [Not documented]
+- formula: [Not documented]
+- feed volume: [Not documented]
+- feed frequency: [Not documented]
+- feed progression: [Not documented]
+- feed intolerance: [Not documented]
+- feeding status at discharge: [Not documented]
+
+LINES AND PROCEDURES
+- UVC: [Not documented]
+- UAC: [Not documented]
+- PICC: Insertion date: [Blank], Removal date: [Blank]
+- peripheral IV line: Insertion date: 27/06/2026, Removal date: 22/06/2026
+- lumbar puncture: [Not documented]
+- transfusion: [Not documented]
+- imaging procedures: MRI done
+- other procedures: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Tracheostomy, Nebulization, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+- insertion and removal dates: See above
+- duration: [Not documented]
+
+INVESTIGATIONS
+- complete blood picture: Haemoglobin 15.6 g/dL, Packed Cell Volume 49.8 %, MCV 80.9 fL, MCH 25.4 pg, MCHC 31.4 gm/dL, RBC Count 6.15 x10^6/uL, WBC Count 9100 cells/cumm, Platelet Count 183000 /mm3
+- CRP: 2.4 mg/L on 27/06/2026 10:35PM
+- cultures: [Not documented]
+- urine examination: [Not documented]
+- renal function: Creatinine 0.4 mg/dL, Blood Urea 20 mg/dL, BUN 9.4 mg/dL, Uric Acid 4.3 mg/dL, Calcium 8.6 L mg/dL, Sodium 142 mmol/L, Potassium 5.1 mmol/L, Chloride 107 mmol/L
+- electrolytes: See renal function above
+- liver function: [Not documented]
+- bilirubin: [Not documented]
+- blood glucose: [Not documented]
+- blood gas: [Not documented]
+- metabolic tests: [Not documented]
+- MRI: Done
+- EEG: [Not documented]
+- neurosonogram: [Not documented]
+- chest X-ray: [Not documented]
+- echocardiography: [Not documented]
+- screening tests: [Not documented]
+- exact values, dates and units: See above
+
+MEDICATIONS DURING ADMISSION
+- [Not documented]
+
+SCREENING TESTS
+- hearing screening: [Not documented]
+- BERA: [Not documented]
+- ROP: [Not documented]
+- pulse oximetry: [Not documented]
+- thyroid profile: [Not documented]
+- neurosonogram: [Not documented]
+- immunisation: [Not documented]
+- other neonatal screening: [Not documented]
+
+DISCHARGE CONDITION
+- activity: [Not documented]
+- sensorium: [Not documented]
+- respiratory status: [Not documented]
+- haemodynamic status: [Not documented]
+- feeding status: [Not documented]
+- glucose status: [Not documented]
+- seizure-free duration: [Not documented]
+- urine output: [Not documented]
+- stools: [Not documented]
+- temperature stability: [Not documented]
+- weight: [Not documented]
+- neurological status: [Not documented]
+- remaining concerns: [Not documented]
+
+DISCHARGE MEDICATIONS
+- [Not documented]
+
+DISCHARGE ADVICE
+- feeding: [Not documented]
+- warm care: [Not documented]
+- hygiene: [Not documented]
+- KMC: [Not documented]
+- bathing: [Not documented]
+- immunisation: [Not documented]
+- seizure advice: [Not documented]
+- jaundice advice: [Not documented]
+- danger signs: [Not documented]
+- other instructions: [Not documented]
+
+FOLLOW-UP
+- review date: [Not documented]
+- doctor: [Not documented]
+- department: [Not documented]
+- neurology: [Not documented]
+- neonatology: [Not documented]
+- ROP: [Not documented]
+- hearing: [Not documented]
+- BERA: [Not documented]
+- thyroid testing: [Not documented]
+- neurosonogram: [Not documented]
+- developmental follow-up: [Not documented]
+- laboratory follow-up: [Not documented]
+
+CONFLICTS OR ITEMS FOR CLINICAL REVIEW
+- conflicting dates: [Not documented]
+- conflicting weights: [Not documented]
+- conflicting values: [Not documented]
+- uncertain OCR: Qo Shancey signature, PCC/Billing Staff name and Employee ID, Interpretation text regarding CRP levels and kidney function tests and electrolytes.
+- uncertain diagnosis: [Not documented]
+- inconsistent medication details: [Not documented]
+- missing important information: [Not documented]

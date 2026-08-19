@@ -1,0 +1,11 @@
+{
+    "section": "MATERNAL_HISTORY",
+    "page_count": 5,
+    "pages": [
+        "page_003_structured.md",
+        "page_021_structured.md",
+        "page_065_structured.md",
+        "page_087_structured.md",
+        "page_094_structured.md"
+    ]
+}

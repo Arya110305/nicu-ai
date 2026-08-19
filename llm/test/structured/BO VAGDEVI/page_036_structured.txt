@@ -1,0 +1,63 @@
+DOCUMENT INFORMATION
+ANKURA HOSPITAL FOR WOMEN & CHILDREN
+Revision No.: 3 | Issue No.: 4
+AHWC/IP/F/05
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D9M
+MR No.: 11278908
+
+BIRTH DETAILS
+Cesarean section
+
+ADMISSION DETAILS
+Admitted on 
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Fever of concern
+Respiratory distress
+Genocritical condition
+
+CLINICAL OBSERVATIONS
+Vitals checked
+Parental involvement
+Nurse Sensation
+Caring attitude
+
+RESPIRATORY SUPPORT
+0+0% oxygen
+
+FEEDING AND NUTRITION
+Hydration and nutrition
+
+MEDICATIONS
+Medications as ordered
+No orders for 24 hours
+Papillon order
+PPROM order
+Poser order
+Per Diagnosis orders
+
+PROCEDURES
+Positioning
+
+SCREENING
+99018
+
+DAILY PROGRESS
+General Assessment
+Patient assessment
+
+UNCLASSIFIED CLINICAL TEXT
+51.47
+DOA:
+Age/DOB:
+Diagnosis:
+Gestational age
+Sexual maturity
+Home care
+Hospitalization

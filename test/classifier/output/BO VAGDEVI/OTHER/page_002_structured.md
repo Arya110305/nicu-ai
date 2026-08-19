@@ -1,0 +1,73 @@
+# PATIENT INFORMATION
+
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 49 M
+
+# ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+
+## INITIAL ASSESSMENT
+(Done By Nurse)
+
+Patient Name: Vagdevi B/O Vagdevi UHID: 162608635 IPD: LB26/3007
+MR NO: 
+IP NO: 
+GA: 40 wks
+Birth Weight: 
+grams
+Date/Time of Assessment:
+TOD:
+
+Mother Blood Group: 
+Reason for Admission/Referral: 
+
+## VITAL SIGNS
+Temperature: 36°C
+HR: 120/min
+RR: 45/min
+Retractions: None
+SAS: 36 mg/dL
+Pulse Volume: 58/58
+B.P: 
+SpO2: 97%
+GRBS: 4
+
+## NURSING NOTES
+Weight: 2.7 kg, HC: 33 cm
+Length: 45 cm
+
+## PAIN ASSESSMENT
+Process Indicator Score Chart
+3
+Gestational Age: 36 weeks or more
+
+Active, awake,
+Quite, awake,
+
+Behavioural Observation
+eyes open,
+eyes open, no facial 
+eyes closed, no facial 
+movement
+
+Heart Rate: 0-beats per minute
+5-15 beats per minute
+15-24 beats per minute
+25 beats per minute
+
+Oxygen Saturation for:
+Saturation: 97%
+
+Brown Bulge: Observe infant's facial action for 30 seconds
+Eye Squeeze: None
+Naso-labial Furrow: None
+
+## INTERVENTION
+Name:
+Sign: 626
+Date: 
+Time: 15 pm
+
+## OTHER INFORMATION
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/NICU/IP/F/03

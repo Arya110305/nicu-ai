@@ -1,0 +1,892 @@
+########################################################################
+NORMALIZED BATCH 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0072
+########################################################################
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI (Baby of)
+UHID: 162608635
+IP number: LB26/3007
+Sex: Male
+Age: 4 days, 9 months
+
+BIRTH DETAILS
+Gestational Age: Approximately 36 weeks.
+
+ADMISSION DETAILS
+Reason for admission: Not specified.
+
+CLINICAL PROBLEMS
+hypoglycemia
+seizures
+
+MEDICATIONS
+Levetiracetam (dose not specified)
+Phenobarbitone (dose not specified)
+
+INVESTIGATIONS
+CRP: 2.4 mg/L
+Creatinine: 0.4 mg/dL
+Urea: 20 mg/dL
+Blood Gas: pH 7.373, PCO2 37.13, HCO3 21.3, BE -4
+
+DATE: 28/06/2026
+Respiratory Support: LFNC 0.1 L/min
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Levetiracetam, Phenobarbitone, Optineuron
+
+MEDICATIONS
+Levetiracetam (maintenance)
+Phenobarbitone (maintenance)
+Optineuron
+
+DATE: 29/06/2026
+Respiratory Support: Room air.
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Levetiracetam, Phenobarbitone
+
+MRI brain ordered.
+
+MEDICATIONS
+Levetiracetam (stopped)
+Phenobarbitone (maintenance)
+Optineuron (stopped)
+
+DATE: 29/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Calcium, Phenobarbitone
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Inj. Cefotaxime
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+ADMISSION DETAILS
+Reason for admission: symptomatic hypoglycemia, neonatal seizures.
+
+NICU COURSE
+Diagnoses: hypoglycemic seizures
+Symptoms: lethargy, respiratory distress, acrocyanosis.
+Respiratory support: NIPPV
+Oxygen requirement: Not specified
+Neurological findings: gross head lag, scarf crossing midline, shoulder dystonia, tone - tapu sugarlids
+seizures: seizure x 48 hours on inj. Phenobarbitone maintenance
+hypoglycemia: GRBS – 109 mg/dL
+
+MEDICATIONS
+Levetiracetam (loading dose)
+Phenobarbitone: maintenance
+
+INVESTIGATIONS
+MRI brain
+
+PROCEDURES
+UVC
+
+CONSULTATIONS
+Dr. Srinivas Murki
+
+DAILY PROGRESS
+Feeding progression: spoon feed ad lib, extra IVF
+Fluids: IV fluids
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+ADMISSION DETAILS
+DOL: 30/06/2026
+Symptoms: symptomatic hypoglycemia, neonatal seizures. seizure x 48 hours on inj. Phenobarbitone maintenance.
+
+NICU COURSE
+Weight: 2.3 kg
+Glucose: 60 mg/dL, GRBS — 109 mg/dL, 60mg/dl, 94mg/dL
+Infection: CUE—Bacteria(+) on inj. Cefotaxime D3
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+INVESTIGATIONS
+GRBS: 109 mg/dL
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+ADMISSION DETAILS
+DOL: 30/06/2026
+Symptoms: hypoglycemic seizures. Hypotonia
+
+NICU COURSE
+Neurological findings: gross head lag, scarf crossing midline, shoulder dystonia, tone - tapu sugarlids.
+seizures: seizure x 48 hours
+hypoglycemia: hypoglycemic episodes
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PROCEDURES
+MRI brain
+
+CONSULTATIONS
+Dr. Srinivas Murki
+
+DAILY PROGRESS
+Feeding progression: ad lib
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+MEDICATIONS
+Phenobarbitone: maintenance
+pyridoxine
+Cefotaxime (D415)
+Calcimaxplus Q6H
+
+INVESTIGATIONS
+GRBS monitoring
+
+PROCEDURES
+MRI brain
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Symptoms: hypoglycemic episodes. Hypotonia
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+DAILY PROGRESS
+Vitals stable
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+ADMISSION DETAILS
+DOL: 01/07/2026
+
+NICU COURSE
+Weight: 2.26 kg
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Symptoms: No hypoglycemic episodes. Hypotonia
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+INVESTIGATIONS
+MRI brain
+
+MEDICATION CHART
+Levetiracetam
+Phenobarbitone
+Optineuron
+Cefotaxime
+
+MEDICATION CHART
+Phenobarbitone: conversion to oral
+
+MEDICATION CHART
+Phenobarbitone
+
+NURSING CARE PLAN (Removed due to being a template)
+
+NURSES NOTES
+Vitals: HR: 130 bpm, Respiratory Rate: Not specified, SpO2: 98%
+
+NURSES NOTES
+Vitals: HR: 128 bpm, Respiratory Rate: Not specified, SpO2: 96%
+
+NURSES NOTES
+Vitals: HR: 128 bpm, Respiratory Rate: Not specified, SpO2: 96%
+
+NURSES NOTES
+Vitals: HR: 128 bpm, Respiratory Rate: Not specified, SpO2: 96%
+
+DATE: 28/06/2026
+Respiratory Support: LFNC 0.1 L/min
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Levetiracetam, Phenobarbitone
+
+DATE: 29/06/2026
+Respiratory Support: Room air.
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Levetiracetam, Phenobarbitone
+
+DATE: 29/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+Medications: Inj. Cefotaxime
+
+DATE: 30/06/2026
+Glucose Infusion: GIR 8 mg/kg/hr
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D, 9M
+
+ADMISSION DETAILS
+DOL: 29/06/2026
+
+NICU COURSE
+Respiratory support: Room air
+Weight: 2.26 kg (40g ↓)
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+INVESTIGATIONS
+GRBS: 94 mg/dL
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Symptoms: hypoglycemic episodes. Hypotonia
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Vitals: HR: 124 bpm, SpO2: 95%, Temp: 36.5°C
+
+MEDICATIONS
+Levetiracetam (loading dose)
+Phenobarbitone (loading dose)
+Cefotaxime
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Vitals: HR: 128 bpm, SpO2: 96%
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Vitals: HR: 128 bpm, SpO2: 96%
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Vitals: HR: 128 bpm, SpO2: 96%
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+seizures: Not specified
+Medications: Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+seizures: Not specified
+Medications: Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+Feeding progression: Baby taking 30 ml slf and baly.
+Glucose infusion: UF 10γ.D- 10.5 ml 1h2 on c0low
+seizures: Not specified
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+Jazim
+OkalCalcemaoplus
+Phenobarbitone
+
+PROCEDURES
+UVC: MRI done.
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Symptoms: Passed urine and stool.
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+CONSULTATIONS
+Neurologist opinion by Dr. teerthi Kand hana madau
+
+INVESTIGATIONS
+MRI contrast bill raised.
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+seizures: Not specified
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+seizures: Not specified
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Symptoms: Passed urine and stool.
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+seizures: Not specified
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+seizures: Not specified
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Symptoms: Passed urine and stool.
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+seizures: Not specified
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+seizures: Not specified
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Feeding progression: Spoon feed 30ml
+Glucose infusion: SIF-EBm 15ml
+
+MEDICATIONS
+pyridoxine 80 mg OD, stat given q car
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Symptoms: Passed urine and stool.
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+seizures: Not specified
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IPD: LB26/3007
+Age: 4 D, 9M
+
+NICU COURSE
+Respiratory support: Room air.
+seizures: Not specified
+
+MEDICATIONS
+Phenobarbitone: maintenance
+
+
+########################################################################
+NORMALIZED BATCH 0002
+SOURCE PAGES: PAGE_0073 TO PAGE_0106
+########################################################################
+
+PATIENT IDENTIFICATION
+Patient Name: VAGDEVI
+UHID: 162608635
+IP Number: LB26/3007
+Sex: Male
+Age: 4 days, 9 months
+MR Number:
+
+ADMISSION DETAILS
+Admission Date: 27-06-2026 09:03 PM
+
+DAILY CLINICAL PROGRESS
+28/06: Baby on minimal oxygen. Four to five seizures overnight. Plan for ventilation and midazolam. GRBS 7.60 mg/dL. No further seizures.
+29/06: Stop Levetiracetam. Continue Phenobarbitone. MRI brain planned after sugars normalize. Stable.
+
+PROCEDURES
+Peripheral Cannulation.
+
+MEDICATIONS
+Levetiracetam stopped on 29/06.
+Phenobarbitone continued.
+
+INVESTIGATIONS
+MRI brain ordered.
+GRBS (Blood Glucose by Glucometer) monitored.
+
+CLINICAL EXAMINATION
+seizures present. hypoglycemia present.
+
+LABORATORY INVESTIGATIONS
+CRP: 2.4 mg/L
+Creatinine: 0.4 mg/dL
+Urea: 20 mg/dL
+Blood Urea Nitrogen (BUN): 9.4 mg/dL
+Uric Acid: 4.3 mg/dL
+Calcium Serum: 8.6 mg/dL
+Sodium Serum: 142 mmol/L
+Potassium Serum: 5.1 mmol/L
+Chloride Serum: 107 mmol/L
+Hemoglobin (HB): 15.6 g/dL
+Packed Cell Volume (PCV): 49.8 %
+MCV: 80.9 fL
+MCH: 25.4 pg
+MCHC: 31.4 gm/dl
+RBC Count: 6.15 x10^6/uL
+WBC Count: 9100 cells/cumm
+Platelet Count: 183000 /mm3
+Neutrophils: 68 %
+Lymphocytes: 24%
+Eosinophils: 03%
+Monocytes: 05%
+Basophils: 0%
+Blood Group: B
+Rh Typing: Positive
+Random Blood Glucose (RBS): 35 mg/dL
+Ionic Calcium: 5.08 mg/dL
+Total Bilirubin: 15.5 mg/dL
+Direct Bilirubin: 1.8 mg/dL
+Indirect Bilirubin: 13.70 mg/dL
+Alanine Transaminase (ALT/SGPT): 10 U/L
+Aspartate Transferase (AST): 35 U/L
+Alkaline Phosphatase (ALP): 214 U/L
+Total Protein: 5.2 mg/dL
+Albumin: 3.4 g/dL
+Globulin: 1.8 g/dL
+Ammonia: 86.0 umol/L
+Urine: Yellow, turbid, pH 6.0, glucose negative, protein positive, bilirubin positive, ketones negative, blood negative, leucocytes trace, pus cells 6-8/hpf, epithelial cells 10-12/hpf, bacteria present.
+Stool Culture: No bacterial growth seen after 24 hours of aerobic incubation.

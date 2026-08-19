@@ -1,0 +1,5881 @@
+NICU DISCHARGE SUMMARY
+======================
+
+PATIENT DETAILS
+---------------
+Here's the requested content from the provided text, separated by sections as specified. If a section isn't present, "EMPTY" will be returned.
+
+**VITAL SIGNS (PAGE_072)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_073)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_074)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_075)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION (PAGE_076)**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**CLINICAL CONDITION (PAGE_077)**
+
+Stable
+
+**NURSING DOCUMENTATION (PAGE_077)**
+
+Topic Content: seizure, hypoglycemia
+Remarks: Stable.
+
+**VITAL SIGNS (PAGE_079)**
+
+Date: 28/06/2026 Time: 9P VIP SCORE: -0- Remarks: Anasuys
+Date: 28/06/2026 Time: apm VIP SCORE: -0- Remarks: shanel.
+Date: 27/06/2026 Time: 8pm VIP SCORE: – 0- Remarks: e
+Date: 8/06/2026 Time: 8cum VIP SCORE: —o - Remarks: eX
+Date: 30/06/2026 Time: 8pm VIP SCORE: - 0 Remarks: dy
+Date: 1/07/2026 Time: CB VIP SCORE: o – Remarks:
+
+**INVASIVE DEVICES DETAILS (PAGE_080)**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**LABORATORY INVESTIGATIONS (PAGE_081)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_082)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_083)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_084)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_085)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PROCEDURES (PAGE_086)**
+
+Morning shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+Evening Shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+Night Shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+**PROCEDURES (PAGE_087)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_087)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (PAGE_087)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_087)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_087)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_087)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_087)**
+
+Name of Nursing staff: Shanuy uol
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+**PCC/Billing Staff (PAGE_087)**
+
+Name: or
+Signature: [UNCERTAIN: signature]
+Employee ID: 16836
+
+**PROCEDURES (PAGE_088)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_088)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_088)**
+
+MRI done
+
+**CROSS CONSULTATION (PAGE_088)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_088)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_088)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_088)**
+
+Name of Nursing staff: Qo Shancey
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+**PCC/Billing Staff (PAGE_088)**
+
+Name: 3
+Signature: [UNCERTAIN: signature]
+Employee ID: 2634
+
+**PROCEDURES (PAGE_089)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_089)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_089)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_089)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_089)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_089)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_089)**
+
+Name of Nursing staff: [UNCERTAIN: name]
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**PCC/Billing Staff (PAGE_089)**
+
+Name: B
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**BIOCHEMISTRY (PAGE_092)**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+
+**HEMATOLOGY (PAGE_093)**
+
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+BIRTH DETAILS
+-------------
+Here's the requested content from the provided text, separated by sections as specified. If a section isn't present, "EMPTY" will be returned.
+
+**VITAL SIGNS**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**DIAGNOSES AND CLINICAL PROBLEMS**
+
+seizures
+hypoglycemia
+
+**NURSING DOCUMENTATION**
+
+Topic Content: seizure, hypoglycemia
+Remarks: Stable.
+
+**PROCEDURES (from BILLING RECORD)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (from BILLING RECORD)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (from BILLING RECORD)**
+
+None documented
+
+**CROSS CONSULTATION (from BILLING RECORD)**
+
+None documented
+
+**LABORATORY REPORT - BIOCHEMISTRY**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+
+**LABORATORY REPORT - HEMATOLOGY**
+
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+ADMISSION DETAILS
+-----------------
+Here's the requested content from the provided text, focusing on the specified sections and returning "EMPTY" where data isn't present.
+
+**PAGE_072 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_073 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_074 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_075 - PATIENT & FAMILY EDUCATION FORM**
+
+EMPTY
+
+**PAGE_076 - PATIENT EDUCATION FORM**
+
+EMPTY
+
+**PAGE_077 - PATIENT EDUCATION FORM**
+
+EMPTY
+
+**PAGE_078 - PERIPHERAL CANNULATION SHEET**
+
+Details blank
+[Details blank]
+[Details blank]
+Grade of Thrombophlebitis: EMPTY
+Name of the Drug and Mg: [Blank]
+Name of the Fluids and Rate of on flow per Hour: [Blank]
+
+**PAGE_079 - PERIPHERAL CANNULATION SHEET**
+
+EMPTY
+
+**PAGE_080 - NOSOCOMIAL INFECTION SURVEILLANCE FORM**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**PAGE_081 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: EMPTY
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PAGE_082 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: EMPTY
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PAGE_083 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: Umdrcal
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PAGE_084 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PAGE_085 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PAGE_086 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+RADIOLOGY INVESTIGATIONS
+MRI done
+
+**PAGE_087 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**PAGE_088 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**PAGE_089 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**PAGE_090 - NOSOCOMIAL INFECTION SURVEILLANCE FORM**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**PAGE_091 - LABORATORY REPORT**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+Interpretation: [UNCERTAIN: Interpretation text regarding CRP levels and clinical correlation]
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+Interpretation: [UNCERTAIN: Interpretation text regarding kidney function tests and electrolytes]
+
+**PAGE_092 - LABORATORY REPORT**
+
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+DIAGNOSIS
+---------
+Here's the requested content from the provided text, separated by sections as specified. If a section isn't present, "EMPTY" will be returned.
+
+**VITAL SIGNS (PAGE_072)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_073)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_074)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_075)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION (PAGE_076)**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**CLINICAL CONDITION (PAGE_077)**
+
+Stable
+
+**NURSING DOCUMENTATION (PAGE_077)**
+
+Topic Content: seizure, hypoglycemia
+Remarks: Stable.
+
+**VITAL SIGNS (PAGE_079)**
+
+Date: 28/06/2026 Time: 9P VIP SCORE: -0- Remarks: Anasuys
+Date: 28/06/2026 Time: apm VIP SCORE: -0- Remarks: shanel.
+Date: 27/06/2026 Time: 8pm VIP SCORE: – 0- Remarks: e
+Date: 8/06/2026 Time: 8cum VIP SCORE: —o - Remarks: eX
+Date: 30/06/2026 Time: 8pm VIP SCORE: - 0 Remarks: dy
+Date: 1/07/2026 Time: CB VIP SCORE: o – Remarks:
+
+**INVASIVE DEVICES DETAILS (PAGE_080)**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**LABORATORY INVESTIGATIONS (PAGE_081)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_082)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_083)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_084)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_085)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PROCEDURES (PAGE_086)**
+
+Morning shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+Evening Shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+Night Shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+**PROCEDURES (PAGE_087)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_087)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (PAGE_087)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_087)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_087)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_087)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_087)**
+
+Name of Nursing staff: Shanuy uol
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+**PCC/Billing Staff (PAGE_087)**
+
+Name: or
+Signature: [UNCERTAIN: signature]
+Employee ID: 16836
+
+**PROCEDURES (PAGE_088)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_088)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_088)**
+
+MRI done
+
+**CROSS CONSULTATION (PAGE_088)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_088)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_088)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_088)**
+
+Name of Nursing staff: Qo Shancey
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+**PCC/Billing Staff (PAGE_088)**
+
+Name: 3
+Signature: [UNCERTAIN: signature]
+Employee ID: 2634
+
+**PROCEDURES (PAGE_089)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_089)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_089)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_089)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_089)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_089)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_089)**
+
+Name of Nursing staff: [UNCERTAIN: name]
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**PCC/Billing Staff (PAGE_089)**
+
+Name: B
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**BIOCHEMISTRY (PAGE_092)**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+
+**HEMATOLOGY (PAGE_093)**
+
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+EXAMINATION FINDINGS
+--------------------
+Here's the requested content from the provided text, focusing on the specified sections and returning "EMPTY" where data isn't present.
+
+**PAGE_072 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_073 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_074 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_075 - PATIENT & FAMILY EDUCATION FORM**
+
+EMPTY
+
+**PAGE_076 - PATIENT EDUCATION FORM**
+
+EMPTY
+
+**PAGE_077 - PATIENT EDUCATION FORM**
+
+EMPTY
+
+**PAGE_078 - PERIPHERAL CANNULATION SHEET**
+
+Details blank
+[Details blank]
+[Details blank]
+Grade of Thrombophlebitis: EMPTY
+Name of the Drug and Mg: [Blank]
+Name of the Fluids and Rate of on flow per Hour: [Blank]
+
+**PAGE_079 - PERIPHERAL CANNULATION SHEET**
+
+EMPTY
+
+**PAGE_080 - NOSOCOMIAL INFECTION SURVEILLANCE FORM**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**PAGE_081 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: EMPTY
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PAGE_082 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: EMPTY
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PAGE_083 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: Umdrcal
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PAGE_084 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PAGE_085 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PAGE_086 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+RADIOLOGY INVESTIGATIONS
+MRI done
+
+**PAGE_087 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**PAGE_088 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**PAGE_089 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**PAGE_090 - NOSOCOMIAL INFECTION SURVEILLANCE FORM**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**PAGE_091 - LABORATORY REPORT**
+
+BIOCHEMISTRY
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+Interpretation: [UNCERTAIN: Interpretation text regarding CRP levels and clinical correlation]
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+Interpretation: [UNCERTAIN: Interpretation text regarding kidney function tests and electrolytes]
+
+**PAGE_092 - LABORATORY REPORT**
+
+HEMATOLOGY
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+HOSPITAL COURSE
+---------------
+Here's the requested content from the provided text, separated by sections as specified. If a section isn't present, "EMPTY" will be returned.
+
+**VITAL SIGNS**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**DIAGNOSES AND CLINICAL PROBLEMS**
+
+seizures
+hypoglycemia
+
+**NURSING DOCUMENTATION**
+
+Topic Content: seizure, hypoglycemia
+Remarks: Stable.
+
+**PROCEDURES (from BILLING RECORD)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (from BILLING RECORD)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (from BILLING RECORD)**
+
+None documented
+
+**CROSS CONSULTATION (from BILLING RECORD)**
+
+None documented
+
+**LABORATORY REPORT - BIOCHEMISTRY**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+
+**LABORATORY REPORT - HEMATOLOGY**
+
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+RESPIRATORY COURSE
+------------------
+Here's the requested content from the provided text, separated by sections as specified. If a section isn't present, "EMPTY" will be returned.
+
+**VITAL SIGNS (PAGE_072)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_073)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_074)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_075)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION (PAGE_076)**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**CLINICAL CONDITION (PAGE_077)**
+
+Stable
+
+**NURSING DOCUMENTATION (PAGE_077)**
+
+Topic Content: seizure, hypoglycemia
+Remarks: Stable.
+
+**VITAL SIGNS (PAGE_079)**
+
+Date: 28/06/2026 Time: 9P VIP SCORE: -0- Remarks: Anasuys
+Date: 28/06/2026 Time: apm VIP SCORE: -0- Remarks: shanel.
+Date: 27/06/2026 Time: 8pm VIP SCORE: – 0- Remarks: e
+Date: 8/06/2026 Time: 8cum VIP SCORE: —o - Remarks: eX
+Date: 30/06/2026 Time: 8pm VIP SCORE: - 0 Remarks: dy
+Date: 1/07/2026 Time: CB VIP SCORE: o – Remarks:
+
+**INVASIVE DEVICES DETAILS (PAGE_080)**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**LABORATORY INVESTIGATIONS (PAGE_081)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_082)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_083)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_084)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_085)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PROCEDURES (PAGE_086)**
+
+Morning shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+Evening Shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+Night Shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+**PROCEDURES (PAGE_087)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_087)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (PAGE_087)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_087)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_087)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_087)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_087)**
+
+Name of Nursing staff: Shanuy uol
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+**PCC/Billing Staff (PAGE_087)**
+
+Name: or
+Signature: [UNCERTAIN: signature]
+Employee ID: 16836
+
+**PROCEDURES (PAGE_088)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_088)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_088)**
+
+MRI done
+
+**CROSS CONSULTATION (PAGE_088)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_088)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_088)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_088)**
+
+Name of Nursing staff: Qo Shancey
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+**PCC/Billing Staff (PAGE_088)**
+
+Name: 3
+Signature: [UNCERTAIN: signature]
+Employee ID: 2634
+
+**PROCEDURES (PAGE_089)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_089)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_089)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_089)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_089)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_089)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_089)**
+
+Name of Nursing staff: [UNCERTAIN: name]
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**PCC/Billing Staff (PAGE_089)**
+
+Name: B
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**BIOCHEMISTRY (PAGE_092)**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+
+**HEMATOLOGY (PAGE_093)**
+
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+FEEDING AND NUTRITION
+---------------------
+Here's the requested content from the provided text, separated by sections as specified. If a section isn't present, "EMPTY" will be returned.
+
+**VITAL SIGNS (PAGE_072)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_073)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_074)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_075)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION (PAGE_076)**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**CLINICAL CONDITION (PAGE_077)**
+
+Stable
+
+**NURSING DOCUMENTATION (PAGE_077)**
+
+Topic Content: seizure, hypoglycemia
+Remarks: Stable.
+
+**VITAL SIGNS (PAGE_079)**
+
+Date: 28/06/2026 Time: 9P VIP SCORE: -0- Remarks: Anasuys
+Date: 28/06/2026 Time: apm VIP SCORE: -0- Remarks: shanel.
+Date: 27/06/2026 Time: 8pm VIP SCORE: – 0- Remarks: e
+Date: 8/06/2026 Time: 8cum VIP SCORE: —o - Remarks: eX
+Date: 30/06/2026 Time: 8pm VIP SCORE: - 0 Remarks: dy
+Date: 1/07/2026 Time: CB VIP SCORE: o – Remarks:
+
+**INVASIVE DEVICES DETAILS (PAGE_080)**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**LABORATORY INVESTIGATIONS (PAGE_081)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: 
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_082)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: 
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_083)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: Umdrcal
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_084)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PROCEDURES (PAGE_086)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_086)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (PAGE_086)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_086)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_086)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_086)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PROCEDURES (PAGE_087)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_087)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (PAGE_087)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_087)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_087)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_087)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PROCEDURES (PAGE_088)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_088)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_088)**
+
+MRI done
+
+**CROSS CONSULTATION (PAGE_088)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_088)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_088)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PROCEDURES (PAGE_089)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_089)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_089)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_089)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_089)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_089)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_089)**
+
+Name of Nursing staff: Qo Shancey
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+**PCC/Billing Staff (PAGE_089)**
+
+Name: 3
+Signature: [UNCERTAIN: signature]
+Employee ID: 2634
+
+**PROCEDURES (PAGE_090)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_090)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_090)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_090)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_090)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_090)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_090)**
+
+Name of Nursing staff: [UNCERTAIN: name]
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**PCC/Billing Staff (PAGE_090)**
+
+Name: B
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**BIOCHEMISTRY (PAGE_092)**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+
+**HEMATOLOGY (PAGE_093)**
+
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+IMPORTANT INVESTIGATIONS
+------------------------
+Here's the requested content from the provided text, focusing on the specified sections and returning "EMPTY" where data isn't present.
+
+**PAGE_072 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_073 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_074 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_075 - PATIENT & FAMILY EDUCATION FORM**
+
+EMPTY
+
+**PAGE_076 - PATIENT EDUCATION FORM**
+
+EMPTY
+
+**PAGE_077 - PATIENT EDUCATION FORM**
+
+EMPTY
+
+**PAGE_078 - PERIPHERAL CANNULATION SHEET**
+
+Details blank
+[Details blank]
+[Details blank]
+Grade of Thrombophlebitis: EMPTY
+Name of the Drug and Mg: [Blank]
+Name of the Fluids and Rate of on flow per Hour: [Blank]
+
+**PAGE_079 - PERIPHERAL CANNULATION SHEET**
+
+EMPTY
+
+**PAGE_080 - NOSOCOMIAL INFECTION SURVEILLANCE FORM**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**PAGE_081 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: EMPTY
+
+**PAGE_082 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: EMPTY
+
+**PAGE_083 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: Umdrcal
+
+**PAGE_084 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+
+**PAGE_085 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+
+**PAGE_086 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**PAGE_087 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**PAGE_088 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PAGE_089 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PAGE_090 - NOSOCOMIAL INFECTION SURVEILLANCE FORM**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**PAGE_091 - LABORATORY REPORT**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+
+**PAGE_092 - LABORATORY REPORT**
+
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+MCV
+Result : 80.9 fL
+MCH
+Result : 25.4 pg
+MCHC
+Result : 31.4 gm/dL
+RBC COUNT
+Result : 6.15 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+NEUTROPHILS
+Result : 68 %
+LYMPHOCYTES
+Result : 24 %
+
+PROCEDURES
+----------
+Here's the requested content from the provided text, separated by sections as specified. If a section isn't present, "EMPTY" will be returned.
+
+**VITAL SIGNS (PAGE_072)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_073)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_074)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_075)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION (PAGE_076)**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**CLINICAL CONDITION (PAGE_077)**
+
+Stable
+
+**NURSING DOCUMENTATION (PAGE_077)**
+
+Topic Content: seizure, hypoglycemia
+Remarks: Stable.
+
+**VITAL SIGNS (PAGE_079)**
+
+Date: 28/06/2026 Time: 9P VIP SCORE: -0- Remarks: Anasuys
+Date: 28/06/2026 Time: apm VIP SCORE: -0- Remarks: shanel.
+Date: 27/06/2026 Time: 8pm VIP SCORE: – 0- Remarks: e
+Date: 8/06/2026 Time: 8cum VIP SCORE: —o - Remarks: eX
+Date: 30/06/2026 Time: 8pm VIP SCORE: - 0 Remarks: dy
+Date: 1/07/2026 Time: CB VIP SCORE: o – Remarks:
+
+**INVASIVE DEVICES DETAILS (PAGE_080)**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**LABORATORY INVESTIGATIONS (PAGE_081)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: 
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_082)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: 
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_083)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: Umdrcal
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_084)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PROCEDURES (PAGE_086)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_086)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (PAGE_086)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_086)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_086)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_086)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PROCEDURES (PAGE_087)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_087)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (PAGE_087)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_087)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_087)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_087)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PROCEDURES (PAGE_088)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_088)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_088)**
+
+MRI done
+
+**CROSS CONSULTATION (PAGE_088)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_088)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_088)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PROCEDURES (PAGE_089)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_089)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_089)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_089)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_089)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_089)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_089)**
+
+Name of Nursing staff: Qo Shancey
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+**PCC/Billing Staff (PAGE_089)**
+
+Name: 3
+Signature: [UNCERTAIN: signature]
+Employee ID: 2634
+
+**PROCEDURES (PAGE_090)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_090)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_090)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_090)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_090)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_090)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_090)**
+
+Name of Nursing staff: [UNCERTAIN: name]
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**PCC/Billing Staff (PAGE_090)**
+
+Name: B
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**BIOCHEMISTRY (PAGE_092)**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+
+**HEMATOLOGY (PAGE_093)**
+
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+TREATMENT GIVEN
+---------------
+Here's the requested content from the provided text, broken down by section as specified.
+
+**VITAL SIGNS**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**DIAGNOSES AND CLINICAL PROBLEMS**
+
+seizures
+hypoglycemia
+
+**NURSING DOCUMENTATION**
+
+Topic Content: seizure, hypoglycemia
+Remarks: Stable.
+
+**PROCEDURES (from BILLING RECORD)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (from BILLING RECORD)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (from BILLING RECORD)**
+
+MRI done
+
+**LABORATORY REPORT - BIOCHEMISTRY**
+
+CREATININE - SERUM
+Result : 0.4 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+
+**LABORATORY REPORT - HEMATOLOGY**
+
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+MCV
+Result : 80.9 fL
+MCH
+Result : 25.4 pg
+MCHC
+Result : 31.4 gm/dL
+RBC COUNT
+Result : 6.15 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+NEUTROPHILS
+Result : 68 %
+LYMPHOCYTES
+Result : 24 %
+
+CONDITION AT DISCHARGE
+----------------------
+Here's the requested content from the provided text, separated by sections as specified. If a section isn't present, "EMPTY" will be returned.
+
+**VITAL SIGNS (PAGE_072)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_073)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_074)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_075)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION (PAGE_076)**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**CLINICAL CONDITION (PAGE_077)**
+
+Stable
+
+**NURSING DOCUMENTATION (PAGE_077)**
+
+Topic Content: seizure, hypoglycemia
+Remarks: Stable.
+
+**VITAL SIGNS (PAGE_079)**
+
+Date: 28/06/2026 Time: 9P VIP SCORE: -0- Remarks: Anasuys
+Date: 28/06/2026 Time: apm VIP SCORE: -0- Remarks: shanel.
+Date: 27/06/2026 Time: 8pm VIP SCORE: – 0- Remarks: e
+Date: 8/06/2026 Time: 8cum VIP SCORE: —o - Remarks: eX
+Date: 30/06/2026 Time: 8pm VIP SCORE: - 0 Remarks: dy
+Date: 1/07/2026 Time: CB VIP SCORE: o – Remarks:
+
+**INVASIVE DEVICES DETAILS (PAGE_080)**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**LABORATORY INVESTIGATIONS (PAGE_081)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_082)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_083)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_084)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_085)**
+
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PROCEDURES (PAGE_086)**
+
+Morning shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+Evening Shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+Night Shift
+1 Cop leP lFr.dfT
+2 Ascitic Tap
+3 Bone Marrow Aspiration
+4 Central Line Insertion
+5 CPR
+6 CVP line Insertion
+7 Dressing Minor/Medium/Major/Special
+8 Emergency/Elective Intubation
+9 Foleys Catherization
+10 HD Cathter
+11 Hemodialysis
+12 ICD Insertion
+13 IV Cannulation
+14 Lumbar Drain insertion
+15 Lumbar Puncture
+16 Tracheostomy
+17 Nebulization
+18 PICC line Insertion
+
+**PROCEDURES (PAGE_087)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_087)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**PROCEDURES (PAGE_088)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_088)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**PROCEDURES (PAGE_089)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_089)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**LABORATORY INVESTIGATIONS (PAGE_090)**
+
+BIOCHEMISTRY
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+Interpretation : [UNCERTAIN: Interpretation text regarding CRP levels and clinical correlation]
+
+BIOCHEMISTRY
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+Interpretation : [UNCERTAIN: Interpretation text regarding kidney function tests and electrolytes]
+
+**LABORATORY INVESTIGATIONS (PAGE_091)**
+
+HEMATOLOGY
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+MEDICATIONS AT DISCHARGE
+------------------------
+Here's the requested content from the provided text, broken down by section as specified:
+
+**VITAL SIGNS (PAGE_072)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_073)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_074)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_075)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION (PAGE_076)**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**CLINICAL CONDITION (PAGE_077)**
+
+Stable
+
+**VITAL SIGNS (PAGE_079)**
+
+Date: 28/06/2026 Time: 9P VIP SCORE: -0- Remarks: Anasuys
+Date: 28/06/2026 Time: apm VIP SCORE: -0- Remarks: shanel.
+Date: 27/06/2026 Time: 8pm VIP SCORE: – 0- Remarks: e
+Date: 8/06/2026 Time: 8cum VIP SCORE: —o - Remarks: eX
+Date: 30/06/2026 Time: 8pm VIP SCORE: - 0 Remarks: dy
+Date: 1/07/2026 Time: CB VIP SCORE: o – Remarks:
+
+**PROCEDURES (PAGE_086)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_086)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (PAGE_086)**
+
+MRI done
+
+**BEDSIDE EQUIPMENTS (PAGE_086)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**LABORATORY REPORT - BIOCHEMISTRY (PAGE_092)**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+
+**LABORATORY REPORT - HEMATOLOGY (PAGE_093)**
+
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+DISCHARGE ADVICE
+----------------
+Here's the requested content from the provided text, separated by sections as specified. If a section isn't present, "EMPTY" will be returned.
+
+**VITAL SIGNS (PAGE_072)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_073)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_074)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**VITAL SIGNS (PAGE_075)**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**CLINICAL CONDITION (PAGE_076)**
+
+28/06/2026 - Baby on minimal oxygen
+11Am - 4-5 episodes of seizures overnight
+Plan for SOS ventilation, inj. midazolam, GRBS 7 60 mg/dL. No further seizures.
+
+29/06/2026 - Stop Levetiracetam and Phenobarbitone. Continue Neuro (observation). MRI brain today for further seizures.
+7:30 p/m - Stable, plan to do MRI after sugars normal.
+
+**CLINICAL CONDITION (PAGE_077)**
+
+Stable
+
+**NURSING DOCUMENTATION (PAGE_077)**
+
+Topic Content: seizure, hypoglycemia
+Remarks: Stable.
+
+**VITAL SIGNS (PAGE_079)**
+
+Date: 28/06/2026 Time: 9P VIP SCORE: -0- Remarks: Anasuys
+Date: 28/06/2026 Time: apm VIP SCORE: -0- Remarks: shanel.
+Date: 27/06/2026 Time: 8pm VIP SCORE: – 0- Remarks: e
+Date: 8/06/2026 Time: 8cum VIP SCORE: —o - Remarks: eX
+Date: 30/06/2026 Time: 8pm VIP SCORE: - 0 Remarks: dy
+Date: 1/07/2026 Time: CB VIP SCORE: o – Remarks:
+
+**INVASIVE DEVICES DETAILS (PAGE_080)**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**LABORATORY INVESTIGATIONS (PAGE_081)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: 
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_082)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: 
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_083)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: Umdrcal
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**LABORATORY INVESTIGATIONS (PAGE_084)**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+HEAMOGLOBIN/PATHOLOGY
+O AFB For Culture & Sensitivity
+O Complete Blood Picture(CBP)
+O CSF Lactate
+O PCV
+O CSF Pyruvate
+O HIV I & II (Rapid)
+O Platelet Count
+O Hemoglobin
+O AEC Absolute Eosinophil Count) 
+O Hepatitis - A (IgM)
+O Smear for MP
+O Leptospira IgM
+O Parasite V & F
+O Weil Felix
+O QBC
+O HCV
+O ESR (Erythrocyte Sedimentation Rate)
+O Dengue IgG
+O Blood Group & Rh Type 
+O Direct Coombs Test
+O Dengue IgM
+O Indirect Coombs Test
+O Dengue Ns1 Antigen
+O Bleeding Time
+OTBPCR
+O Clotting Time
+O HSV-PCR
+O Complete Urine Examination (CUE)
+O Mantoux Test
+O RA Factor
+O Stool Routine Examination
+O Rotavirus Antigen Defection
+O CSF Cell Type & Count
+OASO
+O Factor Assay
+O Widal Test
+O Anemia Profile
+O TORCH Profile
+O Special Investigations:
+O Urine Pregnancy Test (UPT)
+
+MICROBIOLOGY
+OVDRL
+O Blood For Culture & Sensitivity
+O Serum IgE
+O Urine For Culture & Sensitivity
+O New Born Screening
+O Metabolic Screening
+O Stool For Culture & Sensitivity
+O Karotype Test
+O Throat Swab For Culture & Sensitivity
+O Syndrome Evaluation System (SES)
+O CSF For Culture & Sensitivity
+
+**PROCEDURES (PAGE_086)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_086)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (PAGE_086)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_086)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_086)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_086)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PROCEDURES (PAGE_087)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_087)**
+
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**RADIOLOGY INVESTIGATIONS (PAGE_087)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_087)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_087)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_087)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PROCEDURES (PAGE_088)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_088)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_088)**
+
+MRI done
+
+**CROSS CONSULTATION (PAGE_088)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_088)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_088)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PROCEDURES (PAGE_089)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_089)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_089)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_089)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_089)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_089)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_089)**
+
+Name of Nursing staff: Qo Shancey
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+**PCC/Billing Staff (PAGE_089)**
+
+Name: 3
+Signature: [UNCERTAIN: signature]
+Employee ID: 2634
+
+**PROCEDURES (PAGE_090)**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+**LAB INVESTIGATIONS (PAGE_090)**
+
+Morning shift: None documented
+Evening Shift: None documented
+Night Shift: None documented
+
+**RADIOLOGY INVESTIGATIONS (PAGE_090)**
+
+None documented
+
+**CROSS CONSULTATION (PAGE_090)**
+
+None documented
+
+**BEDSIDE EQUIPMENTS (PAGE_090)**
+
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**CONSULTATION (PAGE_090)**
+
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**NURSING DOCUMENTATION (PAGE_090)**
+
+Name of Nursing staff: [UNCERTAIN: name]
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**PCC/Billing Staff (PAGE_090)**
+
+Name: B
+Signature: [UNCERTAIN: signature]
+Employee ID: [UNCERTAIN: employee id]
+
+**BIOCHEMISTRY (PAGE_092)**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+Method : Immunoturbidimetry
+Ref. Interval : 0.01- 6.00 mg/L
+
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+Method : Jaffe Kinetic
+Ref. Interval : 0.3 -0.9 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+Method : Urease
+Ref. Interval : 16.60 - 48.50 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+Method : Calculated
+Ref. Interval : 6.00 - 20.00 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+Method : Enzymatic,Colorimetric
+Ref. Interval : 3.50 - 7.20 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+Method : Photometric
+Ref. Interval : 8.80- 10.80 mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+Ref. Interval : 133.00 - 144.00 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+Method : IFCC
+Ref. Interval : 3.40 - 5.10 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+Ref. Interval : 97.00 - 107.00 mmol/L
+
+**HEMATOLOGY (PAGE_093)**
+
+COMPLETE BLOOD PICTURE (CBP)/CBC
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+Method : Direct cyanmethaemoglobin method
+Ref. Interval : 15.00 - 21.00 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+Method : Impedance/Calculated
+Ref. Interval : 45.00 - 67.00 %
+MCV
+Result : 80.9 fL
+Method : Impedance/Calculated
+Ref. Interval : 92.00 - 118.00 fL
+MCH
+Result : 25.4 pg
+Ref. Interval : 31.00 - 37.00 pg
+MCHC
+Result : 31.4 gm/dL
+Method : Impedance/Calculate P
+Ref. Interval : 29.00 - 37.00 gm/dl
+RBC COUNT
+Result : 6.15 x10^6/uL
+Method : Impedance
+Ref. Interval : 4.00 - 6.60 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+Method : Impedance/Flowcytometry
+Ref. Interval : 7000.00- 23000.00 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+Method : Impedance
+Ref. Interval : 160000.00-500000.00 /mm3
+DIFFERENTIAL COUNT
+NEUTROPHILS
+Result : 68 %
+Method : Impedance/RBC Flowcytometry
+Ref. Interval : 22.00 - 42.00 %
+LYMPHOCYTES
+Result : 24 %
+Method : Impedance/RBC Flowcytometry
+
+FOLLOW-UP
+---------
+Here's the requested content from the provided text, focusing on the specified sections and returning "EMPTY" where data isn't present.
+
+**PAGE_072 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_073 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_074 - VITALS MONITORING CHART**
+
+Current Weight: [UNCERTAIN: missing]
+Current Height: [UNCERTAIN: missing]
+Blood Group & Rh Type: [UNCERTAIN: missing]
+
+**PAGE_075 - PATIENT & FAMILY EDUCATION FORM**
+
+EMPTY
+
+**PAGE_076 - PATIENT EDUCATION FORM**
+
+EMPTY
+
+**PAGE_077 - PATIENT EDUCATION FORM**
+
+EMPTY
+
+**PAGE_078 - PERIPHERAL CANNULATION SHEET**
+
+Details blank
+[Details blank]
+[Details blank]
+Grade of Thrombophlebitis: EMPTY
+Name of the Drug and Mg: [Blank]
+Name of the Fluids and Rate of on flow per Hour: [Blank]
+
+**PAGE_079 - PERIPHERAL CANNULATION SHEET**
+
+EMPTY
+
+**PAGE_080 - NOSOCOMIAL INFECTION SURVEILLANCE FORM**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**PAGE_081 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: EMPTY
+
+**PAGE_082 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: EMPTY
+
+**PAGE_083 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site: Umdrcal
+
+**PAGE_084 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+
+**PAGE_085 - REQUISITION FORM**
+
+Primary Sample Type: Blood/ Urine/ Sputum/ Pus/ Fluid - Pleural/ Pericardial/ Ascitic/ CSF/ Others:
+Sample Site:UYinL
+
+**PAGE_086 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Morning shift: Amonia, Urine for els, Eea
+Evening Shift: Amonia, Urine for els, Eea
+Night Shift: Amonia, Urine for els, Eea
+
+**PAGE_087 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+**PAGE_088 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PAGE_089 - BILLING RECORD**
+
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night Shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Morning shift: Doctors Visit
+Evening Shift: Doctors Visit
+Night Shift: Doctors Visit
+
+**PAGE_090 - NOSOCOMIAL INFECTION SURVEILLANCE FORM**
+
+1. IV cannula Insertion date: 27/06/2026 Removal date: 22/06/2026
+2. Foley's catheter Insertion date: 28/06/2026 Removal date: [Blank]
+3. Central line Insertion date: [Blank] Removal date: [Blank]
+4. Ventilator Insertion date: [Blank] Removal date: [Blank]
+
+**PAGE_091 - LABORATORY REPORT**
+
+C-REACTIVE PROTEIN (CRP)
+Result : 2.4 mg/L
+RENAL FUNCTION TEST (RFT)
+CREATININE - SERUM
+Result : 0.4 mg/dL
+BLOOD UREA
+Result : 20 mg/dL
+BLOOD UREA NITROGEN(BUN)
+Result : 9.4 mg/dL
+URIC ACID
+Result : 4.3 mg/dL
+CALCIUM SERUM
+Result : 8.6 L mg/dL
+SODIUM SERUM
+Result : 142 mmol/L
+POTASSIUM SERUM
+Result : 5.1 mmol/L
+CHLORIDE SERUM
+Result : 107 mmol/L
+
+**PAGE_092 - LABORATORY REPORT**
+
+HAEMOGLOBIN (HB)
+Result : 15.6 g/dL
+PACKED CELL VOLUME (PCV)
+Result : 49.8 %
+MCV
+Result : 80.9 fL
+MCH
+Result : 25.4 pg
+MCHC
+Result : 31.4 gm/dL
+RBC COUNT
+Result : 6.15 x10^6/uL
+WBC COUNT
+Result : 9100 cells/cumm
+PLATELET COUNT
+Result : 183000 /mm3
+NEUTROPHILS
+Result : 68 %
+LYMPHOCYTES
+Result : 24 %

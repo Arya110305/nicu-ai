@@ -1,0 +1,255 @@
+### Patient Information
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### Laboratory Reports
+
+#### Biochemistry - Random Blood Glucose (RBS)
+- **Test Name:** Random Blood Glucose (RBS)  
+- **Result:** 35 mg/dL  
+- **Unit:** mg/dL  
+- **Biological Method:** 110 Hexokinase  
+- **Reference Interval:**  
+  - Neonates: <110 mg/dL  
+  - Neonates (> 1 day): 40-100 mg/dL  
+  - Children: 60-150 mg/dL  
+  - Adults: 60-140 mg/dL  
+
+**Interpretation:** Normoglycemia (Random Plasma Glucose <140 mg/dl)
+
+---
+
+#### Hematology
+- **Test Name:** Blood Grouping and RH Typing  
+- **Result:**
+  - BLOOD GROUP: B  
+  - RH TYPING: Positive
+
+**Comments / Interpretation:**
+- Reconfirm the Blood Group & Rh Typing along with cross matching before blood transfusion.
+- Recent blood transfusions, if any, may interfere with interpretation of blood grouping.
+- The blood group and Rh antigen may change in newborns; repeat the test after 6 months.
+- Subgroups and Bombay blood group need further verification.
+
+**Report Details:**
+- **Patient Name:** Baby Of Vagdevi
+- **Lab No.:** 1646870
+- **UHID:** 162608635 / LB26/3007
+- **Sample Date:** 27/06/2026 10:35 PM
+- **Age/Gender:** 4 Days/Male
+- **Receiving Date:** 28/06/2026 1:18 AM
+- **Bed No/Ward:** IPD
+- **Report Date:** 28/06/2026 3:03 AM
+- **Referred By:** Dr. Srinivas Murki
+- **Report Status:** Final
+
+**Reported By:** Dr. B Roshini Sumalini  
+MBBS, MD Pathology  
+Consultant Pathologist  
+
+---
+
+#### Laboratory Test Details - Hematology (CBC)
+- **Test Name:** Complete Blood Count (CBC)  
+- **Result:**
+  - Haemoglobin (HB): 15.6 g/dL
+  - Packed Cell Volume (PCV): 49.8%
+  - MCV: 80.9 fL
+  - MCH: 25.4 pg
+  - MCHC: 31.4 gm/dL
+  - RBC Count: 6.15 × 10^6/uL
+  - WBC Count: 9,100 cells/cumm
+  - Platelet Count: 183,000 /mm³
+
+- **Differential Count:**  
+  - Neutrophils: 68%
+  - Lymphocytes: 24%
+  - Eosinophils: 3%
+  - Monocytes: 5%
+  - Basophils: 0%
+
+**Peripheral Smear:**
+- RBC: Normocytic, Normochromic Microscopic
+- WBC: Neutrophilia Microscopic
+- Platelets: Adequate Microscopic
+
+---
+
+#### Biochemistry - Renal Function Test (RFT)
+- **Test Name:** Creatinine - Serum  
+  - Result: 0.4 mg/dL
+  - Unit: mg/dL
+  - Biological Method: Jaffe Kinetic
+  - Reference Interval: 0.3 - 0.9
+
+- **Test Name:** Blood Urea  
+  - Result: 20 mg/dL
+  - Unit: mg/dL
+  - Biological Method: Urease
+  - Reference Interval: 16.60 - 48.50
+
+- **Test Name:** BUN (Blood Urea Nitrogen)  
+  - Result: 9.4 mg/dL
+  - Unit: mg/dL
+  - Reference Interval: 6.00 - 20.00
+
+- **Test Name:** Uric Acid  
+  - Result: 4.3 mg/dL
+  - Unit: mg/dL
+  - Biological Method: Enzymatic, Colorimetric
+  - Reference Interval: 3.50 - 7.20
+
+- **Test Name:** Calcium Serum  
+  - Result: 8.6 mg/dL
+  - Unit: mg/dL
+  - Biological Method: Photometric
+  - Reference Interval: 8.80 - 10.80
+
+- **Test Name:** Sodium Serum  
+  - Result: 142 mmol/L
+  - Unit: mmol/L
+  - Reference Interval: 133.00 - 144.00
+
+- **Test Name:** Potassium Serum  
+  - Result: 5.1 mmol/L
+  - Unit: mmol/L
+  - Biological Method: IFCC
+  - Reference Interval: 3.40 - 5.10
+
+- **Test Name:** Chloride Serum  
+  - Result: 107 mmol/L
+  - Unit: mmol/L
+  - Reference Interval: 97.00 - 107.00
+
+**Interpretation:**  
+A kidney function test is a collective term for various individual tests that can be done to evaluate how well the kidneys are functioning. Many conditions can affect the ability of the kidneys to carry out their vital functions, leading to either acute or chronic decline in function.
+
+---
+
+#### Biochemistry - Liver Function Test (LFT)
+- **Test Name:** Total Bilirubin  
+  - Result: 15.5 mg/dL
+  - Unit: mg/dL
+
+- **Test Name:** Direct Bilirubin  
+  - Result: 1.8 mg/dL
+  - Unit: mg/dL
+
+- **Test Name:** Indirect Bilirubin  
+  - Result: 13.70 mg/dL
+  - Unit: mg/dL
+
+- **Test Name:** Alanine Transaminase (ALT/SGPT)  
+  - Result: 10 U/L
+  - Unit: U/L
+
+- **Test Name:** Aspartate Transaminase (AST/SGOT)  
+  - Result: 35 U/L
+  - Unit: U/L
+
+- **Test Name:** Alkaline Phosphatase (ALP)  
+  - Result: 214 U/L
+  - Unit: U/L
+
+- **Test Name:** Total Protein  
+  - Result: 5.2 g/dL
+  - Unit: g/dL
+
+- **Test Name:** Albumin  
+  - Result: 3.4 g/dL
+  - Unit: g/dL
+
+- **Test Name:** Globulin  
+  - Result: 1.8 g/dL
+  - Unit: g/dL
+
+- **A/G Ratio**  
+  - Result: 1.9
+  - Unit: 
+
+**Interpretation:** The results provide an overview of liver function, but further evaluation is necessary to determine the significance and underlying causes.
+
+---
+
+#### Biochemistry - Ammonia Test
+- **Test Name:** Ammonia  
+- **Result:** 86.0 μmol/L
+- **Unit:** μmol/L
+
+---
+
+#### Microbiology - Blood Culture and Sensitivity (Automated/VITEK, Blood)
+- **Test Name:** Culture and Sensitivity - Automated/VITEK, Blood
+- **Result:** PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+
+**Note:** The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color change caused by production. Microbial metabolism releases metabolic products, altering pH and changing the bottle sensor color from green to yellow. Bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+
+---
+
+**Printed on:** 28/06/2026 03:00  
+**Approved By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+
+---
+
+**Page:** 1 of 4  
+**Verified By:** Mr. Neelam Edukondu
+
+---
+
+#### Urine Examination (CUE)
+- **Test Name:** Complete Urinalysis
+- **Result:**
+  - Colour: Yellow
+  - Physical Appearance: Turbid
+  - Specific Gravity: 1.015
+  - pH Indicator: Potential of Hydrogen (PH) method, PH 6.0
+  - Glucose: Nil (Hexokinase)
+  - Protein: B+ (Reagent Strip method-Dia screen)
+  - Bilirubin: Positive + 
+  - Ketone: Nil (Rotheras)
+  - Blood: Nil (Absent)
+  - Leucocytes: Trace (01-05 /hpf Light Microscopy/Automate)
+  - Leucocyte Esterase: Nil
+  - Urobilinogen: Negative
+  - Nitrate: Negative
+  - Pus Cells: 6-8/hpf (01-05 /hpf Light Microscopy/Automate)
+  - Epithelial cells: 10-12/hpf (01-05 /hpf Light Microscopy/Automate)
+  - RBC's: Nil (Absent /hpf Light Microscopy/Automate)
+  - Crystals: Nil
+  - Casts: Nil
+
+**Interpretation:** A complete urinalysis is a test that examines the urine for various abnormalities. It can detect potential health issues, such as kidney disease or urinary tract infections.
+
+---
+
+**Printed on:** 28/06/2026 10:16  
+**Approved By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+
+---
+
+**Page:** 1 of 1  
+**Verified By:** Mr. Neelam Edukonduleh
+
+---
+
+#### Microbiology - Blood Culture and Sensitivity
+- **Test Name:** Culture and Sensitivity - Automated/VITEK, Blood
+- **Result:** PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+
+**Note:** The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color change caused by production. Microbial metabolism releases metabolic products, altering pH and changing the bottle sensor color from green to yellow. Bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+
+---
+
+**Printed on:** 30/06/2026 08:53  
+**Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+
+---
+
+**Page:** 1 of 1  
+**Verified By:** Dr. Gayatri Koride

@@ -1,0 +1,13 @@
+{
+  "patient_name": "pending_BO_VAGDEVI",
+  "stage": "llm",
+  "status": "completed",
+  "model": "gemma3:12b",
+  "workers": 1,
+  "total_ocr_batches": 6,
+  "normalizer_min_batch_characters": 15000,
+  "normalizer_max_batch_characters": 20000,
+  "total_batches": 2,
+  "complete_file": "pending_BO_VAGDEVI_llm_complete.txt",
+  "completed_at": "2026-08-11T13:31:22"
+}

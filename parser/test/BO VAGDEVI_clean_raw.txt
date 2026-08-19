@@ -1,0 +1,133 @@
+```json
+{
+    "patient_information": {
+        "patient_name": "B/O Vagadavi",
+        "uhid": null,
+        "ip_number": null,
+        "mr_number": null,
+        "gender": "Male",
+        "age": 4,
+        "date_of_birth": null,
+        "blood_group": null,
+        "consultant": null
+    },
+    "birth_details": {
+        "birth_weight": null,
+        "current_weight": null,
+        "discharge_weight": null,
+        "gestational_age": null,
+        "delivery_type": null,
+        "apgar_score": null,
+        "head_circumference": null,
+        "length": null
+    },
+    "admission": {
+        "admission_date": null,
+        "discharge_date": null,
+        "admission_reason": null,
+        "chief_complaints": [],
+        "provisional_diagnosis": [],
+        "final_diagnosis": []
+    },
+    "maternal_history": {
+        "mother_name": null,
+        "gravida": null,
+        "parity": null,
+        "antenatal_history": [],
+        "pregnancy_complications": []
+    },
+    "nicu_course": {
+        "respiratory_support": [],
+        "feeding_type": null,
+        "feeding_route": null,
+        "phototherapy": null,
+        "sepsis_screen": null,
+        "procedures": [],
+        "transfusions": []
+    },
+    "vitals": {
+        "temperature": [],
+        "heart_rate": [],
+        "respiratory_rate": [],
+        "spo2": [],
+        "blood_pressure": [],
+        "weight": []
+    },
+    "laboratory": {
+        "cbc": {
+            "hemoglobin": 15.6,
+            "packed_cell_volume": 49.8,
+            "mcv": 80.9,
+            "mch": 25.4,
+            "mchc": 31.4,
+            "rbc_count": 6.15,
+            "wbc_count": 9100,
+            "platelet_count": 183000,
+            "neutrophils": 68,
+            "lymphocytes": 24,
+            "eosinophils": 3,
+            "monocytes": 5,
+            "basophils": 0
+        },
+        "liver_function": {
+            "total_bilirubin": 15.5,
+            "direct_bilirubin": 1.8,
+            "indirect_bilirubin": 13.7,
+            "alt_sgpt": 10,
+            "ast_sgot": 35,
+            "alp": 214
+        },
+        "renal_function": {
+            "creatinine": 0.4,
+            "blood_urea": 20,
+            "bun": 9.4
+        },
+        "electrolytes": {
+            "ionic_calcium": 5.08
+        },
+        "blood_gas": {},
+        "microbiology": {
+            "blood_culture_and_sensitivity": {
+                "specimen_type": "Blood",
+                "result": "No bacterial growth seen after 24 hours of aerobic incubation."
+            }
+        },
+        "urine": {
+            "quantity": 20,
+            "color": "Yellow",
+            "appearance": "Turbid",
+            "specific_gravity": 1.015,
+            "pH": 6.0,
+            "glucose": "Nil",
+            "protein": "+ (BILIRUBIN)",
+            "ketone": "Nil",
+            "blood": "Absent",
+            "leucocytes": "Trace",
+            "pus_cells": 6,
+            "epithelial_cells": 10
+        },
+        "radiology": {},
+        "others": {}
+    },
+    "medications": [],
+    "daily_progress": [],
+    "screening": {
+        "hearing": null,
+        "rop": null,
+        "thyroid": null,
+        "pulse_ox": null,
+        "others": []
+    },
+    "discharge": {
+        "condition": null,
+        "feeding": null,
+        "medicines": [],
+        "follow_up": "Follow-up with clinical specialists as per need.",
+        "vaccinations": [],
+        "advice": [
+            "Repeated liver function tests and ammonia levels if symptoms persist.",
+            "Continuous monitoring of renal and hepatic functions."
+        ]
+    }
+}
+```

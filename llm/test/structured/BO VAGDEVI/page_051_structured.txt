@@ -1,0 +1,39 @@
+DOCUMENT INFORMATION
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/04
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 D
+
+ADMISSION DETAILS
+Adm Date: 27-06-2026 09:03 PM
+
+CONSULTATIONS
+Consult: Dr. Srinivas Murki
+
+NURSING DOCUMENTATION
+Name of the nurse / ID No. & Sign:
+ID No.: 2896/26
+
+CLINICAL OBSERVATIONS
+Born 4 days ago with 02 Support
+Baby is sound
+Vomit passed
+
+VITAL SIGNS
+Tf: 37°C, HR: 150/min.
+Condition at 10:00 PM
+
+MEDICATIONS
+Phenobarbitone
+Leveton BD
+Given as per medication line: Phenobarbitone
+Given as per medication line: Leveton BD
+
+NURSING DOCUMENTATION
+At 11:00 PM

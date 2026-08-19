@@ -1,0 +1,27 @@
+NICU DISCHARGE SUMMARY
+
+PATIENT AND BIRTH DETAILS
+-------------------------
+Patient Name: Ankura
+MR Number: 607289
+IP Number: 2558, LB26/2772
+Admission Date: June 15, 2026 at 12:19 PM
+Discharge Date: May 31, 2026 at 4:42 AM
+
+ADMISSION, ANTENATAL HISTORY AND DIAGNOSIS
+------------------------------------------
+**Reason for Admission:**
+
+The patient was admitted on June 15, 2026, at 12:19 PM. There are no details regarding symptom onset or outside-hospital findings prior to admission. No treatment before referral or reason for referral is documented.
+
+MORBIDITIES AND COURSE DURING NICU STAY
+---------------------------------------
+EMPTY
+
+CONDITION AT DISCHARGE
+-------------------------
+The patient demonstrated stable activity and had an intact sensorium. He remained seizure-free, with a stable respiratory status while tolerating room air. His haemodynamic and feeding statuses were adequate, and glucose levels were stable. Urine and stool output were normal, and temperature stability was maintained. There are no remaining concerns noted in the available documentation.
+
+FOLLOW-UP
+-------------------------
+EMPTY

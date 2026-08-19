@@ -1,0 +1,57 @@
+{
+    "Medication Name": [
+        "Antenatal Steroid",
+        "IVF 10% Dextrose in Ringer's solution",
+        "KCl",
+        "Inj. Phenobarbitone for maintenance dose",
+        "Inj. D21035 Optinevron",
+        "Inj. Taxim till cultures",
+        "Tab Pyridoxine 80 mg OD, stat given q.d.",
+        "Acetaminophen",
+        "Cardinal Syrup"
+    ],
+    "Dose": [
+        "Not Found",
+        "15 ml",
+        "3.5 ml/hr",
+        "5.5 mg",
+        "25 mg",
+        "105 mg",
+        "4 ml x 12",
+        "30 ml end bottle",
+        "Not Found"
+    ],
+    "Route": [
+        "Not Found",
+        "IV",
+        "Lev",
+        "I·V",
+        "PO",
+        "IV",
+        "PO",
+        "IV",
+        "Not Found"
+    ],
+    "Frequency": [
+        "Not Found",
+        "stat",
+        "q8h",
+        "q12h",
+        "qd",
+        "Not Found",
+        "q6h",
+        "Not Found",
+        "Not Found"
+    ],
+    "Duration": [
+        "Not Found",
+        "Not Found",
+        "Not Found",
+        "Not Found",
+        "Not Found",
+        "Not Found",
+        "Not Found",
+        "Not Found",
+        "Not Found"
+    ]
+}

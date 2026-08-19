@@ -1,0 +1,155 @@
+DOCUMENT INFORMATION
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+AHWC/IP/F/08
+Revision No.: 3
+Issue No.: 4
+
+PATIENT IDENTIFICATION
+Patient Name: B/O Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 Days
+MR No.:
+Current Weight:
+Name: Vagdevi
+Patient UHID NO: 162608635
+IPD NO: LB26/3007
+Age: Age: 4 Days
+Gender: Male
+Blood Group & Rh Type:
+Adm Date: 27-06-2026 09:03 PM
+
+VITAL SIGNS
+Time: 22/6/26
+Hours: po po po po A po po po po
+Minutes: 40 40 40 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45
+Temperature: 42.0
+Temperature: 41.5
+Temperature: 41.0
+Temperature: 40.5
+Temperature: 40.0
+Temperature: 39.5
+Temperature: 39.0
+Temperature: 38.5
+Temperature: 38.0
+Temperature: 37.5
+Temperature: 37.0
+Temperature: 36.5
+Temperature: 36.0
+Temperature: 35.5
+Temperature: 35.0
+Temperature: 34.5
+Temperature: 34.0
+Temperature: 33.5
+Temperature: 33.0
+Temperature: 32.5
+Temperature: 32.0
+Temperature: 31.5
+Temperature: 31.0
+Temperature: 30.5
+Temperature: 30.0
+Heart Rate: 105.8
+Heart Rate: 104.0
+Heart Rate: 102.0
+Heart Rate: 100.4
+Heart Rate: 98.6
+Heart Rate: 97.0
+Heart Rate: 95.0
+Heart Rate: 93.0
+Heart Rate: 91.0
+Heart Rate: 89.0
+Heart Rate: 87.0
+Heart Rate: 85.0
+Heart Rate: 83.0
+Heart Rate: 81.0
+Heart Rate: 79.0
+Heart Rate: 77.0
+Heart Rate: 75.0
+Heart Rate: 73.0
+Heart Rate: 71.0
+Heart Rate: 69.0
+Heart Rate: 67.0
+Heart Rate: 65.0
+Heart Rate: 63.0
+Heart Rate: 61.0
+Respiratory Rate: 42.0
+Respiratory Rate: 40.5
+Respiratory Rate: 39.0
+Respiratory Rate: 37.5
+Respiratory Rate: 36.0
+Respiratory Rate: 34.5
+Respiratory Rate: 33.0
+Respiratory Rate: 31.5
+Respiratory Rate: 30.0
+Respiratory Rate: 28.5
+Respiratory Rate: 27.0
+Respiratory Rate: 25.5
+Respiratory Rate: 24.0
+Respiratory Rate: 22.5
+Respiratory Rate: 21.0
+Respiratory Rate: 19.5
+Respiratory Rate: 18.0
+Respiratory Rate: 16.5
+Respiratory Rate: 15.0
+Respiratory Rate: 13.5
+Respiratory Rate: 12.0
+Respiratory Rate: 10.5
+Respiratory Rate: 9.0
+Respiratory Rate: 7.5
+SPO2: 100.4
+SPO2: 98.6
+SPO2: 97.0
+SPO2: 95.0
+SPO2: 93.0
+SPO2: 91.0
+SPO2: 89.0
+SPO2: 87.0
+SPO2: 85.0
+SPO2: 83.0
+SPO2: 81.0
+SPO2: 79.0
+SPO2: 77.0
+SPO2: 75.0
+SPO2: 73.0
+SPO2: 71.0
+SPO2: 69.0
+SPO2: 67.0
+SPO2: 65.0
+SPO2: 63.0
+SPO2: 61.0
+SPO2: 59.0
+SPO2: 57.0
+SPO2: 55.0
+Blood Pressure: 140/92
+Blood Pressure: 138/90
+Blood Pressure: 136/88
+Blood Pressure: 134/86
+Blood Pressure: 132/84
+Blood Pressure: 130/82
+Blood Pressure: 128/80
+Blood Pressure: 126/78
+Blood Pressure: 124/76
+Blood Pressure: 122/74
+Blood Pressure: 120/72
+Blood Pressure: 118/70
+Blood Pressure: 116/68
+Blood Pressure: 114/66
+Blood Pressure: 112/64
+Blood Pressure: 110/62
+Blood Pressure: 108/60
+Blood Pressure: 106/58
+Blood Pressure: 104/56
+Blood Pressure: 102/54
+Blood Pressure: 100/52
+Blood Pressure: 98/50
+Blood Pressure: 96/48
+Blood Pressure: 94/46
+
+FLUIDS AND INTAKE-OUTPUT
+Urine Output: -
+Urine Output: 2-132/0+25/+125wn13210s
+Urine Output: -
+
+CONSULTATIONS
+Consult: Dr. Srinivas Murki

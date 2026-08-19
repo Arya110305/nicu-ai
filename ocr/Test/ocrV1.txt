@@ -1,0 +1,141 @@
+import fitz
+import shutil
+import time
+from pathlib import Path
+from paddleocr import PaddleOCR
+
+# =====================================================
+# Folder Paths
+# =====================================================
+
+INPUT = Path("ocr/input")
+OUTPUT = Path("ocr/output")
+TEMP = Path("ocr/temp")
+
+OUTPUT.mkdir(exist_ok=True)
+TEMP.mkdir(exist_ok=True)
+
+# =====================================================
+# Load OCR Model
+# =====================================================
+
+print("=" * 50)
+print("Loading PaddleOCR Model...")
+print("=" * 50)
+
+start = time.time()
+
+ocr = PaddleOCR(
+    use_doc_orientation_classify=False,
+    use_doc_unwarping=False,
+    use_textline_orientation=False
+)
+
+print(f"OCR Loaded in {time.time()-start:.2f} seconds\n")
+
+# =====================================================
+# Find PDFs
+# =====================================================
+
+pdfs = list(INPUT.glob("*.pdf"))
+
+if not pdfs:
+    print("No PDFs found inside ocr/input/")
+    quit()
+
+# =====================================================
+# Process PDFs
+# =====================================================
+
+for pdf in pdfs:
+
+    print("=" * 50)
+    print(f"Processing : {pdf.name}")
+    print("=" * 50)
+
+    document = fitz.open(pdf)
+
+    total_pages = len(document)
+
+    final_text = ""
+
+    start_pdf = time.time()
+
+    # =================================================
+    # Process Every Page
+    # =================================================
+
+    for page_number in range(total_pages):
+
+        page_start = time.time()
+
+        # ----------------------------
+        # Add Page Marker
+        # ----------------------------
+
+        final_text += (
+            "\n"
+            "============================================================\n"
+            f"PAGE {page_number + 1}\n"
+            "============================================================\n\n"
+        )
+
+        page = document.load_page(page_number)
+
+        pix = page.get_pixmap(dpi=300)
+
+        image_path = TEMP / f"page_{page_number + 1}.png"
+
+        pix.save(image_path)
+
+        result = ocr.predict(str(image_path))
+
+        page_text = ""
+
+        for page_result in result:
+
+            texts = page_result.get("rec_texts", [])
+
+            for text in texts:
+                page_text += text.strip() + "\n"
+
+        final_text += page_text
+
+        elapsed = time.time() - page_start
+
+        print(
+            f"[{page_number+1}/{total_pages}] "
+            f"Completed "
+            f"({elapsed:.2f}s)"
+        )
+
+    # =================================================
+    # Save OCR Output
+    # =================================================
+
+    txt_path = OUTPUT / f"{pdf.stem}.txt"
+
+    with open(txt_path, "w", encoding="utf-8") as file:
+        file.write(final_text)
+
+    print("\nSaving Output...")
+
+    # =================================================
+    # Cleanup
+    # =================================================
+
+    print("Cleaning Temporary Files...")
+
+    shutil.rmtree(TEMP)
+    TEMP.mkdir(exist_ok=True)
+
+    total_time = time.time() - start_pdf
+
+    print(f"\nFinished {pdf.name}")
+    print(f"Pages      : {total_pages}")
+    print(f"Time Taken : {total_time:.2f} seconds")
+    print(f"Output     : {txt_path}")
+
+print("\n========================================")
+print("All PDFs Processed Successfully!")
+print("========================================")

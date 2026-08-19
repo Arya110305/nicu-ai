@@ -1,0 +1,45 @@
+# PATIENT INFORMATION
+
+Patient Name: B/O. Vagdevi  
+UHID: 162608635  
+IPD: LB26/3007  
+Gender: Male  
+Age: 4 days
+
+# ADMISSION DETAILS
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NURSING CARE PLAN
+MR No.:  
+Evaluation:  
+Signs:  
+Huddns:  
+Date: 09:41, 8th May 2023  
+
+Implementation:  
+As of:  
+Patient:  
+Weight: 980g (91%)  
+Age/Ex:  
+Diagnosis: Neonatal Jaundice (NNJ)  
+Respiratory Distress Syndrome (RDS)  
+Head Circumference (HC): 294 cm  
+Liver Function Test (LFT), Renal Function Test (RFT)  
+Upper Respiratory Infection (URI)  
+
+Planning:  
+Aims and Objectives:  
+Implementation Plan:  
+Nursing Care:  
+Administered:  
+Time: 09:41, 8th May 2023  
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+REVISION NO.: 3 | ISSUE NO.: 4  
+AHWC/IP/F/05
+
+# OTHER INFORMATION
+
+MR No.  
+Evaluation:  
+Signs:  
+Huddns:

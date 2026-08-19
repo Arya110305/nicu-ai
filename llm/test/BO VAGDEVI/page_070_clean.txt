@@ -1,0 +1,32 @@
+Patient Name: B/O Vagdevi UHID: 162608635 IPD: LB26/3007 Gender: Male Age: 4 Days
+
+Ankura Hospital for Women and Children
+VITALS MONITORING CHART
+
+MR No.: 
+Current Weight:
+Name: Vagdevi
+Patient UHID NO: 162608635
+Current Height:
+IPD NO: LB26/3007
+Age: Age: 4 Days Gender: Male
+Blood Group & Rh Type:
+Adm Date: 27-06-2026 09:03 PM
+
+| Time | 22/6/26 | 
+|------|--------|
+| Hours | po po po po A po po po po |
+| Minutes | 40 40 40 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 45 |
+| Temperature | 42.0 41.5 41.0 40.5 40.0 39.5 39.0 38.5 38.0 37.5 37.0 36.5 36.0 35.5 35.0 34.5 34.0 33.5 33.0 32.5 32.0 31.5 31.0 30.5 30.0 |
+| Heart Rate | 105.8 104.0 102.0 100.4 98.6 97.0 95.0 93.0 91.0 89.0 87.0 85.0 83.0 81.0 79.0 77.0 75.0 73.0 71.0 69.0 67.0 65.0 63.0 61.0 |
+| Respiratory Rate | 42.0 40.5 39.0 37.5 36.0 34.5 33.0 31.5 30.0 28.5 27.0 25.5 24.0 22.5 21.0 19.5 18.0 16.5 15.0 13.5 12.0 10.5 9.0 7.5 |
+| SPO2 | 100.4 98.6 97.0 95.0 93.0 91.0 89.0 87.0 85.0 83.0 81.0 79.0 77.0 75.0 73.0 71.0 69.0 67.0 65.0 63.0 61.0 59.0 57.0 55.0 |
+| Blood Pressure | 140/92 138/90 136/88 134/86 132/84 130/82 128/80 126/78 124/76 122/74 120/72 118/70 116/68 114/66 112/64 110/62 108/60 106/58 104/56 102/54 100/52 98/50 96/48 94/46 |
+| Urine Output | - 2-132/0+25/+125wn13210s - |
+
+Consult: Dr. Srinivas Murki
+Revision No.: 3
+Issue No.: 4
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+AHWC/IP/F/08

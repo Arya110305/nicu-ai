@@ -1,0 +1,77 @@
+{
+  "pdf_name": "BO VAGDEVI",
+  "page": 80,
+  "processing_time": 26.28,
+  "statistics": {
+    "words": 104,
+    "characters": 635,
+    "lines": 36,
+    "blocks": 36,
+    "numbers": 27
+  },
+  "confidence": {
+    "average": 97.42,
+    "minimum": 77.86,
+    "maximum": 100.0
+  },
+  "medical": {
+    "count": 13,
+    "fields": [
+      "Age",
+      "Central Line",
+      "Consultant",
+      "Diagnosis",
+      "GA",
+      "Gender",
+      "IP No",
+      "IPD",
+      "IV",
+      "MR No",
+      "Patient Name",
+      "UHID",
+      "Ventilator"
+    ]
+  },
+  "health": {
+    "score": 71.98,
+    "status": "★★★☆☆ Good"
+  },
+  "ocr_text": [
+    "Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D",
+    "NOSOCOMIAL INFECTION",
+    "ankura",
+    "9M",
+    "hospital",
+    "SUREILLANCE FORM",
+    "for women & chden",
+    "PATIENT DETAILS:",
+    "Name of the patieName : VAGADAVI",
+    "Age:",
+    "Sex:",
+    "UHIDNO:162608635",
+    "IPDNO:LB26/3007",
+    "MR no/IP no:",
+    "DOA:",
+    "Age : 4 D Gender : Male",
+    "Ward:",
+    "Consult: DR. SRINIVAS MURKI",
+    "Adm Date: 27-06-2026 09:03 PM",
+    "Consultant name:",
+    "Signs and symptoms:",
+    "Diagnosis:",
+    "Invasive devices Details:",
+    "Insertion date",
+    "Removal date",
+    "2716/26",
+    "1. IV cannula",
+    "2216126",
+    "2. Foley's catheter",
+    "28/6|26",
+    "3. Central line",
+    "Uvc",
+    "4. Ventilator",
+    "ANKURA HOSPITAL FOR WOMEN AND CHILDREN",
+    "REVISION NO.: 1 |ISSUE NO.: 2",
+    "AHWC HIC/F/13"
+  ]
+}

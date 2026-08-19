@@ -1,0 +1,133 @@
+SOURCE PAGE: PAGE_026
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+MEDICATIONS
+SIF ad lib 30ml Q2H, 1ml Q6+1
+IV fluids to be tapered and stopped
+IV phenobarbitone maintenance
+T. pyecidoxine till MRI report
+inj. Taxim (D415)
+syp calcimaxplus Q6H
+
+LABORATORY INVESTIGATIONS
+GRBS monitoring
+
+IMAGING
+MRI brain
+
+CLINICAL PLAN
+Monitor vitals
+
+SOURCE PAGE: PAGE_027
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+CLINICAL CONDITION
+Hypotonia
+MRI brain - [UNCERTAIN: Blawn]
+Vitals – stable
+Accepting feeds
+
+MEDICATIONS
+Taxim (D415)
+
+SOURCE PAGE: PAGE_028
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D 9M
+
+INTAKE AND OUTPUT
+Output - Urine passed
+
+WEIGHT
+Current weight: 2.26kg, 2.30[]
+
+MEDICATIONS
+Tanu'm D5-ABS
+
+LABORATORY INVESTIGATIONS
+GRNS: 94mgde
+
+SOURCE PAGE: PAGE_029
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male Age : 4 D 9M
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Preterm / small for gestational age
+Symptomatic hypoglycemia / Neonatal seizures
+
+BIRTH DETAILS
+Gestational age: 36 weeks
+
+VITAL SIGNS
+SpO2 - 86%
+HR - 120/mt
+
+MEDICATIONS
+Syp Cordial
+
+FLUIDS
+IV fluids stopped; on feeds only
+
+FEEDING AND NUTRITION
+On 8/F 30ml Q2H
+
+WEIGHT
+Current weight: 2.26 kg (40g ↓)
+
+LABORATORY INVESTIGATIONS
+Blood c/s - negative - y'day results
+
+MEDICATIONS
+Taxim
+
+SOURCE PAGE: PAGE_030
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male Age : 4 D 9M
+
+CLINICAL CONDITION
+No fever seizures
+No hypoglycemic episodes for 48 hours
+
+VITAL SIGNS
+HR - 113/min, SpO2 - 94%
+
+IMAGING
+MRI - on Feee Tff 021
+
+MEDICATIONS
+Syp. Cordial
+Syp. Calciplus
+BERA
+Neweeder +/U
+8 goo
+8mifo
+3 PReorline

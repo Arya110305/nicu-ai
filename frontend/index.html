@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>NICU AI</title>
+
+    <link
+        rel="stylesheet"
+        href="style.css"
+    >
+</head>
+
+<body>
+
+    <main class="page-shell">
+
+        <section class="app-card">
+
+            <div class="brand-block">
+                <div class="brand-icon">NICU</div>
+
+                <div>
+                    <h1>NICU AI</h1>
+
+                    <p>
+                        Generate a NICU discharge summary
+                        from one patient PDF.
+                    </p>
+                </div>
+            </div>
+
+
+            <section class="upload-section">
+
+                <label
+                    for="pdfInput"
+                    class="upload-box"
+                    id="uploadBox"
+                >
+
+                    <div class="upload-icon">
+                        ↑
+                    </div>
+
+                    <h2>
+                        Upload Patient PDF
+                    </h2>
+
+                    <p>
+                        Click here to choose one PDF file
+                    </p>
+
+                    <span id="selectedFileName">
+                        No file selected
+                    </span>
+
+                </label>
+
+                <input
+                    type="file"
+                    id="pdfInput"
+                    accept=".pdf,application/pdf"
+                    hidden
+                >
+
+                <button
+                    id="generateButton"
+                    class="primary-button"
+                    type="button"
+                    disabled
+                >
+                    Generate Discharge Summary
+                </button>
+
+            </section>
+
+
+            <section
+                id="progressSection"
+                class="progress-section hidden"
+            >
+
+                <div class="progress-header">
+                    <h2>Processing Patient Record</h2>
+
+                    <span id="progressPercent">
+                        0%
+                    </span>
+                </div>
+
+                <div class="progress-track">
+                    <div
+                        id="progressBar"
+                        class="progress-bar"
+                    ></div>
+                </div>
+
+                <div class="stage-list">
+
+                    <div
+                        class="stage-item"
+                        data-stage="upload"
+                    >
+                        <span class="stage-dot"></span>
+                        <span>Uploading PDF</span>
+                    </div>
+
+                    <div
+                        class="stage-item"
+                        data-stage="ocr"
+                    >
+                        <span class="stage-dot"></span>
+                        <span>OCR Processing</span>
+                    </div>
+
+                    <div
+                        class="stage-item"
+                        data-stage="structurer"
+                    >
+                        <span class="stage-dot"></span>
+                        <span>Structuring Clinical Data</span>
+                    </div>
+
+                    <div
+                        class="stage-item"
+                        data-stage="llm"
+                    >
+                        <span class="stage-dot"></span>
+                        <span>LLM Clinical Processing</span>
+                    </div>
+
+                    <div
+                        class="stage-item"
+                        data-stage="normalizer"
+                    >
+                        <span class="stage-dot"></span>
+                        <span>Normalizing Patient Record</span>
+                    </div>
+
+                    <div
+                        class="stage-item"
+                        data-stage="discharge"
+                    >
+                        <span class="stage-dot"></span>
+                        <span>Generating Discharge Summary</span>
+                    </div>
+
+                </div>
+
+                <p
+                    id="statusMessage"
+                    class="status-message"
+                >
+                    Waiting to begin.
+                </p>
+
+            </section>
+
+
+            <section
+                id="resultSection"
+                class="result-section hidden"
+            >
+
+                <div class="result-header">
+
+                    <div>
+                        <span class="success-badge">
+                            Completed
+                        </span>
+
+                        <h2>
+                            Discharge Summary Ready
+                        </h2>
+
+                        <p id="resultMessage">
+                            The patient record was processed successfully.
+                        </p>
+                    </div>
+
+                    <button
+                        id="newPatientButton"
+                        class="secondary-button"
+                        type="button"
+                    >
+                        Process Another Patient
+                    </button>
+
+                </div>
+
+                <div class="result-actions">
+
+                    <button
+                        id="viewSummaryButton"
+                        class="primary-button"
+                        type="button"
+                    >
+                        View Summary
+                    </button>
+
+                    <button
+                        id="downloadTextButton"
+                        class="secondary-button"
+                        type="button"
+                    >
+                        Download TXT
+                    </button>
+
+                </div>
+
+                <div
+                    id="summaryPanel"
+                    class="summary-panel hidden"
+                >
+
+                    <div class="summary-panel-header">
+                        <h3>Generated Discharge Summary</h3>
+
+                        <button
+                            id="closeSummaryButton"
+                            class="close-button"
+                            type="button"
+                            aria-label="Close summary"
+                        >
+                            ×
+                        </button>
+                    </div>
+
+                    <pre id="summaryContent"></pre>
+
+                </div>
+
+            </section>
+
+
+            <section
+                id="errorSection"
+                class="error-section hidden"
+            >
+
+                <h2>Processing Failed</h2>
+
+                <p id="errorMessage">
+                    An error occurred while processing the file.
+                </p>
+
+                <button
+                    id="retryButton"
+                    class="secondary-button"
+                    type="button"
+                >
+                    Try Again
+                </button>
+
+            </section>
+
+        </section>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>

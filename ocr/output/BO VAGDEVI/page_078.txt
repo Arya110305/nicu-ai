@@ -1,0 +1,65 @@
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+PERIPHERAL CANNULATION
+ankura
+9M
+hospital
+SHEET
+for women & children
+Patient Name:
+Name : VAGDEVI
+Age/Sex:
+D.O.A:
+UHID NO:162608635
+MR.No/IP.No:
+IPDNO:LB26/3007
+Department:
+Age : 4 D Gender : Male
+1" CANNULA:
+Consult: DR. SRINIVAS MURKI
+Sr. Rofi
+Adm Date: 27-06-2026 09:03 PM
+2≠1626 Time:
+Insertion Date:
+1mInserted by:
+Liglkt Hard
+Place of Insertion:
+24.4. Removal Date:
+Cannula size:
+Removed by:
+Reason:
+2nd CANNULA:
+Insertion Date:
+Time:
+Inserted by:
+Place of Insertion:
+Cannula size:
+Removal Date:
+Removed by:
+Reason:
+3d CANNULA:
+Insertion Date:
+Time:
+Inserted by:
+Place of Insertion:
+Cannula size:
+Removal Date:
+Removed by:
+Reason:
+IF PERIPHARAL VENOUS THERMBOPHLEBITIS:
+Thrombophlebitis identified on:
+Grade of Thrombophlebitis GRO / GR1 / GR2 / GR3 / GR4 / GR5 (Please Tick)
+INFLUSATE SOLUTION ON FLOW:
+Name of the Drug and Mg
+Name of the Fluids and Rate of on flow per Hour
+Note:
+GR0 - No Pain or Redness (observe the cannula)
+GR1 - Pain or Redness (observe the cannula)
+GR2 - Pain, erythema, swelling (resite the cannula)
+GR3 - Pain, erythema, swelling (resite and treatment)
+GR4 - Pain, erythema, induration, palpable venous cord (resite and treatment)
+GR5 - Pain, erythema, induration, palpable venous cord, pyrexia (resite and treatment)
+Name and sign:
+Date and Time:
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 1 |ISSUE NO.: 2
+AHWC/HIC/F/19

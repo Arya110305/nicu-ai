@@ -1,0 +1,94 @@
+DOCUMENT INFORMATION
+Patient Folder: BO VAGDEVI
+Source Page: page_098_clean.txt
+
+PATIENT IDENTIFICATION
+Patient Name : Baby of Vagdevi
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 Days
+
+MATERNAL AND ANTENATAL HISTORY
+(No information present on this page)
+
+BIRTH DETAILS
+(No information present on this page)
+
+ADMISSION DETAILS
+Bed No/Ward: IPD LB26/3007
+
+DIAGNOSES AND CLINICAL PROBLEMS
+(No information present on this page)
+
+CLINICAL OBSERVATIONS
+Peripheral Smear: RBC - Normocytic Normochromic Microscopic
+Peripheral Smear: WBC - Neutrophilia Microscopic
+Peripheral Smear: Platelet - Adequate Microscopic
+
+VITAL SIGNS
+(No information present on this page)
+
+RESPIRATORY SUPPORT
+(No information present on this page)
+
+FEEDING AND NUTRITION
+(No information present on this page)
+
+FLUIDS AND INTAKE-OUTPUT
+(No information present on this page)
+
+MEDICATIONS
+(No information present on this page)
+
+LABORATORY INVESTIGATIONS
+Lab No: 1646870
+Sample Date: 27/06/2026 10:35 PM
+Receiving Date: 28/06/2026 1:18 AM
+Report Date: 28/06/2026 3:03 AM
+Test Name: Haemoglobin (HB) Result: 15.6 Unit: g/dL Biological Method: Direct cyanmethaemoglobin method Reference Interval: 15.00 - 21.00
+Test Name: Packed Cell Volume (PCV) Result: 49.8 Unit: % Biological Method: Impedance/Calculate Reference Interval: 45.00 - 67.00
+Test Name: MCV Result: 80.9 Unit: fL Biological Method: Impedance/Calculate Reference Interval: 92.00 - 118.00
+Test Name: MCH Result: 25.4 Unit: pg Biological Method: Impedance/Calculate Reference Interval: 31.00 - 37.00
+Test Name: MCHC Result: 31.4 Unit: gm/dl Biological Method: Impedance/Calculate Reference Interval: 29.00 - 37.00
+Test Name: RBC Count Result: 6.15 × 10^6/uL Biological Method: Impedance Reference Interval: 4.00 - 6.60
+Test Name: WBC Count Result: 9,100 Unit: cells/cumm Biological Method: Impedance/Flowcytometry Reference Interval: 7,000.00-23,000.00
+Test Name: Platelet Count Result: 183,000 Unit: /mm3 Biological Method: Impedance Reference Interval: 160,000.00-500,000.00
+Test Name: Neutrophils Result: 68% Biological Method: Impedance/RBC Flowcytometry Reference Interval: 22.00 - 42.00
+Test Name: Lymphocytes Result: 24% Biological Method: Impedance/RBC Flowcytometry Reference Interval: 28.00 - 35.00
+Test Name: Eosinophils Result: 03% Biological Method: Impedance/Flowcytometry Reference Interval: 1.00 - 8.00
+Test Name: Monocytes Result: 05% Biological Method: Impedance/Flowcytometry Reference Interval: 4.00 - 7.00
+Test Name: Basophils Result: 00% Biological Method: Impedance/Flowcytometry Reference Interval: < 1.00
+
+IMAGING AND DIAGNOSTIC STUDIES
+(No information present on this page)
+
+PROCEDURES
+(No information present on this page)
+
+SCREENING
+(No information present on this page)
+
+DAILY PROGRESS
+(No information present on this page)
+
+NURSING DOCUMENTATION
+(No information present on this page)
+
+CONSULTATIONS
+Referred By: Dr. Srinivas Murki
+
+DISCHARGE INFORMATION
+(No information present on this page)
+
+FOLLOW-UP AND ADVICE
+(No information present on this page)
+
+UNCLASSIFIED CLINICAL TEXT
+Ankura Hospital for Women and Children
+LB Nagar Pvt Ltd
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad, Telangana, 500035
+Phone : 9053108108 Website : https://www.ankurahospitals.com Email : info@ankurahospital.com
+Report Approved By: Dr. B Roshini Sumalini MBBS, MD Pathology Consultant Pathologist
+Printed on 28/06/2026 03:00
+Page: 1 of 4

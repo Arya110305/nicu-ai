@@ -1,0 +1,87 @@
+DOCUMENT INFORMATION
+Requisition Form
+REVISION NO.:3 ISSUENO.:4
+AHWC/LAB/F/01
+
+PATIENT IDENTIFICATION
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007
+Gender : Male Age : 4 D
+Age/Sex: Male, 4 days
+Patient Name: Vagdevi
+MR No: 4 dy
+
+ADMISSION DETAILS
+Ward/Room No.:
+
+DIAGNOSES AND CLINICAL PROBLEMS
+Clinical Diagnosis & H/O Administration of Drugs:
+
+LABORATORY INVESTIGATIONS
+HEAMOGLOBIN/PATHOLOGY
+AFB For Culture & Sensitivity
+Complete Blood Picture (CBP)
+CSF Lactate
+PCV
+CSF Pyruvate
+HIV I & II (Rapid)
+Platelet Count
+HIV I & II (ELISA)
+Hemoglobin
+HbsAg
+Absolute Eosinophil Count (AEC)
+Peripheral Smear
+Hepatitis - A (IgM)
+Smear for MP
+Leptospira IgM
+Parasite V & F
+Weil Felix
+QBC
+HCV
+ESR (Erythrocyte Sedimentation Rate)
+Dengue IgG
+Blood Group & Rh Type
+Direct Coombs Test
+Dengue IgM
+Indirect Coombs Test
+Dengue NS1 Antigen
+Bleeding Time
+OTB PCR
+Clotting Time
+HSV-PCR
+Mantoux Test
+Complete Urine Examination (CUE)
+RA Factor
+Stool Routine Examination
+Rotavirus Antigen Defection
+CSF Cell Type & Count
+ASO
+Factor Assay
+Widal Test
+Anemia Profile
+TORCH Profile
+Triple Marker
+Urine Pregnancy Test (UPT)
+
+Microbiology
+Blood For Culture & Sensitivity
+Serum IgE
+New Born Screening
+Urine For Culture & Sensitivity
+Metabolic Screening
+Stool For Culture & Sensitivity
+Karotype Test
+Throat Swab For Culture & Sensitivity
+Syndrome Evaluation System (SES)
+CSF For Culture & Sensitivity
+
+INVESTIGATION FINDINGS
+1. CBP lRp: Rrr LF-9.
+Bloodels vo4, B/0od Group.
+2. Gram Stain
+Rns. D. Gle'um
+3. AFB Smear
+OVDRL
+
+DATE AND TIME INFORMATION
+Date & Time: 28/6/26
+Lab Sample Receiving Date & Time:

@@ -1,0 +1,83 @@
+### PATIENT INFORMATION
+
+**Patient Name:** B/O Vagdevi  
+**UHID:** 162608635  
+**IPD:** LB26/3007  
+**Gender:** Male  
+**Age:** 4 Days  
+
+---
+
+### LABORATORY
+
+#### Hematology
+- **Test Name:** Blood Grouping and RH Typing  
+  - **Result:**
+    - **Blood Group:** B  
+    - **RH TYPING:** Positive  
+  - **Comments / Interpretation:**
+    - Reconfirm the Blood Group & Rh Typing along with cross matching before blood transfusion.
+    - Recent blood transfusion, if any, interferes with interpretation of blood grouping.
+    - The blood group and Rh antigen may change in the new born, hence please repeat the test after 6 months.
+    - Subgroups and Bombay blood group needs to be further verified.
+
+- **Report Details:**
+  - **Patient Name:** Baby Of Vagdevi
+  - **Lab No:** 1646870  
+  - **UHID/IP No:** 162608635 / LB26/3007  
+  - **Sample Date:** 27/06/2026 10:35 PM
+  - **Age/Gender:** 4 Days/Male  
+  - **Receiving Date:** 28/06/2026 1:18 AM  
+  - **Bed No/Ward:** IPD  
+  - **Report Date:** 28/06/2026 3:03 AM  
+  - **Referred By:** Dr. Srinivas Murki
+  - **Report Status:** Final
+
+- **Reported By:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+
+#### Biochemistry
+- **Test Name:** Random Blood Glucose (RBS)  
+  - **Result:** 35 mg/dL  
+  - **Unit:** mg/dL  
+  - **Biological Method:** Hexokinase  
+  - **Ref. Interval:**
+    - Neonates (<1 day): <110 mg/dL
+    - Neonates (>1 day): 40-100 mg/dL
+    - Children: 60-150 mg/dL
+    - Adults: 60-140 mg/dL
+
+- **Interpretation:** 
+  - Normoglycemia (Random Plasma Glucose <140 mg/dl)
+  
+#### Microbiology
+- **Test Name:** Culture and Sensitivity - Automated/VITEK, Blood  
+  - **Result:** PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+  - **Biological Method:** Automated colorimetric microbial detection and identification by Vitek 2 compact.
+
+- **Note:**
+  - The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color change caused by production. Microbial metabolism releases metabolic products, altering pH and changing the bottle sensor color from green to yellow. The system monitors this change in real time; bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+
+- **Report Date:** 29/06/2026 8:16 AM  
+- **Referred By:** Dr. Srinivas Murki  
+- **Report Status:** Final  
+
+---
+
+**Printed on:** 30/06/2026 02:57
+- **Approved By:** Dr. Gayatri Koride, MBBS, MD (Microbiology), Consultant Microbiologist  
+- **Page:** 1 Of 1  
+- **Verified By:** Dr. Gayatri Koride  
+
+---
+
+### OTHER INFORMATION
+
+**Reported by:** Dr. B Roshini Sumalini, MBBS, MD Pathology, Consultant Pathologist  
+Printed on: 28/06/2026 03:00  
+Approved By: Dr. B Roshini Sumalini  
+Page: 4 of 4  
+Verified By: Mr. Neelam Edukondu
+
+---
+
+This structured format consolidates the relevant patient information and laboratory findings for a clear and organized record.

@@ -1,0 +1,56 @@
+DOCUMENT INFORMATION
+Patient Folder: BO VAGDEVI
+Source Page: page_104_clean.txt
+
+PATIENT IDENTIFICATION
+Patient Name : B/O Vagdevi UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+Patient Name: Baby Of Vagdevi
+UHID/IP No: 162608635 / LB26/3007
+
+ADMISSION DETAILS
+Bed No/Ward: NICU Ward
+
+LABORATORY INVESTIGATIONS
+Lab No: 1646879
+Sample Date: 28/06/2026 6:23AM
+Receiving Date: 28/06/2026 6:52AM
+Report Date: 28/06/2026 10:10AM
+Referred By: Dr. Srinivas Murki
+Report Status: Final
+
+CLINICAL PATHOLOGY
+COMPLETE URINE EXAMINATION (CUE)
+Test Name    Result        Unit       Biological Method   Ref. Interval
+Colour         Yellow
+Physical Appearance Turbid
+Specific gravity 1.015     0.000 - 1.035
+PH Indicators  Potential of Hydrogen (PH) 6.0 Reagent Strip Method
+Glucose        Nil           Hexokinase
+Protein        B+            Reagent Strip method-Dia screen
+Bilirubin      Positive +
+Ketone         Nil           Rotheras
+Blood          Nil           Absent
+Leucocytes     Trace
+Leucocyte Esterase Nil
+Urobilinogen   Negative      Fast Blue Color
+Nitrate        Negative
+Pus cells      6-8/hpf       01-05 /hpf Light Microscopy/Automate
+Epithelial cells 10-12/hpf    01-05 /hpf Light Microscopy/Automate
+RBC's          Nil           Absent /hpf Light Microscopy/Automate
+Crystals       Nil           Light Microscopy/Automated
+Casts          Nil           Light Microscopy/Automated
+
+OTHERS
+BACTERIA PRESENT
+
+IMAGING AND DIAGNOSTIC STUDIES
+Interpretation: A complete urinalysis is a test that examines the urine for various abnormalities. It can detect potential health issues, such as kidney disease, urinary tract infections, or excessive levels of waste products, even if symptoms are not present. Any abnormal results require further clinical evaluation to determine their significance and underlying cause.
+
+CONSULTATIONS
+Dr. B Roshini Sumalini  MBBS, MD Pathology Consultant Pathologist
+
+Printed on: 28/06/2026 10:16
+Approved By: Dr. B Roshini Sumalini
+Page: 1 of 1
+
+Verified By: Mr. Neelam Edukonduleh

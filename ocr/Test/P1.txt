@@ -1,0 +1,194 @@
+9M
+ankura
+ADMISSION RECORD
+hospital
+by ankuta hospital
+for women & children
+Birth & beyond
+Patient Movement Record
+Patient Movement (Shifting) information
+OP/ER/Special Room/NICU/PICU/OT
+Handed over by
+S.No
+Time
+Taken over by
+Date
+Shifted From
+Shifted to
+Remarks, if any
+-Staff Name & Sign
+-Staff Name & Sign
+1.
+15161261:30
+OP
+Socwjanua.
+Nicu
+Om
+Bhavai
+Bhavii.
+19/6/26
+2pm
+Yau
+2.
+FcR
+3.2116
+Shanay
+10pm
+Shancy
+FCR
+MICU
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 |ISSUE NO.: 4
+AHWC/IP/F/02
+NEONATAL INPATIENT
+9M
+ankura
+hospital
+MEDICAL RECORD
+by ankura hospital
+for women & children
+Birth & beyond
+Blo. N. Elkshaya
+MR No: 607-289
+IP No: 2558
+Patient Name:
+Consultant Name:Do. S. murk
+DOA & Time: 3115/2G
+DOD & Time: 4: 42am
+DOB/Gender: male
+Mother's Name:
+Father's/Guardian Name:
+Address:
+Phone No:
+Alternate No:
+REFERRAL DETAILS:
+Name:
+Tel. No:
+Place:
+PAYMENT TYPE:
+Cash
+Insurance
+Others:
+PATIENT MOVEMENT INFORMATION
+Time
+From
+To
+Date
+3115/26
+ER
+Niceee
+10:11am
+Admission Provisional Diagnosis:
+Final Diagnosis:
+Admission data entry:
+By
+[Capitals Only]
+Signature:
+Date & Time:
+REVISION NO.: 3|ISSUE NO.:4
+AHWC/NICU/IP/F/01
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NEONATAL INPATIENT
+9M
+ankura
+hospital
+MEDICAL RECORD
+by ankura hospital
+for women & children
+Birth & beyond
+Patient Name:
+MR No:
+IP No:
+Consultant NameName : N AKSHAYA
+DOA & Time:
+DOD & Time:
+UHIDNO:162607289
+DOB/Gender:
+IPDNO:LB26/2772
+Father's/Guardian Name:
+Age : 15 D Gender : Male
+Consult : DR. SRINIVAS MURKI
+Address:
+Adm Date:15-06-202612:19PM
+Phone No:
+Alternate No:
+REFERRAL DETAILS:
+Name:
+Tel. No:
+Place:
+PAYMENT TYPE:
+Cash
+Insurance
+Others:
+PATIENT MOVEMENT INFORMATION
+Time
+From
+To
+Date
+1516126
+OQ
+1:30Pm.
+NICU.
+19|6/26
+Niuu
+FcR.
+2pm
+Admission Provisional Diagnosis:
+Final Diagnosis:
+Admission data entry:
+By
+[Capitals Only]
+Signature:
+Date & Time:
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/NICU/IP/F/01
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+NEONATAL INPATIENT
+9M
+ankura
+hospital
+MEDICAL RECORD
+by ankura hospital
+for women & children
+Birth & beyond
+Patient Name:
+Blo. N. Elkshaya
+MR No: 607-289
+IP No: 2558
+Consultant Name:Do.S. murk?
+DOA &Time: 3115/2G
+DOD & Time: 牛: 42am
+DOB/Gender:
+male
+Mother's Name:
+Father's/Guardian Name:
+Address:
+Phone No:
+Alternate No:
+REFERRAL DETAILS:
+Name:
+Tel. No:
+Place:
+PAYMENT TYPE:
+Cash
+Insurance
+Others:
+PATIENT MOVEMENT INFORMATION
+Date
+Time
+From
+To
+3115/26
+Pick up.
+8.50pm..
+Nicece
+Admission Provisional Diagnosis:
+Final Diagnosis:
+Admission data entry:
+By
+[Capitals Only]
+Signature:
+Date & Time:
+REVISION NO.: 3|ISSUE NO.: 4
+AHWC/NICU/IP/F/01
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN

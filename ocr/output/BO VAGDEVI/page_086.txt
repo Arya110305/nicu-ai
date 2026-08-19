@@ -1,0 +1,202 @@
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+BILLING RECORD
+ankura
+9M
+hospital
+Patient Name: Rlo. vagdcvi
+MR. No.: 162608625
+Doctor's Name: Dr. S. mur C S11
+Ward /Room No. Nt
+Age / Gender:
+4Days1
+Date & Time: 28|612C
+S.No
+PROCEDURES
+Morning shift
+Evening Shift
+Night Shift
+S. No.
+LAB INVESTIGATIONS, Specify
+Morning shift
+Evening Shift Night Shift
+
+1
+Arterial Line Insertion
+1
+Amonia
+2
+Ascitic Tap
+2
+Urine for els
+3
+Bone Marrow Aspiration
+3
+Eea
+4
+Central Line Insertion
+4
+5
+CPR
+5
+6
+CVP line Insertion
+6
+7
+Dressing Minor/Medium/Major/Special
+RADIOLOGY INVESTIGATIONS
+x-eay
+8
+Emergency/Elective Intubation
+1
+J
+9
+Foleys Catherization
+2
+10
+HD Cathter
+3
+11
+Hemodialysis
+4
+12
+ICD Insertion
+CROSS CONSULTATION
+13
+IV Cannulation
+1
+14
+Lumbar Drain insertion
+2
+15
+Lumbar Puncture
+3
+16
+Tracheostomy
+4
+17
+Nebulization
+5
+18
+PICC line Insertion
+BEDSIDE EQUIPMENTS
+Start
+Stop
+Start
+Stop
+Start
+Stop
+19
+Pigtail Catheter
+1
+Alpha Matress/DVT Pump
+20
+Plueral Tap
+2
+Body warmer
+—
+CNT
+一
+21
+Ryles Tube Insertion
+3
+BIPAP
+22
+Sedation Anesthesia
+4
+CPAP
+23
+Surfactant Administration.
+5
+NST/CTG/Fetal Monitoring
+24
+6
+#
+Tracheostomy Decannulation
+Infusion/Syringe Pump
+ONT
+一
+25
+Tracheostomy Tube Change
+7
+PhototherapySSPT
+CNT
+26
+1
+8
+Oxygen Charges
+CNT
+8A0
+Umblical Catheterisation.
+27
+Ventricular Tapping
+9
+Ventillator Charges
+28
+ABG (Arterial Blood Gas Analysis)
+10
+Monitor charges
+J
+CNT
+J
+11
+29
+GRBS (Blood Glucose by Glucometer).
+CONSULTATION
+Morning shift
+Evening Shift
+Night Shift
+30
+ECG-12 Lead
+1
+Doctors Visit
+1
+J
+J
+31
+Urine Sugar/Ketone (Rato Strips/Albumin)
+2
+Physiotherapy
+32
+Blood Transfusions
+3
+Diet
+Others
+Morning shift
+Evening Shift
+Night Shift
+4
+OT Charges
+5
+Transfer IN/OUT
+OTHERS
+Morning shift
+Evening Shift
+Night Shift
+1
+2
+3
+4
+Refe
+shany
+Name of Nursing staff
+Anasuep
+Name of PCC/Billing staff (Recieving Staff)
+Dmp
+&4
+可
+Signature
+Signature
+2634
+10636
+Employee ID
+12277
+Employee ID
+Note: Nurse must update the sheet after each procedure
+Nurses must sign (Shift wise) once the details are completely filled in the billing Activity Sheet
+Name of the Staff Handing Over
+One copy of billing activity sheet must be sent to billing department daily before 8.00 am by concerned Nursing staff
+Signature
+Daily updation of patient bills in HIMS by billing staff must be done
+Final verification of bill from the file at the time of discharge must be done
+Employee ID
+AHWC/IP/F/17

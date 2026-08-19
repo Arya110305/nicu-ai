@@ -1,0 +1,42 @@
+# PATIENT INFORMATION
+
+Patient Name: B/O. Vagdevi
+UHID: 162608635
+IPD: LB26/3007
+Gender: Male
+Age: 4 Days
+
+---
+
+# NURSING NOTES
+
+**Nurses' Note**
+
+Adm Date: 27-06-2026 09:03 PM  
+Consult: Dr. Srinivas Murki  
+
+HR: 142/min  
+SpO2: 95%  
+Temp: 36.2°C  
+BP: 74/86 mmHg  
+RR: 20 breaths/min  
+
+Notes:
+- Warm
+- Vomited twice
+- Battles for feeds
+- Clubbed fingers
+
+---
+
+Room No.:  
+Overnight Nurse: Verde  
+Shift Start: 8 AM  
+Shift End: 4 PM  
+
+---
+
+**REVISION NO.: 3 | ISSUE NO.: 4**
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN  
+AHWC/IP/F/04

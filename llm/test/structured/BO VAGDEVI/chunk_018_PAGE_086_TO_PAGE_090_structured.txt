@@ -1,0 +1,239 @@
+SOURCE PAGE: PAGE_086
+DOCUMENT TYPE: BILLING RECORD
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+PROCEDURES
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+LAB INVESTIGATIONS
+Morning shift: Amonia, Urine for els, Eea
+Evening shift: Amonia, Urine for els, Eea
+Night shift: Amonia, Urine for els, Eea
+
+RADIOLOGY INVESTIGATIONS
+x-ray
+
+CROSS CONSULTATION
+None documented.
+
+BEDSIDE EQUIPMENTS
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+CONSULTATION
+Morning shift: Doctors Visit
+Evening shift: Doctors Visit
+Night shift: Doctors Visit
+
+NURSING DOCUMENTATION
+Name of Nursing staff: Anasuep
+Signature: [UNCERTAIN: signature]
+Employee ID: 12277
+
+PCC/Billing Staff
+Name: Dmp
+Signature: [UNCERTAIN: signature]
+Employee ID: 2634
+
+SOURCE PAGE: PAGE_087
+DOCUMENT TYPE: BILLING RECORD
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+PROCEDURES
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+LAB INVESTIGATIONS
+Morning shift: None documented
+Evening shift: None documented
+Night shift: None documented
+
+RADIOLOGY INVESTIGATIONS
+None documented
+
+CROSS CONSULTATION
+xicurologist apnian, Lone, NSG done.
+
+BEDSIDE EQUIPMENTS
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+CONSULTATION
+Morning shift: Doctors Visit
+Evening shift: Doctors Visit
+Night shift: Doctors Visit
+
+NURSING DOCUMENTATION
+Name of Nursing staff: Shanuy uol
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+PCC/Billing Staff
+Name: or
+Signature: [UNCERTAIN: signature]
+Employee ID: 16836
+
+SOURCE PAGE: PAGE_088
+DOCUMENT TYPE: BILLING RECORD
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+Name: VAGDEVI
+UHIDNO: 162608635
+IPDNO: LB26/3007
+MR. No.: 08635
+Age: 4 D
+Gender: Male
+Ward / Room No. 101W
+Consult : DR. SRINIVAS MURKI
+Adm Date: 27-06-2026 09:03 PM
+
+PROCEDURES
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+LAB INVESTIGATIONS
+Morning shift: None documented
+Evening shift: None documented
+Night shift: None documented
+
+RADIOLOGY INVESTIGATIONS
+None documented
+
+CROSS CONSULTATION
+MRI done
+
+BEDSIDE EQUIPMENTS
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+CONSULTATION
+Morning shift: Doctors Visit
+Evening shift: Doctors Visit
+Night shift: Doctors Visit
+
+NURSING DOCUMENTATION
+Name of Nursing staff: Qo Shancey
+Signature: [UNCERTAIN: signature]
+Employee ID: 2u61
+
+PCC/Billing Staff
+Name: 3
+Signature: [UNCERTAIN: signature]
+Employee ID: 2634
+
+SOURCE PAGE: PAGE_089
+DOCUMENT TYPE: BILLING RECORD
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+Name : VAGDEVI
+UHID NO: 162608635
+MR. No.: 08635
+Patient Name
+Doctor's
+IPDNO:LB26/3007
+Ward /Room No. N
+Age / Gen
+Age: 4 D Gender : Male
+Date & Time: 1107(268comt089
+Consult : DR. SRINIVAS MURKI
+Adm Date: 27-06-2026 09:03 PM
+
+PROCEDURES
+Morning shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Evening shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+Night shift: Arterial Line Insertion, Ascitic Tap, Bone Marrow Aspiration, Central Line Insertion, CPR, CVP line Insertion, Dressing Minor/Medium/Major/Special, Emergency/Elective Intubation, Foleys Catherization, HD Cathter, Hemodialysis, ICD Insertion, IV Cannulation, Lumbar Drain insertion, Lumbar Puncture, Tracheostomy, Nebulization, PICC line Insertion, Pigtail Catheter, Plueral Tap, Ryles Tube Insertion, Sedation Anesthesia, Surfactant Administration.
+
+LAB INVESTIGATIONS
+Morning shift: None documented
+Evening shift: None documented
+Night shift: None documented
+
+RADIOLOGY INVESTIGATIONS
+None documented
+
+CROSS CONSULTATION
+None documented
+
+BEDSIDE EQUIPMENTS
+Start: Alpha Matress/DVT Pump, Body warmer, CNT
+Stop: Alpha Matress/DVT Pump, Body warmer, CNT
+
+CONSULTATION
+Morning shift: Doctors Visit
+Evening shift: Doctors Visit
+Night shift: Doctors Visit
+
+NURSING DOCUMENTATION
+Name of Nursing staff: 
+Signature: [UNCERTAIN: signature]
+Employee ID: 
+
+PCC/Billing Staff
+Name: B
+Signature: [UNCERTAIN: signature]
+Employee ID: 
+
+SOURCE PAGE: PAGE_090
+DOCUMENT TYPE: REQUISITION FOR MICROBIOLOGY & IMMUNO-SEROLOGY
+
+PATIENT IDENTIFICATION
+Patient's Name: Blo Vaedevi
+Age: [UNCERTAIN: age]
+Sex: male
+Date: 28l6626
+UHID NO: 162608635
+IP NO/OP NO: UB 26(300)
+
+SPECIMEN DETAILS
+Nature of Specimen: Bloodls
+Previous Culture No/Date: None documented
+
+CLINICAL INFORMATION
+Clinical details (Brief history): required with Antibiotic history
+Physical findings: None documented
+Other pertinent/specialized investigations: None documented
+
+RISK STRATIFICATION
+Patient Type-1 (CAI)
+Patient Type-2 (HAI)
+Patient Type-3 (NI)
+No contact with health care system
+Contact with health care system (e.g. Long hospitalization and or invasive procedures)
+Recent hospital admission, nursing home, dialysis without invasive procedure
+No prior antibiotic
+Recent antibiotic therapy
+Recent & multiple antibiotic therapies
+
+PATIENT CHARACTERISTICS
+cystic fibrosis, structural lung disease, advanced AIDS, neutropenia, other severe immunodeficiency.
+
+SIGNATURE
+Signature of the Doctor: [UNCERTAIN: signature]

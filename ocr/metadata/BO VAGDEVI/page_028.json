@@ -1,0 +1,67 @@
+{
+  "pdf_name": "BO VAGDEVI",
+  "page": 28,
+  "processing_time": 25.24,
+  "statistics": {
+    "words": 87,
+    "characters": 487,
+    "lines": 30,
+    "blocks": 30,
+    "numbers": 21
+  },
+  "confidence": {
+    "average": 92.34,
+    "minimum": 73.1,
+    "maximum": 100.0
+  },
+  "medical": {
+    "count": 9,
+    "fields": [
+      "Age",
+      "Gender",
+      "IM",
+      "IPD",
+      "IV",
+      "MR No",
+      "Patient Name",
+      "Progress Notes",
+      "UHID"
+    ]
+  },
+  "health": {
+    "score": 60.47,
+    "status": "★★☆☆☆ Review"
+  },
+  "ocr_text": [
+    "Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D",
+    "9M",
+    "ankura",
+    "PROGRESS NOTES",
+    "hospital",
+    "8/0 vagdev:",
+    "162608635",
+    "Patient Name:",
+    "MR No.:",
+    "DATE&TIME",
+    "PROGRESS NOTES",
+    "NAME & SIGN",
+    "PAIN SCORE:",
+    "(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)",
+    "Datc:÷1/7f26",
+    "Dedy",
+    "DoL",
+    "To take : - S/r adlb",
+    "Output ! - Unices paned",
+    "T.wt?—2.26kg",
+    "2.30[]",
+    "ywt:—",
+    "∴-Dy! Tanu'm D5-",
+    "ABS",
+    "4 tive passed",
+    "St001",
+    "GRNS:- 94mgde",
+    "ANKURA HOSPITAL FOR WOMEN AND CHILDREN",
+    "REVISION NO.: 3 | ISSUE NO.: 4",
+    "AHWC/IP/F/10"
+  ]
+}

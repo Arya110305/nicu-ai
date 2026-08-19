@@ -1,0 +1,30 @@
+SOURCE PAGE: PAGE_106
+DOCUMENT TYPE: LABORATORY INVESTIGATIONS
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. VAGDEVI
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 D
+
+DOCUMENT INFORMATION
+Lab No : 1646870
+Sample Date : 27/06/2026 10:35PM
+Receiving Date : 28/06/2026 10:37AM
+Report Date : 29/06/2026 8:16AM
+Referred By : Dr. Srinivas Murki
+Report Status : Final
+Page: 1 Of 1
+Printed on : 30/06/2026 08:53
+
+LABORATORY INVESTIGATIONS
+Test Name : CULTURE AND SENSITIVITY - AUTOMATED/VITEK, BLOOD
+Specimen Type : BLOOD
+Culture Result : PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+Note : The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color change caused by production. Microbial metabolism releases , altering pH and changing the bottle sensor color from green to yellow. The system monitors this change in real time; bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+
+CONSULTATIONS
+Consultant Microbiologist : Dr. GAYATRI KORIDE, MBBS, MD (Microbiology)
+Verified By : Dr. GAYATRI KORIDE
+Approved By : Dr. GAYATRI KORIDE

@@ -1,0 +1,32 @@
+DOCUMENT INFORMATION
+Revision No.: 3 | Issue No.: 4
+AHWC/IP/F/04
+
+PATIENT IDENTIFICATION
+Patient Name : B/O. Vagdevi
+UHID : 162608635
+IPD : LB26/3007
+Gender : Male
+Age : 4 days
+Name: Vagdevi
+UHID NO.: 162608635
+IPD NO.: LB26/3007
+Age : 4 days, Gender : Male
+
+ADMISSION DETAILS
+Adm Date : 27-06-2026 09:03 PM
+
+VITAL SIGNS
+AR: 12/8 ppg 85 bpm
+SpO2: 95%
+HR: 109 bpm
+Resp: 24 breaths/min
+
+CLINICAL OBSERVATIONS
+Baby is crying and feeding well.
+No seizures noted.
+
+
+
+NURSING DOCUMENTATION
+Nurse on Duty: [ID No. & Sign]
