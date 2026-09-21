@@ -1,0 +1,339 @@
+NICU DISCHARGE SUMMARY
+======================
+
+**PATIENT AND BIRTH DETAILS**
+
+Patient Name: B/O. N Akshaya
+Baby Of / B/O Name: N Akshaya
+UHID: 162607289
+IP Number: LB26/2772
+Date of Birth: 31/5/2026
+Age: 15 days
+Admission Date: 31/5/2026
+Admission Time: 4:42 am
+Discharge Date: Not documented.
+Discharge Time: Not documented.
+Sex: Male
+Referring Hospital: Not documented.
+Referring Doctor: Not documented.
+Inborn / Outborn status: Inborn
+Birth Weight: 1.66 kg
+Admission Weight: Not documented.
+Discharge Weight: 1.76 kg (27/06/2026)
+Current Weight: Not documented.
+Length: Not documented.
+Head Circumference: Not documented.
+Blood Group: O
+Rh Typing: Positive
+
+**ANTENATAL AND PERINATAL HISTORY**
+
+Limited information available.
+
+**Antenatal History:** Limited information available.
+
+**Perinatal History:** Mode of delivery: PPROM (Premature rupture of membranes). Delivery indication: PPROM (Premature rupture of membranes).
+
+**HISTORY OF PRESENT ILLNESS / REASON FOR ADMISSION**
+
+The patient, a male infant born on May 31, 2026, was admitted on June 15, 2026, at 12:19 PM for respiratory distress and apnea. Repeated admissions for respiratory issues are documented. The initial admission occurred on May 31, 2026, at 10:11 AM, with the reason for admission documented as PT, LBW, RDS (Premature, Low Birth Weight, Respiratory Distress).
+
+**OUTSIDE-HOSPITAL MANAGEMENT**
+
+Limited information available.
+
+**ADMISSION EXAMINATION**
+
+On May 31, 2026, at 4:42 am, the infant presented with respiratory distress. Initial vital signs included a temperature of 86.6°C, heart rate of 148 beats per minute, and SpO2 of 95%. On June 15, 2026, at 12:19 PM, the infant was alert and age-appropriate, with stable vital signs. Weight was 1.76 kg on June 27, 2026.
+
+**DIAGNOSES / CLINICAL PROBLEMS**
+
+*   Suspected Sepsis
+*   Respiratory Distress Syndrome (RDS)
+*   Prematurity
+*   PT (Prematurity)
+*   RD (Respiratory Distress)
+*   ROS (Right Occiput Posterior)
+
+**MORBIDITIES AND COURSE DURING NICU STAY**
+
+**Respiratory Distress Syndrome (RDS) and Apnea**
+
+The patient, born on 31/05/2026, was admitted on 15/06/2026 with respiratory distress and apnea. Initial examination revealed a heart rate of 156 bpm, oxygen saturation of 94%, and respiratory rate of 59 breaths per minute. Respiratory support was initiated with CPAP (6/25%) and Nimby ventilation with radiant warm care and IV fluids. Intermittent hypoxemia was noted, accompanied by cyanosis and bradycardia. A loading dose of caffeine granules was administered on 21/06/2026 in response to apnea episodes. Dr. Lowanyrman was consulted regarding cautious apnea management. Respiratory support was transitioned to CPAP. The patient demonstrated recent improvement. Oral feeds were initiated. The patient was initially placed on Nimby ventilator under radiant warm care with IVF.
+
+**Suspected Sepsis**
+
+The patient was initially admitted with suspected sepsis. Amikacin was administered daily. CRP was initially 0.2 mg/L on 31/05/2026, later rising to 4.6 mg/L on 01/06/2026. TLC was 17,500. Blood cultures were drawn. Antibiotics were continued based on clinical suspicion. The reason for stopping amikacin is not explicitly documented.
+
+**Hypoglycemia**
+
+The patient experienced hypoglycemia, with a random blood glucose of 32 mg/dL documented at the referring hospital prior to transfer. Glucose levels were monitored regularly, with a GRBS of 86 mg/dL documented on 31/05/2026 and 01/06/2026. TF (Total Fluid) was administered at a rate of 10-12 mg/kg every 2 hours. Oral caffeine was administered.
+
+**Feeding Difficulty**
+
+The patient initially received feeds every 2 hours (10-12 ml). Acyplig feed was administered on demand, along with SpF (specify). Spoon feeds and HMF (specify) were also given. 3.1 NaCl alternate feeds were provided. Oral caffeine was administered. The patient was initially NPO. Feeding progression was documented, with gradual increases in volume and frequency.
+
+**Temperature Instability**
+
+The patient experienced fluctuating temperatures, documented as 42.0, 41.5, and 36.5°C. This prompted monitoring and appropriate interventions.
+
+**Neurological Course**
+
+The patient experienced one episode of apnea. A loading dose of caffeine granules was administered. Neurological status was monitored throughout the admission.
+
+**Medications**
+
+*   Azithromycin 0.8 ml od (started 31/05/2026)
+*   Flunixin meglumine 0.8 ml bd (started 31/05/2026)
+*   Amikacin (start date not specified)
+*   Caffeine granules (loading dose administered on 21/06/2026)
+*   Oral Caffeine (7 mg given at 8 am on June 15, 2026 and subsequent days)
+*   Syrup (specific name not documented)
+*   Fluvir. Azee (specific dates not documented)
+*   Crocin drops 0.5 ml (June 16, 2026)
+*   Vit D3 drops
+*   INJ TAXIN 80 mg IV twice daily
+*   INJ CALCIUM GLUCONATE 3 ml + 3 ml IV twice daily (stopped daily)
+*   INJ PARACETAMOL 1.7 ml IV once daily
+*   INJ PIPETA 170 mg IV twice daily
+*   IV Caffeine 0.4 ml daily
+
+**INVESTIGATIONS**
+
+**Complete Blood Picture (CBC):**
+
+*   Hb%: 16.0 (date unspecified), 17.0 (date unspecified)
+*   PCV/HCT: 47.4 (date unspecified), 52.5 (date unspecified)
+*   Total leukocyte count: 17,500 (date unspecified), 8000 (date unspecified)
+*   RBC Count: 5.0 (date unspecified)
+*   Platelet count: 343,000 (date unspecified), 345,000/mm3 (date unspecified)
+
+**Inflammatory Markers:**
+
+*   CRP: 0.2 mg/L (date unspecified), 4.6 mg/L (01/06/2026), 4.30 mg/L (June 3, 2026), 0.07 mg/L (May 31, 2026, 10:30 AM)
+
+**Renal Function:**
+
+*   Urea: 13.9 (date unspecified)
+*   Creatinine: 0.1 (date unspecified)
+*   Creatinine - Serum: 0.41 mg/dL (June 1, 2026)
+*   Blood Urea: 13.9 L (June 1, 2026)
+*   Blood Urea Nitrogen (BUN): 6.4 mg/dL (June 1, 2026)
+
+**Electrolytes:**
+
+*   Sodium: 139 (date unspecified), 136 (date unspecified)
+*   Potassium: 5.0 (date unspecified)
+*   Chloride: 105 (date unspecified)
+*   Calcium: 9.3 (date unspecified)
+*   Phosphorus: 4.94 (date unspecified)
+*   Ionic Calcium: 4.94 mg/dL (June 3, 2026)
+*   Sodium Serum: 143 mmol/L (June 3, 2026)
+*   Potassium Serum: 5.9 mmol/L (June 3, 2026)
+*   Chloride Serum: 102 mmol/L (June 3, 2026)
+*   Calcium Serum: 11.0 mg/dL (June 2, 2026)
+
+**Liver Function:**
+
+*   Total bilirubin: 3.2 (date unspecified), 5.8 (date unspecified)
+*   Direct bilirubin: 0.3 (date unspecified), 1.0 (date unspecified)
+*   Indirect bilirubin: 2.9 (date unspecified), 5.8 (date unspecified)
+*   AST: 55-60 (date unspecified)
+*   ALT: 4.6 (date unspecified)
+*   ALP: 327.8 (date unspecified)
+*   GGT: 6.33 (date unspecified)
+
+**Blood Gas:**
+
+*   pH: 7.24 (date unspecified)
+*   pCO2: 27.8 mmHg (date unspecified)
+*   pO2: 69.3 mmHg (date unspecified)
+*   HCO3: (date unspecified)
+*   Base excess: (date unspecified)
+*   Lactate: (date unspecified)
+
+**Glucose Monitoring:**
+
+*   Glucose (GRBS): 86 mg/dL (31/05/2026 & 01/06/2026)
+
+**Metabolic Investigations:**
+
+*   Ammonia: (date unspecified)
+*   Lactate: (date unspecified)
+
+**Microbiology:**
+
+*   Blood Culture: No bacterial growth after 24 hours (date unspecified)
+*   Urine Culture: (date unspecified)
+*   CSF Studies: CSF Lactate (Requested), CSF Pyruvate (Requested), CSF Cell Type & Count (Requested)
+
+**Urine Examination:**
+
+*   Appearance: Clear (date unspecified)
+*   Protein: (date unspecified)
+*   Glucose: (date unspecified)
+*   Ketones: (date unspecified)
+*   Pus cells: 3-4/hpf (date unspecified)
+*   RBCs: (date unspecified)
+*   Bacteria: (date unspecified)
+
+**Imaging:**
+
+*   Chest X-ray: (date unspecified)
+*   Abdominal ultrasound: (date unspecified)
+*   Echocardiography: (date unspecified)
+*   MRI Brain: (date unspecified)
+*   NSG: (date unspecified)
+
+**EEG / Neurodiagnostics:**
+
+*   EEG: (date unspecified)
+
+**Screening Tests:**
+
+*   TORCH Profile (Requested)
+
+**Other Investigations:**
+
+*   Hepatitis - A (IgM) (Requested)
+*   Smear for MP (Requested)
+*   Leptospira IgM (Requested)
+*   Parasite V & F (Requested)
+*   Weil Felix (Requested)
+*   QBC (Requested)
+*   HCV (Requested)
+*   ESR (Erythrocyte Sedimentation Rate) (Requested)
+*   Dengue IgG (Requested)
+*   Blood Group & Rh Type (Requested)
+*   Direct Coombs Test (Requested)
+*   Dengue IgM (Requested)
+*   Indirect Coombs Test (Requested)
+*   Dengue Ns1 Antigen (Requested)
+*   Bleeding Time (Requested)
+*   TB PCR (Requested)
+*   Clotting Time (Requested)
+*   HSV-PCR (Requested)
+*   Complete Urine Examination (CUE) (Requested)
+*   Mantoux Test (Requested)
+*   RA Factor (Requested)
+*   Stool Routine Examination (Requested)
+*   Rotavirus Antigen Defection (Requested)
+*   ASO (Requested)
+*   Factor Assay (Requested)
+*   Widal Test (Requested)
+*   Anemia Profile (Requested)
+*   Triple Marker: CBP, CRP (Requested)
+*   Urine Pregnancy Test (UPT) (Requested)
+*   Sr. Calcium (Requested)
+*   Gram Stain (Requested)
+
+**PROCEDURES AND INTERVENTIONS**
+
+*   Peripheral IV cannulation: Date unspecified
+*   UVC insertion: By Dr. Tejasree (May 31, 2026)
+*   UAC insertion: Date unspecified
+*   PICC insertion: Date unspecified
+*   Foley catheterization: Date unspecified
+*   NG / OG tube insertion: Date unspecified
+*   Intubation: Date unspecified
+*   Mechanical ventilation: Date unspecified
+*   CPAP: Started (date unspecified), Flow 6/25%, FiO2 20% (June 15, 2026), Transitioned to CPAP.
+*   HFNC: Date unspecified
+*   LFNC: Date unspecified
+*   Phototherapy: Date unspecified
+*   Blood transfusion: Date unspecified
+*   Platelet transfusion: Date unspecified
+*   Exchange transfusion: Date unspecified
+*   Lumbar puncture: Date unspecified
+*   Central line: Date unspecified
+*   Arterial line: Date unspecified
+*   Nasojejunal tube placed Q4h (date unspecified)
+*   Nebulization with Nacl 0.8 h (date unspecified)
+
+**TREATMENTS GIVEN**
+
+*   IV fluids: Administered as per orders (date unspecified)
+*   Dextrose: 10-12 mg/kg every 2 hours (date unspecified)
+*   GIR: (date unspecified)
+*   Antibiotics: Amikacin (given daily, start date not specified), Piperacillin-tazobactam (date unspecified)
+*   Anticonvulsants: Caffeine granules (loading dose administered on 21/06/2026)
+*   Respiratory support: CPAP (date unspecified)
+*   Calcium Gluconate: 3 ml + 3 ml IV twice daily, stopped daily (date unspecified)
+*   Paracetamol: 1.7 ml IV once daily (date unspecified)
+*   Flunixin meglumine: 0.8 ml bd (date unspecified)
+*   Azithromycin: 0.8 ml od (date unspecified)
+*   Caffeine: Oral caffeine administered (date unspecified), Caffeine 7 mg given at 8 am (15-06-2026 and 16-06-2026)
+*   Vit D3 drops: (date unspecified)
+*   Pro-aq drops: (date unspecified)
+*   Syrup: 0.4 ml oral once daily, started 26/6/2026, continued on 27/6/2026
+*   Syp. Calcuax-p (date unspecified)
+*   Inj. Cepa (date unspecified)
+*   Roccoed (2 ml second dose by mouth) (date unspecified)
+*   Crocin drops 0.5 ml given at 3 am (June 16, 2026)
+*   T/F 20 - 22 ml q2h (date unspecified)
+*   3.1 NaCl alternate feeds (date unspecified)
+*   Oral feeding: Feeding given every 2 hours (10-12 ml) (date unspecified)
+*   Acyplig feed on demand and SpF (date unspecified)
+*   Spoonfed + fell HMF + 1 ml (date unspecified)
+*   IVFopropofol administered (date unspecified)
+*   Oral Calcium (date unspecified)
+
+**CONDITION AT DISCHARGE**
+
+The patient is a 15-day-old male infant born at 32 weeks gestation, admitted for respiratory distress, apnea, and prematurity. He has been receiving CPAP support. Recent clinical status demonstrates improvement, with a transition from Nimby ventilator to CPAP. Intermittent hypoxemia was noted previously. He is currently accepting feeds well. Temperature has fluctuated, documented as 42.0, 41.5, and 36.5°C. He is stable, with vital signs including HR 148 bpm, SpO2 97%, and Temp 36.7°C documented on multiple occasions. He is currently receiving oral caffeine. The admitting doctor was Dr. Srinivas Murki. The patient is alert and age-appropriate. There are no cardiovascular issues. He is demonstrating normal feeding status.
+
+**DISCHARGE MEDICATIONS**
+
+Oral Caffeine 7 mg once daily.
+
+Vit D3 drops.
+
+**DISCHARGE ADVICE**
+
+Education was provided regarding CPAP support and tube feeds on multiple occasions (June 15, 2026, June 16, 2026, June 17, 2026, June 18, 2026, June 21, 2026, June 22, 2026, June 23, 2026, June 24, 2026, June 25, 2026, June 26, 2026, June 29, 2026). Education was also provided regarding Vival infection, support, CPAP, tube feeds, blood tests, and nasal blockage.
+
+**FOLLOW-UP**
+
+No specific follow-up appointments or specialist reviews are documented.
+
+**PENDING REPORTS / INVESTIGATIONS**
+
+*   Hepatitis - A (IgM)
+*   Smear for MP
+*   Leptospira IgM
+*   Parasite V & F
+*   Weil Felix
+*   QBC
+*   HCV
+*   ESR (Erythrocyte Sedimentation Rate)
+*   Dengue IgG
+*   Blood Group & Rh Type
+*   Direct Coombs Test
+*   Dengue IgM
+*   Indirect Coombs Test
+*   Dengue Ns1 Antigen
+*   Bleeding Time
+*   TB PCR
+*   Clotting Time
+*   HSV-PCR
+*   Complete Urine Examination (CUE)
+*   Mantoux Test
+*   RA Factor
+*   Stool Routine Examination
+*   Rotavirus Antigen Defection
+*   ASO
+*   Factor Assay
+*   Widal Test
+*   Anemia Profile
+*   TORCH Profile
+*   Hemoglobin
+*   AFB for Culture & Sensitivity
+*   Complete Blood Picture (CBP)
+*   CSF Lactate
+*   PCV
+*   CSF Pyruvate
+*   HIV I & II (Rapid)
+*   HIV I & II (ELISA)
+*   HbsAg
+*   AEC Absolute Eosinophil Count
+*   Peripheral Smear

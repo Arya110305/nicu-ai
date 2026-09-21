@@ -1,0 +1,1268 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>NICU AI — Patient Records</title>
+
+    <link
+        rel="stylesheet"
+        href="../style.css"
+    >
+</head>
+
+
+<body>
+
+    <div class="app-layout">
+
+
+        <!-- ==================================================
+             SIDEBAR
+             ================================================== -->
+
+        <aside
+            class="sidebar"
+            id="sidebar"
+        >
+
+            <div class="sidebar-brand">
+
+                <div class="brand-mark">
+                    NICU
+                </div>
+
+                <div class="brand-text">
+                    <h1>NICU AI</h1>
+                    <p>Clinical Assistant</p>
+                </div>
+
+            </div>
+
+
+            <nav class="sidebar-nav">
+
+                <a
+                    href="../index.html"
+                    class="nav-item"
+                >
+                    <span class="nav-icon">⌂</span>
+                    <span>Dashboard</span>
+                </a>
+
+
+                <a
+                    href="process.html"
+                    class="nav-item"
+                >
+                    <span class="nav-icon">＋</span>
+                    <span>New Summary</span>
+                </a>
+
+
+                <a
+                    href="records.html"
+                    class="nav-item active"
+                >
+                    <span class="nav-icon">⌕</span>
+                    <span>Patient Records</span>
+                </a>
+
+            </nav>
+
+
+            <div class="sidebar-footer">
+
+                <div class="system-status">
+
+                    <span class="status-dot"></span>
+
+                    <span>
+                        System Ready
+                    </span>
+
+                </div>
+
+            </div>
+
+        </aside>
+
+
+
+        <!-- ==================================================
+             MAIN
+             ================================================== -->
+
+        <main class="main-content">
+
+
+            <header class="topbar">
+
+                <div
+                    style="
+                        display: flex;
+                        align-items: center;
+                        gap: 12px;
+                    "
+                >
+
+                    <button
+                        class="mobile-menu-button"
+                        id="mobileMenuButton"
+                        type="button"
+                    >
+                        ☰
+                    </button>
+
+                    <span class="topbar-title">
+                        Patient Records
+                    </span>
+
+                </div>
+
+
+                <div class="topbar-status">
+
+                    <span class="status-dot"></span>
+
+                    <span>
+                        NICU AI Online
+                    </span>
+
+                </div>
+
+            </header>
+
+
+
+            <div class="page-content">
+
+
+                <!-- ==================================================
+                     HEADER
+                     ================================================== -->
+
+                <section class="page-header">
+
+                    <div class="page-heading">
+
+                        <h2>
+                            Patient Records
+                        </h2>
+
+                        <p>
+                            Search and open previously processed
+                            NICU patient records.
+                        </p>
+
+                    </div>
+
+
+                    <a
+                        href="process.html"
+                        class="btn btn-primary"
+                    >
+                        ＋ New Discharge Summary
+                    </a>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     SEARCH
+                     ================================================== -->
+
+                <section class="search-row">
+
+
+                    <div class="search-box">
+
+                        <span class="search-icon">
+                            ⌕
+                        </span>
+
+                        <input
+                            type="search"
+                            id="patientSearchInput"
+                            placeholder="Search by patient name, UHID or IP number..."
+                            autocomplete="off"
+                        >
+
+                    </div>
+
+
+                    <select
+                        class="filter-select"
+                        id="dateFilter"
+                    >
+
+                        <option value="all">
+                            All dates
+                        </option>
+
+                        <option value="today">
+                            Today
+                        </option>
+
+                        <option value="7days">
+                            Last 7 days
+                        </option>
+
+                        <option value="30days">
+                            Last 30 days
+                        </option>
+
+                    </select>
+
+
+                    <select
+                        class="filter-select"
+                        id="sortFilter"
+                    >
+
+                        <option value="newest">
+                            Newest first
+                        </option>
+
+                        <option value="oldest">
+                            Oldest first
+                        </option>
+
+                        <option value="name">
+                            Patient name
+                        </option>
+
+                    </select>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     RECORDS
+                     ================================================== -->
+
+                <section class="card">
+
+
+                    <div class="card-header">
+
+                        <div>
+
+                            <h3>
+                                Discharge Records
+                            </h3>
+
+                            <p id="recordCountText">
+                                Loading patient records...
+                            </p>
+
+                        </div>
+
+                    </div>
+
+
+
+                    <!-- TABLE -->
+
+                    <div
+                        class="table-wrapper hidden"
+                        id="recordsTableWrapper"
+                    >
+
+                        <table
+                            class="patient-table"
+                            id="patientRecordsTable"
+                        >
+
+                            <thead>
+
+                                <tr>
+
+                                    <th>
+                                        Patient
+                                    </th>
+
+                                    <th>
+                                        UHID
+                                    </th>
+
+                                    <th>
+                                        IP Number
+                                    </th>
+
+                                    <th>
+                                        Processed
+                                    </th>
+
+                                    <th>
+                                        Processing Time
+                                    </th>
+
+                                    <th>
+                                        Status
+                                    </th>
+
+                                    <th>
+                                    </th>
+
+                                </tr>
+
+                            </thead>
+
+
+                            <tbody
+                                id="patientRecordsBody"
+                            >
+                            </tbody>
+
+                        </table>
+
+                    </div>
+
+
+
+                    <!-- EMPTY -->
+
+                    <div
+                        class="empty-state hidden"
+                        id="recordsEmptyState"
+                    >
+
+                        <div class="empty-icon">
+                            ⌕
+                        </div>
+
+                        <h3 id="emptyStateTitle">
+                            No patient records yet
+                        </h3>
+
+                        <p id="emptyStateMessage">
+                            Process your first patient PDF and
+                            the record will automatically appear here.
+                        </p>
+
+
+                        <div
+                            style="
+                                margin-top: 20px;
+                            "
+                        >
+
+                            <a
+                                href="process.html"
+                                class="btn btn-primary"
+                            >
+                                ＋ Process First Patient
+                            </a>
+
+                        </div>
+
+                    </div>
+
+
+
+                    <!-- LOADING -->
+
+                    <div
+                        class="loading"
+                        id="recordsLoadingState"
+                    >
+
+                        <div class="loading-spinner"></div>
+
+                    </div>
+
+
+                    <!-- ERROR -->
+
+                    <div
+                        class="empty-state hidden"
+                        id="recordsErrorState"
+                    >
+
+                        <div
+                            class="result-icon failure"
+                            style="
+                                margin-left: auto;
+                                margin-right: auto;
+                            "
+                        >
+                            !
+                        </div>
+
+                        <h3>
+                            Could not load patient records
+                        </h3>
+
+                        <p id="recordsErrorMessage">
+                            Please make sure the NICU AI backend is running.
+                        </p>
+
+                    </div>
+
+
+                </section>
+
+
+            </div>
+
+        </main>
+
+    </div>
+
+
+
+    <!-- ==================================================
+         RECORDS JAVASCRIPT
+         ================================================== -->
+
+    <script>
+
+        const API_BASE_URL =
+            "http://127.0.0.1:8000/api";
+
+
+        const patientSearchInput =
+            document.getElementById(
+                "patientSearchInput"
+            );
+
+
+        const dateFilter =
+            document.getElementById(
+                "dateFilter"
+            );
+
+
+        const sortFilter =
+            document.getElementById(
+                "sortFilter"
+            );
+
+
+        const recordsTableWrapper =
+            document.getElementById(
+                "recordsTableWrapper"
+            );
+
+
+        const patientRecordsBody =
+            document.getElementById(
+                "patientRecordsBody"
+            );
+
+
+        const recordsEmptyState =
+            document.getElementById(
+                "recordsEmptyState"
+            );
+
+
+        const recordsLoadingState =
+            document.getElementById(
+                "recordsLoadingState"
+            );
+
+
+        const recordsErrorState =
+            document.getElementById(
+                "recordsErrorState"
+            );
+
+
+        const recordsErrorMessage =
+            document.getElementById(
+                "recordsErrorMessage"
+            );
+
+
+        const recordCountText =
+            document.getElementById(
+                "recordCountText"
+            );
+
+
+        const emptyStateTitle =
+            document.getElementById(
+                "emptyStateTitle"
+            );
+
+
+        const emptyStateMessage =
+            document.getElementById(
+                "emptyStateMessage"
+            );
+
+
+        const mobileMenuButton =
+            document.getElementById(
+                "mobileMenuButton"
+            );
+
+
+        const sidebar =
+            document.getElementById(
+                "sidebar"
+            );
+
+
+        let patientRecords = [];
+
+
+        /* ==================================================
+           MOBILE MENU
+           ================================================== */
+
+        if (
+            mobileMenuButton
+            && sidebar
+        ) {
+
+            mobileMenuButton.addEventListener(
+                "click",
+                () => {
+
+                    sidebar.classList.toggle(
+                        "mobile-open"
+                    );
+
+                }
+            );
+
+        }
+
+
+        /* ==================================================
+           LOAD RECORDS
+           ================================================== */
+
+        async function loadPatientRecords() {
+
+            showLoadingState();
+
+
+            try {
+
+                const response =
+                    await fetch(
+                        `${API_BASE_URL}/patients`,
+                        {
+                            cache: "no-store",
+                        }
+                    );
+
+
+                if (!response.ok) {
+
+                    const text =
+                        await response.text();
+
+
+                    throw new Error(
+                        text
+                        || "Could not load patient records."
+                    );
+                }
+
+
+                const data =
+                    await response.json();
+
+
+                patientRecords =
+                    Array.isArray(data)
+                        ? data
+                        : [];
+
+
+                applyFilters();
+
+            } catch (error) {
+
+                showErrorState(
+                    error.message
+                );
+            }
+        }
+
+
+        /* ==================================================
+           FILTER + SORT
+           ================================================== */
+
+        function applyFilters() {
+
+            let records =
+                [...patientRecords];
+
+
+            const searchTerm =
+                String(
+                    patientSearchInput.value
+                    || ""
+                )
+                .trim()
+                .toLowerCase();
+
+
+            if (searchTerm) {
+
+                records =
+                    records.filter(
+                        record => {
+
+                            const searchableText =
+                                [
+                                    record.patient_name,
+                                    record.name,
+                                    record.uhid,
+                                    record.ip_number,
+                                    record.ip_no,
+                                    record.id,
+                                ]
+                                .filter(Boolean)
+                                .join(" ")
+                                .toLowerCase();
+
+
+                            return searchableText.includes(
+                                searchTerm
+                            );
+                        }
+                    );
+            }
+
+
+            records =
+                applyDateFilter(
+                    records
+                );
+
+
+            records =
+                applySort(
+                    records
+                );
+
+
+            renderRecords(
+                records
+            );
+        }
+
+
+        /* ==================================================
+           DATE FILTER
+           ================================================== */
+
+        function applyDateFilter(records) {
+
+            const filter =
+                dateFilter.value;
+
+
+            if (filter === "all") {
+
+                return records;
+            }
+
+
+            const now =
+                new Date();
+
+
+            return records.filter(
+                record => {
+
+                    const rawDate =
+                        getRecordDate(
+                            record
+                        );
+
+
+                    if (!rawDate) {
+
+                        return false;
+                    }
+
+
+                    const date =
+                        new Date(
+                            rawDate
+                        );
+
+
+                    if (
+                        Number.isNaN(
+                            date.getTime()
+                        )
+                    ) {
+
+                        return false;
+                    }
+
+
+                    if (
+                        filter === "today"
+                    ) {
+
+                        return (
+                            date.getFullYear()
+                            === now.getFullYear()
+
+                            &&
+
+                            date.getMonth()
+                            === now.getMonth()
+
+                            &&
+
+                            date.getDate()
+                            === now.getDate()
+                        );
+                    }
+
+
+                    const difference =
+                        now.getTime()
+                        - date.getTime();
+
+
+                    const days =
+                        difference
+                        / (
+                            1000
+                            * 60
+                            * 60
+                            * 24
+                        );
+
+
+                    if (
+                        filter === "7days"
+                    ) {
+
+                        return days <= 7;
+                    }
+
+
+                    if (
+                        filter === "30days"
+                    ) {
+
+                        return days <= 30;
+                    }
+
+
+                    return true;
+                }
+            );
+        }
+
+
+        /* ==================================================
+           SORT
+           ================================================== */
+
+        function applySort(records) {
+
+            const sort =
+                sortFilter.value;
+
+
+            records.sort(
+                (a, b) => {
+
+                    if (
+                        sort === "name"
+                    ) {
+
+                        return String(
+                            a.patient_name
+                            || a.name
+                            || ""
+                        )
+                        .localeCompare(
+                            String(
+                                b.patient_name
+                                || b.name
+                                || ""
+                            )
+                        );
+                    }
+
+
+                    const aDate =
+                        new Date(
+                            getRecordDate(a)
+                            || 0
+                        )
+                        .getTime();
+
+
+                    const bDate =
+                        new Date(
+                            getRecordDate(b)
+                            || 0
+                        )
+                        .getTime();
+
+
+                    if (
+                        sort === "oldest"
+                    ) {
+
+                        return aDate - bDate;
+                    }
+
+
+                    return bDate - aDate;
+                }
+            );
+
+
+            return records;
+        }
+
+
+        /* ==================================================
+           RENDER
+           ================================================== */
+
+        function renderRecords(records) {
+
+            hideAllStates();
+
+
+            patientRecordsBody.innerHTML =
+                "";
+
+
+            if (!records.length) {
+
+                recordsEmptyState.classList.remove(
+                    "hidden"
+                );
+
+
+                if (
+                    patientRecords.length === 0
+                ) {
+
+                    recordCountText.textContent =
+                        "0 patient records";
+
+
+                    emptyStateTitle.textContent =
+                        "No patient records yet";
+
+
+                    emptyStateMessage.textContent =
+                        "Process your first patient PDF and the record will automatically appear here.";
+
+                } else {
+
+                    recordCountText.textContent =
+                        "No matching records";
+
+
+                    emptyStateTitle.textContent =
+                        "No matching patient records";
+
+
+                    emptyStateMessage.textContent =
+                        "Try changing your search term or date filter.";
+                }
+
+
+                return;
+            }
+
+
+            recordsTableWrapper.classList.remove(
+                "hidden"
+            );
+
+
+            recordCountText.textContent =
+                `${records.length} patient record${records.length === 1 ? "" : "s"}`;
+
+
+            records.forEach(
+                record => {
+
+                    const row =
+                        document.createElement(
+                            "tr"
+                        );
+
+
+                    const patientName =
+                        record.patient_name
+                        || record.name
+                        || "Unknown Patient";
+
+
+                    const patientId =
+                        record.id
+                        ?? record.patient_id
+                        ?? "";
+
+
+                    const uhid =
+                        record.uhid
+                        || "—";
+
+
+                    const ipNumber =
+                        record.ip_number
+                        || record.ip_no
+                        || "—";
+
+
+                    const processedDate =
+                        formatRecordDate(
+                            getRecordDate(
+                                record
+                            )
+                        );
+
+
+                    const processingTime =
+                        formatProcessingTime(
+                            record
+                        );
+
+
+                    const status =
+                        record.status
+                        || "Unknown";
+
+
+                    row.innerHTML = `
+
+                        <td>
+
+                            <div class="patient-name">
+                                ${escapeHtml(patientName)}
+                            </div>
+
+                            <div class="patient-id">
+                                Record #${escapeHtml(patientId)}
+                            </div>
+
+                        </td>
+
+
+                        <td>
+                            ${escapeHtml(uhid)}
+                        </td>
+
+
+                        <td>
+                            ${escapeHtml(ipNumber)}
+                        </td>
+
+
+                        <td>
+                            ${escapeHtml(processedDate)}
+                        </td>
+
+
+                        <td>
+                            ${escapeHtml(processingTime)}
+                        </td>
+
+
+                        <td>
+                            ${statusBadge(status)}
+                        </td>
+
+
+                        <td>
+
+                            <a
+                                class="table-action"
+                                href="patient.html?id=${encodeURIComponent(patientId)}"
+                            >
+                                View →
+                            </a>
+
+                        </td>
+                    `;
+
+
+                    patientRecordsBody.appendChild(
+                        row
+                    );
+                }
+            );
+        }
+
+
+        /* ==================================================
+           HELPERS
+           ================================================== */
+
+        function getRecordDate(record) {
+
+            return (
+                record.completed_at
+                || record.updated_at
+                || record.created_at
+                || record.processed_at
+                || null
+            );
+        }
+
+
+        function formatRecordDate(value) {
+
+            if (!value) {
+
+                return "—";
+            }
+
+
+            const date =
+                new Date(
+                    value
+                );
+
+
+            if (
+                Number.isNaN(
+                    date.getTime()
+                )
+            ) {
+
+                return "—";
+            }
+
+
+            return date.toLocaleString(
+                undefined,
+                {
+                    day: "2-digit",
+                    month: "short",
+                    year: "numeric",
+                    hour: "2-digit",
+                    minute: "2-digit",
+                }
+            );
+        }
+
+
+        function formatProcessingTime(record) {
+
+            const seconds =
+                Number(
+                    record.processing_time_seconds
+                    ?? record.elapsed_seconds
+                    ?? record.duration_seconds
+                );
+
+
+            if (
+                !Number.isFinite(seconds)
+                || seconds < 0
+            ) {
+
+                return "—";
+            }
+
+
+            const minutes =
+                Math.floor(
+                    seconds / 60
+                );
+
+
+            const remainingSeconds =
+                Math.round(
+                    seconds % 60
+                );
+
+
+            if (minutes > 0) {
+
+                return (
+                    `${minutes} min `
+                    + `${remainingSeconds} sec`
+                );
+            }
+
+
+            return `${remainingSeconds} sec`;
+        }
+
+
+        function statusBadge(status) {
+
+            const normalized =
+                String(status)
+                .toLowerCase();
+
+
+            let badgeClass =
+                "badge-processing";
+
+
+            if (
+                normalized === "completed"
+            ) {
+
+                badgeClass =
+                    "badge-success";
+            }
+
+
+            if (
+                normalized === "failed"
+            ) {
+
+                badgeClass =
+                    "badge-failed";
+            }
+
+
+            return `
+                <span class="badge ${badgeClass}">
+                    ${escapeHtml(status)}
+                </span>
+            `;
+        }
+
+
+        function escapeHtml(value) {
+
+            return String(
+                value ?? ""
+            )
+            .replace(
+                /&/g,
+                "&amp;"
+            )
+            .replace(
+                /</g,
+                "&lt;"
+            )
+            .replace(
+                />/g,
+                "&gt;"
+            )
+            .replace(
+                /"/g,
+                "&quot;"
+            )
+            .replace(
+                /'/g,
+                "&#039;"
+            );
+        }
+
+
+        /* ==================================================
+           STATES
+           ================================================== */
+
+        function hideAllStates() {
+
+            recordsTableWrapper.classList.add(
+                "hidden"
+            );
+
+
+            recordsEmptyState.classList.add(
+                "hidden"
+            );
+
+
+            recordsLoadingState.classList.add(
+                "hidden"
+            );
+
+
+            recordsErrorState.classList.add(
+                "hidden"
+            );
+        }
+
+
+        function showLoadingState() {
+
+            hideAllStates();
+
+
+            recordsLoadingState.classList.remove(
+                "hidden"
+            );
+
+
+            recordCountText.textContent =
+                "Loading patient records...";
+        }
+
+
+        function showErrorState(message) {
+
+            hideAllStates();
+
+
+            recordsErrorState.classList.remove(
+                "hidden"
+            );
+
+
+            recordCountText.textContent =
+                "Unable to load records";
+
+
+            recordsErrorMessage.textContent =
+                message
+                || "Please make sure the NICU AI backend is running.";
+        }
+
+
+        /* ==================================================
+           EVENTS
+           ================================================== */
+
+        patientSearchInput.addEventListener(
+            "input",
+            applyFilters
+        );
+
+
+        dateFilter.addEventListener(
+            "change",
+            applyFilters
+        );
+
+
+        sortFilter.addEventListener(
+            "change",
+            applyFilters
+        );
+
+
+        /* ==================================================
+           START
+           ================================================== */
+
+        loadPatientRecords();
+
+    </script>
+
+
+</body>
+
+</html>

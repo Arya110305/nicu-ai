@@ -1,0 +1,8667 @@
+========================================================================
+STRUCTURED PART 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0017
+========================================================================
+
+SOURCE PAGE: PAGE_1
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - Retractions: Not specified
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+MEDICATIONS
+- No medications listed.
+
+INVESTIGATIONS
+- No investigations listed.
+
+PROCEDURES
+- No procedures listed.
+
+CONSULTATIONS
+- Consultant Name: D.S. Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not specified
+- Discharge Date: Not specified
+- Feeding: Not specified
+- Discharge Medicines: Not specified
+- Advice: Not specified
+- Follow-up: Not specified
+- Pending Investigations: Not specified
+
+SOURCE PAGE: PAGE_2
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - Retractions: Not specified
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+MEDICATIONS
+- No medications listed.
+
+INVESTIGATIONS
+- No investigations listed.
+
+PROCEDURES
+- No procedures listed.
+
+CONSULTATIONS
+- Consultant Name: D.S. Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not specified
+- Discharge Date: Not specified
+- Feeding: Not specified
+- Discharge Medicines: Not specified
+- Advice: Not specified
+- Follow-up: Not specified
+- Pending Investigations: Not specified
+
+SOURCE PAGE: PAGE_3
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - Retractions: Not specified
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+MEDICATIONS
+- No medications listed.
+
+INVESTIGATIONS
+- No investigations listed.
+
+PROCEDURES
+- No procedures listed.
+
+CONSULTATIONS
+- Consultant Name: D.S. Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not specified
+- Discharge Date: Not specified
+- Feeding: Not specified
+- Discharge Medicines: Not specified
+- Advice: Not specified
+- Follow-up: Not specified
+- Pending Investigations: Not specified
+
+SOURCE PAGE: PAGE_4
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - Retractions: Not specified
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+MEDICATIONS
+- No medications listed.
+
+INVESTIGATIONS
+- No investigations listed.
+
+PROCEDURES
+- No procedures listed.
+
+CONSULTATIONS
+- Consultant Name: D.S. Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not specified
+- Discharge Date: Not specified
+- Feeding: Not specified
+- Discharge Medicines: Not specified
+- Advice: Not specified
+- Follow-up: Not specified
+- Pending Investigations: Not specified
+
+SOURCE PAGE: PAGE_5
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - Retractions: Not specified
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+MEDICATIONS
+- No medications listed.
+
+INVESTIGATIONS
+- No investigations listed.
+
+PROCEDURES
+- No procedures listed.
+
+CONSULTATIONS
+- Consultant Name: D.S. Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not specified
+- Discharge Date: Not specified
+- Feeding: Not specified
+- Discharge Medicines: Not specified
+- Advice: Not specified
+- Follow-up: Not specified
+- Pending Investigations: Not specified
+
+SOURCE PAGE: PAGE_6
+DOCUMENT TYPE: Consent for Neonatal Intensive Care Management
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+PROBLEMS/DIAGNOSIS
+- Immediate Priorities:
+  - IV Fluids
+  - IV Antibiotics
+  - Oxygen therapy
+  - Continuous multi-parameter monitoring
+  - Serial Arterial Blood Gas Analysis
+  - X-rays
+  - Ultrasound
+  - Echocardiogram
+
+SOURCE PAGE: PAGE_7
+DOCUMENT TYPE: Consent for Neonatal Intensive Care Management
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+SOURCE PAGE: PAGE_8
+DOCUMENT TYPE: Consent for Neonatal Intensive Care Management
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+SOURCE PAGE: PAGE_9
+DOCUMENT TYPE: Initial Assessment
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - Retractions: Not specified
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+SOURCE PAGE: PAGE_10
+DOCUMENT TYPE: Consent for Neonatal Intensive Care Management
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+SOURCE PAGE: PAGE_11
+DOCUMENT TYPE: Initial Assessment
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - Retractions: Not specified
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+SOURCE PAGE: PAGE_12
+DOCUMENT TYPE: Initial Assessment
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - Retractions: Not specified
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+SOURCE PAGE: PAGE_13
+DOCUMENT TYPE: Physical Examination
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Head and Neck:
+  - Retractions: Normal
+  - Fracture: Not specified
+  - Tachypnea: Not specified
+  - Microcephaly: Not specified
+  - Apnea: Not specified
+  - Macrocephaly: Not specified
+  - Diminished Breath Sounds: Not specified
+
+- Cardiovascular:
+  - Abnormal Facies: Normal
+  - Cleft Lip: Unilateral/Bilateral (Not specified)
+  - Hypotonia: Not specified
+  - Cleft Palate: Not specified
+  - Tachycardia (>160/min): Not specified
+  - Abnormal Cry: Not specified
+
+- Neurology:
+  - Normal
+
+- Ears, Skin, Abdomen, Eyes, Musculoskeletal, Chest-Lung: Normal
+
+SOURCE PAGE: PAGE_14
+DOCUMENT TYPE: Initial Assessment
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - Retractions: Not specified
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+SOURCE PAGE: PAGE_15
+DOCUMENT TYPE: Initial Assessment
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - Retractions: Not specified
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+SOURCE PAGE: PAGE_16
+DOCUMENT TYPE: Physical Examination
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Head and Neck:
+  - Retractions: Normal
+  - Fracture: Not specified
+  - Tachypnea: Not specified
+  - Microcephaly: Not specified
+  - Apnea: Not specified
+  - Macrocephaly: Not specified
+  - Diminished Breath Sounds: Not specified
+
+- Cardiovascular:
+  - Abnormal Facies: Normal
+  - Cleft Lip: Unilateral/Bilateral (Not specified)
+  - Hypotonia: Not specified
+  - Cleft Palate: Not specified
+  - Tachycardia (>160/min): Not specified
+  - Abnormal Cry: Not specified
+
+- Neurology:
+  - Normal
+
+- Ears, Skin, Abdomen, Eyes, Musculoskeletal, Chest-Lung: Normal
+
+SOURCE PAGE: PAGE_17
+DOCUMENT TYPE: New Born Foot Prints
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Foot Prints:
+  - Left Foot Print Taken By: Sudha
+  - Right Foot Print Taken By: Suchig
+  - Date and Time: 31/5/2026, 11 am
+
+
+========================================================================
+STRUCTURED PART 0002
+SOURCE PAGES: PAGE_0018 TO PAGE_0032
+========================================================================
+
+SOURCE PAGE: PAGE_18
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- MR Number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Date of Birth: Not explicitly stated but can be inferred as 31 May 2026
+
+MATERNAL / ANTENATAL HISTORY
+- Gravida/Parity: Not explicitly stated
+- Maternal Illness: Not explicitly stated
+- Pregnancy Complications: Not explicitly stated
+- Antenatal Scans: Not explicitly stated
+- Antenatal Steroids: Not explicitly stated
+- Consanguinity: Not explicitly stated
+
+BIRTH DETAILS
+- Gestational Age: 32 weeks
+- Birth Weight: 1.66 kg
+- Delivery Method: Not explicitly stated
+- Delivery Indication: Reuorent apnea
+- Cry at Birth: Not explicitly stated
+- Resuscitation: Not explicitly stated
+- APGAR Score: Not explicitly stated
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION DETAILS
+- Reason for Admission: RDS, Apnea
+- Date of Admission (DOA): 31 May 2026
+- Symptoms: Reuorent apnea
+- Seizure History: Not explicitly stated
+- Feeding History: Breastfed/top-fed
+- Outside-Hospital Treatment: Not explicitly stated
+- Admission Glucose: Not explicitly stated
+
+EXAMINATION
+- Vital Signs:
+  - Heart Rate: 151/min
+  - Respiratory Rate: 46/mt
+  - Blood Pressure: 98.1 mm Hg
+  - Temperature: 32°C
+  - SpO2 on FiO2: Not explicitly stated
+
+DIAGNOSES / CLINICAL PROBLEMS
+- Diagnosis: RDS, Apnea
+
+VITAL SIGNS
+- Heart Rate: 146/min
+- Respiratory Rate: 93/mt
+- Blood Pressure: 98.1 mm Hg
+- SpO2: 94%
+
+RESPIRATORY SUPPORT
+- CPAP started (5125-1)
+
+NEUROLOGICAL STATUS
+- Not explicitly stated
+
+SEIZURES
+- Not explicitly stated
+
+HYPOGLYCEMIA / GLUCOSE
+- No specific glucose values or interventions mentioned
+
+FEEDING / NUTRITION
+- Feeding History: Breastfed/top-fed
+- Admission Weight: 1.5 kg
+
+FLUIDS
+- IVF, Dopamine infusion started
+
+MEDICATIONS
+- Azithromycin 0.8 ml od
+- Flunixin meglumine 0.8 ml bd
+
+INVESTIGATIONS
+- CRP
+- RFT (Renal Function Tests)
+
+PROCEDURES
+- Nasojejunal tube placed Q4h
+- Nebulization with Nacl 0.8 h
+- T/F 20 - 22 ml q2h
+
+CONSULTATIONS
+- Specialist: Dr. Srinivas Murki
+
+DAILY PROGRESS
+- Date: 10 May 2026, Time: 4 pm
+- Doctor's Name: Do. Anantharaman
+- Signature of the Doctor: R-Amth
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not explicitly stated
+- Feeding: Not explicitly stated
+- Discharge Medicines: Not explicitly stated
+- Advice: Not explicitly stated
+- Follow-Up: Not explicitly stated
+- Pending Investigations: CRP, RFT
+
+
+========================================================================
+STRUCTURED PART 0003
+SOURCE PAGES: PAGE_0033 TO PAGE_0056
+========================================================================
+
+SOURCE PAGE: PAGE_33
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+MATERNAL / ANTENATAL HISTORY
+- Not documented
+
+BIRTH DETAILS
+- Gestational age: 32 weeks
+- Birth weight: 1.66 kg
+- Delivery method: Vaginal delivery (not specified)
+- Cry at birth: Not documented
+- Resuscitation: Not documented
+- APGAR score: Not documented
+- Place of birth: Ankura Hospital for Women and Children
+
+ADMISSION
+- Reason for admission: Neonatal respiratory distress
+- Admission date: 15 June 2026, 12:19 PM
+- Symptoms: Respiratory distress, suspected sepsis
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV (Non-Invasive Ventilation)
+
+MEDICATIONS
+- Amikacin
+- Ceftriaxone
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- CRP: 0.2 mg/L
+- TLC: 17,500
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+PROCEDURES
+- CPAP (6/25%)
+- NIV (14/10/30%)
+
+CONSULTATIONS
+- Dr. Srinivas Murki
+
+DAILY PROGRESS
+- Date: 16 June 2026
+- Weight: 1.52 kg (+40 g)
+- Feeding: 8% formula, 10% by mouth
+- Oxygen requirement: CPAP (6/25%), NIV (14/10/30%)
+
+DISCHARGE-RELATED INFORMATION
+- Latest clinical status: Stable on CPAP and NIV
+
+SOURCE PAGE: PAGE_34
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- Vitals: HR = 149, SpO2 = 96%, RR = 30, SPO2 = 98%
+- Bowel movement: Present
+- Voiding: Voided
+
+SOURCE PAGE: PAGE_35
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_36
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- Vitals: HR = 149, SpO2 = 96%, RR = 30, SPO2 = 98%
+- Bowel movement: Present
+- Voiding: Voided
+
+SOURCE PAGE: PAGE_37
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_38
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- Vitals: HR = 149, SpO2 = 96%, RR = 30, SPO2 = 98%
+- Bowel movement: Present
+- Voiding: Voided
+
+SOURCE PAGE: PAGE_39
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_40
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- Vitals: HR = 149, SpO2 = 96%, RR = 30, SPO2 = 98%
+- Bowel movement: Present
+- Voiding: Voided
+
+SOURCE PAGE: PAGE_41
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_42
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- Vitals: HR = 149, SpO2 = 96%, RR = 30, SPO2 = 98%
+- Bowel movement: Present
+- Voiding: Voided
+
+SOURCE PAGE: PAGE_43
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_44
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- Vitals: HR = 149, SpO2 = 96%, RR = 30, SPO2 = 98%
+- Bowel movement: Present
+- Voiding: Voided
+
+SOURCE PAGE: PAGE_45
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_46
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_47
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_48
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_49
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_50
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_51
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_52
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_53
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_54
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_55
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+SOURCE PAGE: PAGE_56
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV
+- Oxygen requirement: Room air
+
+MEDICATIONS
+- Amikacin
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- Blood gas analysis: pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+
+========================================================================
+STRUCTURED PART 0004
+SOURCE PAGES: PAGE_0057 TO PAGE_0088
+========================================================================
+
+SOURCE PAGE: PAGE_57
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+MATERNAL / ANTENATAL HISTORY
+- Consult: DR. SRINIVAS MURKI
+- Adm Date: 31-05-2026, 10:11 AM
+
+BIRTH DETAILS
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION
+- Reason for Admission: Preterm birth (gestational age not specified)
+- Symptoms: Weak cry at birth, resuscitation required
+- APGAR score: Not documented
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Oxygen requirement: 25% FiO2
+- Feeding: Tube feeds, 15 ml and 18 ml
+- Glucose infusion: Not documented
+
+MEDICATIONS
+- Amikacin
+- Ceftriaxone
+- Calcimex-P (0.5 ml PO)
+- NIMV to CPAP transition
+
+INVESTIGATIONS
+- CRP: 4.6 mg/L
+- WBC: 8,000
+- Platelets: 343,000
+- Blood gas: Not documented
+
+PROCEDURES
+- UVC insertion
+- CPAP initiation and adjustment
+
+CONSULTATIONS
+- DR. SRINIVAS MURKI
+
+DAILY PROGRESS
+- Date: 21/06/2026
+- DOL: 17 days
+- Weight: 1.52 kg
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Urine and stool passed
+
+SOURCE PAGE: PAGE_58
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+MEDICATIONS
+- Amikacin (once daily)
+
+SOURCE PAGE: PAGE_59
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Urine and stool passed
+
+SOURCE PAGE: PAGE_60
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_61
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_62
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_63
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_64
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_65
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_66
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_67
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_68
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_69
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_70
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_71
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+MATERNAL / ANTENATAL HISTORY
+- Consult: DR. SRINIVAS MURKI
+- Adm Date: 31-05-2026, 10:11 AM
+
+BIRTH DETAILS
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION
+- Reason for Admission: Preterm birth (gestational age not specified)
+- Symptoms: Weak cry at birth, resuscitation required
+- APGAR score: Not documented
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_72
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_73
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+MATERNAL / ANTENATAL HISTORY
+- Consult: DR. SRINIVAS MURKI
+- Adm Date: 31-05-2026, 10:11 AM
+
+BIRTH DETAILS
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION
+- Reason for Admission: Preterm birth (gestational age not specified)
+- Symptoms: Weak cry at birth, resuscitation required
+- APGAR score: Not documented
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_74
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_75
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_76
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_77
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_78
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_79
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_80
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_81
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+MATERNAL / ANTENATAL HISTORY
+- Consult: DR. SRINIVAS MURKI
+- Adm Date: 31-05-2026, 10:11 AM
+
+BIRTH DETAILS
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION
+- Reason for Admission: Preterm birth (gestational age not specified)
+- Symptoms: Weak cry at birth, resuscitation required
+- APGAR score: Not documented
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_82
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_83
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_84
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_85
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_86
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_87
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+SOURCE PAGE: PAGE_88
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 31-05-2026
+
+NICU COURSE
+- Diagnoses: RDS, Suspected sepsis
+- Respiratory support: CPAP, NIMV
+- Vitals: HR - 156, SpO2 - 94%, BP - Not documented
+- Feeding: Tube feeds, 15 ml and 18 ml
+
+
+========================================================================
+STRUCTURED PART 0005
+SOURCE PAGES: PAGE_0089 TO PAGE_0114
+========================================================================
+
+SOURCE PAGE: PAGE_89
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026 12:19 PM
+- DOL: D20
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, desaturation episodes present
+- Feeding: Accepting feeds well
+- Weight: 1.620 kg (20 g)
+
+SOURCE PAGE: PAGE_90
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+
+SOURCE PAGE: PAGE_91
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+MEDICATIONS:
+- INJ TAXIN: 80 mg IV twice daily, started on 31/05/2026
+- INJ CALCIUM GLUCONATE: 3 ml + 3 ml IV twice daily, stopped daily
+- INJ PARACETAMOL: 1.7 ml IV once daily, started on 4 am 8/6/2026
+- INJ PIPETA2: 170 mg IV twice daily, started on 6 pm 8/6/2026
+
+SOURCE PAGE: PAGE_92
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 7 times, stool 3 times
+
+SOURCE PAGE: PAGE_93
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+MEDICATIONS:
+- INJ AMIKACNE: 20 mg IV once daily, started on 31/05/2026
+- SYP CALCOMAX: 2.5 ul PO daily, started on 3/6/2026
+- SYP CAFFEINE: 0.4 ml oral once daily, started on 3/6/2026
+
+SOURCE PAGE: PAGE_94
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+SOURCE PAGE: PAGE_95
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+MEDICATIONS:
+- INJ AMIKACNE: 20 mg IV once daily, started on 31/05/2026
+- SYP CAFFEINE: 0.4 ml oral once daily, started on 3/6/2026
+- SYP CALCOMAX: 2.5 ul PO daily, started on 3/6/2026
+
+SOURCE PAGE: PAGE_96
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+SOURCE PAGE: PAGE_97
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+MEDICATIONS:
+- IV CAFFEINE: 0.4 ml oral once daily, started on 31/05/2026
+
+SOURCE PAGE: PAGE_98
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+SOURCE PAGE: PAGE_99
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NURSING CARE PLAN:
+- Monitoring vital signs continuously
+- Administering caffeine as needed
+- Providing warmth care
+- Feeding and monitoring stool output
+
+SOURCE PAGE: PAGE_100
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+SOURCE PAGE: PAGE_101
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NURSING CARE PLAN:
+- Monitoring vital signs continuously
+- Administering caffeine as needed
+- Providing warmth care
+- Feeding and monitoring stool output
+
+SOURCE PAGE: PAGE_102
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+SOURCE PAGE: PAGE_103
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NURSING CARE PLAN:
+- Monitoring vital signs continuously
+- Administering caffeine as needed
+- Providing warmth care
+- Feeding and monitoring stool output
+
+SOURCE PAGE: PAGE_104
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+SOURCE PAGE: PAGE_105
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NURSING CARE PLAN:
+- Monitoring vital signs continuously
+- Administering caffeine as needed
+- Providing warmth care
+- Feeding and monitoring stool output
+
+SOURCE PAGE: PAGE_106
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+SOURCE PAGE: PAGE_107
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NURSING CARE PLAN:
+- Monitoring vital signs continuously
+- Administering caffeine as needed
+- Providing warmth care
+- Feeding and monitoring stool output
+
+SOURCE PAGE: PAGE_108
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+SOURCE PAGE: PAGE_109
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NURSING CARE PLAN:
+- Monitoring vital signs continuously
+- Administering caffeine as needed
+- Providing warmth care
+- Feeding and monitoring stool output
+
+SOURCE PAGE: PAGE_110
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+SOURCE PAGE: PAGE_111
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NURSING CARE PLAN:
+- Monitoring vital signs continuously
+- Administering caffeine as needed
+- Providing warmth care
+- Feeding and monitoring stool output
+
+SOURCE PAGE: PAGE_112
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+SOURCE PAGE: PAGE_113
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NURSING CARE PLAN:
+- Monitoring vital signs continuously
+- Administering caffeine as needed
+- Providing warmth care
+- Feeding and monitoring stool output
+
+SOURCE PAGE: PAGE_114
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL PROGRESS:
+- Painscore: Not documented
+- Symptoms: Desaturations, apnea, feeding well, tolerating feeds
+- Respiratory status: Room air, stable
+- Feeding: Intake of 25 ml and boly, output of 8 times, stool 3 times
+
+
+========================================================================
+STRUCTURED PART 0006
+SOURCE PAGES: PAGE_0115 TO PAGE_0142
+========================================================================
+
+SOURCE PAGE: PAGE_115
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- X-ray done for CVc position
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_116
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_117
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_118
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_119
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_120
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_121
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_122
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_123
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_124
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_125
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_126
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_127
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_128
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_129
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_130
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_131
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_132
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_133
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_134
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_135
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_136
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_137
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_138
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_139
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_140
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_141
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION:
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+SOURCE PAGE: PAGE_142
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+ADMISSION DETAILS:
+- Adm Date: 15-06-2026, 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Nasal drops
+- Oral caffeine
+
+INVESTIGATIONS:
+- Blood gas analysis
+
+PROCEDURES:
+- UVC cannulation
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: breathing, good activity, stable vitals
+
+
+========================================================================
+STRUCTURED PART 0007
+SOURCE PAGES: PAGE_0143 TO PAGE_0164
+========================================================================
+
+SOURCE PAGE: PAGE_143
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+NURSES NOTES:
+- Date: 02|6|26 (Morning)
+- Handover taken from night duty staff at 08:30 AM
+- Baby condition assessed, on Nimby ventilator under radiant warm care. IVF on flow.
+- Baby activity good.
+- Vitals checked and recorded at 09:00 AM:
+  - Temp: 98.6°F
+  - HR: 138 bpm
+  - RR: 60 breaths/min
+  - SpO2: 97%
+- TF 10-12 mg/kg given every 2 hours.
+- Dr. S. Moaki advised to:
+  - Change Nimby to CPAP
+  - Continue IVF, amikacin (last day of amikacin)
+  - IV calcium changed to oral calcium
+  - Remove CVC, added pro-a
+- Treatment given as per doctor's order
+
+SOURCE PAGE: PAGE_144
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+PROGRESS NOTES:
+- Date: 26/6/20 (Morning)
+- Current apnea episodes, no RD, no organomegaly, apneic episode.
+- Plan to continue acyplig feed and DBr+SpF.
+- Ryp-Caffeine given.
+- Monitor vitals.
+
+SOURCE PAGE: PAGE_145
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+NURSES NOTES:
+- Date: 10|6|26 (Morning)
+- One episode of desaturation with cyanosis and bradycardia, no need for stimulation.
+- Vitals checked and recorded at 10:30 AM:
+  - Temp: 98.6°F
+  - HR: 141 bpm
+  - SpO2: 97%
+  - RR: 44 breaths/min
+
+SOURCE PAGE: PAGE_146
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+PROGRESS NOTES:
+- Date: 26/6/20 (Morning)
+- Current RDS, AMontold.
+- Renreert desaturation, no RD, no organomegaly, apneic episode.
+- Plan to continue acyplig feed and DBr+SpF.
+- Ryp-Caffeine given.
+
+SOURCE PAGE: PAGE_147
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+NURSES NOTES:
+- Date: 02|6|26 (Evening)
+- Case handover talken from morning duty staff.
+- Baby on CPAP mode, vitals checked and recorded at 11:30 AM:
+  - HR: 136 bpm
+  - SpO2: 97%
+  - RR: 60 breaths/min
+
+SOURCE PAGE: PAGE_148
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+PROGRESS NOTES:
+- Date: 26/6/20 (Morning)
+- Fresh orders given at 1:30 PM:
+  - Spoonfed + fell HMF + 1 ml
+  - 3.1 NaCl alternate feeds
+  - Oral caffeine
+  - Nasoclear drops Q2H, Q8H
+  - 3.1 saline neb
+  - Monitor vitals
+
+SOURCE PAGE: PAGE_149
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+NURSES NOTES:
+- Date: 02|6|26 (Night)
+- Case handover given to night duty staff at 8 PM.
+- Baby on CPAP mode, vitals checked and recorded at 11:30 PM:
+  - HR: 146 bpm
+  - SpO2: 96%
+  - RR: 6 breaths/min
+
+SOURCE PAGE: PAGE_150
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+PROGRESS NOTES:
+- Date: 20|6|26 (Morning)
+- Baby on room air, episodes of apnea.
+- Intermittent hypoxia, pickey sulfa.
+- Well + full HMK, tolerating.
+
+SOURCE PAGE: PAGE_151
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+NURSES NOTES:
+- Date: 31|6|26 (Morning)
+- Handover taken from night duty staff at 8 AM.
+- Baby condition assessed, on CPAP mode under warm care monitor.
+- Vitals checked and recorded at 9 AM:
+  - Temp: 36.5°C
+  - HR: 141 bpm
+  - SpO2: 97%
+  - RR: 44 breaths/min
+
+SOURCE PAGE: PAGE_152
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+PROGRESS NOTES:
+- Date: 21|6|26 (Morning)
+- Baby had continuous desaturation, Dr. Kaarthik advised to send CBP, CRP, H·Calcium, Sr.Sodium.
+
+SOURCE PAGE: PAGE_153
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+NURSES NOTES:
+- Date: 4|6|26 (Afternoon)
+- X-ray done at GRBs, checked and recorded.
+- Perianal care given.
+
+SOURCE PAGE: PAGE_154
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+PROGRESS NOTES:
+- Date: 27|6|26 (Morning)
+- Weight: 1.76 kg, intake: 25 ml, output: pered.
+- Stool passed.
+
+SOURCE PAGE: PAGE_155
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+NURSES NOTES:
+- Date: 31|6|26 (Night)
+- Case handover given to morning duty staff at 8 PM.
+- Baby condition assessed, on CPAP mode under warm care monitor.
+- Vitals checked and recorded at 10 PM:
+  - HR: 146 bpm
+  - SpO2: 96%
+  - RR: 6 breaths/min
+
+SOURCE PAGE: PAGE_156
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+PROGRESS NOTES:
+- Date: 21|6|26 (Morning)
+- Baby on room air, episodes of apnea.
+- Intermittent hypoxia, pickey sulfa.
+- Well + full HMK, tolerating.
+
+SOURCE PAGE: PAGE_157
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+NURSES NOTES:
+- Date: 31|6|26 (Night)
+- Case handover given to morning duty staff at 8 PM.
+- Baby condition assessed, on CPAP mode under warm care monitor.
+
+SOURCE PAGE: PAGE_158
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+PROGRESS NOTES:
+- Date: 27|6|26 (Morning)
+- Tube feeds given, fell HMF + 1 ml.
+- 3.1 NaCl alternate feeds.
+- Oral caffeine.
+- Nasoclear drops Q2H, Q8H.
+- 3.1 saline neb.
+- Monitor vitals.
+
+SOURCE PAGE: PAGE_159
+DOCUMENT TYPE: Informed Consent Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+INFORMED CONSENT FORM FOR CRITICAL CARE INVASIVE PROCEDURE:
+- Name of the procedure(s): UVC, UAC
+- Name of attending Doctor(s): Dr. Vennela, Dr. Tepasri
+- Patient's consent given for the procedures.
+
+SOURCE PAGE: PAGE_160
+DOCUMENT TYPE: Medication Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+MEDICATION CHART:
+- Caffeine given at 10 AM, 1 mg/kg.
+- Fluvir given at 9 AM, 30 mg IV.
+- Nasoclear given at 5 AM, 5 ml Q4H.
+
+SOURCE PAGE: PAGE_161
+DOCUMENT TYPE: Informed Consent Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+INFORMED CONSENT FORM FOR CRITICAL CARE INVASIVE PROCEDURE:
+- Name of the procedure(s): UVC, UAC
+- Name of attending Doctor(s): Dr. Vennela, Dr. Tepasri
+- Patient's consent given for the procedures.
+
+SOURCE PAGE: PAGE_162
+DOCUMENT TYPE: Medication Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+MEDICATION CHART:
+- Caffeine given at 9 PM, 1 mg/kg.
+- Fluvir given at 9 AM, 30 mg IV.
+- Nasoclear given at 5 AM, 5 ml Q4H.
+
+SOURCE PAGE: PAGE_163
+DOCUMENT TYPE: Informed Consent Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+INFORMED CONSENT FORM FOR CRITICAL CARE INVASIVE PROCEDURE:
+- Name of the procedure(s): UVC, UAC
+- Name of attending Doctor(s): Dr. Vennela, Dr. Tepasri
+- Patient's consent given for the procedures.
+
+SOURCE PAGE: PAGE_164
+DOCUMENT TYPE: Medication Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+MEDICATION CHART:
+- Caffeine given at 4 PM, 1 mg/kg.
+- Fluvir given at 3 PM, 30 mg IV.
+- Nasoclear given at 5 AM, 5 ml Q4H.
+
+
+========================================================================
+STRUCTURED PART 0008
+SOURCE PAGES: PAGE_0165 TO PAGE_0178
+========================================================================
+
+SOURCE PAGE: PAGE_165
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+FLUID REQUIREMENTS:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+RESPIRATORY SUPPORT:
+- FLUID/DRUG: IVF10%
+- Rate: 2.0 ml/hr
+
+NEUROLOGICAL STATUS:
+- Not documented
+
+SEIZURES:
+- Not documented
+
+HYPOGLYCEMIA / GLUCOSE:
+- Not documented
+
+FEEDING / NUTRITION:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+FLUIDS:
+- PARENTAL FLUIDS: IVF10%
+- Rate: 2.0 ml/hr
+
+MEDICATIONS:
+- Regular Medication: 
+  - Drug: Syp
+  - Start Date: 26/64
+  - Dose: 0.4ml
+  - Route: Oral
+  - Frequency: Once daily
+
+INVESTIGATIONS:
+- Not documented
+
+PROCEDURES:
+- Not documented
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+
+DAILY PROGRESS:
+- Adm Date: 31-05-2026, 10:11 AM
+- FLUID REQUIREMENTS: IVF10%
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+SOURCE PAGE: PAGE_166
+DOCUMENT TYPE: Medication Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+MEDICATIONS:
+- Regular Medication: 
+  - Drug: Syp
+  - Start Date: 26/64
+  - Dose: 0.4ml
+  - Route: Oral
+  - Frequency: Once daily
+
+SOURCE PAGE: PAGE_167
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+FLUID REQUIREMENTS:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+RESPIRATORY SUPPORT:
+- FLUID/DRUG: IVF10%
+- Rate: 2.0 ml/hr
+
+NEUROLOGICAL STATUS:
+- Not documented
+
+SEIZURES:
+- Not documented
+
+HYPOGLYCEMIA / GLUCOSE:
+- Not documented
+
+FEEDING / NUTRITION:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+FLUIDS:
+- PARENTAL FLUIDS: IVF10%
+- Rate: 2.0 ml/hr
+
+MEDICATIONS:
+- Regular Medication: 
+  - Drug: Syp
+  - Start Date: 26/64
+  - Dose: 0.4ml
+  - Route: Oral
+  - Frequency: Once daily
+
+INVESTIGATIONS:
+- Not documented
+
+PROCEDURES:
+- Not documented
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+
+DAILY PROGRESS:
+- Adm Date: 31-05-2026, 10:11 AM
+- FLUID REQUIREMENTS: IVF10%
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+SOURCE PAGE: PAGE_168
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+NURSING CARE PLAN:
+- To provide care as per the plan
+- Consultation with Dr. Srinivas Murki
+
+SOURCE PAGE: PAGE_169
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+FLUID REQUIREMENTS:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+RESPIRATORY SUPPORT:
+- FLUID/DRUG: IVF10%
+- Rate: 2.0 ml/hr
+
+NEUROLOGICAL STATUS:
+- Not documented
+
+SEIZURES:
+- Not documented
+
+HYPOGLYCEMIA / GLUCOSE:
+- Not documented
+
+FEEDING / NUTRITION:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+FLUIDS:
+- PARENTAL FLUIDS: IVF10%
+- Rate: 2.0 ml/hr
+
+MEDICATIONS:
+- Regular Medication: 
+  - Drug: Syp
+  - Start Date: 26/64
+  - Dose: 0.4ml
+  - Route: Oral
+  - Frequency: Once daily
+
+INVESTIGATIONS:
+- Not documented
+
+PROCEDURES:
+- Not documented
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+
+DAILY PROGRESS:
+- Adm Date: 31-05-2026, 10:11 AM
+- FLUID REQUIREMENTS: IVF10%
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+SOURCE PAGE: PAGE_170
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+NURSING CARE PLAN:
+- To provide care as per the plan
+- Consultation with Dr. Srinivas Murki
+
+SOURCE PAGE: PAGE_171
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+FLUID REQUIREMENTS:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+RESPIRATORY SUPPORT:
+- FLUID/DRUG: IVF10%
+- Rate: 2.0 ml/hr
+
+NEUROLOGICAL STATUS:
+- Not documented
+
+SEIZURES:
+- Not documented
+
+HYPOGLYCEMIA / GLUCOSE:
+- Not documented
+
+FEEDING / NUTRITION:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+FLUIDS:
+- PARENTAL FLUIDS: IVF10%
+- Rate: 2.0 ml/hr
+
+MEDICATIONS:
+- Regular Medication: 
+  - Drug: Syp
+  - Start Date: 26/64
+  - Dose: 0.4ml
+  - Route: Oral
+  - Frequency: Once daily
+
+INVESTIGATIONS:
+- Not documented
+
+PROCEDURES:
+- Not documented
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+
+DAILY PROGRESS:
+- Adm Date: 31-05-2026, 10:11 AM
+- FLUID REQUIREMENTS: IVF10%
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+SOURCE PAGE: PAGE_172
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+NURSING CARE PLAN:
+- To provide care as per the plan
+- Consultation with Dr. Srinivas Murki
+
+SOURCE PAGE: PAGE_173
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+FLUID REQUIREMENTS:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+RESPIRATORY SUPPORT:
+- FLUID/DRUG: IVF10%
+- Rate: 2.0 ml/hr
+
+NEUROLOGICAL STATUS:
+- Not documented
+
+SEIZURES:
+- Not documented
+
+HYPOGLYCEMIA / GLUCOSE:
+- Not documented
+
+FEEDING / NUTRITION:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+FLUIDS:
+- PARENTAL FLUIDS: IVF10%
+- Rate: 2.0 ml/hr
+
+MEDICATIONS:
+- Regular Medication: 
+  - Drug: Syp
+  - Start Date: 26/64
+  - Dose: 0.4ml
+  - Route: Oral
+  - Frequency: Once daily
+
+INVESTIGATIONS:
+- Not documented
+
+PROCEDURES:
+- Not documented
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+
+DAILY PROGRESS:
+- Adm Date: 31-05-2026, 10:11 AM
+- FLUID REQUIREMENTS: IVF10%
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+SOURCE PAGE: PAGE_174
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+NURSING CARE PLAN:
+- To provide care as per the plan
+- Consultation with Dr. Srinivas Murki
+
+SOURCE PAGE: PAGE_175
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+FLUID REQUIREMENTS:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+RESPIRATORY SUPPORT:
+- FLUID/DRUG: IVF10%
+- Rate: 2.0 ml/hr
+
+NEUROLOGICAL STATUS:
+- Not documented
+
+SEIZURES:
+- Not documented
+
+HYPOGLYCEMIA / GLUCOSE:
+- Not documented
+
+FEEDING / NUTRITION:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+FLUIDS:
+- PARENTAL FLUIDS: IVF10%
+- Rate: 2.0 ml/hr
+
+MEDICATIONS:
+- Regular Medication: 
+  - Drug: Syp
+  - Start Date: 26/64
+  - Dose: 0.4ml
+  - Route: Oral
+  - Frequency: Once daily
+
+INVESTIGATIONS:
+- Not documented
+
+PROCEDURES:
+- Not documented
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+
+DAILY PROGRESS:
+- Adm Date: 31-05-2026, 10:11 AM
+- FLUID REQUIREMENTS: IVF10%
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+SOURCE PAGE: PAGE_176
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+NURSING CARE PLAN:
+- To provide care as per the plan
+- Consultation with Dr. Srinivas Murki
+
+SOURCE PAGE: PAGE_177
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+FLUID REQUIREMENTS:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+RESPIRATORY SUPPORT:
+- FLUID/DRUG: IVF10%
+- Rate: 2.0 ml/hr
+
+NEUROLOGICAL STATUS:
+- Not documented
+
+SEIZURES:
+- Not documented
+
+HYPOGLYCEMIA / GLUCOSE:
+- Not documented
+
+FEEDING / NUTRITION:
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+FLUIDS:
+- PARENTAL FLUIDS: IVF10%
+- Rate: 2.0 ml/hr
+
+MEDICATIONS:
+- Regular Medication: 
+  - Drug: Syp
+  - Start Date: 26/64
+  - Dose: 0.4ml
+  - Route: Oral
+  - Frequency: Once daily
+
+INVESTIGATIONS:
+- Not documented
+
+PROCEDURES:
+- Not documented
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+
+DAILY PROGRESS:
+- Adm Date: 31-05-2026, 10:11 AM
+- FLUID REQUIREMENTS: IVF10%
+- ORAL FEEDS: Not specified
+- VOLUME: Not specified
+- FREQUENCY: Not specified
+
+SOURCE PAGE: PAGE_178
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 0 D (Days)
+
+EXAMINATION:
+- Diagnosis: Not explicitly documented
+
+NURSING CARE PLAN:
+- To provide care as per the plan
+- Consultation with Dr. Srinivas Murki
+
+
+========================================================================
+STRUCTURED PART 0009
+SOURCE PAGES: PAGE_0179 TO PAGE_0200
+========================================================================
+
+SOURCE PAGE: PAGE_179
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- Respiratory Rate (RR): Varies
+- Heart Rate (HR): Varies
+- Blood Pressure (BP): Varies
+- SpO2: Varies
+- ETCO2: Varies
+
+VITAL SIGNS
+- Temperature: 36.5 - 98.7°C
+- Skin Condition: Normal
+
+MEDICATIONS
+- No specific medications listed.
+
+INVESTIGATIONS
+- Blood Gas Analysis: Not specified.
+- CRP: 4.3 mg/L (01/06)
+- Electrolytes: Na+ 139, K+ 5.0, Cl+ 105, Ca2+ 9.3, PO4 4.94, Mg2+ Not specified
+- Renal Function Tests: Urea 13.9 mg/dL, BUN 6.4 mg/dL, Creatinine 0.1 mg/dL, GFR 3.4 mL/min/1.73 m²
+- Liver Function Tests: Total Bilirubin 3.2 mg/dL, Direct Bilirubin 0.3 mg/dL, Indirect Bilirubin 2.9 mg/dL, AST 55 U/L, ALT 4.6 U/L, ALP 327.8 U/L, GGT 6.33 mU/L
+
+PROCEDURES
+- No specific procedures listed.
+
+CONSULTATIONS
+- Specialist: Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not specified.
+- Feeding: Not specified.
+- Discharge Medicines: Not specified.
+- Advice: Not specified.
+- Follow-up: Not specified.
+- Pending Investigations: Not specified.
+
+SOURCE PAGE: PAGE_180
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- Respiratory Rate (RR): Varies
+- Heart Rate (HR): Varies
+- Blood Pressure (BP): Varies
+- SpO2: Varies
+- ETCO2: Varies
+
+MEDICATIONS
+- No specific medications listed.
+
+INVESTIGATIONS
+- Blood Gas Analysis: Not specified.
+- CRP: 4.3 mg/L (01/06)
+- Electrolytes: Na+ 139, K+ 5.0, Cl+ 105, Ca2+ 9.3, PO4 4.94, Mg2+ Not specified
+- Renal Function Tests: Urea 13.9 mg/dL, BUN 6.4 mg/dL, Creatinine 0.1 mg/dL, GFR 3.4 mL/min/1.73 m²
+- Liver Function Tests: Total Bilirubin 3.2 mg/dL, Direct Bilirubin 0.3 mg/dL, Indirect Bilirubin 2.9 mg/dL, AST 55 U/L, ALT 4.6 U/L, ALP 327.8 U/L, GGT 6.33 mU/L
+
+PROCEDURES
+- No specific procedures listed.
+
+CONSULTATIONS
+- Specialist: Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not specified.
+- Feeding: Not specified.
+- Discharge Medicines: Not specified.
+- Advice: Not specified.
+- Follow-up: Not specified.
+- Pending Investigations: Not specified.
+
+SOURCE PAGE: PAGE_183
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+- Patient Name: N Akshaya
+- UHID: 162607289
+- IPD: LB26/2558
+- Gender: Male
+- Age: 0 days
+
+LABORATORY TESTS
+- Hematology:
+  - HB%: 16.0, 17.0%
+  - PCV/HCT: 47.4%, 52.5%
+  - WBC: 10300, 8000/µL
+  - RBC: 5.00 x 10^6/µL
+  - Platelet count: 345000, 343000/µL
+- CRP: 4.3 mg/L (01/06)
+- Electrolytes:
+  - Na+: 139 mEq/L
+  - K+: 5.0 mEq/L
+  - Cl+: 105 mEq/L
+  - Ca2+: 9.3 mg/dL, PO4: 4.94 mg/dL
+- Renal Function Tests:
+  - Urea: 13.9 mg/dL
+  - BUN: 6.4 mg/dL
+  - Creatinine: 0.1 mg/dL
+  - GFR: 3.4 mL/min/1.73 m²
+- Liver Function Tests:
+  - Total Bilirubin: 3.2 mg/dL, Direct Bilirubin: 0.3 mg/dL, Indirect Bilirubin: 2.9 mg/dL
+  - AST: 55 U/L
+  - ALT: 4.6 U/L
+  - ALP: 327.8 U/L
+  - GGT: 6.33 mU/L
+
+SOURCE PAGE: PAGE_189
+DOCUMENT TYPE: Education Form
+
+PATIENT IDENTIFICATION
+- Patient Name: N Akshaya
+- UHID: 162607289
+- IPD: LB26/2558
+- Gender: Male
+- Age: 0 days
+
+EDUCATION PROVIDED:
+- CPAP extubation plan.
+- Increase in tube feeds.
+- Change to NIV support.
+
+SOURCE PAGE: PAGE_194
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- Respiratory Rate (RR): Varies
+- Heart Rate (HR): Varies
+- Blood Pressure (BP): Varies
+- SpO2: Varies
+- ETCO2: Varies
+
+MEDICATIONS
+- No specific medications listed.
+
+INVESTIGATIONS
+- Blood Gas Analysis: Not specified.
+- CRP: 4.3 mg/L (01/06)
+- Electrolytes: Na+ 139, K+ 5.0, Cl+ 105, Ca2+ 9.3, PO4 4.94, Mg2+ Not specified
+- Renal Function Tests: Urea 13.9 mg/dL, BUN 6.4 mg/dL, Creatinine 0.1 mg/dL, GFR 3.4 mL/min/1.73 m²
+- Liver Function Tests: Total Bilirubin 3.2 mg/dL, Direct Bilirubin 0.3 mg/dL, Indirect Bilirubin 2.9 mg/dL, AST 55 U/L, ALT 4.6 U/L, ALP 327.8 U/L, GGT 6.33 mU/L
+
+PROCEDURES
+- No specific procedures listed.
+
+CONSULTATIONS
+- Specialist: Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not specified.
+- Feeding: Not specified.
+- Discharge Medicines: Not specified.
+- Advice: Not specified.
+- Follow-up: Not specified.
+- Pending Investigations: Not specified.
+
+SOURCE PAGE: PAGE_198
+DOCUMENT TYPE: Nebulization Chart
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NEBULIZATION RECORDS:
+- 1m1: Adrenaline (Pcuelle)
+- 1pm: Adrenaline (Pcuelle)
+
+SOURCE PAGE: PAGE_199
+DOCUMENT TYPE: Requisition Form
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+LABORATORY TESTS REQUESTED:
+- Hematology: Complete Blood Picture (CBP), CRP, BGT
+- Urinalysis: Urine Pregnancy Test (UPT)
+- Biochemistry: Renal Function Tests (RFT), Liver Function Tests (LFT)
+- Microbiology: VDRL, Blood for Culture & Sensitivity, Serum IgE, Newborn Screening, Urine for Culture & Sensitivity, Metabolic Screening, Stool for Culture & Sensitivity, Karotype Test, Throat Swab for Culture & Sensitivity, Syndrome Evaluation System (SES), CSF for Culture & Sensitivity
+
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/LAB/F/01
+
+
+========================================================================
+STRUCTURED PART 0010
+SOURCE PAGES: PAGE_0201 TO PAGE_0214
+========================================================================
+
+SOURCE PAGE: PAGE_201
+DOCUMENT TYPE: Requisition Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+LABORATORY TESTS REQUESTED:
+- Hemoglobin/Pathology
+- AFB For Culture & Sensitivity
+- Complete Blood Picture (CBP)
+- CSF Lactate
+- PCV
+- CSF Pyruvate
+- HIV I & II (Rapid)
+- Platelet Count
+- HIVI & II (ELISA)
+- Hemoglobin
+- HbsAg
+- AEC Absolute Eosinophil Count
+- Peripheral Smear
+- Hepatitis - A (IgM)
+- Smear for MP
+- Leptospira IgM
+- Parasite V & F
+- Weil Felix
+- QBC
+- HCV
+- ESR (Erythrocyte Sedimentation Rate)
+- Dengue IgG
+- Blood Group & Rh Type
+- Direct Coombs Test
+- Dengue IgM
+- Indirect Coombs Test
+- Dengue Ns1 Antigen
+- Bleeding Time
+- TB PCR
+- Clotting Time
+- HSV-PCR
+- Complete Urine Examination (CUE)
+- Mantoux Test
+- RA Factor
+- Stool Routine Examination
+- Rotavirus Antigen Defection
+- CSF Cell Type & Count
+- ASO
+- Factor Assay
+- Widal Test
+- Anemia Profile
+- TORCH Profile
+- Triple Marker: TSH, FTy, TSB
+- Urine Pregnancy Test (UPT)
+- Gram Stain
+- AFB Smear
+
+SOURCE PAGE: PAGE_202
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+NURSING CARE PLAN:
+- DOA: 31/10/2026
+- Position: Supine
+- Pain Management: Noted
+- Diarrhea: Observed
+- Gastrointestinal Status: Normal
+- Monitoring: Performed
+- Feeding: Oral feeding provided
+- Respiratory Status: Monitored
+
+SOURCE PAGE: PAGE_203
+DOCUMENT TYPE: Requisition Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+LABORATORY TESTS REQUESTED:
+- Hemoglobin/Pathology
+- AFB For Culture & Sensitivity
+- Complete Blood Picture (CBP)
+- CSF Lactate
+- PCV
+- CSF Pyruvate
+- HIV I & II (Rapid)
+- Platelet Count
+- HIVI & II (ELISA)
+- Hemoglobin
+- HbsAg
+- AEC Absolute Eosinophil Count
+- Peripheral Smear
+- Hepatitis - A (IgM)
+- Smear for MP
+- Leptospira IgM
+- Parasite V & F
+- Weil Felix
+- QBC
+- HCV
+- ESR (Erythrocyte Sedimentation Rate)
+- Dengue IgG
+- Blood Group & Rh Type
+- Direct Coombs Test
+- Dengue IgM
+- Indirect Coombs Test
+- Dengue Ns1 Antigen
+- Bleeding Time
+- TB PCR
+- Clotting Time
+- HSV-PCR
+- Complete Urine Examination (CUE)
+- Mantoux Test
+- RA Factor
+- Stool Routine Examination
+- Rotavirus Antigen Defection
+- CSF Cell Type & Count
+- ASO
+- Factor Assay
+- Widal Test
+- Anemia Profile
+- TORCH Profile
+- Triple Marker: CBP, CRP
+- Urine Pregnancy Test (UPT)
+- Sr. Calcium
+- Gram Stain
+
+SOURCE PAGE: PAGE_204
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+NURSING CARE PLAN:
+- DOA: 31/10/2026
+- Position: Supine
+- Pain Management: Noted
+- Diarrhea: Observed
+- Gastrointestinal Status: Normal
+- Monitoring: Performed
+- Feeding: Oral feeding provided
+- Respiratory Status: Monitored
+
+SOURCE PAGE: PAGE_205
+DOCUMENT TYPE: Billing Record
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_206
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+NURSING CARE PLAN:
+- DOA: 31/10/2026
+- Position: Supine
+- Pain Management: Noted
+- Diarrhea: Observed
+- Gastrointestinal Status: Normal
+- Monitoring: Performed
+- Feeding: Oral feeding provided
+- Respiratory Status: Monitored
+
+SOURCE PAGE: PAGE_207
+DOCUMENT TYPE: Billing Record
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_208
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+NURSING CARE PLAN:
+- DOA: 31/10/2026
+- Position: Supine
+- Pain Management: Noted
+- Diarrhea: Observed
+- Gastrointestinal Status: Normal
+- Monitoring: Performed
+- Feeding: Oral feeding provided
+- Respiratory Status: Monitored
+
+SOURCE PAGE: PAGE_209
+DOCUMENT TYPE: Billing Record
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_210
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+NURSING CARE PLAN:
+- DOA: 31/10/2026
+- Position: Supine
+- Pain Management: Noted
+- Diarrhea: Observed
+- Gastrointestinal Status: Normal
+- Monitoring: Performed
+- Feeding: Oral feeding provided
+- Respiratory Status: Monitored
+
+SOURCE PAGE: PAGE_211
+DOCUMENT TYPE: Billing Record
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_212
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+NURSING CARE PLAN:
+- DOA: 31/10/2026
+- Position: Supine
+- Pain Management: Noted
+- Diarrhea: Observed
+- Gastrointestinal Status: Normal
+- Monitoring: Performed
+- Feeding: Oral feeding provided
+- Respiratory Status: Monitored
+
+SOURCE PAGE: PAGE_213
+DOCUMENT TYPE: VAP Maintenance & Checklist
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+VENTILATION AND MAINTENANCE CHECKLIST:
+- Date of Admission: 31/10/2026
+- Ward / Room No.: NICU
+- Admission Diagnosis: PT-RD - RDS
+- Name of Antibiotics (Primary / Empirical): Piperacillin Tazobactam, Amikacin
+
+CHECKLIST ITEMS:
+1. Hand Hygiene: Performed
+2. New or Progressive & Persistent Infiltrate: Noted
+3. Fever (After 48 hrs) - Temperature > 38C: Noted
+4. WBC Count <4000/ mm3 or > 11000: Noted
+5. Ready for Extubation Today: No
+6. Sedation Holiday Discussed: No
+7. Ventilator Circuit Visibly Soiled: Noted
+8. Suction Container Visible Soiled: Noted
+9. Inline Suction Used or Closed Suction System: Noted
+10. Ambu Bag Kept in a Clean, Non-Sealed Plastic Bag: Yes
+11. Head Elevated by 15-30° A: Yes
+12. Oral and Nasal Care Every 4 Hrs: Performed
+13. Mouth Care with FBM (Only for Neonatal Patient): Noted
+14. ET/Oral Suction Needed (2nd Hourly): No
+15. If Suctioned, Document Amount & Quality of Secretions: Noted
+
+SOURCE PAGE: PAGE_214
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+NURSING CARE PLAN:
+- DOA: 31/10/2026
+- Position: Supine
+- Pain Management: Noted
+- Diarrhea: Observed
+- Gastrointestinal Status: Normal
+- Monitoring: Performed
+- Feeding: Oral feeding provided
+- Respiratory Status: Monitored
+
+
+========================================================================
+STRUCTURED PART 0011
+SOURCE PAGES: PAGE_0215 TO PAGE_0232
+========================================================================
+
+SOURCE PAGE: PAGE_215
+DOCUMENT TYPE: CLABSI MAINTENANCE & BUNDLE CHECKLIST
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- CLABSI Bundle insertion and maintenance
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Date of Insertion: 31/05/2026
+- Indications: PT - SHOCK RISK
+- CLABSI Bundle Checklist items marked as "Yes"
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_216
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Not applicable for this page.
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_217
+DOCUMENT TYPE: CLABSI MAINTENANCE & BUNDLE CHECKLIST
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- CLABSI Bundle maintenance
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Date of Insertion: 31/05/2026
+- Indications: PT - SHOCK RISK
+- CLABSI Bundle Checklist items marked as "Yes"
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_218
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Not applicable for this page.
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_219
+DOCUMENT TYPE: REQUISITION FOR MICROBIOLOGY & IMMUNO-SEROLOGY
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2558
+- Gender: Male
+- Age: 1 day
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Test Name: Blood Culture
+- Sample Date/Time: 31/05/2026 10:30 AM
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Not applicable for this page.
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_220
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Not applicable for this page.
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_221
+DOCUMENT TYPE: GRBS MONITORING
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2558
+- Gender: Male
+- Age: 1 day
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Date of Admission: 31/05/2026 10:11 AM
+- GRBS Monitoring details provided.
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_222
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Not applicable for this page.
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_223
+DOCUMENT TYPE: PATIENT ACUITY SCORE & ALLOCATION
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2558
+- Gender: Male
+- Age: 1 day
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Acuity Score details provided.
+- DOA: 31/05/2026 10:11 AM
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_224
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Not applicable for this page.
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_225
+DOCUMENT TYPE: PATIENT ACUITY SCORE & ALLOCATION
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2558
+- Gender: Male
+- Age: 1 day
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Acuity Score details provided.
+- DOA: 31/05/2026 10:11 AM
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_226
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Not applicable for this page.
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_227
+DOCUMENT TYPE: PATIENT ACUITY SCORE & ALLOCATION
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2558
+- Gender: Male
+- Age: 1 day
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Acuity Score details provided.
+- DOA: 31/05/2026 10:11 AM
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_228
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Not applicable for this page.
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_229
+DOCUMENT TYPE: PATIENT ACUITY SCORE & ALLOCATION
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2558
+- Gender: Male
+- Age: 1 day
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Acuity Score details provided.
+- DOA: 31/05/2026 10:11 AM
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_230
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Not applicable for this page.
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Not applicable for this page.
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_231
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2558
+- Gender: Male
+- Age: 1 day
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Test Name: C-Reactive Protein (CRP)
+- Result: 0.07 mg/L
+- Reference Interval: 0.01 - 6.00
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Sample Date/Time: 31/05/2026 10:30 AM
+- Report Date: 31/05/2026 1:25 PM
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+SOURCE PAGE: PAGE_232
+DOCUMENT TYPE: LABORATORY REPORT
+
+PATIENT IDENTIFICATION:
+- Patient Name: Blo N Akshaya
+- UHID: 162607289
+- IPD: LB26/2558
+- Gender: Male
+- Age: 1 day
+
+CLINICAL SAFETY:
+- No clinical facts were invented.
+- Dates and times are preserved.
+
+MATERNAL / ANTENATAL HISTORY:
+- Not applicable for this page.
+
+BIRTH DETAILS:
+- Not applicable for this page.
+
+ADMISSION:
+- Not applicable for this page.
+
+NICU COURSE:
+- Not applicable for this page.
+
+MEDICATIONS:
+- Not applicable for this page.
+
+INVESTIGATIONS:
+- Test Name: C-Reactive Protein (CRP)
+- Result: 0.07 mg/L
+- Reference Interval: 0.01 - 6.00
+
+PROCEDURES:
+- Not applicable for this page
+
+CONSULTATIONS:
+- Consultant: Dr. Srinivas Murki
+- Diagnoses: PT - RD - ROS
+
+DAILY PROGRESS:
+- Sample Date/Time: 31/05/2026 10:30 AM
+- Report Date: 31/05/2026 1:25 PM
+
+DISCHARGE-RELATED INFORMATION:
+- Not applicable for this page.
+
+
+========================================================================
+STRUCTURED PART 0012
+SOURCE PAGES: PAGE_0233 TO PAGE_0249
+========================================================================
+
+SOURCE PAGE: PAGE_233
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 1 Day
+
+LABORATORY TESTS:
+
+BIOCHEMISTRY:
+- CREATININE - SERUM: 0.41 mg/dL (Reference Range: 0.3 - 0.9)
+- BLOOD UREA: 13.9 L mg/dL (Reference Range: 16.60 - 48.50)
+- BLOOD UREA NITROGEN (BUN): 6.4 mg/dL (Reference Range: 6.00 - 20.00)
+- URIC ACID: 3.7 mg/dL (Reference Range: 3.50 - 7.20)
+- CALCIUM SERUM: 9.3 mg/dL (Reference Range: 8.80 - 10.80)
+- SODIUM SERUM: 139 mmol/L (Reference Range: 133.00 - 144.00)
+- POTASSIUM SERUM: 5.0 mmol/L (Reference Range: 3.40 - 5.10)
+- CHLORIDE SERUM: 105 mmol/L (Reference Range: 97.00 - 107.00)
+
+HEMATOLOGY:
+- HAEMOGLOBIN (HB): 16.0 g/dL (Reference Range: 14.00 - 22.00)
+- PACKED CELL VOLUME (PCV): 47.4% (Reference Range: 45.00 - 75.00)
+- MCV: 104.3 fL (Reference Range: 100.00 - 120.00)
+- MCH: 35.1 pg (Reference Range: 31.00 - 37.00)
+- MCHC: 33.7 gm/dl (Reference Range: 30.00 - 36.00)
+- RBC COUNT: 4.55 x 10^6/uL (Reference Range: 5.00 - 7.00)
+- WBC COUNT: 10,300 cells/cumm (Reference Range: 10,000.00 - 26,000.00)
+- PLATELET COUNT: 345,000 /mm3 (Reference Range: 100,000.00 - 450,000.00)
+
+HEMATOLOGY (DIFFERENTIAL):
+- NEUTROPHILS: 20% (Reference Range: 40.00 - 60.00)
+- LYMPHOCYTES: 72% (Reference Range: 10.00 - 30.00)
+- EOSINOPHILS: 0.2% (Reference Range: 1.00 - 4.00)
+- MONOCYTES: 0.6% (Reference Range: 1.00 - 6.00)
+- BASOPHILS: 0%
+
+BLOOD GROUPING AND RH TYPING:
+- BLOOD GROUP: O
+- RH TYPING: Positive
+
+SOURCE PAGE: PAGE_234
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 1 Day
+
+LABORATORY TESTS:
+
+BIOCHEMISTRY:
+- TOTAL BILIRUBIN: 6.4 mg/dL (Reference Range: Less than 24 Hours - Below 6 mg/dl, 24-48 Hours - Below 10 mg/dl, 48-72 Hours - Below 12 mg/dl, Older than 72 Hours - Below 15 mg/dl)
+- DIRECT BILIRUBIN: 1.0 H mg/dL (Reference Range: 0.33 - 0.71)
+- INDIRECT BILIRUBIN: 5.40 mg/dL (Reference Range: 0.00 - 12.00)
+
+IMMUNOLOGY:
+- THYROID STIMULATING HORMONE (TSH): 6.33 uIU/ml (Pregnancy Reference Range: First trimester >0.1 mIU/L and <2.5 mIU/L, Second trimester >0.2 miU/L and <3.0 mlu/L, Third trimester >0.3 miUiL and <3.0 mIU/L, Premature, 28-36 wk 0.7 to 27.0 ulU/ml, Cord Blood (>37 wk) 2.3 to 13.2 ui/ml, Children Birth-4 Days - 1.0 to 39.0 ulU/ml, 2-20 wk - 1.7 to 9.1 uU/ml, 21 wk to 20 yr - 0.7 to 6.4 uiu/ml, Adults Male 21-87 yr - 0.4 to 4.5 ulU/ml, Female 18-20 yr - 0.7 to 6.4 uiu/ml, Female 21-54 yr - 0.4 to 4.5 uiu/ml)
+
+SOURCE PAGE: PAGE_239
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: N AKSHAYA
+- UHID NO: 162607289
+- IPD NO: LB26/2772
+- Age: 15 D
+- Gender: Male
+- Consult: DR. SRINIVAS MURKI
+- Adm Date: 15-06-2026 12:19 PM
+
+NURSES NOTES:
+- Baby received from OP at 1:30 pm.
+- Hand over taken by Srawan at 2:00 pm.
+- Baby is conscious and stable, had apneas.
+- Cautious use of CUAP, CBP, CFPI, VBG, Blood Clotting, RF Test.
+- Given fluids and passed urine.
+- Gavage tube insertion done.
+- Hand over to Freeva at 2:15 pm.
+
+SOURCE PAGE: PAGE_240
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 1 Day
+
+LABORATORY TESTS:
+
+MICROBIOLOGY:
+- CULTURE AND SENSITIVITY - AUTOMATED/VITEK, BLOOD:
+  - PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+  - PRELIMINARY 2: No bacterial growth seen after 48 hours of aerobic incubation.
+
+SOURCE PAGE: PAGE_243
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 3 Days
+
+LABORATORY TESTS:
+
+BIOCHEMISTRY:
+- C-REACTIVE PROTEIN (CRP): 4.30 mg/L (Reference Range: 0.01 - 6.00)
+- IONIC CALCIUM: 4.94 mg/dL (Children Reference Range: 4.8-5.52, Adult Reference Range: 4.64-5.28)
+- SODIUM SERUM: 143 mmol/L (Reference Range: 133.00 - 144.00)
+
+BIOCHEMISTRY:
+- HAEMOGLOBIN (HB): 17.00 g/dL (Reference Range: 15.00 - 21.00)
+- PACKED CELL VOLUME (PCV): 52.50% (Reference Range: 45.00 - 67.00)
+- MCV: 105.00 fL (Reference Range: 92.00 - 118.00)
+- MCH: 33.90 pg (Reference Range: 31.00 - 37.00)
+- MCHC: 32.30 gm/dl (Reference Range: 29.00 - 37.00)
+- RBC COUNT: 5.00 x 10^6/uL (Reference Range: 4.00 - 6.60)
+- WBC COUNT: 8,000 cells/cumm (Reference Range: 7,000.00 - 23,000.00)
+- PLATELET COUNT: 343,000 /mm3 (Reference Range: 160,000.00 - 500,000.00)
+
+SOURCE PAGE: PAGE_248
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: N AKSHAYA
+- UHID NO: 162607289
+- IPDNO: LB26/2772
+- Age: 15 D
+- Gender: Male
+- Consult: DR. SRINIVAS MURKI
+- Adm Date: 15-06-2026 12:19 PM
+
+NURSES NOTES:
+- Night outy taken from evening duty staff at 8 pm.
+- Hand over to case Anasuys at 8.30 pm.
+- General condition of the baby assessed and found active on CPAP support.
+- Baby is under radiant warmer, better activity observed.
+- Baby was passed urine and stool.
+- Syrup and fluvir Azee given.
+- Nasoclear drops administered hourly.
+- Baby had an episode of fever at 3 am with crocin drops 0.5 ml given.
+- Intermittent apnea noted.
+
+SOURCE PAGE: PAGE_249
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: N AKSHAYA
+- UHID NO: 162607289
+- IPDNO: LB26/2772
+- Age: 15 D
+- Gender: Male
+- Consult: DR. SRINIVAS MURKI
+- Adm Date: 15-06-2026 12:19 PM
+
+NURSES NOTES:
+- Treatment given as per doctor's orders at 3 am.
+- Goy massage done, weight checked and recorded.
+- Suction done.
+- Oral and nasal gat checked and rechecked.
+- No vomiting noted.
+- No apnea observed.
+- Hand over to morning staff.
+
+
+========================================================================
+STRUCTURED PART 0013
+SOURCE PAGES: PAGE_0250 TO PAGE_0272
+========================================================================
+
+SOURCE PAGE: PAGE_250
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_251
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_252
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_253
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_254
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_255
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_256
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_257
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_258
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_259
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_260
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_261
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_262
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_263
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_264
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_265
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_266
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_267
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_268
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_269
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_270
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_271
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+SOURCE PAGE: PAGE_272
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+
+NURSES NOTES
+- Date of Admission: 15-06-2026 12:19 PM
+- Nurse's Name: Anasupa, Roja, Shanay, Manisha
+- Shift: Morning and Evening Duty
+
+CLINICAL PROGRESS
+- Baby on CPAP with FiO2 25%
+- Vitals monitored (HR: 148, SpO2: 97%, Temp: 36.7°C)
+- C-Pap continued
+- Amikacin given for suspected infection
+- Dr. Srinivas Murki rounds done
+- No desaturations, stable condition
+
+
+========================================================================
+STRUCTURED PART 0014
+SOURCE PAGES: PAGE_0273 TO PAGE_0293
+========================================================================
+
+SOURCE PAGE: PAGE_273
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby under warm care
+- Baby's vitals checked and recorded
+- 2 hourly feeding given
+
+VITAL SIGNS
+- Baby on Room air
+- No episode of apnea
+
+MEDICATIONS
+- Caffeine given
+
+FEEDING / NUTRITION
+- Oral caffeine (7 mg) given at 8:15 AM
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Mother came for TIF (Therapeutic Feeding Instruction)
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_274
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby's vitals checked and recorded
+- Baby on Room air
+- No other issues
+
+VITAL SIGNS
+- Baby's vitals checked and recorded
+
+MEDICATIONS
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, 6:00 AM
+
+FEEDING / NUTRITION
+- Feeding of 25 ml given every 3 hours
+- Baby passed urine and stool
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_275
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- Baby had one episode of vomiting
+- Evening rounds done to baby
+
+SOURCE PAGE: PAGE_276
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby's vitals checked and recorded
+- Baby on Room air
+- No other issues
+
+VITAL SIGNS
+- Baby's vitals checked and recorded
+
+MEDICATIONS
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, 6:00 AM
+
+FEEDING / NUTRITION
+- Feeding of 25 ml given every 3 hours
+- Baby passed urine and stool
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_277
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby's vitals checked and recorded
+- Baby passed urine and stool
+
+VITAL SIGNS
+- Baby's vitals checked and recorded
+
+MEDICATIONS
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, 6:00 AM
+
+FEEDING / NUTRITION
+- Feeding of 25 ml given every 3 hours
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_278
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby's vitals checked and recorded
+- Baby passed urine and stool
+
+VITAL SIGNS
+- Baby's vitals checked and recorded
+
+MEDICATIONS
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, 6:00 AM
+
+FEEDING / NUTRITION
+- Feeding of 25 ml given every 3 hours
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_279
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby's vitals checked and recorded
+
+VITAL SIGNS
+- Baby's vitals checked and recorded
+
+MEDICATIONS
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, 6:00 AM
+
+FEEDING / NUTRITION
+- Feeding of 25 ml given every 3 hours
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_280
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby's vitals checked and recorded
+- Baby on Room air
+- No other issues
+
+VITAL SIGNS
+- Baby's vitals checked and recorded
+
+MEDICATIONS
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, 6:00 AM
+
+FEEDING / NUTRITION
+- Feeding of 25 ml given every 3 hours
+- Baby passed urine and stool
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_281
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby's vitals checked and recorded
+- Baby passed urine and stool
+
+VITAL SIGNS
+- Baby's vitals checked and recorded
+
+MEDICATIONS
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, 6:00 AM
+
+FEEDING / NUTRITION
+- Feeding of 25 ml given every 3 hours
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_282
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby's vitals checked and recorded
+
+VITAL SIGNS
+- Baby's vitals checked and recorded
+
+MEDICATIONS
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, 6:00 AM
+
+FEEDING / NUTRITION
+- Feeding of 25 ml given every 3 hours
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_283
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby's vitals checked and recorded
+- Baby on Room air
+- No other issues
+
+VITAL SIGNS
+- Baby's vitals checked and recorded
+
+MEDICATIONS
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, 6:00 AM
+
+FEEDING / NUTRITION
+- Feeding of 25 ml given every 3 hours
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_284
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EXAMINATION
+- General Condition of the Baby assessed
+- Baby's vitals checked and recorded
+- Baby on Room air
+- No other issues
+
+VITAL SIGNS
+- Baby's vitals checked and recorded
+
+MEDICATIONS
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, 6:00 AM
+
+FEEDING / NUTRITION
+- Feeding of 25 ml given every 3 hours
+- Baby passed urine and stool
+
+RESPIRATORY SUPPORT
+- Baby on Room air
+
+NEUROLOGICAL STATUS
+- No episodes of apnea
+
+DISCHARGE-RELATED INFORMATION
+- Morning rounds done to baby
+
+SOURCE PAGE: PAGE_285
+DOCUMENT TYPE: Informed Consent Form
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_286
+DOCUMENT TYPE: Informed Consent Form
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_287
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+INTAKE & OUTPUT
+- Intake and output recorded for the past 24 hours
+
+SOURCE PAGE: PAGE_288
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+INTAKE & OUTPUT
+- Intake and output recorded for the past 24 hours
+
+SOURCE PAGE: PAGE_289
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+INTAKE & OUTPUT
+- Intake and output recorded for the past 24 hours
+
+SOURCE PAGE: PAGE_290
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+INTAKE & OUTPUT
+- Intake and output recorded for the past 24 hours
+
+SOURCE PAGE: PAGE_291
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+INTAKE & OUTPUT
+- Intake and output recorded for the past 24 hours
+
+SOURCE PAGE: PAGE_292
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+INTAKE & OUTPUT
+- Intake and output recorded for the past 24 hours
+
+SOURCE PAGE: PAGE_293
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+INTAKE & OUTPUT
+- Intake and output recorded for the past 24 hours
+
+
+========================================================================
+STRUCTURED PART 0015
+SOURCE PAGES: PAGE_0294 TO PAGE_0304
+========================================================================
+
+SOURCE PAGE: PAGE_294
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Past 24 hrs Intake: Not documented
+- Past 24 hrs Output: Not documented
+
+SOURCE PAGE: PAGE_295
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Past 24 hrs Intake: Not documented
+- Past 24 hrs Output: Not documented
+
+SOURCE PAGE: PAGE_296
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Heart Rate (HR): Documented throughout the day
+- Respiratory Rate (RR): Documented throughout the day
+- Blood Pressure (BP): Documented throughout the day
+- SpO2: Documented throughout the day
+
+SOURCE PAGE: PAGE_297
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Heart Rate (HR): Documented throughout the day
+- Respiratory Rate (RR): Documented throughout the day
+- Blood Pressure (BP): Documented throughout the day
+- SpO2: Documented throughout the day
+
+SOURCE PAGE: PAGE_298
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Heart Rate (HR): Documented throughout the day
+- Respiratory Rate (RR): Documented throughout the day
+- Blood Pressure (BP): Documented throughout the day
+- SpO2: Documented throughout the day
+
+SOURCE PAGE: PAGE_299
+DOCUMENT TYPE: Critical Care Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Heart Rate (HR): Documented throughout the day
+- Respiratory Rate (RR): Documented throughout the day
+- Blood Pressure (BP): Documented throughout the day
+- SpO2: Documented throughout the day
+
+SOURCE PAGE: PAGE_300
+DOCUMENT TYPE: Vital Signs Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Heart Rate (HR): Documented throughout the day
+- Respiratory Rate (RR): Documented throughout the day
+- Blood Pressure (BP): Documented throughout the day
+- SpO2: Documented throughout the day
+
+SOURCE PAGE: PAGE_301
+DOCUMENT TYPE: Vital Signs Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Heart Rate (HR): Documented throughout the day
+- Respiratory Rate (RR): Documented throughout the day
+- Blood Pressure (BP): Documented throughout the day
+- SpO2: Documented throughout the day
+
+SOURCE PAGE: PAGE_302
+DOCUMENT TYPE: Vital Signs Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Heart Rate (HR): Documented throughout the day
+- Respiratory Rate (RR): Documented throughout the day
+- Blood Pressure (BP): Documented throughout the day
+- SpO2: Documented throughout the day
+
+SOURCE PAGE: PAGE_303
+DOCUMENT TYPE: Vital Signs Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Heart Rate (HR): Documented throughout the day
+- Respiratory Rate (RR): Documented throughout the day
+- Blood Pressure (BP): Documented throughout the day
+- SpO2: Documented throughout the day
+
+SOURCE PAGE: PAGE_304
+DOCUMENT TYPE: Vital Signs Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IPD No.: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ADMISSION DETAILS:
+- Admit Wt.: Not documented
+- Admission Date: 15-06-2026 12:19 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION AND VITALS:
+- Heart Rate (HR): Documented throughout the day
+- Respiratory Rate (RR): Documented throughout the day
+- Blood Pressure (BP): Documented throughout the day
+- SpO2: Documented throughout the day
+
+
+========================================================================
+STRUCTURED PART 0016
+SOURCE PAGES: PAGE_0305 TO PAGE_0325
+========================================================================
+
+SOURCE PAGE: PAGE_305
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+VITAL SIGNS:
+- Date: 15-06-2026
+- Time: 12:19 PM
+- Temperature: 38.0°C to 42.0°C
+- Respiratory Rate: 10 to 105 breaths per minute
+
+SOURCE PAGE: PAGE_306
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+VITAL SIGNS:
+- Date: 21-06-2026
+- Time: 12:19 PM
+- Temperature: 38.0°C to 42.0°C
+- Respiratory Rate: 10 to 105 breaths per minute
+
+SOURCE PAGE: PAGE_307
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+VITAL SIGNS:
+- Date: 22-06-2026
+- Time: 12:19 PM
+- Temperature: 38.0°C to 42.0°C
+- Respiratory Rate: 10 to 105 breaths per minute
+
+SOURCE PAGE: PAGE_308
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+VITAL SIGNS:
+- Date: 23-06-2026
+- Time: 12:19 PM
+- Temperature: 38.0°C to 42.0°C
+- Respiratory Rate: 10 to 105 breaths per minute
+
+SOURCE PAGE: PAGE_309
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+VITAL SIGNS:
+- Date: 24-06-2026
+- Time: 12:19 PM
+- Temperature: 38.0°C to 42.0°C
+- Respiratory Rate: 10 to 105 breaths per minute
+
+SOURCE PAGE: PAGE_310
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+VITAL SIGNS:
+- Date: 25-06-2026
+- Time: 12:19 PM
+- Temperature: 38.0°C to 42.0°C
+- Respiratory Rate: 10 to 105 breaths per minute
+
+SOURCE PAGE: PAGE_311
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+VITAL SIGNS:
+- Date: 26-06-2026
+- Time: 12:19 PM
+- Temperature: 38.0°C to 42.0°C
+- Respiratory Rate: 10 to 105 breaths per minute
+
+SOURCE PAGE: PAGE_312
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+VITAL SIGNS:
+- Date: 27-06-2026
+- Time: 12:19 PM
+- Temperature: 38.0°C to 42.0°C
+- Respiratory Rate: 10 to 105 breaths per minute
+
+SOURCE PAGE: PAGE_313
+DOCUMENT TYPE: Education Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EDUCATION / INFORMATION PROVIDED ON:
+- CPAP support
+- Tube feeds
+- Blood tests
+- Nasal bloating
+- Episodes of apnea reduced today
+- Plan to continue CPAP and tube feeds well
+
+SOURCE PAGE: PAGE_314
+DOCUMENT TYPE: Education Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EDUCATION / INFORMATION PROVIDED ON:
+- CPAP support
+- Tube feeds
+- Blood tests
+- Nasal bloating
+- Episodes of apnea reduced today
+- Plan to continue CPAP and tube feeds well
+
+SOURCE PAGE: PAGE_315
+DOCUMENT TYPE: Education Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EDUCATION / INFORMATION PROVIDED ON:
+- CPAP support
+- Tube feeds
+- Blood tests
+- Nasal bloating
+- Episodes of apnea reduced today
+- Plan to continue CPAP and tube feeds well
+
+SOURCE PAGE: PAGE_316
+DOCUMENT TYPE: Education Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EDUCATION / INFORMATION PROVIDED ON:
+- CPAP support
+- Tube feeds
+- Blood tests
+- Nasal bloating
+- Episodes of apnea reduced today
+- Plan to continue CPAP and tube feeds well
+
+SOURCE PAGE: PAGE_317
+DOCUMENT TYPE: Education Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EDUCATION / INFORMATION PROVIDED ON:
+- CPAP support
+- Tube feeds
+- Blood tests
+- Nasal bloating
+- Episodes of apnea reduced today
+- Plan to continue CPAP and tube feeds well
+
+SOURCE PAGE: PAGE_318
+DOCUMENT TYPE: Education Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EDUCATION / INFORMATION PROVIDED ON:
+- CPAP support
+- Tube feeds
+- Blood tests
+- Nasal bloating
+- Episodes of apnea reduced today
+- Plan to continue CPAP and tube feeds well
+
+SOURCE PAGE: PAGE_319
+DOCUMENT TYPE: Education Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EDUCATION / INFORMATION PROVIDED ON:
+- CPAP support
+- Tube feeds
+- Blood tests
+- Nasal bloating
+- Episodes of apnea reduced today
+- Plan to continue CPAP and tube feeds well
+
+SOURCE PAGE: PAGE_320
+DOCUMENT TYPE: Education Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+EDUCATION / INFORMATION PROVIDED ON:
+- CPAP support
+- Tube feeds
+- Blood tests
+- Nasal bloating
+- Episodes of apnea reduced today
+- Plan to continue CPAP and tube feeds well
+
+SOURCE PAGE: PAGE_321
+DOCUMENT TYPE: Peripheral Cannulation Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+PERIPHERAL CANNULATION DETAILS:
+- Consultant: Dr. Sravan
+- Department: Neonatology
+
+SOURCE PAGE: PAGE_322
+DOCUMENT TYPE: VIP Score Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+VIP SCORES:
+- Date: 15-06-2026, Time: 2 PM - Score: 0
+- Date: 15-06-2026, Time: 3 PM - Score: 0
+- Date: 16-06-2026, Time: 8 AM - Score: 0
+- Date: 16-06-2026, Time: 2 PM - Score: 0
+- Date: 17-06-2026, Time: 2 AM - Score: 0
+- Date: 18-06-2026, Time: 2 PM - Score: 0
+- Date: 19-06-2026, Time: 1.5 AM - Score: 0
+- Date: 22-06-2026, Time: 8 PM - Score: 0
+- Date: 23-06-2026, Time: 8 AM - Score: 0
+- Date: 25-06-2026, Time: 2 PM - Score: 0
+
+SOURCE PAGE: PAGE_323
+DOCUMENT TYPE: Nosocomial Infection Surveillance Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+INVASIVE DEVICES DETAILS:
+- Insertion Date: 15-06-2026, Time: 2 PM - IV Cannula
+- Insertion Date: 15-06-2026, Time: 3 PM - Foley's Catheter
+- Insertion Date: 15-06-2026, Time: 8 AM - Central Line
+- Insertion Date: 15-06-2026, Time: 2 PM - Ventilator
+
+SOURCE PAGE: PAGE_324
+DOCUMENT TYPE: Nebulization Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NEBULIZATION DETAILS:
+- S.n.: 1 - Medicine Name: NS, Dose: 3 ml, Hourly: 6th hourly, Parent Sign: Anasuya, Sister Sign: Blo Akshaya
+- S.n.: 2 - Medicine Name: NS, Dose: 3 ml, Hourly: 6th hourly, Parent Sign: Anasuya, Sister Sign: Blo Akshaya
+- S.n.: 3 - Medicine Name: NS, Dose: 3 ml, Hourly: 6th hourly, Parent Sign: Bejauger, Sister Sign: Blo Akshaya
+- S.n.: 4 - Medicine Name: NS, Dose: 3 ml, Hourly: 6th hourly, Parent Sign: Shancy, Sister Sign: Blo Akshaya
+- S.n.: 5 - Medicine Name: NS + ADR, Dose: 0.5 ml, Hourly: 6th hourly, Parent Sign: Shancy, Sister Sign: Blo Akshaya
+- S.n.: 6 - Medicine Name: NS + ADR, Dose: 3 ml, Hourly: 6th hourly, Parent Sign: Shancy, Sister Sign: Blo Akshaya
+- S.n.: 7 - Medicine Name: NS + APR, Dose: 0.5 ml, Hourly: 6th hourly, Parent Sign: Praeum, Sister Sign: Blo Akshaya
+- S.n.: 8 - Medicine Name: NS, Dose: 3 ml, Hourly: 6th hourly, Parent Sign: Gayathri, Sister Sign: Blo Akshaya
+- S.n.: 9 - Medicine Name: NS + ADR, Dose: 0.5 ml, Hourly: 6th hourly, Parent Sign: Praeum, Sister Sign: Blo Akshaya
+- S.n.: 10 - Total (10) - Medication: NS, Dose: 3 ml, Hourly: 6th hourly, Parent Sign: Gayathri, Sister Sign: Blo Akshaya
+
+SOURCE PAGE: PAGE_325
+DOCUMENT TYPE: Nebulization Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+
+NEBULIZATION DETAILS:
+- S.n.: 1 - Medicine Name: NS, Dose: 3 ml, Hourly: 6th hourly, Parent Sign: Gayathri, Sister Sign: Blo Akshaya
+- S.n.: 2 - Medicine Name: NS + ADR, Dose: 0.5 ml, Hourly: 6th hourly, Parent Sign: Praeum, Sister Sign: Blo Akshaya
+- S.n.: 3 - Medicine Name: NS + ADR, Dose: 0.5 ml, Hourly: 6th hourly, Parent Sign: Gayathri, Sister Sign: Blo Akshaya
+- S.n.: 4 - Medicine Name: NS, Dose: 3 ml, Hourly: 6th hourly, Parent Sign: Gayathri, Sister Sign: Blo Akshaya
+- S.n.: 5 - Total (10) - Medication: NS, Dose: 3 ml, Hourly: 6th hourly, Parent Sign: Gayathri, Sister Sign: Blo Akshaya
+
+
+========================================================================
+STRUCTURED PART 0017
+SOURCE PAGES: PAGE_0326 TO PAGE_0333
+========================================================================
+
+SOURCE PAGE: PAGE_326
+DOCUMENT TYPE: Requisition Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+LABORATORY REQUESTS:
+- Hemoglobin/Pathology
+- AFB for Culture & Sensitivity
+- Complete Blood Picture (CBP)
+- CSF Lactate
+- PCV
+- CSF Pyruvate
+- HIV I & II (Rapid)
+- Platelet Count
+- HIV I & II (ELISA)
+- Hemoglobin
+- HbsAg
+- AEC Absolute Eosinophil Count
+- Peripheral Smear
+- Hepatitis - A (IgM)
+- Smear for MP
+- Leptospira IgM
+- Parasite V & F
+- Weil Felix
+- QBC
+- HCV
+- ESR (Erythrocyte Sedimentation Rate)
+- Dengue IgG
+- Blood Group & Rh Type
+- Direct Coombs Test
+- Dengue IgM
+- Indirect Coombs Test
+- Dengue Ns1 Antigen
+- Bleeding Time
+- TB PCR
+- Clotting Time
+- HSV-PCR
+- Complete Urine Examination (CUE)
+- Mantoux Test
+- RA Factor
+- Stool Routine Examination
+- Rotavirus Antigen Defection
+- CSF Cell Type & Count
+- ASO
+- Factor Assay
+- Widal Test
+- Anemia Profile
+- TORCH Profile
+
+SOURCE PAGE: PAGE_327
+DOCUMENT TYPE: Requisition Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+LABORATORY REQUESTS:
+- Hemoglobin/Pathology
+- AFB for Culture & Sensitivity
+- Complete Blood Picture (CBP)
+- CSF Lactate
+- PCV
+- CSF Pyruvate
+- HIV I & II (Rapid)
+- Platelet Count
+- HIV I & II (ELISA)
+- Hemoglobin
+- HbsAg
+- AEC Absolute Eosinophil Count
+- Peripheral Smear
+- Hepatitis - A (IgM)
+- Smear for MP
+- Leptospira IgM
+- Parasite V & F
+- Weil Felix
+- QBC
+- HCV
+- ESR (Erythrocyte Sedimentation Rate)
+- Dengue IgG
+- Blood Group & Rh Type
+- Direct Coombs Test
+- Dengue IgM
+- Indirect Coombs Test
+- Dengue Ns1 Antigen
+- Bleeding Time
+- TB PCR
+- Clotting Time
+- HSV-PCR
+- Complete Urine Examination (CUE)
+- Mantoux Test
+- RA Factor
+- Stool Routine Examination
+- Rotavirus Antigen Defection
+- CSF Cell Type & Count
+- ASO
+- Factor Assay
+- Widal Test
+- Anemia Profile
+- TORCH Profile
+
+SOURCE PAGE: PAGE_328
+DOCUMENT TYPE: Billing Sheet
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_329
+DOCUMENT TYPE: Billing Sheet
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_330
+DOCUMENT TYPE: Billing Sheet
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_331
+DOCUMENT TYPE: Billing Sheet
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_332
+DOCUMENT TYPE: Billing Sheet
+
+NO CLINICAL DATA
+
+SOURCE PAGE: PAGE_333
+DOCUMENT TYPE: Billing Sheet
+
+NO CLINICAL DATA
+
+
+========================================================================
+STRUCTURED PART 0018
+SOURCE PAGES: PAGE_0334 TO PAGE_0341
+========================================================================
+
+SOURCE PAGE: PAGE_334
+DOCUMENT TYPE: Billing Activity Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+ADMISSION DETAILS:
+- Doctor's Name: DR. SRINIVAS MURKI
+- Consultation: DR. SRINIVAS MURKI
+
+PROCEDURES:
+- Arterial Line Insertion (Morning Shift)
+- Ascitic Tap (Evening Shift)
+- Bone Marrow Aspiration (Night Shift)
+- Central Line Insertion (Morning Shift)
+- CPR (Evening Shift)
+- CVP line Insertion (Night Shift)
+- Dressing (Minor/Medium/Major/Special) (Morning Shift)
+
+LAB INVESTIGATIONS:
+- Arterial Blood Gas Analysis (ABG)
+- Blood Glucose by Glucometer (GRBS)
+
+CONSULTATIONS:
+- Doctors Visit
+
+OTHERS:
+- ECG-12 Lead
+- Urine Sugar/Ketone (Rato Strips/Albumin)
+- Physiotherapy
+- Blood Transfusions
+- Diet
+
+Note: The page contains no specific clinical facts related to the patient's condition or treatment. It is primarily a billing and procedural log.
+
+SOURCE PAGE: PAGE_335
+DOCUMENT TYPE: Billing Activity Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+ADMISSION DETAILS:
+- Doctor's Name: DR. SRINIVAS MURKI
+- Consultation: DR. SRINIVAS MURKI
+
+PROCEDURES:
+- Arterial Line Insertion (Morning Shift)
+- Ascitic Tap (Evening Shift)
+- Bone Marrow Aspiration (Night Shift)
+- Central Line Insertion (Morning Shift)
+- CPR (Evening Shift)
+- CVP line Insertion (Night Shift)
+- Dressing (Minor/Medium/Major/Special) (Morning Shift)
+
+LAB INVESTIGATIONS:
+- Arterial Blood Gas Analysis (ABG)
+- Blood Glucose by Glucometer (GRBS)
+
+CONSULTATIONS:
+- Doctors Visit
+
+OTHERS:
+- ECG-12 Lead
+- Urine Sugar/Ketone (Rato Strips/Albumin)
+- Physiotherapy
+- Blood Transfusions
+- Diet
+
+Note: The page contains no specific clinical facts related to the patient's condition or treatment. It is primarily a billing and procedural log.
+
+SOURCE PAGE: PAGE_336
+DOCUMENT TYPE: Billing Activity Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+ADMISSION DETAILS:
+- Doctor's Name: DR. SRINIVAS MURKI
+- Consultation: DR. SRINIVAS MURKI
+
+PROCEDURES:
+- Arterial Line Insertion (Morning Shift)
+- Ascitic Tap (Evening Shift)
+- Bone Marrow Aspiration (Night Shift)
+- Central Line Insertion (Morning Shift)
+- CPR (Evening Shift)
+- CVP line Insertion (Night Shift)
+- Dressing (Minor/Medium/Major/Special) (Morning Shift)
+
+LAB INVESTIGATIONS:
+- Arterial Blood Gas Analysis (ABG)
+- Blood Glucose by Glucometer (GRBS)
+
+CONSULTATIONS:
+- Doctors Visit
+
+OTHERS:
+- ECG-12 Lead
+- Urine Sugar/Ketone (Rato Strips/Albumin)
+- Physiotherapy
+- Blood Transfusions
+- Diet
+
+Note: The page contains no specific clinical facts related to the patient's condition or treatment. It is primarily a billing and procedural log.
+
+SOURCE PAGE: PAGE_337
+DOCUMENT TYPE: Billing Activity Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+ADMISSION DETAILS:
+- Doctor's Name: DR. SRINIVAS MURKI
+- Consultation: DR. SRINIVAS MURKI
+
+PROCEDURES:
+- Arterial Line Insertion (Morning Shift)
+- Ascitic Tap (Evening Shift)
+- Bone Marrow Aspiration (Night Shift)
+- Central Line Insertion (Morning Shift)
+- CPR (Evening Shift)
+- CVP line Insertion (Night Shift)
+- Dressing (Minor/Medium/Major/Special) (Morning Shift)
+
+LAB INVESTIGATIONS:
+- Arterial Blood Gas Analysis (ABG)
+- Blood Glucose by Glucometer (GRBS)
+
+CONSULTATIONS:
+- Doctors Visit
+
+OTHERS:
+- ECG-12 Lead
+- Urine Sugar/Ketone (Rato Strips/Albumin)
+- Physiotherapy
+- Blood Transfusions
+- Diet
+
+Note: The page contains no specific clinical facts related to the patient's condition or treatment. It is primarily a billing and procedural log.
+
+SOURCE PAGE: PAGE_338
+DOCUMENT TYPE: Billing Activity Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+ADMISSION DETAILS:
+- Doctor's Name: DR. SRINIVAS MURKI
+- Consultation: DR. SRINIVAS MURKI
+
+PROCEDURES:
+- Arterial Line Insertion (Morning Shift)
+- Ascitic Tap (Evening Shift)
+- Bone Marrow Aspiration (Night Shift)
+- Central Line Insertion (Morning Shift)
+- CPR (Evening Shift)
+- CVP line Insertion (Night Shift)
+- Dressing (Minor/Medium/Major/Special) (Morning Shift)
+
+LAB INVESTIGATIONS:
+- Arterial Blood Gas Analysis (ABG)
+- Blood Glucose by Glucometer (GRBS)
+
+CONSULTATIONS:
+- Doctors Visit
+
+OTHERS:
+- ECG-12 Lead
+- Urine Sugar/Ketone (Rato Strips/Albumin)
+- Physiotherapy
+- Blood Transfusions
+- Diet
+
+Note: The page contains no specific clinical facts related to the patient's condition or treatment. It is primarily a billing and procedural log.
+
+SOURCE PAGE: PAGE_339
+DOCUMENT TYPE: Billing Activity Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+ADMISSION DETAILS:
+- Doctor's Name: DR. SRINIVAS MURKI
+- Consultation: DR. SRINIVAS MURKI
+
+PROCEDURES:
+- Arterial Line Insertion (Morning Shift)
+- Ascitic Tap (Evening Shift)
+- Bone Marrow Aspiration (Night Shift)
+- Central Line Insertion (Morning Shift)
+- CPR (Evening Shift)
+- CVP line Insertion (Night Shift)
+- Dressing (Minor/Medium/Major/Special) (Morning Shift)
+
+LAB INVESTIGATIONS:
+- Arterial Blood Gas Analysis (ABG)
+- Blood Glucose by Glucometer (GRBS)
+
+CONSULTATIONS:
+- Doctors Visit
+
+OTHERS:
+- ECG-12 Lead
+- Urine Sugar/Ketone (Rato Strips/Albumin)
+- Physiotherapy
+- Blood Transfusions
+- Diet
+
+Note: The page contains no specific clinical facts related to the patient's condition or treatment. It is primarily a billing and procedural log.
+
+SOURCE PAGE: PAGE_340
+DOCUMENT TYPE: Billing Activity Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+ADMISSION DETAILS:
+- Doctor's Name: DR. SRINIVAS MURKI
+- Consultation: DR. SRINIVAS MURKI
+
+PROCEDURES:
+- Arterial Line Insertion (Morning Shift)
+- Ascitic Tap (Evening Shift)
+- Bone Marrow Aspiration (Night Shift)
+- Central Line Insertion (Morning Shift)
+- CPR (Evening Shift)
+- CVP line Insertion (Night Shift)
+- Dressing (Minor/Medium/Major/Special) (Morning Shift)
+
+LAB INVESTIGATIONS:
+- Arterial Blood Gas Analysis (ABG)
+- Blood Glucose by Glucometer (GRBS)
+
+CONSULTATIONS:
+- Doctors Visit
+
+OTHERS:
+- ECG-12 Lead
+- Urine Sugar/Ketone (Rato Strips/Albumin)
+- Physiotherapy
+- Blood Transfusions
+- Diet
+
+Note: The page contains no specific clinical facts related to the patient's condition or treatment. It is primarily a billing and procedural log.
+
+SOURCE PAGE: PAGE_341
+DOCUMENT TYPE: Billing Activity Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+ADMISSION DETAILS:
+- Doctor's Name: DR. SRINIVAS MURKI
+- Consultation: DR. SRINIVAS MURKI
+
+PROCEDURES:
+- Arterial Line Insertion (Morning Shift)
+- Ascitic Tap (Evening Shift)
+- Bone Marrow Aspiration (Night Shift)
+- Central Line Insertion (Morning Shift)
+- CPR (Evening Shift)
+- CVP line Insertion (Night Shift)
+- Dressing (Minor/Medium/Major/Special) (Morning Shift)
+
+LAB INVESTIGATIONS:
+- Arterial Blood Gas Analysis (ABG)
+- Blood Glucose by Glucometer (GRBS)
+
+CONSULTATIONS:
+- Doctors Visit
+
+OTHERS:
+- ECG-12 Lead
+- Urine Sugar/Ketone (Rato Strips/Albumin)
+- Physiotherapy
+- Blood Transfusions
+- Diet
+
+Note: The page contains no specific clinical facts related to the patient's condition or treatment. It is primarily a billing and procedural log.
+
+NO CLINICAL DATA
+
+
+========================================================================
+STRUCTURED PART 0019
+SOURCE PAGES: PAGE_0342 TO PAGE_0352
+========================================================================
+
+SOURCE PAGE: PAGE_342
+DOCUMENT TYPE: Requisition Form
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+REQUISITION FOR MICROBIOLOGY & IMMUNO-SEROLOGY
+- Blood Arrenged
+- Age: 15 D
+- Sex: M
+- Patient's Name: B/O. N AKSHAYA
+- Date: 15-16126
+- UHID NO: 162607289
+- Collection Time: Not specified
+- IP NO/OP NO: LB26/2772
+- Nature of Specimen: Blood
+
+CLINICAL DIAGNOSIS:
+- Previous Culture No/Date: Not specified
+- Clinical details (Brief history) required with Antibiotic history: Not specified
+
+PHYSICAL FINDINGS AND OTHER INVESTIGATIONS:
+- Physical findings: Not specified
+- Other pertinent/specialized investigations: Not specified
+
+RISK STRATIFICATION OF PATIENT:
+- Patient Type-1 (CAl): Not specified
+- Patient Type-2 (HAI): Not specified
+- Patient Type-3 (NI): Not specified
+
+SOURCE PAGE: PAGE_343
+DOCUMENT TYPE: GRBS Monitoring
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+GRBS MONITORING
+- Date: 1516126
+- Time: 6am
+- GRBS Score: 28m.
+- Nurse Sign: Not specified
+- Parent Sign: Dr. Ananth
+- Consultant: Dr. Anasuyo
+
+SOURCE PAGE: PAGE_344
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+- Name: B/O. N AKSHAYA
+- UHID NO: 162607289
+- IPD NO: LB26/2772
+- DOA: 1516/26
+- Score: Not specified
+- Diagnosis: Not specified
+
+ACUITY SCORE & ALLOCATION
+- LEVEL OF CONSCIOUSNESS:
+  - Alert age appropriate: 0
+  - Irritable or lethargic: 0
+  - Responds to pain: 0
+  - Unconscious / seizures: 0
+- RESPIRATORY STATUS:
+  - Normal breathing room air: 0
+  - Mild distress oxygen support: 1
+  - Moderate distress / frequent suction: 2
+  - Severe distress CPAP / Ventilator: 3
+- CARDIOVASCULAR STATUS:
+  - Stable vitals: 0
+  - Tachycardia / IV fluids: 1
+  - Inotropes/invasive monitoring: 2
+  - Shock risk: 3
+- FEEDING & NUTRITION:
+  - Oral feeds independently: 0
+  - Assisted feeding: 1
+  - NG feeds: 2
+  - TPN /feeding intolerance: 3
+- ELIMINATION:
+  - Normal urine stool: 0
+  - Diaper care assistance: 1
+  - Catheter / strict monitoring: 2
+  - Oliguria / anuria: 3
+- MEDICATION:
+  - Oral medications: 0
+  - IV medications: 1
+  - Multiple IV infusions: 2
+  - High risk drug titration: 3
+- PAIN & COMFORT:
+  - Comfortable: 0
+  - Intermittent pain: 1
+  - Persistent pain: 2
+  - Severe pain continuous care: 3
+- PROCEDURES & DEVICES:
+  - None: 0
+  - IV line: 1
+  - Multiple lines / drains: 2
+  - Ventilator / central lines: 3
+- PARENTAL SUPPORT NEED:
+  - Routine guidance: 0
+  - Frequent reassuring: 1
+  - Continuous emotional support: 2
+  - Anxious Parents: 3
+
+SOURCE PAGE: PAGE_345
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+- Name: B/O. N AKSHAYA
+- UHID NO: 162607289
+- IPD NO: LB26/2772
+- DOA: 1516/26
+- Score: Not specified
+- Diagnosis: Not specified
+
+ACUITY SCORE & ALLOCATION
+- LEVEL OF CONSCIOUSNESS:
+  - Alert age appropriate: 0
+  - Irritable or lethargic: 1
+  - Responds to pain: 2
+  - Unconscious / seizures: 3
+- RESPIRATORY STATUS:
+  - Normal breathing room air: 0
+  - Mild distress oxygen support: 1
+  - Moderate distress / frequent suction: 2
+  - Severe distress CPAP / Ventilator: 3
+- CARDIOVASCULAR STATUS:
+  - Stable vitals: 0
+  - Tachycardia / IV fluids: 1
+  - Inotropes/invasive monitoring: 2
+  - Shock risk: 3
+- FEEDING & NUTRITION:
+  - Oral feeds independently: 0
+  - Assisted feeding: 1
+  - NG feeds: 2
+  - TPN /feeding intolerance: 3
+- ELIMINATION:
+  - Normal urine stool: 0
+  - Diaper care assistance: 1
+  - Catheter / strict monitoring: 2
+  - Oliguria / anuria: 3
+- MEDICATION:
+  - Oral medications: 0
+  - IV medications: 1
+  - Multiple IV infusions: 2
+  - High risk drug titration: 3
+- PAIN & COMFORT:
+  - Comfortable: 0
+  - Intermittent pain: 1
+  - Persistent pain: 2
+  - Severe pain continuous care: 3
+- PROCEDURES & DEVICES:
+  - None: 0
+  - IV line: 1
+  - Multiple lines / drains: 2
+  - Ventilator / central lines: 3
+- PARENTAL SUPPORT NEED:
+  - Routine guidance: 0
+  - Frequent reassuring: 1
+  - Continuous emotional support: 2
+  - Anxious Parents: 3
+
+SOURCE PAGE: PAGE_346
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+- Name: B/O. N AKSHAYA
+- UHID NO: 162607289
+- IPD NO: LB26/2772
+- DOA: 1516/26
+- Score: Not specified
+- Diagnosis: Not specified
+
+ACUITY SCORE & ALLOCATION
+- LEVEL OF CONSCIOUSNESS:
+  - Alert age appropriate: 0
+  - Irritable or lethargic: 1
+  - Responds to pain: 2
+  - Unconscious / seizures: 3
+- RESPIRATORY STATUS:
+  - Normal breathing room air: 0
+  - Mild distress oxygen support: 1
+  - Moderate distress / frequent suction: 2
+  - Severe distress CPAP / Ventilator: 3
+- CARDIOVASCULAR STATUS:
+  - Stable vitals: 0
+  - Tachycardia / IV fluids: 1
+  - Inotropes/invasive monitoring: 2
+  - Shock risk: 3
+- FEEDING & NUTRITION:
+  - Oral feeds independently: 0
+  - Assisted feeding: 1
+  - NG feeds: 2
+  - TPN /feeding intolerance: 3
+- ELIMINATION:
+  - Normal urine stool: 0
+  - Diaper care assistance: 1
+  - Catheter / strict monitoring: 2
+  - Oliguria / anuria: 3
+- MEDICATION:
+  - Oral medications: 0
+  - IV medications: 1
+  - Multiple IV infusions: 2
+  - High risk drug titration: 3
+- PAIN & COMFORT:
+  - Comfortable: 0
+  - Intermittent pain: 1
+  - Persistent pain: 2
+  - Severe pain continuous care: 3
+- PROCEDURES & DEVICES:
+  - None: 0
+  - IV line: 1
+  - Multiple lines / drains: 2
+  - Ventilator / central lines: 3
+- PARENTAL SUPPORT NEED:
+  - Routine guidance: 0
+  - Frequent reassuring: 1
+  - Continuous emotional support: 2
+  - Anxious Parents: 3
+
+SOURCE PAGE: PAGE_347
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+- Name: B/O. N AKSHAYA
+- UHID NO: 162607289
+- IPD NO: LB26/2772
+- DOA: 1516/26
+- Score: Not specified
+- Diagnosis: Not specified
+
+ACUITY SCORE & ALLOCATION
+- LEVEL OF CONSCIOUSNESS:
+  - Alert age appropriate: 0
+  - Irritable or lethargic: 1
+  - Responds to pain: 2
+  - Unconscious / seizures: 3
+- RESPIRATORY STATUS:
+  - Normal breathing room air: 0
+  - Mild distress oxygen support: 1
+  - Moderate distress / frequent suction: 2
+  - Severe distress CPAP / Ventilator: 3
+- CARDIOVASCULAR STATUS:
+  - Stable vitals: 0
+  - Tachycardia / IV fluids: 1
+  - Inotropes/invasive monitoring: 2
+  - Shock risk: 3
+- FEEDING & NUTRITION:
+  - Oral feeds independently: 0
+  - Assisted feeding: 1
+  - NG feeds: 2
+  - TPN /feeding intolerance: 3
+- ELIMINATION:
+  - Normal urine stool: 0
+  - Diaper care assistance: 1
+  - Catheter / strict monitoring: 2
+  - Oliguria / anuria: 3
+- MEDICATION:
+  - Oral medications: 0
+  - IV medications: 1
+  - Multiple IV infusions: 2
+  - High risk drug titration: 3
+- PAIN & COMFORT:
+  - Comfortable: 0
+  - Intermittent pain: 1
+  - Persistent pain: 2
+  - Severe pain continuous care: 3
+- PROCEDURES & DEVICES:
+  - None: 0
+  - IV line: 1
+  - Multiple lines / drains: 2
+  - Ventilator / central lines: 3
+- PARENTAL SUPPORT NEED:
+  - Routine guidance: 0
+  - Frequent reassuring: 1
+  - Continuous emotional support: 2
+  - Anxious Parents: 3
+
+SOURCE PAGE: PAGE_348
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+- Name: B/O. N AKSHAYA
+- UHID NO: 162607289
+- IPD NO: LB26/2772
+- DOA: 1516/26
+- Score: Not specified
+- Diagnosis: Not specified
+
+ACUITY SCORE & ALLOCATION
+- LEVEL OF CONSCIOUSNESS:
+  - Alert age appropriate: 0
+  - Irritable or lethargic: 1
+  - Responds to pain: 2
+  - Unconscious / seizures: 3
+- RESPIRATORY STATUS:
+  - Normal breathing room air: 0
+  - Mild distress oxygen support: 1
+  - Moderate distress / frequent suction: 2
+  - Severe distress CPAP / Ventilator: 3
+- CARDIOVASCULAR STATUS:
+  - Stable vitals: 0
+  - Tachycardia / IV fluids: 1
+  - Inotropes/invasive monitoring: 2
+  - Shock risk: 3
+- FEEDING & NUTRITION:
+  - Oral feeds independently: 0
+  - Assisted feeding: 1
+  - NG feeds: 2
+  - TPN /feeding intolerance: 3
+- ELIMINATION:
+  - Normal urine stool: 0
+  - Diaper care assistance: 1
+  - Catheter / strict monitoring: 2
+  - Oliguria / anuria: 3
+- MEDICATION:
+  - Oral medications: 0
+  - IV medications: 1
+  - Multiple IV infusions: 2
+  - High risk drug titration: 3
+- PAIN & COMFORT:
+  - Comfortable: 0
+  - Intermittent pain: 1
+  - Persistent pain: 2
+  - Severe pain continuous care: 3
+- PROCEDURES & DEVICES:
+  - None: 0
+  - IV line: 1
+  - Multiple lines / drains: 2
+  - Ventilator / central lines: 3
+- PARENTAL SUPPORT NEED:
+  - Routine guidance: 0
+  - Frequent reassuring: 1
+  - Continuous emotional support: 2
+  - Anxious Parents: 3
+
+SOURCE PAGE: PAGE_349
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+- Name: B/O. N AKSHAYA
+- UHID NO: 162607289
+- IPD NO: LB26/2772
+- DOA: 1516/26
+- Score: Not specified
+- Diagnosis: Not specified
+
+ACUITY SCORE & ALLOCATION
+- LEVEL OF CONSCIOUSNESS:
+  - Alert age appropriate: 0
+  - Irritable or lethargic: 1
+  - Responds to pain: 2
+  - Unconscious / seizures: 3
+- RESPIRATORY STATUS:
+  - Normal breathing room air: 0
+  - Mild distress oxygen support: 1
+  - Moderate distress / frequent suction: 2
+  - Severe distress CPAP / Ventilator: 3
+- CARDIOVASCULAR STATUS:
+  - Stable vitals: 0
+  - Tachycardia / IV fluids: 1
+  - Inotropes/invasive monitoring: 2
+  - Shock risk: 3
+- FEEDING & NUTRITION:
+  - Oral feeds independently: 0
+  - Assisted feeding: 1
+  - NG feeds: 2
+  - TPN /feeding intolerance: 3
+- ELIMINATION:
+  - Normal urine stool: 0
+  - Diaper care assistance: 1
+  - Catheter / strict monitoring: 2
+  - Oliguria / anuria: 3
+- MEDICATION:
+  - Oral medications: 0
+  - IV medications: 1
+  - Multiple IV infusions: 2
+  - High risk drug titration: 3
+- PAIN & COMFORT:
+  - Comfortable: 0
+  - Intermittent pain: 1
+  - Persistent pain: 2
+  - Severe pain continuous care: 3
+- PROCEDURES & DEVICES:
+  - None: 0
+  - IV line: 1
+  - Multiple lines / drains: 2
+  - Ventilator / central lines: 3
+- PARENTAL SUPPORT NEED:
+  - Routine guidance: 0
+  - Frequent reassuring: 1
+  - Continuous emotional support: 2
+  - Anxious Parents: 3
+
+SOURCE PAGE: PAGE_350
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+- Name: B/O. N AKSHAYA
+- UHID NO: 162607289
+- IPD NO: LB26/2772
+- DOA: 1516/26
+- Score: Not specified
+- Diagnosis: Not specified
+
+ACUITY SCORE & ALLOCATION
+- LEVEL OF CONSCIOUSNESS:
+  - Alert age appropriate: 0
+  - Irritable or lethargic: 1
+  - Responds to pain: 2
+  - Unconscious / seizures: 3
+- RESPIRATORY STATUS:
+  - Normal breathing room air: 0
+  - Mild distress oxygen support: 1
+  - Moderate distress / frequent suction: 2
+  - Severe distress CPAP / Ventilator: 3
+- CARDIOVASCULAR STATUS:
+  - Stable vitals: 0
+  - Tachycardia / IV fluids: 1
+  - Inotropes/invasive monitoring: 2
+  - Shock risk: 3
+- FEEDING & NUTRITION:
+  - Oral feeds independently: 0
+  - Assisted feeding: 1
+  - NG feeds: 2
+  - TPN /feeding intolerance: 3
+- ELIMINATION:
+  - Normal urine stool: 0
+  - Diaper care assistance: 1
+  - Catheter / strict monitoring: 2
+  - Oliguria / anuria: 3
+- MEDICATION:
+  - Oral medications: 0
+  - IV medications: 1
+  - Multiple IV infusions: 2
+  - High risk drug titration: 3
+- PAIN & COMFORT:
+  - Comfortable: 0
+  - Intermittent pain: 1
+  - Persistent pain: 2
+  - Severe pain continuous care: 3
+- PROCEDURES & DEVICES:
+  - None: 0
+  - IV line: 1
+  - Multiple lines / drains: 2
+  - Ventilator / central lines: 3
+- PARENTAL SUPPORT NEED:
+  - Routine guidance: 0
+  - Frequent reassuring: 1
+  - Continuous emotional support: 2
+  - Anxious Parents: 3
+
+SOURCE PAGE: PAGE_351
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+- Name: B/O. N AKSHAYA
+- UHID NO: 162607289
+- IPD NO: LB26/2772
+- DOA: 1516/26
+- Score: Not specified
+- Diagnosis: Not specified
+
+ACUITY SCORE & ALLOCATION
+- LEVEL OF CONSCIOUSNESS:
+  - Alert age appropriate: 0
+  - Irritable or lethargic: 1
+  - Responds to pain: 2
+  - Unconscious / seizures: 3
+- RESPIRATORY STATUS:
+  - Normal breathing room air: 0
+  - Mild distress oxygen support: 1
+  - Moderate distress / frequent suction: 2
+  - Severe distress CPAP / Ventilator: 3
+- CARDIOVASCULAR STATUS:
+  - Stable vitals: 0
+  - Tachycardia / IV fluids: 1
+  - Inotropes/invasive monitoring: 2
+  - Shock risk: 3
+- FEEDING & NUTRITION:
+  - Oral feeds independently: 0
+  - Assisted feeding: 1
+  - NG feeds: 2
+  - TPN /feeding intolerance: 3
+- ELIMINATION:
+  - Normal urine stool: 0
+  - Diaper care assistance: 1
+  - Catheter / strict monitoring: 2
+  - Oliguria / anuria: 3
+- MEDICATION:
+  - Oral medications: 0
+  - IV medications: 1
+  - Multiple IV infusions: 2
+  - High risk drug titration: 3
+- PAIN & COMFORT:
+  - Comfortable: 0
+  - Intermittent pain: 1
+  - Persistent pain: 2
+  - Severe pain continuous care: 3
+- PROCEDURES & DEVICES:
+  - None: 0
+  - IV line: 1
+  - Multiple lines / drains: 2
+  - Ventilator / central lines: 3
+- PARENTAL SUPPORT NEED:
+  - Routine guidance: 0
+  - Frequent reassuring: 1
+  - Continuous emotional support: 2
+  - Anxious Parents: 3
+
+SOURCE PAGE: PAGE_352
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 D
+
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+- Name: B/O. N AKSHAYA
+- UHID NO: 162607289
+- IPD NO: LB26/2772
+- DOA: 1516/26
+- Score: Not specified
+- Diagnosis: Not specified
+
+ACUITY SCORE & ALLOCATION
+- LEVEL OF CONSCIOUSNESS:
+  - Alert age appropriate: 0
+  - Irritable or lethargic: 1
+  - Responds to pain: 2
+  - Unconscious / seizures: 3
+- RESPIRATORY STATUS:
+  - Normal breathing room air: 0
+  - Mild distress oxygen support: 1
+  - Moderate distress / frequent suction: 2
+  - Severe distress CPAP / Ventilator: 3
+- CARDIOVASCULAR STATUS:
+  - Stable vitals: 0
+  - Tachycardia / IV fluids: 1
+  - Inotropes/invasive monitoring: 2
+  - Shock risk: 3
+- FEEDING & NUTRITION:
+  - Oral feeds independently: 0
+  - Assisted feeding: 1
+  - NG feeds: 2
+  - TPN /feeding intolerance: 3
+- ELIMINATION:
+  - Normal urine stool: 0
+  - Diaper care assistance: 1
+  - Catheter / strict monitoring: 2
+  - Oliguria / anuria: 3
+- MEDICATION:
+  - Oral medications: 0
+  - IV medications: 1
+  - Multiple IV infusions: 2
+  - High risk drug titration: 3
+- PAIN & COMFORT:
+  - Comfortable: 0
+  - Intermittent pain: 1
+  - Persistent pain: 2
+  - Severe pain continuous care: 3
+- PROCEDURES & DEVICES:
+  - None: 0
+  - IV line: 1
+  - Multiple lines / drains: 2
+  - Ventilator / central lines: 3
+- PARENTAL SUPPORT NEED:
+  - Routine guidance: 0
+  - Frequent reassuring: 1
+  - Continuous emotional support: 2
+  - Anxious Parents: 3
+
+SOURCE PAGE: PAGE_352 (continued)
+- INCHARGE NAME & SIGN: Sr. Mamatha
+- Score 0-6: Not specified
+- II Score 7-19: Not specified
+- Score 20-30: Not specified
+- Score > 30: Not specified
+- Routine nursing care: Not specified
+- Increased nursing observation: Not specified
+- Close monitoring and high nursing: Not specified
+- One-to-one intensive nursing care: Not specified
+- NUR.SUPERVISOR NAME & SIGN: Sr. Ush, Fane
+
+SOURCE PAGE: PAGE_352 (continued)
+- LEVEL 1 NURSE: Not specified
+- LEVEL 2 NURSE: Not specified
+- LEVEL 3 NURSE: Not specified
+- LEVEL 4 NURSE: Not specified
+
+
+========================================================================
+STRUCTURED PART 0020
+SOURCE PAGES: PAGE_0353 TO PAGE_0359
+========================================================================
+
+SOURCE PAGE: PAGE_353
+DOCUMENT TYPE: Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+- Patient Name: N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 Days
+
+ADMISSION DETAILS
+- Admitting Doctor: DR. SRINIVAS MURKI
+- Admission Date (DOA): 15-06-2026 12:19 PM
+
+DIAGNOSES / CLINICAL PROBLEMS
+- No specific diagnoses documented.
+
+EXAMINATION
+- Alert and age-appropriate
+- Stable vitals
+- Normal breathing room air
+- Tachycardia (Cardiovascular status)
+- Oral feeds independently (Nutrition)
+
+VITAL SIGNS
+- Not explicitly documented
+
+RESPIRATORY SUPPORT
+- Not explicitly documented
+
+NEUROLOGICAL STATUS
+- Not explicitly documented
+
+SEIZURES
+- Not explicitly documented
+
+HYPOGLYCEMIA / GLUCOSE
+- Not explicitly documented
+
+FEEDING / NUTRITION
+- Oral feeds independently
+
+FLUIDS
+- Not explicitly documented
+
+MEDICATIONS
+- No medications documented.
+
+INVESTIGATIONS
+- No investigations documented.
+
+PROCEDURES
+- None
+
+CONSULTATIONS
+- No consultations documented.
+
+DAILY PROGRESS
+- Level of consciousness: Alert and age-appropriate
+- Respiratory status: Normal breathing room air
+- Cardiovascular status: Tachycardia
+- Nutritional status: Oral feeds independently
+
+DISCHARGE-RELATED INFORMATION
+- Not explicitly documented
+
+SOURCE PAGE: PAGE_354
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+- Patient Name: N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 Days
+
+LABORATORY TESTS
+- C-Reactive Protein (CRP): 0.2 mg/L (Reference Range: 0.01 - 6.00)
+
+SOURCE PAGE: PAGE_355
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+- Patient Name: N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 Days
+
+LABORATORY TESTS
+- Ionic Calcium: 5.26 mg/dL (Reference Range for Children: 4.8 - 5.52, Adults: 4.64 - 5.28)
+
+SOURCE PAGE: PAGE_356
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+- Patient Name: N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 Days
+
+LABORATORY TESTS
+- Creatinine (Serum): 0.5 mg/dL (Reference Range: 0.1 - 0.4)
+- Blood Urea: 22 mg/dL (Reference Range: 16.60 - 48.50)
+- Blood Urea Nitrogen (BUN): 10.3 mg/dL (Reference Range: 6.00 - 20.00)
+- Uric Acid: 6.5 mg/dL (Reference Range: 3.50 - 7.20)
+
+SOURCE PAGE: PAGE_357
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+- Patient Name: N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 Days
+
+LABORATORY TESTS
+- Hemoglobin (HB): 13.7 g/dL (Reference Range: 11.50 - 16.50)
+- Packed Cell Volume (PCV): 43.7% (Reference Range: 33.00 - 53.00)
+- Mean Corpuscular Volume (MCV): 100.2 fL (Reference Range: 92.00 - 116.00)
+- Mean Corpuscular Hemoglobin (MCH): 31.4 pg (Reference Range: 30.00 - 36.00)
+- Mean Corpuscular Hemoglobin Concentration (MCHC): 31.4 g/dL (Reference Range: 29.00 - 37.00)
+- Red Blood Cell Count (RBC): 4.36 x 10^6/uL (Reference Range: 3.00 - 5.40)
+- White Blood Cell Count (WBC): 17,500 cells/cumm (Reference Range: 5,000.00 - 19,000.00)
+- Platelet Count: 641,000 H/mm3 (Reference Range: 200,000.00 - 500,000.00)
+
+SOURCE PAGE: PAGE_358
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+- Patient Name: N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 15 Days
+
+LABORATORY TESTS
+- Blood Culture and Sensitivity - Automated/VITEK, Blood: No bacterial growth seen after 24 hours of aerobic incubation.
+
+SOURCE PAGE: PAGE_359
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+- Patient Name: N AKSHAYA
+- UHID: 162607289
+- IPD: LB26/2772
+- Gender: Male
+- Age: 16 Days
+
+LABORATORY TESTS
+- Complete Urine Examination (CUE):
+  - Quantity: 10 ml
+  - Colour: Pale Yellow
+  - Appearance: Clear
+  - Specific Gravity: 1.005
+  - pH: 6.0
+  - Glucose: Nil
+  - Protein: Nil
+  - Bilirubin: Negative
+  - Ketone: Nil
+  - Blood: Absent
+  - Leucocytes: Nil
+  - Pus Cells: 3-4/hpf
+  - Epithelial cells: 1-2/hpf
+  - RBC's: Nil

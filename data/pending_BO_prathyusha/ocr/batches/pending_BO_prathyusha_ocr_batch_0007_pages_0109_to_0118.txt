@@ -1,0 +1,666 @@
+============================================================
+PAGE 109
+============================================================
+
+Patient Name : B/O. GADALI PRATHYUSHA UHID : 162608058 IPD : LB26/2818 Gender : Male Age : 0 D
+Ankura Hospitals LB Nagar Pvt Ltd
+ankura
+9M
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad,Telangana,
+500035
+hospital
+hy eliea leps
+Phone : 9053108108 Website : https://www.ankurahospitals.com email : info@ankurahospital.com
+Laboratory
+Patient Name
+Baby Of GADALI PRATHYUSHA
+Lab No
+1645717
+UHID
+162608058/LB26/2818
+Sample Date
+17/06/2026 12:05PM
+Age/Gender
+1 Day/Male
+Receiving Date
+17/06/2026 1:48PM
+Bed No/Ward
+IPD
+Report Date
+17/06/20263:16PM
+Referred By
+Dr. Srinivas Murki
+Report Status
+Final
+Patient Mob
+HEMATOLOGY
+COMPLETE BLOOD PICTURE (CBP)/CBC
+Test Name
+Result
+Unit
+Biological
+Method
+Ref. Interval
+HAEMOGLOBIN (HB)
+15.40
+g/dL
+14.00 - 22.00
+Direct
+cyanmethaemoglobin
+method
+PACKED CELL VOLUME (PCV)
+43.30 L
+0%
+45.00 -75.00
+Impedance/Calculate
+d
+MCV
+111.90
+fL
+100.00 - 120.00
+Impedance/Calculate
+d
+MCH
+39.70 H
+pg
+31.00 - 37.00
+MCHC
+35.40
+gm/dl
+30.00 - 36.00
+Impedance/Calculate
+d
+RBC COUNT
+3.87 L
+10^6/uL
+5.00 - 7.00
+Impedance
+WBC COUNT
+12500
+cells/cumm
+10000.00 - 26000.00
+Impedance/Flowcyto
+metry
+PLATELET COUNT
+186000
+/mm3
+100000.00 - 450000.00
+Impedance
+DIFFERENTIAL COUNT
+NEUTROPHILS
+72 H
+0%
+40.00 - 60.00
+Impedance/RBC
+Flowcytometry
+LYMPHOCYTES
+19
+%
+10.00 - 30.00
+Impedance/RBC
+Flowcytometry
+EOSINOPHILS
+04
+%
+1.00 -4.00
+Impedance/Flowcyto
+metry
+MONOCYTES
+05
+0%
+1.00 - 6.00
+Impedance/Flowcyto
+metry
+BASOPHILS
+00
+%
+< 1.00
+Impedance/Flowcyto
+metry
+PERIPHERAL SMEAR
+RBC - PERIPHERAL SMEAR
+NORMOCYTIC HYPOCHROMIC
+Microscopic
+WBC - PERIPHERAL SMEAR
+NEUTROPHILIA
+Microscopic
+PLATELET - PERIPHERAL SMEAR
+ADEQUATE
+Microscopic
+--End Of Report--
+Dr. B Roshini Sumalini
+MBBS,MD PATHOLOGY
+Consultant Pathologist
+Printed on 17/06/2026 15:15
+Approved By Dr. B Roshini Sumalini
+Page: 5 Of 6
+Verified By Mr. NEELAM
+EDUKONDALU
+
+============================================================
+PAGE 110
+============================================================
+
+Patient Name : B/O. GADALI PRATHYUSHA UHID : 162608058 IPD : LB26/2818 Gender : Male Age : 0 D
+Ankura Hospitals LB Nagar Pvt Ltd
+ankura
+9M
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad,Telangana,
+500035
+hospital
+hy eriea ep
+Phone : 9053108108 Website : https://www.ankurahospitals.com email : info@ankurahospital.com
+Laboratory
+Patient Name
+Baby Of GADALI PRATHYUSHA
+Lab No
+1645717
+UHID
+162608058/LB26/2818
+Sample Date
+17/06/2026 12:05PM
+Age/Gender
+1 Day/Male
+Receiving Date
+17/06/2026 1:48PM
+Bed No/Ward
+IPD
+Report Date
+17/06/2026 3:16PM
+Referred By
+Dr. Srinivas Murki
+Report Status
+Final
+Patient Mob
+HEMATOLOGY
+BLOOD GROUPING AND RH TYPING
+Test Name
+Result
+Unit
+Biological
+Method
+Ref. Interval
+BLOOD GROUP
+"O"
+Slide Agglutination Method
+RH TYPING
+Positive
+Comments / Interpretation:
+- Reconfirm the Blood Group & Rh Typing along with cross matching before blood transfusion.
+- Recent blood transfusion, if any, interferes with interpretation of blood grouping .
+- The blood group and Rh antigen may change in the new born, hence please repeat the test after 6 months.
+- Subgroups and Bombay blood group needs to be further verified.
+--End Of Report--
+Dr. B Roshini Sumalini
+MBBS,MD PATHOLOGY
+Consultant Pathologist
+Verified By Mr. NEELAM
+Printed on 17/06/2026 15:15
+Approved By Dr. B Roshini Sumalini
+Page: 6 Of 6
+EDUKONDALU
+
+============================================================
+PAGE 111
+============================================================
+
+Patient Name : B/O. GADALI PRATHYUSHA UHID : 162608058 IPD : LB26/2818 Gender : Male Age : 0 D
+Ankura Hospitals LB Nagar Pvt Ltd
+ankura
+9M
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad,Telangana,
+500035
+hospital
+Tyecieca' Teges
+Phone : 9053108108 Website : https://www.ankurahospitals.com email : info@ankurahospital.com
+2chidren
+Laboratory
+Patient Name
+Baby Of GADALI PRATHYUSHA
+Lab No
+1645802
+UHID
+162608058/LB26/2818
+Sample Date
+18/06/20268:44AM
+Age/Gender
+1 Day/Male
+Receiving Date
+18/06/2026 2:39PM
+Bed No/Ward
+IPD
+Report Date
+19/06/2026 10:02AM
+Referred By
+Dr. Srinivas Murki
+Report Status
+Final
+Patient Mob
+MICROBIOLOGY
+CULTURE AND SENSITIVITY - AUTOMATED/VITEK, BLOOD
+Test Name
+Result
+Unit
+Biological
+Method
+Ref. Interval
+SPECIMEN TYPE
+BLOOD
+Automated colorimetric microbial
+detection and identification by Vitek
+2 compact
+Culture Result
+PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+Note:
+The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color
+change caused by production. Microbial metabolism releases, altering pH and changing the bottle sensor color from green to yellow. The
+system monitors this change in real time; bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+--End Of Report--
+Grayati
+Dr. GAYATRI KORIDE
+MBBS, MD (Microbiology)
+Consultant Microbiologist
+Verified By Dr. GAYATRI KORIDE
+Printed on 19/06/2026 16:08
+Approved By Dr. GAYATRI KORIDE
+Page: 1 Of 1
+
+============================================================
+PAGE 112
+============================================================
+
+Patient Name : B/O. GADALI PRATHYUSHA UHID : 162608058 IPD : LB26/2818 Gender : Male Age : 0 D
+Laboratory
+Patient Name
+Baby Of GADALI PRATHYUSHA
+Lab No
+1645802
+UHID/IP No
+162608058/LB26/2818
+Sample Date
+18/06/20268:44AM
+Age/Gender
+1 Day/Male
+Receiving Date
+18/06/20262:39PM
+Bed No/Ward
+NICU Ward
+Report Date
+19/06/2026 10:02AM
+Referred By
+Dr. Srinivas Murki
+Report Status
+Final
+Patient Mob
+MICROBIOLOGY
+CULTURE AND SENSITIVITY - AUTOMATED/VITEK,BLOOD
+Test Name
+Result
+Unit
+Biological
+Method
+Ref. Interval
+SPECIMEN TYPE
+BLOOD
+Automated colorimetric microbial
+detection and identification by Vitek
+2 compact
+Culture Result
+PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+Note:
+The BACT/ALERT system is an automated continuous monitoring system for blood cultures that detects microbial growth by measuring color
+change caused by production. Microbial metabolism releases, altering pH and changing the bottle sensor color from green to yellow. The
+system monitors this change in real time; bottles remain undisturbed during incubation and are removed after 7 days if no growth is detected.
+--End Of Report--
+Grauyatri
+Dr. GAYATRI KORIDE
+MBBS, MD (Microbiology)
+Consultant Microbiologist
+Verified By Dr. GAYATRI KORIDE
+Printed on 20/06/2026 08:53
+Approved By Dr. GAYATRI KORIDE
+Page: 1 Of 1
+
+============================================================
+PAGE 113
+============================================================
+
+Patient Name : B/O. GADALI PRATHYUSHA UHID : 162608058 IPD : LB26/2818 Gender : Male Age : 0 D
+Laboratory
+Patient Name
+Baby Of GADALI PRATHYUSHA
+Lab No
+1645994
+UHID/IP No
+162608058/LB26/2818
+Sample Date
+20/06/2026 12:28AM
+Age/Gender
+3 Days/Male
+Receiving Date
+20/06/20267:02AM
+Bed No/Ward
+NICU Ward
+Report Date
+20/06/2026 10:17AM
+Referred By
+Dr. Srinivas Murki
+Report Status
+Final
+Patient Mob
+BIOCHEMISTRY
+BILIRUBIN (TOTAL & DIRECT)
+Test Name
+Result
+Unit
+Biological
+Method
+Ref. Interval
+TOTAL BILIRUBIN
+12.5
+mg/dL
+Less than 24 Hours -
+Colorimetric diazo
+Below 6 mg/dl
+method
+24-48 Hours - Below 10
+mg/dl
+48-72 Hours - Below 12
+md/dl
+Older than 72 Hours -
+Below 15 mg/dl
+DIRECT BILIRUBIN
+0.6
+mg/dL
+0.33 - 0.71
+Diazonium
+INDIRECT BILIRUBIN
+11.90
+mg/dL
+0.00 - 12.00
+--End Of Report--
+Dr. B Roshini Sumalini
+MBBS,MD PATHOLOGY
+Consultant Pathologist
+Verified By Mr. NEELAM
+Printed on 20/06/2026 10:14
+Approved By Dr. B Roshini Sumalini
+Page: 1 Of 3
+EDUKONDALU
+
+============================================================
+PAGE 114
+============================================================
+
+Patient Name : B/O. GADALI PRATHYUSHA UHID : 162608058 IPD : LB26/2818 Gender : Male Age : 0 D
+Laboratory
+Patient Name
+Baby Of GADALI PRATHYUSHA
+Lab No
+1645994
+UHID/IP No
+162608058/LB26/2818
+Sample Date
+20/06/2026 12:28AM
+Age/Gender
+3 Days/Male
+Receiving Date
+20/06/20267:02AM
+Bed No/Ward
+NICU Ward
+Report Date
+20/06/2026 10:17AM
+Referred By
+Dr. Srinivas Murki
+Report Status
+Final
+Patient Mob
+BIOCHEMISTRY
+THYROXINE - FREE (FT4)
+Test Name
+Result
+Unit
+Biological
+Method
+Ref. Interval
+THYROXINE - FREE (FT4)
+1.12
+ng/dl
+<1 Year: 1.5 - 3.8
+Immunofluorescence
+1-5 Years:0.86-2.2
+5-14 Years:0.84-2.2
+>14 Years : 0.93 - 1.7
+--End Of Report--
+Dr. B Roshini Sumalini
+MBBS,MD PATHOLOGY
+Consultant Pathologist
+Verified By Mr. NEELAM
+Printed on 20/06/2026 10:14
+Approved By Dr. B Roshini Sumalini
+Page: 2 Of 3
+EDUKONDALU
+
+============================================================
+PAGE 115
+============================================================
+
+Patient Name : B/O. GADALI PRATHYUSHA UHID : 162608058 IPD : LB26/2818 Gender : Male Age : 0 D
+Laboratory
+Patient Name
+Baby Of GADALI PRATHYUSHA
+Lab No
+1645994
+UHID/IP No
+162608058/LB26/2818
+Sample Date
+20/06/2026 12:28AM
+Age/Gender
+3 Days/Male
+Receiving Date
+20/06/20267:02AM
+Bed No/Ward
+NICU Ward
+Report Date
+20/06/2026 10:17AM
+Referred By
+Dr. Srinivas Murki
+Report Status
+Final
+Patient Mob
+IMMUNOLOGY
+THYROID STIMULATING HORMONE (TSH)
+Test Name
+Result
+Unit
+Biological
+Method
+Ref. Interval
+THYROID STIMULATING HORMONE (TSH)
+2.193
+uIU/ml
+Pregnancy
+Chemiluminescence
+First trimester
+>0.1
+Immunoassay (CLIA)
+mIU/L
+and <2.5 mIU/L
+Second trimester
+>0.2 miU/L
+and <3.0 mlu/L
+Third trimester
+->0.3
+miUiL
+and <3.0 mIU/L
+Premature, 28-36 wk
+0.7 to 27.0 ulU/ml
+Cord Blood (>37 wk)
+2.3 to 13.2 ui/ml
+Children
+Birth-4 Days
+- 1.0 to
+39.0 ulU/ml
+2-20 wk
+- 1.7 to 9.1
+uU/ml
+21 wk to 20 yr
+- 0.7 to
+6.4 uiu/ml
+Adults
+Male 21-87 yr
+- 0.4 to
+4.5 ulU/ml
+Female 18-20 yr
+-0.7
+to 6.4 uiu/ml
+Female 21-54 yr
+-0.4
+to 4.5 uiu/ml
+--End Of Report--
+Dr. B Roshini Sumalini
+MBBS,MD PATHOLOGY
+Consultant Pathologist
+Verified By Mr. NEELAM
+Printed on 20/06/2026 10:14
+Approved By Dr. B Roshini Sumalini
+Page: 3 Of 3
+EDUKONDALU
+
+============================================================
+PAGE 116
+============================================================
+
+Patient Name : B/O. GADALI PRATHYUSHA UHID : 162608058 IPD : LB26/2818 Gender : Male Age : 0 D
+Ankura Hospitals LB Nagar Pvt Ltd
+ankura
+9M
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad,Telangana,
+500035
+hospital
+hy ecieca Tepe
+Phone : 9053108108 Website : https://www.ankurahospitals.com email : info@ankurahospital.com
+Laboratory
+Patient Name
+Baby Of GADALI PRATHYUSHA
+Lab No
+1646135
+UHID
+162608058/LB26/2818
+Sample Date
+21/06/2026 1:09AM
+Age/Gender
+4 Days/Male
+Receiving Date
+21/06/20267:28AM
+Bed No/Ward
+IPD
+Report Date
+21/06/20268:21AM
+Referred By
+Dr. Srinivas Murki
+Report Status
+Final
+Patient Mob
+BIOCHEMISTRY
+BILIRUBIN (TOTAL & DIRECT)
+Test Name
+Result
+Unit
+Biological
+Method
+Ref. Interval
+TOTAL BILIRUBIN
+14.8
+mg/dL
+Less than 24 Hours -
+Colorimetric diazo
+Below 6 mg/dl
+method
+24-48 Hours - Below 10
+mg/dl
+48-72 Hours - Below 12
+md/dl
+Older than 72 Hours -
+Below 15 mg/dl
+DIRECT BILIRUBIN
+0.7
+mg/dL
+0.33 - 0.71
+Diazonium
+INDIRECT BILIRUBIN
+14.10 H
+mg/dL
+0.00 - 12.00
+--End Of Report--
+Dr. B Roshini Sumalini
+MBBS,MD PATHOLOGY
+Consultant Pathologist
+Printed on 21/06/2026 08:17
+Approved By Dr. B Roshini Sumalini
+Page: 1 Of 1
+Verified By Mr. NEELAM
+EDUKONDALU
+
+============================================================
+PAGE 117
+============================================================
+
+Patient Name : B/O. GADALI PRATHYUSHA UHID : 162608058 IPD : LB26/2818 Gender : Male Age : 0 D
+9M
+ankura
+hospital
+by anbura hoopitan
+for women&children
+Buthserond
+Operative Notes
+UHID No.:- 162608058
+IPD No.:- LB26/2818
+Name of Patient:- B/O. GADALI PRATHYUSHA
+Age:- 0 D
+Sex:- Male
+Consultant:- DR. SRINIVAS MURKI
+Ref By:-
+Date of Admission:- 17-06-2026
+Time of Admission:- 12:21 PM
+Date of Discharge:-
+Time of Discharge:-
+Relative's Signature Operation Card Received By
+(RMO) Medical Officer
+)
+Signature
+Consultant Signature
+Date :
+Page 1 of 1
+
+============================================================
+PAGE 118
+============================================================
+
+Patient Name : B/O. GADALI PRATHYUSHA UHID : 162608058 IPD : LB26/2818 Gender : Male Age : 0 D
+ankura
+9M
+hospital
+tar women & children
+UHID No.:- 162608058
+IPD No.:- LB26/2818
+Name of Patient:- B/O. GADALI PRATHYUSHA S/O GADALI ABHILASH
+Address:- H NO 22-118/B FLAT NO 202 2ND FLOOR SRI VENKATA SAI APPARTMENTS RK NAGAR
+MALKAJGIRI HYDERABAD TELANGANA IN
+Age:- 0 D
+Gender:- Male
+Treating Consultant:- DR. SRINIVAS MURKI
+Ref By:-
+Date of Admission:-17-06-2026
+Time of Admission:- 12:21 PM
+Date of Discharge:-
+Time of Discharge:-
+END OF REPORT
+Parent / Relative
+Discharge Card Received By
+(RMO) Medical Officer
+( DR. SRINIVAS MURKI)
+Treating Doctor
+Date : 0000-00-00
+Page 1 of 1
+This Discharge Summary was created using PRESCO PAPERLESSIPD.

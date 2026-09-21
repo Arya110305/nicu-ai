@@ -1,0 +1,1509 @@
+============================================================
+PAGE 1
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+ankura
+ADMISSION RECORD
+hospital
+Patient Movement Record
+Patient Movement (Shifting) information
+OP/ER/Special Room/NICU/PICU/OT
+S.No
+Time
+Handed over by
+Taken over by
+Date
+Shifted From
+Shifted to
+Remarks, if any
+-Staff Name & Sign
+-Staff Name & Sign
+） 2%
+9:020
+EP
+Lofe
+aeiw
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/02
+
+============================================================
+PAGE 2
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+ankura
+INITIAL ASSESSMENT
+hospital
+(Done By Nurse)
+for women & chidren
+8/0 Vaegadavi
+608635
+IP.NO: 1326/300
+Patient Name:
+MR.NO:
+GA:
+wks
+Bith Weight:
+grams
+Date/Time of assessment:
+TOD:
+Mother Blood Group:
+Reason for admission/referral:
+VITAL SIGNS:
+Temperature:
+36.50
+HR:
+minutes
+RR:
+minutes
+No
+Retractions:
+SAS:
+Pulse Volume:
+5858
+B.P:
+95.
+Spo2:
+GRBS:
+36mgake
+2.9kg
+Weight:
+Kg/gms, Length:d45
+cms, HC: 33
+cms
+PAIN ASSESSMENT:
+Process
+Indicator
+0
+1
+2
+3
+Score
+Chart
+Gestational Age
+36 weeks or more
+32-35 weeks 6 days
+28-31 weeks 6 days
+Less than 28 weeks
+0
+Active, awake,
+Quite, awake,
+Active, sleep,
+Quite, sleep,
+Behavioural
+0
+Obser vation
+eyes open,
+eyes open,no facial
+eyes closed, no facial
+eyes closed, no facial
+State
+facial movement
+movement
+movement
+movement
+Observe
+Heart Rate
+0-beats per
+5-15 beats per
+15-24 beats per
+25 beats per
+0
+baseline
+Maximum
+minute increase
+minute increase
+minute increase
+minute increase
+heart rate &
+Oxygen
+saturations for
+Saturation
+92-100%
+89-91%
+88-85%
+<85 %
+01
+30 seconds
+minimum
+None
+Minimum
+Moderate
+Maximum
+0
+Brown Bulge
+Observe
+infant's facial
+action for
+Eye Squeeze
+None
+Minimum
+Moderate
+Maximum
+30 seconds
+0
+Naso-labial
+None
+Minimum
+Moderate
+Maximum
+furrow
+TS=01
+INTERVENTION:
+ρ
+Roje
+Sign:
+y
+Name:
+2626
+9:15pm
+Date:
+Time:
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/NICU/IP/F/03
+
+============================================================
+PAGE 3
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+ankura
+INITIAL ASSESSMENT
+hospital
+(Done By Doctors)
+for women & chidren
+Bovagdevi
+Patient Name:
+MR No.:
+IP No:
+Date & Time of Assessment : 2 7626
+2216(26,mall
+DOB/Gender:
+Assessment Done By:
+G2P1L
+PAST OBSTETRIC HISTORY
+MATERIAL RISK FACTORS
+Consanguinity
+Yes/No
+B.W
+G
+GA
+Sex
+Age
+Significant details
+(gms)
+Age <18/ >35 yrs
+uouy
+Yes/No
+RL1:05y—
+csCs
+PIH/Eclampsia
+MC^- (OyYes/No
+GDM/NIDDM/IDDM
+Yes/No
+PROM >18hrs/ Pre PROM
+Yes/No
+APH
+Yes/No
+Maternal Fever/ Chorioamnionitis
+Yes/No
+IHD Asthma
+Yes/No
+Chronic Illness:
+Medication:
+Other Problems, if any Previous Sibling Death:
+Preterm Labour:
+Yes/No
+Assisted Reproduction:
+Yes/No
+OBSTETRIC HISTORY
+PERI-PARTUM HISTORY
+Birth Weight:(C)
+ANC Registered/Non Registered
+LMP
+EDD T1
+EDD
+2
+Fetal distress Yes/No
+Afv
+Mother's Blood Group
+Last Hb
+Mode of Delivery: SyD/ Forceps/Ventouse/LSCS
+If LSCS:
+Emergency
+TORCH
+Elective
+HIV
+VDRL
+Indication for Lscs:O>Ao(in\dn
+USG: Polyhydramnios/Normal/ Oligohydramnios
+Presentation: Vertex/ Breech Liquor clear/
+IUGR:Yes/No
+Meconium/Foulsmelling
+UA Flow: Normal/Diminished /Absent/ Reverse
+Resuscitation: cried at birth/ stimulation/ Bag
+Mask/ Intubation/ chest compressions/adrenaline
+Antenatal Steroid: Drug
+Dose
+Nk
+APGAR: 1 Min/ 5 Min
+/10 Min
+Time-lapse since last dose:
+DCC: Yes/ No
+Seconds
+Magnesium Sulphate for Neuro Protection: Yes/ No
+Cord ABG:
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/NICU/IP/F/04
+
+============================================================
+PAGE 4
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+ankura
+9M
+PHYSICAL EXAMINATION
+hospital
+for women & children
+HEAD-NECK
+Retractions
+Fracture:
+Normal
+Tachypnea
+Specify:
+Microcephaly
+Apnea
+Macrocephaly
+Diminished Breath Sounds
+□R □L
+DDH (Developmental
+Moulding
+Stridor
+Dysplasia of Hip)
+Caput
+Others:
+Malformation (Specify):
+Cephalhematoma
+Abnormal Sutures
+Others:
+Abnormal Fontanelles
+Scalp Electrode Mark
+Scalp
+CARDIOVASCULAR
+Abscess
+NEUROLOGY
+Abnormal Facies
+Normal
+Normal
+della
+Cleft Lip:
+Unilateral
+Murmur
+Hypotonia
+Cleft Lip:
+Bilateral
+Dysrhythmias
+Hypertonia
+Cleft Palate
+Tachycardia (>160/min)
+Abnormal Cry
+Nasal Flaring
+Bradycardia (<100/min)
+Abnormal Moro:
+□R □L
+Neck Masses
+Decreased Precordial Activity
+Asymmetric Movement
+Others:
+Four Limb Pulses
+Paralysis
+Others:
+Suck:PresentAbsent
+Gag: Present Absent
+Others:
+EARS
+Normal
+SKIN
+Abnormal Location
+ABDOMEN
+Normal
+Abnormal Form
+Normal
+Acrocyanosis
+Preauricular Sinus (pit)
+Distended Abdomen
+Central Cyanosis
+slodelmatu
+Preauricular Skin Tags
+Scaphoid Abdomen
+Pallor
+Palpable Mass (Location)
+Plethora
+Others:
+Bruising (Location)
+Hepatomegaly
+delandsem
+Splenomegaly
+Laceration:
+Umbilical Cord
+Petechiae
+Genitalia
+Jaundice
+Aarger
+EYES
+Anus
+Meconium Staining
+Others:
+Edema (Specify):
+Normal
+Abnormal
+Birthmark (Specify):
+Others:
+MUSCULOSKELETAL
+CHEST-LUNG
+Spine: Normal
+Normal
+Abnormal
+Abnormal
+Specify:
+Accessory Nipples
+Limbs:
+Abnormal Chest Shape
+Grunting
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 |ISSUE NO.: 4
+AHWC/NICU/IP/F/05
+
+============================================================
+PAGE 5
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+PHYSICAL EXAMINATION
+ankura
+9M
+hospital
+women & children
+Feeding History
+Breast Fed / Top Fed:
+Gestational Age by Dates:
+_(weeks) by T, US:
+(weeks) by New Ballard Score:
+_(weeks)
+Anthoropometry:
+Length
+cm
+Head Circumference
+cm
+Admission Welght
+kg
+Chest Circumference
+cm
+VITAL SIGNS:
+Heart Rate:130
+ceblein.
+RR:
+Blood Pressure:
+mm Hg
+98.mon Fi_{2 Pain Score:
+Temperature:
+SpO2}
+wanlprongs
+PROVISIONAL DIAGNOSIS:
+Enicecs
+U
+S CHAB Hpeslyceedr
+latepretem
+SGA
+wale
+TSerm.
+30wf
+2.1lg
+GRBS: 82uglak
+INVESTIGATIONS
+TREATMENT PLAN
+BIG\T
+Ivfleids (GIR:)
+CBP
+- Ief r2s bolul
+CRP
+RfT
+—Tuy.TAXIYD
+VBG
+BoodClS
+dfT
+RBS
+NDD
+Date:
+Signature of the Doctor:
+Time:
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/NICU/IP/F/05
+
+============================================================
+PAGE 6
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+NURSE'S HAND OFF
+ankura
+9M
+hospital
+COMMUNICATION (SBAR)
+for women & children
+4/0 vagadowi
+Age/Sex: MaleMRNo./IP No.: 608635
+Patient Name:
+DOA: 296/26 Diagnosis:
+Seizures
+Surgery/Procedure:
+POD:
+Food/Drug Allergies:
+Past Health History:
+Area
+nelω
+Shift
+8pm-Am
+ITN 8
+ACUND
+Diet - Therapeutic Diet
+Npotiutle
+Dependent/Independent in feeding
+depeudue
+Tv Cannul
+LINES
+Infusion /Transfusions
+101+5D
+GCS/LOC
+Pain score
+-2-
+DVT prophylaxis
+VITALS
+Helu2futspart
+_SEN
+Ventilation
+Roomar
+Bowel movement/flatulence
+Void/foley
+void
+Genital discharge
+Nornal
+Skin integrity/Score
+Fall risk/Score
+Restrains
+ADL
+Critical lab values
+SRNS
+Ordered/planned
+EEGnlsq
+ECNS
+Bloodcs
+Reporting pending
+warp Cae
+Plan of care
+RAL
+Time of inform Time of visit
+Consultations
+Time of inform
+Time of visit
+Time of inform Time of visit
+DMO Orders
+DMO sign
+Remarks
+Date/Time
+2≠16128m-80
+Handing over given by
+Name / ID
+Loje 10636
+Taken over by
+Name / ID
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: O | ISSUE NO.: 1
+AHWC/IP/F/07
+
+============================================================
+PAGE 7
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+NURSE'S HAND OFF
+ankura
+9M
+hospital
+COMMUNICATION (SBAR)
+for women & children
+28/6/26
+Patient NaiName : VAGADAVI
+Age/Sex:
+MR No./IP No.:
+UHIDNO:162608635
+DOA:
+IPDNO:LB26/3007
+Surgery/Procedure:
+Age : 4 D Gender : Male
+POD:
+Consult : DR. SRINIVAS MURKI s:
+Past Health History:
+Adm Date: 27-06-2026 09:03 PM
+Area
+NICO
+NeCU
+Niω
+Shift
+mrng
+Evening
+5pm-8Am
+IT 8
+ACUND
+Diet - Therapeutic Diet
+Np8
+10ml and ly
+1090 2ndely.
+Dependent/Independent in feeding
+Dependent
+THr-Erom
+HF-EBm
+LINES
+Iv cannal
+uvc
+Ure
+i0 cannula
+Ir Cannula
+Infusion /Transfusions
+IV.Fluids
+10.10+05
+10J.D.
+GCS/LOC
+Normal
+Conscr'oces
+lonslious
+Pain score
+-01-
+-01-
+-02-
+DVT prophylaxis
+VITALS
+HQ.1DG-SP02.100 4R:112,S002:96%1/2115/1S029.5f
+_SEN
+NPOL
+Ventilation
+RIA
+02 Support
+Bowel movement/flatulence
+Not passid
+Not passed
+Foly
+Void/foley
+Foley
+foley
+Genital discharge
+10
+x
+Skin integrity/Score
+Normal
+Dsy
+Norcal
+Fall risk/Score
+-0-
+Restrains
+sidk rafls
+ADL
+–
+Critical lab values
+NS
+Ordered/planned
+Uvc-feeds
+Uve live.
+EEG. NSG
+1s 4 O ch
+ECNS
+Bloodcb
+Bld cls
+Reporting pending
+Blood calful
+EEG
+eEC.
+NSG 
+Plan of care
+lyalm calc
+feeds
+CST
+Warm Cee
+RAL
+Consultations
+Time of inform Time of visit
+Time of inform
+Time of visit
+Time of inform Time of visit
+DMO Orders
+DMO sign
+Remarks
+Date/Time
+2=/6/26 80m-2pm) 28106 2pm-8pm 246
+8pのさ4
+Handing over given by
+Name/ ID
+)oasceels.12277 shancy-2634.
+Taken over by
+Name / ID
+shandy
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: O | ISSUE NO.: 1
+AHWC/IP/F/07
+
+============================================================
+PAGE 8
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+NURSE'S HAND OFF
+ankura
+9M
+296/26
+hospital
+COMMUNICATION (SBAR)
+for woman & children
+B/0 vagohevi
+Patient Name:
+Age/Sex:
+MR No./IP No.:
+DOA: 26/2Diagnosis:Sei3ureSurgery/Procedure:
+POD:
+Food/Drug Allergies:
+Past Health History:
+Area
+NICU
+neiw
+VICU
+Shift
+morning
+Evening
+Spn-∈A∞
+ITN 8
+ACUND
+Diet - Therapeutic Diet
+15mland mly
+15mandby/
+159/2udy
+Dependent/Independent in feeding
+slf-eem
+BlF CB
+3/F tB0
+LINES
+uvc
+CVC
+ove
+iu cannuta
+Ev cannue
+1v Camnule
+Infusion /Transfusions
+(01).D-10-4ly
+101.0-10.4m11hr 10-1Denr081
+GCS/LOC
+conscious
+Conscioune
+conscipces
+Pain score
+-01-
+-01-
+- 01.
+DVT prophylaxis
+VITALS
+HR:128, 8002:961. +1R-116 SPO296 1K42/ S02287.
+_SEN
+Ventilation
+RIA
+Rrom air
+R10
+Bowel movement/flatulence
+J
+Void/foley
+一
+void
+Genital discharge
+x
+X
+c
+Skin integrity/Score
+Normal
+noormal
+alormal
+Fall risk/Score
+Restrains
+ADL
+Critical lab values
+SRNS
+Ordered/planned
+NSU
+NIRI THm
+Neorologe openion
+ECN
+Reporting pending
+Plan of care
+C8T
+Continw
+Warm Ceu.
+Sau
+RAL
+Time of inform Time of visit
+Consultations
+Time of inform
+Time of visit
+Time of inform
+Time of visit
+DMO Orders
+DMO sign
+Remarks
+Date/Time
+2916126.8Am-2pm 2916126 2pm108y 2916/66 80m840
+Handing over given by
+Name/ ID
+Sr. Roja
+Suthhr
+Raye C0636
+Taken over by
+Name / ID
+sr.Shanxy
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: O | ISSUE NO.: 1
+AHWC/IP/F/07
+
+============================================================
+PAGE 9
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+NURSE'S HAND OFF
+9M
+ankura
+30(6|20
+hospital
+COMMUNICATION (SBAR)
+for women & children
+B/D Vagdevi
+Age/Sex: MaleRNo./Po:608635
+Patient Name:
+DOA: 26/2 Diagnosis: Bee3lm Surgery/Procedure:
+POD:
+Food/Drug Allergies:
+Past Health History:
+Area
+neu
+niω
+alw
+Shift
+amorning
+Evening
+epm-54
+ITN 8
+ACUND
+3/F and l4
+Diet - Therapeutic Diet
+depenclet
+30mland irly
+Dependent/Independent in feeding
+8poon feed
+slf- FF
+Depecrdhe
+NO
+O0
+UVC
+UvC
+LINES
+UVC
+Infusion /Transfusions
+Abx
+10ソ.D-3.5m1lhy
+10-1.0.3.59
+GCS/LOC
+“0
+conscious
+constious
+Pain score
+“
+-02-
+-02-
+DVT prophylaxis
+VITALS
+HR.IUG.SPO-9HR:12,S2:96422
+_SEN
+Ventilation
+Roomai
+RIA
+RoDomar
+Bowel movement/flatulence
+V
+一
+Void/foley
+J
+Genital discharge
+0
+x
+α
+Skin integrity/Score
+Normal
+Nornal
+Fall risk/Score
+Restrains
+20
+ADL
+Critical lab values
+00
+RONS
+Ordered/planned
+MRI Today
+MRr Todey
+ECNS
+Reporting pending
+Continw coom
+Plan of care
+Continece
+Warn
+RAL
+Time of inform Time of visit
+Consultations
+Time of inform
+Time of visit
+Time of inform Time of visit
+DMO Orders
+DMO sign
+Remarks
+Date/Time
+3061268mm1020m301612620m-8pm80/6/2,500.81
+Handing over given by
+Name / ID
+8ceoflgl2ce6 shaxy -2634.
+Rofo 10636
+Taken over by
+Name / ID
+shaney-2634
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: O | ISSUE NO.: 1
+AHWC/IP/F/07
+
+============================================================
+PAGE 10
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+PROGRESS NOTES
+ankura
+hospital
+ta women & children
+Patient Name:
+MR No.:
+DATE&TIME
+PROGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+2716126
+5 day old wale baby delsers
+by frrcecs (Preeioncees Inlabeun
+Latepretems, at Avea hopibed Ssergapet.
+Baby CIAB, shifted to mothehsrde
+a2402
+4 on enderve breast feding
+On DOLY, baby hed daladhl
+4 fecal serzenres 4 coeat to prsuate
+horpeRI wheu Teajp. leuipil oodorg
+dou giver. Sugeu wen cheeks
+Fiyld
+Baby was adund fo
+(OFRD
+bolys
+adeusteviohyppn
+32mlalL
+Ieolytup
+4 scimen butpoeats
+J
+broughtheve
+26gTa 157:I
+fertha mangant
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 11
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+PROGRESS NOTES
+ankura
+hospital
+tas wumen & children
+Patient Name:
+MR No.:
+DATE&TIME
+PROGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+baby
+At fue frue of
+adcursion
+bc:2.15
+GRBS : S2uglak
+deelachlyr
+SlO delupdration +
+Baby coas shd to pico d
+wt:2.28ocg
+regn on GIR Suglng Inin, After seady
+Saugly Tey TAxer guen.
+VBG
+Baby had serew actodily senetaloed
+pH:7.373
+serwr.
+Jerj. leexpp
+PCO2:37.13
+Itantide on Tay. phene Loadl don
+：2.3
+HCO
+—4
+BE:
+Tej. Pyvidowtne
+lae:2.15
+liny
+Beve
+45
+Jay^. wit=k
+Tuglbok
+BP: 5 91384
+1
+COP:2.4u1CS.Ca.8.6
+2:00
+102$.)(107
+S.ciet.0.4
+B0:20'
+PCv:49.8
+(10:68%.)
+102
+TC:9100
+plT:1,83,000
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 12
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+PROGRESS NOTES
+ankura
+hospital
+3/0
+vagadlawi
+162608635
+Patient Name:
+MR No.:
+DATE &TIME
+PROGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+Dafe:-246/26
+D4dy
+DoL
+°一
+Intake : - Npo fig fleeied
+[1.03nlly
+Oufput ° 3
+304
+105mgde
+uens:—
+38
+NIBP.—589
+45
+Stror not passed
+St0ol.°
+Ans :- In.c Tanxi'm D2
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 13
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+PROGRESS NOTES
+ankura
+hospital
+Patient Name:
+MR No.:
+DATE&TIME
+PROGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+C/SJB kasthikeya sis
+28/6/26
+9A·m
+muitiple seiaure episodes (t)
+Baby on minimal Oxygen 0.1|litesmin
+GRBs
+–
+105 mgd)
+Actinty better
+AFflat
+Plan
+Perfusion
+Pulecs-Wf
+1) TF 10mland haly.
+NSG
+Dehydration(+)
+LFNC Q.1 litres/min
+EG
+a
+HR — 127, Sp0_a-99)
+sos ventilation
+3
+eNBS
+B·P - 64/43(s0) mm Hg.
+demipill/Phenobambit
+4
+U.0— 1.8 ml|kgl br
+mainfenance
+TV-150mi/kg/day
+4)
+GIR-8
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 14
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+ankura
+PROGRESS NOTES
+hospital
+Patient Name:
+MR No.:
+DATE&TIME
+PROGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+2810186
+Feem
+crdass
+1
+LFNC
+0·1(min
+Tv - 150 mo 1g | 0ay
+GIR -8
+③ T/
+O Qu
+10 m
+1omylvg 1dex -BD
+④
+Inj. levipil
+5my 1xg ldery
+S
+Prenobautcne
+Inj.
+D&L3
+Optineuron
+6
+Inj
+#
+venrilourion
+-d2
+Ivj
+Tahi m
+TO00
+NSG
+cal greueenat
+IV
+I 6Hmy
+EEG
+ENBS
+Fouphengroin
+— S∞
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 15
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+ankura
+PROGRESS NOTES
+hospital
+tas wamen & children
+Patient Name:
+MR No.:
+DATE&TIME
+PROGRESS NOTES
+NAME&SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+Late poitoon/ 36 wecks/ SOGA / 2.1 Ng 1
+8am
+Em.LBCB
+Hypoglyeemic seiznrelß
+prer Lsce in
+laloona
+on Roon air since bam
+spa — 98.1.
+28106|6
+Last seigure
+episode 5 anm on
+on Lenipil ir maintonanu (20mgl/g1/g)
+Grardenal ir maintonana (5mgl/bday)
+D3 Opt'neuron
+o~ T/F 10ml Q2H + 1rF 10%.D
+②
+GIR 8mg /1hg/ mt
+GRB 8 - T5 → 105 → 93 → 50 →
+(GR—6)
+D3
+Cepotaxime
+calcium 8mg/ng/day
+1√
+B
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 16
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+ankura
+9M
+PROGRESS NOTES
+hospital
+ women & chilldren
+Patient Name:
+MR No.:
+DATE &TIME
+PROGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+FEG — Diffuse
+cereboral dysginetion
+no seiznre activity
+plam
+MRIbrain
+Neurologist opiniontodauy.
+PH
+CRP—2.4
+–7.87
+ly
+Catt - 8·6
+PO2-3T.3
+HCO3-21.3
+Creats - 0.4
+Vrea — 20
+Lactato-2.15
+Electrolyto – 142 /5.1 | 107
+Tcc -a100
+Ammonia — 86
+Pit- 1.83L
+TSB-15.5
+PCN - 49.8
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 17
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+ankura
+PROGRESS NOTES
+hospital
+Name: VAGDEVI
+UHID NO: 162608635
+Patient Name:
+IPDNO:LB26/3007
+MR No.:
+Age: 4 D Gender: Male
+Consult: DR. SRINIVAS MURKI
+Adm Date: 27-06-2026 09:03 PM
+DATE&TIME
+OGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+Datc.-2a/6/26
+A b dy
+Don
+0
+–
+output :- vriaf pased
+93 mgde
+uiss
+2.24by
+T.n f∵
+2.2kg [40gr0JT
+γwx:
+N1 sp :— 65/44
+51
+Aas :- Dey ÷ Tanem(A3)
+SHo01 :- 1 ine passed
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 18
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+ankura
+PROGRESS NOTES
+hospital
+Patient Name:
+MR No.:
+DATE&TIME
+PROGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+DY. S-meslo sis
+36 alks I DoC- Idaye/seizures
+typoglycemia,
+nlo RD,
+smprove
+Senstricen
+nbo focal s
+showldee
+AF level
+No dismefisum
+screenNegitive-
+No seekure's affee adnissity
+GELAK Normal,
+Newrobogy
+opinen-
+MRIwaited
+plas
+SIF+DBF 15-20mf
+Tadlim cnlT
+fleeid cnlt
+Stop: optineeron
+Stop: Levigal
+oral Galciumples2 suTip.
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 19
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+ankura
+9M
+PROGRESS NOTES
+hospital
+tar wumen & chilldren
+Patient Name:
+MR No.:
+DATE&TIME
+PROGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+2alo66
+STBDr. Keernik
+8v
+9 -AH
+Hypogdyceme
+reizund
+on
+boom
+as
+NO
+seizuees
+lost24-h0
+t00
+on
+GiR-8
++
+T
+-r0m
+Q Qn
+Ploun
+NO
+Hgropeycema
+1
+Newldlogn
+opinior
+MRI Boan
+eftce n evealepo
+cpiran
+③TH15me 024
+TCuiM
+til
+ContRhenobacbitonk
+Curse
+Lelipie
+ctop
+7
+Syp. Caeinou
+Oftineulon XBL
+3
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 20
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+PROGRESS NOTES
+ankura
+hospital
+chilldren
+Patient Name:
+MR No.:
+DATE&TIME
+PROGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+fresh ordess
+29/6|26
+S/r 15 ml and hely
+11A·m
+D
+
+IVF 10%D℃GlR-8@10:5m1/hr
+3
+Stop
+p Inj. levipil)
+④
+Inj. Phenobarbitonc maintenance
+dore
+TInj. Optinevron
+Da21D3 5
+形多り回り同
+Inj. Taxim fill cultures
+Nevsologisf Opinion
+MRI
+Brain
+Calcimaxplus
+Onal
+warmth Care
+Monitos Vitals
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 | ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 21
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+PROGRESS NOTES
+ankura
+hospital
+tu wumen & chilldren
+Patient Name:
+MR No.:
+DATE&TIME
+PROGRESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+C/S/B Sreeram sir
+29/6/96
+hypoglycemiv/LUGR
+Baby on toom air
+Stable
+last eeiauee 36 houss back
+Sensorium im pooving
+GEd AK- noomal
+Uh - mild hypotonia, head lag (t)
+Se.Costisol
+dx —
+Tone
+Plan
+Blood ketoes
+ENBS
+hydration—
+SIr adlib
+AF level
+司司氏
+Inj.Taxim
+Abmc 8oft
+IVR 10%D G1R-8
+Tolerating feeds
+Critical sample if
+GRBS α $0 mgld/
+5
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 |ISSUE NO.: 4
+AHWC/IP/F/10
+
+============================================================
+PAGE 22
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+ankura
+PROGRESS NOTES
+hospital
+wamen & chillidren
+Name : VAGDEVI
+Patient Name:
+UHID NO:162608635
+MR No.:
+IPDNO:LB26/3007
+Age : 4 D Gender: Male
+Consult: DR. SRINIVAS MURKI
+DATE &TIME
+Adm Date: 27-06-2026 09:03 PMIESS NOTES
+NAME & SIGN
+PAIN SCORE:
+(REQUIRED INTERVENTION IF PAIN SCORE IS ≥ 4)
+Datc.-3016[26
+Dow
+Intake :- s/sadles.
+Oletput:vnie/strolpased
+T.wt:-2.30ky
+∴-2.24kg
+y.nt
+alip —58f58
+u5
+Gkns :
+lo9mgde
+D4
+ABs : -Dy! Taxin
+3time passed
+strol°-
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN
+REVISION NO.: 3 |ISSUE NO.: 4
+AHWC/IP/F/10

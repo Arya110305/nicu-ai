@@ -1,0 +1,263 @@
+NICU DISCHARGE SUMMARY
+======================
+
+**PATIENT AND BIRTH DETAILS**
+
+Patient Name: B/O. N Akshaya
+UHID: 162607289
+IP Number: LB26/2772
+Mother Name: Not specified
+Father Name: Not specified
+Sex: Male
+Age at Admission: 15 days
+Date of Birth: 31/05/2026
+Admission Date: 31/05/2026
+Discharge Date: Not specified
+Discharge Time: Not specified
+Inborn / Outborn status: Inborn
+Referring Hospital: Not specified
+Referring Doctor: Not specified
+Gestational Age: 32 weeks
+Birth Weight: 1.66 kg
+Admission Weight: 2.11 kg (documented in another entry as 2.10 kg)
+Discharge Weight: Not specified
+Current Weight: Not specified
+Length: Not specified
+Head Circumference: Not specified
+SGA: Not specified
+AGA: Not specified
+LGA: Not specified
+IUGR: Not specified
+Place of Birth: Ankura Hospital for Women and Children
+Mode of Delivery: PPROM (Premature rupture of membranes)
+Delivery Indication: PPROM (Premature rupture of membranes)
+Presentation: Not specified
+Singleton / Multiple Birth: Singleton
+Cry at Birth: Weak cry
+Resuscitation: Performed
+APGAR at 1 minute: Not documented
+APGAR at 5 minutes: Not documented
+APGAR at other documented times: Not documented
+Cord information: Not documented
+Meconium: Not documented
+Immediate postnatal condition: Not documented
+
+Birth / Immediate Postnatal History: The baby was born at Ankura Hospital for Women and Children via PPROM. The delivery indication was PPROM. A weak cry was noted at birth, and resuscitation was performed. Details regarding immediate postnatal care, such as rooming-in or breastfeeding, are not documented.
+
+**ANTENATAL AND PERINATAL HISTORY**
+
+There is limited documented antenatal history. The patient was delivered via PPROM (Premature rupture of membranes). Cry at birth was weak, and resuscitation was performed.
+
+**HISTORY OF PRESENT ILLNESS / REASON FOR ADMISSION**
+
+The patient, born on 31/05/2026, was admitted on 31/05/2026 at 10:11 AM. The reason for admission was PT (Prematurity), LBW (Low Birth Weight), and RDS (Respiratory Distress). The baby presented with recurrent apnea. On 15/06/2026, the admission reason was documented as PT - SHOK risk.
+
+**OUTSIDE-HOSPITAL MANAGEMENT**
+
+Outside hospital, an RBS (Random Blood Sugar) of 32 mg/dL was documented. A 10% dextrose bolus and Levetiracetam loading were administered.
+
+**ADMISSION EXAMINATION**
+
+On admission, the baby’s temperature was 86.5°F, heart rate 144 bpm, and respiratory rate 59 breaths per minute. SpO2 was 93%. Subsequent vital signs recorded on 16/06/2026 were: Temperature 86.6°C, Heart Rate 148 bpm. On 17/06/2026: Temperature 36.6°C, Heart Rate 148 bpm. On 18/06/2026: Temperature 86.6°C, Heart Rate 158 bpm. On 19/06/2026: Respiratory Rate 26 breaths/min, Heart Rate 160 bpm. On 20/06/2026: Respiratory Rate 26 breaths/min, Heart Rate 158 bpm. On 21/06/2026: Respiratory Rate 26 breaths/min, Heart Rate 158 bpm. On 22/06/2026: Respiratory Rate 26 breaths/min, Heart Rate 160 bpm. On 23/06/2026: Respiratory Rate 26 breaths/min, Heart Rate 148 bpm. On 24/06/2026: Respiratory Rate 26 breaths/min, Heart Rate 150 bpm. On 25/06/2026: Heart Rate 196 bpm. On 26/06/2026: Heart Rate 129 bpm.
+
+**DIAGNOSES / CLINICAL PROBLEMS**
+
+The documented diagnoses include: Prematurity, Respiratory Distress Syndrome (RDS), and recurrent apnea. Suspected sepsis was also documented. The patient was diagnosed with PT - RD - ROS (Prematurity, Respiratory Distress, Right Occiput Posterior).
+
+The patient was also noted to have early jaundice.
+
+**MORBIDITIES AND COURSE DURING NICU STAY**
+
+**Respiratory Distress Syndrome (RDS) and Neonatal Respiratory Distress**
+
+The patient, a male infant born prematurely at 32 weeks gestation, was admitted on 31/05/2026, presenting with recurrent apnea and respiratory distress. Initial examination revealed a weak cry, and resuscitation was required. The patient was initially placed on CPAP (Continuous Positive Airway Pressure) with an unspecified FiO2. A UVC (Umbilical Venous Catheter) was inserted. Respiratory support was escalated to NIV (Non-Invasive Ventilation) at 14/30% on 15/06/2026. SpO2 ranged from 90-98% throughout the admission, requiring adjustments to CPAP and NIV settings. On 26/06/2026, the patient was noted to be on room air with episodes of apnea. Nebulization with NaCl was administered. The respiratory course was characterized by recurrent apnea episodes requiring stimulation.
+
+**Suspected Sepsis**
+
+Suspected sepsis was a significant concern throughout the admission. Initial investigations included a complete blood picture (CBC), C-Reactive Protein (CRP), blood cultures, urine examination, and other cultures. CRP was initially 0.2 mg/L (PAGE_0033), later rising to 4.3 mg/L (PAGE_243). TLC (Total Leukocyte Count) was 17,500. Amikacin was administered. Blood culture results were pending. The patient received IV fluids and was monitored closely for signs of infection. A gammaglobulin was administered. The clinical picture was complicated by the presence of respiratory distress, making it difficult to definitively attribute all findings to sepsis.
+
+**Hypoglycaemia**
+
+The patient experienced hypoglycaemia, with a random blood glucose of 32 mg/dL documented at the referring hospital prior to transfer. GRBS (Glucose Readings Before Shift) monitoring was performed regularly. On 21/06/2026, a GRBS of 86 mg/dL was recorded, prompting further investigation and management. Intravenous dextrose boluses and a continuous glucose infusion were initiated. The specific dextrose concentration and GIR (Glucose Infusion Rate) were not consistently documented, but adjustments were made based on GRBS results. Oral feeds were initiated, and the patient was transitioned to a 10% dextrose solution. The hypoglycaemia contributed to the overall clinical instability.
+
+**Neurological Abnormalities and Seizures**
+
+The patient experienced at least one episode of apnea requiring stimulation. Neurological examination revealed suspected sepsis and early jaundice. One seizure episode was documented. The patient was monitored for neurological deterioration. Pyridoxine was not documented as administered. No EEG or NSG (Neurosonography) was performed.
+
+**Feeding Difficulty and Intolerance**
+
+The patient initially required nasojejunal tube feeding, with a bolus of 25 ml administered. Oral feedings were subsequently initiated. The patient was tolerating tube feeds well. The specific feed volume and frequency were not consistently documented.
+
+**Jaundice**
+
+The patient developed jaundice, with total bilirubin levels reaching 3.20 mg/dL and direct bilirubin 0.30 mg/dL. Indirect bilirubin was 2.90 mg/dL. The patient was monitored for hyperbilirubinemia. Phototherapy was not documented.
+
+**Temperature Instability**
+
+The patient exhibited temperature instability, with recorded temperatures ranging from 86.5°F to 98.6°F. Temperature was monitored regularly, and appropriate measures were taken to maintain thermal stability.
+
+**Investigations and Procedures**
+
+Numerous laboratory investigations were ordered and performed, including CBC, CRP, renal function tests, electrolytes, calcium, liver function tests, blood gas analysis, glucose, metabolic tests, cultures, urinalysis, and imaging. Peripheral IV cannulation was performed. A UVC was inserted. X-ray was performed for CVC position. The results of these investigations were used to guide clinical management.
+
+**TREATMENTS GIVEN**
+
+*   Azithromycin: 100 mg, 0.8 ml od
+*   Flunixin meglumine: 0.8 ml bd
+*   Amikacin: Dosage and frequency not consistently documented.
+*   Caffeine: 8mg/cglday
+*   Oral calcium
+*   Flevie J
+*   Thalose drops
+*   Masoclear
+*   IV Fluids: Type and volume not specified
+*   Dextrose: Concentration and volume not specified
+*   Syrup: Azee 2, CnkT (24/06/2026)
+*   Syrup: Flevie J, Thalose drops, Masoclear (24/06/2026)
+*   Inj: Paracetamol, Calcium, Pipeta2 (dates documented above)
+*   Gammaglobulin given (23/06/2026)
+
+**INVESTIGATIONS**
+
+**Complete Blood Picture (CBC)**
+
+*   Hemoglobin: 16.0 g/dL (23/06/2026)
+*   Hematocrit/PCV: 47.4% (23/06/2026)
+*   Total Leukocyte Count: 17,500 (23/06/2026)
+*   Platelet Count: 345,000 /mm3 (23/06/2026)
+*   Hemoglobin: 13.7 g/dL (24/06/2026)
+*   Packed Cell Volume (PCV): 43.7% (24/06/2026)
+*   WBC Count: 17,500 cells/cumm (24/06/2026)
+*   Platelet Count: 641,000 H/mm3 (24/06/2026)
+
+**Inflammatory Markers**
+
+*   CRP: 0.2 mg/L (23/06/2026)
+*   CRP: 4.30 mg/L (26/06/2026)
+
+**Renal Function**
+
+*   Urea: 13.9 mg/dL (23/06/2026)
+*   Creatinine: 0.1 mg/dL (23/06/2026)
+*   Urea: 6.4 mmol/L (23/06/2026)
+*   Blood Urea Nitrogen (BUN): 6.4 mg/dL (23/06/2026)
+*   Creatinine: 0.41 mg/dL (23/06/2026)
+*   Blood Urea: 22 mg/dL (24/06/2026)
+*   Blood Urea Nitrogen (BUN): 10.3 mg/dL (24/06/2026)
+*   Uric Acid: 6.5 mg/dL (24/06/2026)
+
+**Electrolytes**
+
+*   Sodium: 139 mEq/L (23/06/2026)
+*   Potassium: 5.0 mEq/L (23/06/2026)
+*   Calcium: 9.3 mg/dL (23/06/2026)
+*   Ionic Calcium: 5.26 mg/dL (23/06/2026)
+*   Sodium: 143 mmol/L (23/06/2026)
+*   Potassium: 5.9 mmol/L (24/06/2026)
+*   Chloride: 105 mEq/L (23/06/2026)
+*   Calcium: 11.0 mg/dL (24/06/2026)
+
+**Liver Function**
+
+*   Total Bilirubin: 3.20 mg/dL (23/06/2026)
+*   Direct Bilirubin: 0.30 mg/dL (23/06/2026)
+*   Indirect Bilirubin: 2.90 mg/dL (23/06/2026)
+*   AST: 55-60 U/L (23/06/2026)
+*   ALT: 4.6 U/L (23/06/2026)
+*   ALP: 327.8 U/L (23/06/2026)
+*   Total Protein: 4.0 g/dL (23/06/2026)
+*   Albumin: 3.3 g/dL (23/06/2026)
+
+**Blood Gas Analysis**
+
+*   pH: 7.24 (23/06/2026)
+*   pCO2: 27.8 mmHg (23/06/2026)
+*   pO2: 69.3 mmHg (23/06/2026)
+*   HCO3: Not documented.
+*   Base excess: Not documented.
+*   Lactate: Not documented.
+
+**Glucose Monitoring**
+
+*   GRBS: 86 mg/dL (21/06/2026)
+
+**Metabolic Investigations**
+
+*   Ammonia: Not documented.
+*   Lactate: Not documented.
+
+**Microbiology**
+
+*   Blood Culture: No bacterial growth seen after 24 hours of aerobic incubation.
+*   Urine Culture: Not documented.
+
+**Urine Examination**
+
+*   Appearance: Clear (24/06/2026)
+*   Pus Cells: 3-4/hpf (24/06/2026)
+*   Epithelial Cells: 1-2/hpf (24/06/2026)
+
+**Imaging**
+
+*   MRI Brain: Not documented.
+*   NSG: Not documented.
+*   Chest X-ray: Not documented.
+*   Abdominal ultrasound: Not documented.
+*   Echocardiography: Not documented.
+
+**EEG / Neurodiagnostics**
+
+*   EEG: Not documented.
+
+**PROCEDURES AND INTERVENTIONS**
+
+*   IV Cannulation: Dorsal vein, inserted 31/5/26 by Sr. Sudha.
+*   UVC Insertion: Performed by Dr. Tejasree (23/06/2026)
+*   Nasojejunal tube placement: Q4h
+*   Nebulization with Nacl: 0.8 h
+*   CPAP: Started 31/05/2026, FiO2 25%
+*   CPAP: Continued 16/06/2026, FiO2 25%
+*   CPAP: Continued 17/06/2026, FiO2 25%
+*   CPAP: Continued 20/06/2026, FiO2 25%
+*   CPAP: Continued 21/06/2026, FiO2 25%
+*   CPAP: Continued 22/06/2026, FiO2 25%
+*   CPAP: Continued 23/06/2026, FiO2 25%
+*   Room air transition: 24/06/2026
+
+**CONDITION AT DISCHARGE**
+
+The baby is a 15-day-old male infant born at 32 weeks gestation, weighing 1.66 kg. He initially presented with recurrent apnea and was admitted for prematurity, respiratory distress syndrome (RDS), and suspected sepsis. He was initially managed with CPAP and IV medications including Amikacin, Flunixin meglumine, Caffeine, and Azithromycin.
+
+Respiratory status improved, and he transitioned to room air. He had episodes of apnea requiring stimulation. He is currently on room air.
+
+Neurologically, he had one episode of apnea requiring stimulation.
+
+He is accepting feeds well, initially via nasojejunal tube, and oral feedings have been initiated.
+
+His latest weight is 1.76 kg on 25/06/2026.
+
+He passed urine and stool.
+
+There were desaturation episodes present.
+
+**DISCHARGE MEDICATIONS**
+
+*   Syrup: Azee 2, CnkT (frequency and dose not specified) started 26/06/2026.
+*   Syrup: Flevie J, Thalose drops, Masoclear (frequency and dose not specified).
+*   Caffeine (8mg/cglday) oral.
+*   Oral calcium.
+
+**DISCHARGE ADVICE**
+
+Topics covered included support on CPAP, tube feeds, blood tests, nasal blockage, and apnea episodes reduced (15/06/2026).
+Topics covered included CPAP support, tube feeds, and apnea episodes reduced; plan to continue CPAP and tube feeds (16/06/2026 and 17/06/2026).
+Topics covered included apnea episodes reduced, tube feeds, KMC training, and cephalic vein cannulation (26/06/2026, 29/06/2026, and 24/06/2026).
+Advice for TlF continued, Neapmo.
+
+**FOLLOW-UP**
+
+No specific follow-up appointments were documented.
+
+**PENDING REPORTS / INVESTIGATIONS**
+
+Culture report pending.

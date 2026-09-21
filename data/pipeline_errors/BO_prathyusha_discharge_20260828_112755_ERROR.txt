@@ -1,0 +1,5 @@
+Patient: BO_prathyusha
+Stage: discharge
+Time: 2026-08-28T11:27:55.676744
+Error type: RuntimeError
+Error: One or more discharge-summary section tasks failed. Discharge generation has been stopped to prevent a partial clinical summary. Failed task(s): hospital_course (MORBIDITIES AND COURSE DURING NICU STAY), admission_and_diagnosis (ADMISSION, ANTENATAL HISTORY AND DIAGNOSIS), patient_and_birth (PATIENT AND BIRTH DETAILS), investigations_and_treatment (INVESTIGATIONS, PROCEDURES AND TREATMENT), discharge_and_followup (CONDITION AT DISCHARGE, MEDICATIONS, ADVICE AND FOLLOW-UP)

@@ -1,0 +1,11 @@
+{
+  "patient_name": "pending_BO_prathyusha",
+  "stage": "ocr",
+  "status": "completed",
+  "total_pages": 118,
+  "min_batch_characters": 15000,
+  "max_batch_characters": 20000,
+  "total_batches": 7,
+  "complete_file": "pending_BO_prathyusha_ocr_complete.txt",
+  "completed_at": "2026-08-27T17:21:20"
+}

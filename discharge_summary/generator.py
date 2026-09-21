@@ -1,22 +1,51 @@
 """
 NICU discharge-summary generator.
 
-This stage does not stream.
+NEW PIPELINE ARCHITECTURE
+=========================
 
-It waits until the normalizer has fully completed and created:
+This stage DOES NOT stream.
 
-    data/<patient>/normalizer/normalizer_complete.json
+The Discharge Summary starts only after the Normalizer has fully
+completed.
 
-It then reads only the complete normalized file:
+Required Normalizer inputs:
 
-    data/<patient>/normalizer/
-        <patient>_normalized_complete.txt
+    normalizer/output/
+        NORMALIZER_<patient>.txt
 
-The generator produces:
+and:
 
-    data/<patient>/discharge/
-        <patient>_discharge_summary.txt
-        discharge_complete.json
+    normalizer/temp/<patient>/
+        normalizer_complete.json
+
+The Normalizer completion marker is only created after its complete
+combined TXT has been written and validated.
+
+The Discharge Summary therefore NEVER reads:
+
+    normalizer/temp/<patient>/parts/
+
+and never consumes partial Normalizer batches.
+
+Temporary discharge work is stored in:
+
+    discharge_summary/temp/<patient>/
+        sections/
+        errors/
+
+The final discharge summary is:
+
+    discharge_summary/output/
+        DISCHARGE_<patient>.txt
+
+Temporary files are not deleted here.
+
+api/pipeline.py will perform final cleanup and move useful outputs into:
+
+    data/<patient>/
+
+only after the complete pipeline succeeds.
 """
 
 from __future__ import annotations
@@ -26,16 +55,26 @@ import re
 import sys
 import time
 import traceback
+
 from concurrent.futures import (
     Future,
     ThreadPoolExecutor,
     as_completed,
 )
-from pathlib import Path
-from time import perf_counter
-from typing import Callable, Final
 
-from .generator_model import create_model
+from pathlib import Path
+
+from time import perf_counter
+
+from typing import (
+    Callable,
+    Final,
+)
+
+from .generator_model import (
+    create_model,
+)
+
 from .prompt import (
     build_admission_and_diagnosis_prompt,
     build_discharge_and_followup_prompt,
@@ -44,6 +83,7 @@ from .prompt import (
     build_investigation_and_treatment_prompt,
     build_patient_and_birth_prompt,
 )
+
 from .utils import (
     clean_clinical_text,
     clean_model_output,
@@ -57,22 +97,41 @@ from .utils import (
 # ==========================================================
 
 PROJECT_ROOT: Final[Path] = (
-    Path(__file__).resolve().parent.parent
+    Path(__file__)
+    .resolve()
+    .parent
+    .parent
 )
 
-DATA_FOLDER: Final[Path] = (
-    PROJECT_ROOT / "data"
+DISCHARGE_ROOT: Final[Path] = (
+    Path(__file__)
+    .resolve()
+    .parent
 )
 
-GLOBAL_ERROR_FOLDER: Final[Path] = (
+DISCHARGE_TEMP_FOLDER: Final[Path] = (
+    DISCHARGE_ROOT
+    / "temp"
+)
+
+DISCHARGE_OUTPUT_FOLDER: Final[Path] = (
+    DISCHARGE_ROOT
+    / "output"
+)
+
+NORMALIZER_ROOT: Final[Path] = (
     PROJECT_ROOT
-    / "discharge_summary"
-    / "errors"
+    / "normalizer"
 )
 
-GLOBAL_ERROR_FOLDER.mkdir(
-    parents=True,
-    exist_ok=True,
+NORMALIZER_TEMP_FOLDER: Final[Path] = (
+    NORMALIZER_ROOT
+    / "temp"
+)
+
+NORMALIZER_OUTPUT_FOLDER: Final[Path] = (
+    NORMALIZER_ROOT
+    / "output"
 )
 
 
@@ -100,7 +159,11 @@ PromptBuilder = Callable[
 # ==========================================================
 
 TASKS: tuple[
-    tuple[str, str, PromptBuilder],
+    tuple[
+        str,
+        str,
+        PromptBuilder,
+    ],
     ...,
 ] = (
     (
@@ -108,26 +171,39 @@ TASKS: tuple[
         "PATIENT AND BIRTH DETAILS",
         build_patient_and_birth_prompt,
     ),
+
     (
         "admission_and_diagnosis",
-        "ADMISSION, ANTENATAL HISTORY AND DIAGNOSIS",
+        (
+            "ADMISSION, ANTENATAL HISTORY "
+            "AND DIAGNOSIS"
+        ),
         build_admission_and_diagnosis_prompt,
     ),
+
     (
         "hospital_course",
-        "MORBIDITIES AND COURSE DURING NICU STAY",
+        (
+            "MORBIDITIES AND COURSE "
+            "DURING NICU STAY"
+        ),
         build_hospital_course_prompt,
     ),
+
     (
         "investigations_and_treatment",
-        "INVESTIGATIONS, PROCEDURES AND TREATMENT",
+        (
+            "INVESTIGATIONS, PROCEDURES "
+            "AND TREATMENT"
+        ),
         build_investigation_and_treatment_prompt,
     ),
+
     (
         "discharge_and_followup",
         (
-            "CONDITION AT DISCHARGE, MEDICATIONS, "
-            "ADVICE AND FOLLOW-UP"
+            "CONDITION AT DISCHARGE, "
+            "MEDICATIONS, ADVICE AND FOLLOW-UP"
         ),
         build_discharge_and_followup_prompt,
     ),
@@ -135,103 +211,317 @@ TASKS: tuple[
 
 
 # ==========================================================
-# PATIENT HELPERS
+# PATIENT NAME
 # ==========================================================
 
 def safe_patient_name(
     value: str,
 ) -> str:
     """
-    Convert a patient name into a safe folder and filename.
+    Convert a patient name into a safe canonical identifier.
+
+    Temporary upload prefixes such as:
+
+        pending_
+
+    are removed.
     """
+
+    value = (
+        value
+        .strip()
+    )
+
+    if (
+        value.lower()
+        .endswith(
+            ".pdf"
+        )
+    ):
+
+        value = (
+            value[:-4]
+        )
+
+    while (
+        value.lower()
+        .startswith(
+            "pending_"
+        )
+    ):
+
+        value = (
+            value[
+                len(
+                    "pending_"
+                ):
+            ]
+        )
 
     cleaned = re.sub(
         r"[^A-Za-z0-9_-]+",
         "_",
-        value.strip(),
+        value,
     )
 
     cleaned = re.sub(
         r"_+",
         "_",
         cleaned,
-    ).strip("_")
+    ).strip(
+        "_"
+    )
 
-    return cleaned or "patient"
+    return (
+        cleaned
+        or "patient"
+    )
 
 
-def get_patient_folders(
+# ==========================================================
+# NORMALIZER PATHS
+# ==========================================================
+
+def get_normalizer_workspace(
     patient_name: str,
-) -> dict[str, Path]:
+) -> dict[
+    str,
+    Path,
+]:
     """
-    Create and return discharge-stage patient folders.
+    Return the Normalizer locations used by the Discharge stage.
+
+    The Discharge generator reads ONLY:
+
+        normalizer/output/NORMALIZER_<patient>.txt
+
+    and:
+
+        normalizer/temp/<patient>/normalizer_complete.json
     """
 
-    patient_root = (
-        DATA_FOLDER
-        / safe_patient_name(
+    patient_name = (
+        safe_patient_name(
             patient_name
         )
     )
 
-    folders = {
-        "root": patient_root,
+    temp_root = (
+        NORMALIZER_TEMP_FOLDER
+        / patient_name
+    )
 
-        "normalizer": (
-            patient_root
-            / "normalizer"
+    return {
+        "temp_root": (
+            temp_root
         ),
 
-        "discharge": (
-            patient_root
-            / "discharge"
+        "completion": (
+            temp_root
+            / "normalizer_complete.json"
         ),
 
-        "discharge_errors": (
-            patient_root
-            / "discharge"
-            / "errors"
+        "final_output": (
+            NORMALIZER_OUTPUT_FOLDER
+            / (
+                f"NORMALIZER_"
+                f"{patient_name}"
+                f".txt"
+            )
         ),
     }
 
-    for folder in folders.values():
-        folder.mkdir(
-            parents=True,
-            exist_ok=True,
-        )
 
-    return folders
+# ==========================================================
+# DISCHARGE WORKSPACE
+# ==========================================================
+
+def get_discharge_workspace(
+    patient_name: str,
+) -> dict[
+    str,
+    Path,
+]:
+    """
+    Create and return temporary discharge-stage locations.
+
+    Structure:
+
+        discharge_summary/temp/<patient>/
+            sections/
+            errors/
+            discharge_complete.json
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    root = (
+        DISCHARGE_TEMP_FOLDER
+        / patient_name
+    )
+
+    workspace = {
+        "root": (
+            root
+        ),
+
+        "sections": (
+            root
+            / "sections"
+        ),
+
+        "errors": (
+            root
+            / "errors"
+        ),
+
+        "completion": (
+            root
+            / "discharge_complete.json"
+        ),
+    }
+
+    workspace[
+        "root"
+    ].mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    workspace[
+        "sections"
+    ].mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    workspace[
+        "errors"
+    ].mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    return workspace
 
 
 # ==========================================================
-# NORMALIZER COMPLETION
+# FINAL DISCHARGE OUTPUT
+# ==========================================================
+
+def ensure_discharge_output_folder() -> Path:
+    """
+    Ensure the final discharge-output folder exists.
+    """
+
+    DISCHARGE_OUTPUT_FOLDER.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    return (
+        DISCHARGE_OUTPUT_FOLDER
+    )
+
+
+def get_discharge_output_path(
+    patient_name: str,
+) -> Path:
+    """
+    Return the permanent stage output path.
+
+    Example:
+
+        discharge_summary/output/
+            DISCHARGE_BO_VAGDEVI.txt
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    ensure_discharge_output_folder()
+
+    return (
+        DISCHARGE_OUTPUT_FOLDER
+        / (
+            f"DISCHARGE_"
+            f"{patient_name}"
+            f".txt"
+        )
+    )
+
+
+def get_discharge_completion_marker_path(
+    patient_name: str,
+) -> Path:
+    """
+    Return the temporary discharge completion marker.
+    """
+
+    workspace = (
+        get_discharge_workspace(
+            patient_name
+        )
+    )
+
+    return (
+        workspace[
+            "completion"
+        ]
+    )
+
+
+# ==========================================================
+# NORMALIZER COMPLETION MARKER
 # ==========================================================
 
 def get_normalizer_marker_path(
     patient_name: str,
 ) -> Path:
     """
-    Return the normalizer completion-marker path.
+    Return:
+
+        normalizer/temp/<patient>/
+            normalizer_complete.json
     """
 
-    folders = get_patient_folders(
-        patient_name
+    workspace = (
+        get_normalizer_workspace(
+            patient_name
+        )
     )
 
     return (
-        folders[
-            "normalizer"
+        workspace[
+            "completion"
         ]
-        / "normalizer_complete.json"
     )
 
 
 def load_normalizer_completion_data(
     patient_name: str,
-) -> dict[str, object]:
+) -> dict[
+    str,
+    object,
+]:
     """
-    Load and validate normalizer completion metadata.
+    Load and strictly validate the Normalizer completion marker.
+
+    The Discharge Summary must not start unless this succeeds.
     """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
 
     marker_path = (
         get_normalizer_marker_path(
@@ -240,151 +530,428 @@ def load_normalizer_completion_data(
     )
 
     if not marker_path.exists():
+
         raise FileNotFoundError(
-            "Normalizer completion marker was not found:\n"
+            "Normalizer completion marker "
+            "was not found:\n"
             f"{marker_path}"
         )
 
     try:
+
         payload = json.loads(
             marker_path.read_text(
                 encoding="utf-8",
             )
         )
 
-    except Exception as error:
+    except (
+        OSError,
+        json.JSONDecodeError,
+    ) as error:
+
         raise RuntimeError(
-            "Could not read normalizer completion marker:\n"
+            "Could not read Normalizer "
+            "completion marker:\n"
             f"{marker_path}"
         ) from error
 
-    if (
-        payload.get("status")
-        != "completed"
+    if not isinstance(
+        payload,
+        dict,
     ):
+
         raise RuntimeError(
-            "Normalizer completion marker does not show "
-            "a completed status."
+            "Normalizer completion marker "
+            "does not contain a JSON object."
         )
 
-    return payload
+    if (
+        payload.get(
+            "stage"
+        )
+        != "normalizer"
+    ):
 
+        raise RuntimeError(
+            "Normalizer completion marker "
+            "has an invalid stage."
+        )
 
-def get_complete_normalized_file(
-    patient_name: str,
-) -> Path:
-    """
-    Return the complete normalized file recorded by the normalizer.
-    """
+    if (
+        payload.get(
+            "status"
+        )
+        != "completed"
+    ):
 
-    folders = get_patient_folders(
-        patient_name
+        raise RuntimeError(
+            "Normalizer completion marker "
+            "does not show completed status."
+        )
+
+    marker_patient = (
+        safe_patient_name(
+            str(
+                payload.get(
+                    "patient_name",
+                    "",
+                )
+            )
+        )
     )
 
-    payload = load_normalizer_completion_data(
-        patient_name
-    )
+    if (
+        marker_patient
+        != patient_name
+    ):
 
-    complete_filename = str(
+        raise RuntimeError(
+            "Normalizer completion marker "
+            "belongs to another patient. "
+            f"Expected {patient_name}, "
+            f"found {marker_patient}."
+        )
+
+    complete_file = str(
         payload.get(
             "complete_file",
             "",
         )
     ).strip()
 
-    if not complete_filename:
+    expected_filename = (
+        f"NORMALIZER_"
+        f"{patient_name}"
+        f".txt"
+    )
+
+    if (
+        complete_file
+        != expected_filename
+    ):
+
         raise RuntimeError(
-            "Normalizer completion marker does not contain "
-            "the complete normalized filename."
+            "Normalizer completion marker "
+            "does not reference the expected "
+            "final Normalizer TXT. "
+            f"Expected {expected_filename}, "
+            f"found {complete_file!r}."
         )
 
+    return payload
+
+
+# ==========================================================
+# GET COMPLETE NORMALIZED FILE
+# ==========================================================
+
+def get_complete_normalized_file(
+    patient_name: str,
+) -> Path:
+    """
+    Return the ONLY input file the Discharge Summary may read.
+
+    Requirements:
+
+        1. normalizer_complete.json exists
+        2. status == completed
+        3. patient matches
+        4. complete_file matches expected filename
+        5. NORMALIZER_<patient>.txt exists
+        6. TXT is non-empty
+        7. character_count matches when supplied
+
+    Partial Normalizer files are never considered.
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    payload = (
+        load_normalizer_completion_data(
+            patient_name
+        )
+    )
+
+    workspace = (
+        get_normalizer_workspace(
+            patient_name
+        )
+    )
+
     normalized_file = (
-        folders[
-            "normalizer"
+        workspace[
+            "final_output"
         ]
-        / complete_filename
     )
 
     if not normalized_file.exists():
+
         raise FileNotFoundError(
-            "Complete normalized file was not found:\n"
+            "Complete Normalizer TXT "
+            "was not found:\n"
             f"{normalized_file}"
+        )
+
+    if (
+        normalized_file.suffix.lower()
+        != ".txt"
+    ):
+
+        raise RuntimeError(
+            "Discharge input must be "
+            f"a TXT file: {normalized_file}"
+        )
+
+    normalized_text = (
+        read_text_file(
+            normalized_file
+        )
+    )
+
+    if not normalized_text.strip():
+
+        raise RuntimeError(
+            "Complete Normalizer TXT "
+            "is empty."
+        )
+
+    expected_character_count = (
+        payload.get(
+            "character_count"
+        )
+    )
+
+    if (
+        isinstance(
+            expected_character_count,
+            int,
+        )
+        and expected_character_count > 0
+        and len(
+            normalized_text
+        )
+        != expected_character_count
+    ):
+
+        raise RuntimeError(
+            "Complete Normalizer TXT "
+            "does not match the completion "
+            "marker character count."
         )
 
     return normalized_file
 
 
+# ==========================================================
+# PATIENT READY CHECK
+# ==========================================================
+
 def patient_is_ready(
     patient_name: str,
 ) -> bool:
     """
-    Return True only after the normalizer has fully completed.
+    Return True only when the strict Normalizer -> Discharge
+    gate is open.
     """
 
     try:
+
         get_complete_normalized_file(
             patient_name
         )
 
     except Exception:
+
         return False
 
     return True
 
 
 # ==========================================================
-# PATIENT DISCOVERY
+# FIND READY PATIENTS
 # ==========================================================
 
 def find_ready_patients() -> list[str]:
     """
-    Find patients whose normalizer stage is complete and whose
-    discharge stage is not yet complete.
+    Find patients whose Normalizer is fully completed and whose
+    Discharge stage has not yet completed.
+
+    Discovery source:
+
+        normalizer/temp/
+
+    NOT:
+
+        data/
     """
 
-    if not DATA_FOLDER.exists():
+    if not NORMALIZER_TEMP_FOLDER.exists():
+
         return []
 
-    ready_patients: list[str] = []
+    ready_patients: list[
+        str
+    ] = []
 
     for patient_folder in sorted(
-        DATA_FOLDER.iterdir(),
-        key=lambda path: path.name.lower(),
+        NORMALIZER_TEMP_FOLDER.iterdir(),
+        key=lambda path: (
+            path.name.lower()
+        ),
     ):
+
         if not patient_folder.is_dir():
+
             continue
 
-        patient_name = patient_folder.name
+        patient_name = (
+            safe_patient_name(
+                patient_folder.name
+            )
+        )
 
         normalizer_marker = (
             patient_folder
-            / "normalizer"
             / "normalizer_complete.json"
         )
 
-        discharge_marker = (
-            patient_folder
-            / "discharge"
-            / "discharge_complete.json"
-        )
-
         if not normalizer_marker.exists():
+
             continue
 
+        discharge_marker = (
+            get_discharge_completion_marker_path(
+                patient_name
+            )
+        )
+
         if discharge_marker.exists():
+
             continue
 
         if patient_is_ready(
             patient_name
         ):
+
             ready_patients.append(
                 patient_name
             )
 
     return ready_patients
 
+
 # ==========================================================
-# ERROR HANDLING
+# TEMPORARY SECTION PATH
+# ==========================================================
+
+def get_section_output_path(
+    patient_name: str,
+    task_key: str,
+) -> Path:
+    """
+    Return the temporary TXT output for one discharge section.
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    safe_task = re.sub(
+        r"[^A-Za-z0-9_-]+",
+        "_",
+        task_key.strip(),
+    ).strip(
+        "_"
+    )
+
+    if not safe_task:
+
+        safe_task = (
+            "section"
+        )
+
+    workspace = (
+        get_discharge_workspace(
+            patient_name
+        )
+    )
+
+    return (
+        workspace[
+            "sections"
+        ]
+        / (
+            f"{safe_task}"
+            f".txt"
+        )
+    )
+
+
+# ==========================================================
+# ERROR PATH
+# ==========================================================
+
+def get_error_path(
+    patient_name: str,
+    task_name: str,
+) -> Path:
+    """
+    Return the temporary error-report path for a discharge task.
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    safe_task_name = re.sub(
+        r"[^A-Za-z0-9_-]+",
+        "_",
+        task_name.strip(),
+    ).strip(
+        "_"
+    )
+
+    if not safe_task_name:
+
+        safe_task_name = (
+            "discharge"
+        )
+
+    workspace = (
+        get_discharge_workspace(
+            patient_name
+        )
+    )
+
+    timestamp = (
+        time.strftime(
+            "%Y%m%d_%H%M%S"
+        )
+    )
+
+    return (
+        workspace[
+            "errors"
+        ]
+        / (
+            f"{safe_task_name}"
+            f"_{timestamp}"
+            f"_ERROR.txt"
+        )
+    )
+
+
+# ==========================================================
+# SAVE ERROR
 # ==========================================================
 
 def save_error(
@@ -394,39 +961,25 @@ def save_error(
     error: Exception,
 ) -> Path:
     """
-    Save a readable discharge-generation error report.
+    Save a readable temporary discharge-generation error report.
     """
 
-    folders = get_patient_folders(
-        patient_name
-    )
-
-    safe_task_name = re.sub(
-        r"[^A-Za-z0-9_-]+",
-        "_",
-        task_name.strip(),
-    ).strip("_")
-
-    timestamp = time.strftime(
-        "%Y%m%d_%H%M%S"
-    )
-
     error_path = (
-        folders[
-            "discharge_errors"
-        ]
-        / (
-            f"{safe_patient_name(patient_name)}"
-            f"_{safe_task_name}"
-            f"_{timestamp}_error.txt"
+        get_error_path(
+            patient_name,
+            task_name,
         )
     )
 
     error_text = (
-        f"Patient: {patient_name}\n"
-        f"Task: {task_name}\n"
-        f"Error type: {type(error).__name__}\n"
-        f"Error: {error}\n\n"
+        f"Patient: "
+        f"{safe_patient_name(patient_name)}\n"
+        f"Task: "
+        f"{task_name}\n"
+        f"Error type: "
+        f"{type(error).__name__}\n"
+        f"Error: "
+        f"{error}\n\n"
         "TRACEBACK\n"
         "=========\n"
         f"{traceback.format_exc()}\n"
@@ -439,9 +992,8 @@ def save_error(
 
     return error_path
 
-
 # ==========================================================
-# SECTION GENERATION
+# GENERATE ONE DISCHARGE SECTION
 # ==========================================================
 
 def generate_task(
@@ -450,32 +1002,75 @@ def generate_task(
     heading: str,
     prompt_builder: PromptBuilder,
     complete_record: str,
-) -> tuple[str, str, str]:
+    patient_name: str,
+) -> tuple[
+    str,
+    str,
+    str,
+]:
     """
-    Generate one discharge-summary section.
+    Generate exactly one discharge-summary section.
 
-    Every section receives the full normalized patient record.
+    IMPORTANT:
+
+    Every section receives the COMPLETE normalized patient record.
+
+    This stage does not read partial Normalizer batches.
     """
 
-    model = create_model()
+    model = (
+        create_model()
+    )
 
-    system_prompt, user_prompt = (
+    (
+        system_prompt,
+        user_prompt,
+    ) = (
         prompt_builder(
             complete_record
         )
     )
 
-    generated_text = model.generate_text(
-        system_prompt=system_prompt,
-        user_prompt=user_prompt,
+    generated_text = (
+        model.generate_text(
+            system_prompt=(
+                system_prompt
+            ),
+            user_prompt=(
+                user_prompt
+            ),
+        )
     )
 
-    cleaned_text = clean_model_output(
-        generated_text
-    ).strip()
+    cleaned_text = (
+        clean_model_output(
+            generated_text
+        )
+        .strip()
+    )
 
-    if cleaned_text.upper() == "EMPTY":
+    if (
+        cleaned_text.upper()
+        == "EMPTY"
+    ):
+
         cleaned_text = ""
+
+    # ------------------------------------------------------
+    # SAVE TEMPORARY SECTION OUTPUT
+    # ------------------------------------------------------
+
+    section_path = (
+        get_section_output_path(
+            patient_name,
+            task_key,
+        )
+    )
+
+    write_text_file(
+        section_path,
+        cleaned_text,
+    )
 
     return (
         task_key,
@@ -484,6 +1079,65 @@ def generate_task(
     )
 
 
+# ==========================================================
+# LOAD EXISTING SECTION
+# ==========================================================
+
+def load_existing_section(
+    *,
+    patient_name: str,
+    task_key: str,
+    heading: str,
+) -> tuple[
+    str,
+    str,
+] | None:
+    """
+    Restore a temporary section already created during the
+    CURRENT pipeline run.
+
+    api/pipeline.py will later clear discharge temp before a
+    new run begins, preventing stale previous-run reuse.
+    """
+
+    section_path = (
+        get_section_output_path(
+            patient_name,
+            task_key,
+        )
+    )
+
+    if not section_path.exists():
+
+        return None
+
+    try:
+
+        content = (
+            read_text_file(
+                section_path
+            )
+            .strip()
+        )
+
+    except Exception:
+
+        return None
+
+    if not content:
+
+        return None
+
+    return (
+        heading,
+        content,
+    )
+
+
+# ==========================================================
+# RUN PARALLEL DISCHARGE TASKS
+# ==========================================================
+
 def run_parallel_tasks(
     *,
     complete_record: str,
@@ -491,12 +1145,27 @@ def run_parallel_tasks(
 ) -> dict[str, tuple[str, str]]:
     """
     Run five discharge-summary section tasks using four workers.
+
+    A section is allowed to return EMPTY when there is genuinely
+    no information for that section.
+
+    But if a section task itself crashes or the model call fails,
+    the complete Discharge stage must fail instead of silently
+    generating a partial discharge summary.
     """
 
     completed_results: dict[
         str,
         tuple[str, str],
     ] = {}
+
+    failed_tasks: list[
+        tuple[
+            str,
+            str,
+            Exception,
+        ]
+    ] = []
 
     with ThreadPoolExecutor(
         max_workers=MAX_WORKERS,
@@ -506,6 +1175,10 @@ def run_parallel_tasks(
             Future[tuple[str, str, str]],
             tuple[str, str],
         ] = {}
+
+        # ==================================================
+        # SUBMIT ALL FIVE SECTION TASKS
+        # ==================================================
 
         for (
             task_key,
@@ -519,6 +1192,7 @@ def run_parallel_tasks(
                 heading=heading,
                 prompt_builder=prompt_builder,
                 complete_record=complete_record,
+                patient_name=patient_name,
             )
 
             futures[
@@ -528,14 +1202,23 @@ def run_parallel_tasks(
                 heading,
             )
 
+        # ==================================================
+        # COLLECT ALL SECTION RESULTS
+        # ==================================================
+
         for future in as_completed(
             futures
         ):
-            task_key, heading = futures[
+
+            (
+                task_key,
+                heading,
+            ) = futures[
                 future
             ]
 
             try:
+
                 (
                     result_key,
                     result_heading,
@@ -556,10 +1239,19 @@ def run_parallel_tasks(
                 )
 
             except Exception as error:
+
                 error_path = save_error(
                     patient_name=patient_name,
                     task_name=task_key,
                     error=error,
+                )
+
+                failed_tasks.append(
+                    (
+                        task_key,
+                        heading,
+                        error,
+                    )
                 )
 
                 print(
@@ -569,35 +1261,103 @@ def run_parallel_tasks(
                 )
 
                 print(
-                    f"Error saved: {error_path}",
+                    f"Error saved: "
+                    f"{error_path}",
                     flush=True,
                 )
 
-                completed_results[
-                    task_key
-                ] = (
-                    heading,
-                    "",
+    # ======================================================
+    # DO NOT ALLOW PARTIAL SUCCESS AFTER A TASK FAILURE
+    # ======================================================
+
+    if failed_tasks:
+
+        failed_names = ", ".join(
+            (
+                f"{task_key} "
+                f"({heading})"
+            )
+            for (
+                task_key,
+                heading,
+                _,
+            ) in failed_tasks
+        )
+
+        raise RuntimeError(
+            "One or more discharge-summary "
+            "section tasks failed. "
+            "Discharge generation has been "
+            "stopped to prevent a partial "
+            "clinical summary. "
+            f"Failed task(s): {failed_names}"
+        )
+
+    # ======================================================
+    # VERIFY EVERY TASK RETURNED A RESULT
+    # ======================================================
+
+    expected_task_keys = {
+        task_key
+        for (
+            task_key,
+            _,
+            _,
+        ) in TASKS
+    }
+
+    returned_task_keys = set(
+        completed_results
+    )
+
+    missing_task_keys = (
+        expected_task_keys
+        - returned_task_keys
+    )
+
+    if missing_task_keys:
+
+        raise RuntimeError(
+            "Discharge section processing "
+            "finished without results for: "
+            + ", ".join(
+                sorted(
+                    missing_task_keys
                 )
+            )
+        )
 
     return completed_results
 
 
 # ==========================================================
-# DRAFT SUMMARY
+# VALIDATE SECTION RESULTS
 # ==========================================================
 
-def build_draft_summary(
+def validate_section_results(
     results: dict[
         str,
-        tuple[str, str],
+        tuple[
+            str,
+            str,
+        ],
     ],
-) -> str:
+) -> None:
     """
-    Combine generated sections in the required order.
+    Confirm that at least one useful discharge section exists.
+
+    Individual sections may legitimately be empty if the
+    normalized record contains no evidence for that section.
     """
 
-    sections: list[str] = []
+    if not results:
+
+        raise RuntimeError(
+            "No discharge section results "
+            "were produced."
+        )
+
+    non_empty_sections = 0
 
     for (
         task_key,
@@ -605,17 +1365,91 @@ def build_draft_summary(
         _,
     ) in TASKS:
 
-        heading, content = results.get(
-            task_key,
-            (
-                default_heading,
-                "",
-            ),
+        (
+            heading,
+            content,
+        ) = (
+            results.get(
+                task_key,
+                (
+                    default_heading,
+                    "",
+                ),
+            )
         )
 
-        content = content.strip()
+        del heading
+
+        if (
+            content.strip()
+        ):
+
+            non_empty_sections += 1
+
+    if (
+        non_empty_sections
+        == 0
+    ):
+
+        raise RuntimeError(
+            "All discharge-summary section "
+            "tasks returned empty output."
+        )
+
+
+# ==========================================================
+# BUILD DRAFT SUMMARY
+# ==========================================================
+
+def build_draft_summary(
+    results: dict[
+        str,
+        tuple[
+            str,
+            str,
+        ],
+    ],
+) -> str:
+    """
+    Combine generated discharge sections in the required order.
+
+    Completion order from parallel workers does NOT affect final
+    summary order.
+    """
+
+    validate_section_results(
+        results
+    )
+
+    sections: list[
+        str
+    ] = []
+
+    for (
+        task_key,
+        default_heading,
+        _,
+    ) in TASKS:
+
+        (
+            heading,
+            content,
+        ) = (
+            results.get(
+                task_key,
+                (
+                    default_heading,
+                    "",
+                ),
+            )
+        )
+
+        content = (
+            content.strip()
+        )
 
         if not content:
+
             continue
 
         sections.append(
@@ -627,17 +1461,28 @@ def build_draft_summary(
         )
 
     if not sections:
+
         raise RuntimeError(
-            "All discharge-summary section tasks returned empty output."
+            "The discharge draft contains "
+            "no usable sections."
         )
 
-    return (
+    draft = (
         "NICU DISCHARGE SUMMARY\n"
         "======================\n\n"
         + "\n\n".join(
             sections
         )
     ).strip()
+
+    if not draft:
+
+        raise RuntimeError(
+            "Combined discharge draft "
+            "is empty."
+        )
+
+    return draft
 
 
 # ==========================================================
@@ -648,57 +1493,153 @@ def polish_final_summary(
     draft_summary: str,
 ) -> str:
     """
-    Run one final model pass over all generated sections.
+    Run one final model pass over the COMPLETE draft summary.
+
+    This pass improves consistency and presentation after the
+    parallel section tasks have finished.
     """
 
-    model = create_model()
+    if not draft_summary.strip():
 
-    system_prompt, user_prompt = (
+        raise RuntimeError(
+            "Cannot polish an empty "
+            "discharge draft."
+        )
+
+    model = (
+        create_model()
+    )
+
+    (
+        system_prompt,
+        user_prompt,
+    ) = (
         build_final_polish_prompt(
             draft_summary
         )
     )
 
-    generated_text = model.generate_text(
-        system_prompt=system_prompt,
-        user_prompt=user_prompt,
-    )
-
-    polished_summary = clean_model_output(
-        generated_text
-    ).strip()
-
-    if not polished_summary:
-        return draft_summary
-
-    return polished_summary
-
-
-# ==========================================================
-# OUTPUT HELPERS
-# ==========================================================
-
-def get_discharge_output_path(
-    patient_name: str,
-) -> Path:
-    """
-    Return the final discharge-summary TXT path.
-    """
-
-    folders = get_patient_folders(
-        patient_name
-    )
-
-    return (
-        folders[
-            "discharge"
-        ]
-        / (
-            f"{safe_patient_name(patient_name)}"
-            "_discharge_summary.txt"
+    generated_text = (
+        model.generate_text(
+            system_prompt=(
+                system_prompt
+            ),
+            user_prompt=(
+                user_prompt
+            ),
         )
     )
 
+    polished_summary = (
+        clean_model_output(
+            generated_text
+        )
+        .strip()
+    )
+
+    if not polished_summary:
+
+        return (
+            draft_summary
+        )
+
+    return (
+        polished_summary
+    )
+
+
+# ==========================================================
+# BASIC FINAL SUMMARY VALIDATION
+# ==========================================================
+
+def validate_final_summary(
+    summary_text: str,
+) -> None:
+    """
+    Reject an empty or implausibly tiny discharge summary.
+    """
+
+    cleaned = (
+        summary_text.strip()
+    )
+
+    if not cleaned:
+
+        raise RuntimeError(
+            "Final discharge summary "
+            "is empty."
+        )
+
+    if (
+        len(
+            cleaned
+        )
+        < 200
+    ):
+
+        raise RuntimeError(
+            "Final discharge summary "
+            "appears unexpectedly short. "
+            f"Length: "
+            f"{len(cleaned)} characters."
+        )
+
+
+# ==========================================================
+# SAVE FINAL DISCHARGE OUTPUT
+# ==========================================================
+
+def save_final_discharge_output(
+    *,
+    patient_name: str,
+    final_summary: str,
+) -> Path:
+    """
+    Save:
+
+        discharge_summary/output/
+            DISCHARGE_<patient>.txt
+
+    The file is written only after final validation.
+    """
+
+    validate_final_summary(
+        final_summary
+    )
+
+    output_path = (
+        get_discharge_output_path(
+            patient_name
+        )
+    )
+
+    write_text_file(
+        output_path,
+        final_summary,
+    )
+
+    # ------------------------------------------------------
+    # READ-BACK VERIFICATION
+    # ------------------------------------------------------
+
+    saved_text = (
+        read_text_file(
+            output_path
+        )
+    )
+
+    validate_final_summary(
+        saved_text
+    )
+
+    return (
+        output_path
+    )
+
+
+# ==========================================================
+# SAVE DISCHARGE COMPLETION MARKER
+# ==========================================================
 
 def save_discharge_completion_marker(
     *,
@@ -708,39 +1649,87 @@ def save_discharge_completion_marker(
     elapsed_seconds: float,
 ) -> Path:
     """
-    Save a completion marker for the API and frontend.
+    Save temporary workflow metadata after the final discharge
+    TXT has been successfully written and validated.
+
+    Clinical content remains in:
+
+        DISCHARGE_<patient>.txt
     """
 
-    folders = get_patient_folders(
-        patient_name
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    if not output_file.exists():
+
+        raise RuntimeError(
+            "Cannot create discharge "
+            "completion marker because "
+            "the final summary TXT "
+            "does not exist."
+        )
+
+    final_text = (
+        read_text_file(
+            output_file
+        )
+    )
+
+    validate_final_summary(
+        final_text
     )
 
     marker_path = (
-        folders[
-            "discharge"
-        ]
-        / "discharge_complete.json"
+        get_discharge_completion_marker_path(
+            patient_name
+        )
     )
 
     payload = {
         "patient_name": (
             patient_name
         ),
-        "stage": "discharge",
-        "status": "completed",
-        "workers": MAX_WORKERS,
+
+        "stage": (
+            "discharge"
+        ),
+
+        "status": (
+            "completed"
+        ),
+
+        "workers": (
+            MAX_WORKERS
+        ),
+
         "normalized_file": (
             normalized_file.name
         ),
+
         "summary_file": (
             output_file.name
         ),
+
+        "summary_path": str(
+            output_file.resolve()
+        ),
+
+        "character_count": len(
+            final_text
+        ),
+
         "elapsed_seconds": round(
             elapsed_seconds,
             2,
         ),
-        "completed_at": time.strftime(
-            "%Y-%m-%dT%H:%M:%S"
+
+        "completed_at": (
+            time.strftime(
+                "%Y-%m-%dT%H:%M:%S"
+            )
         ),
     }
 
@@ -752,7 +1741,193 @@ def save_discharge_completion_marker(
         ),
     )
 
-    return marker_path
+    return (
+        marker_path
+    )
+# ==========================================================
+# VALIDATE DISCHARGE COMPLETION
+# ==========================================================
+
+def validate_discharge_completion(
+    patient_name: str,
+) -> Path:
+    """
+    Validate that the Discharge stage has completely finished.
+
+    BOTH must exist:
+
+        discharge_summary/output/
+            DISCHARGE_<patient>.txt
+
+    and:
+
+        discharge_summary/temp/<patient>/
+            discharge_complete.json
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    output_path = (
+        get_discharge_output_path(
+            patient_name
+        )
+    )
+
+    marker_path = (
+        get_discharge_completion_marker_path(
+            patient_name
+        )
+    )
+
+    if not output_path.exists():
+
+        raise RuntimeError(
+            "Final discharge TXT "
+            "does not exist."
+        )
+
+    if not marker_path.exists():
+
+        raise RuntimeError(
+            "Discharge completion marker "
+            "does not exist."
+        )
+
+    try:
+
+        payload = json.loads(
+            marker_path.read_text(
+                encoding="utf-8",
+            )
+        )
+
+    except (
+        OSError,
+        json.JSONDecodeError,
+    ) as error:
+
+        raise RuntimeError(
+            "Could not read discharge "
+            "completion marker."
+        ) from error
+
+    if not isinstance(
+        payload,
+        dict,
+    ):
+
+        raise RuntimeError(
+            "Discharge completion marker "
+            "must contain a JSON object."
+        )
+
+    if (
+        payload.get(
+            "stage"
+        )
+        != "discharge"
+    ):
+
+        raise RuntimeError(
+            "Discharge completion marker "
+            "has an invalid stage."
+        )
+
+    if (
+        payload.get(
+            "status"
+        )
+        != "completed"
+    ):
+
+        raise RuntimeError(
+            "Discharge stage is not "
+            "marked completed."
+        )
+
+    marker_patient = (
+        safe_patient_name(
+            str(
+                payload.get(
+                    "patient_name",
+                    "",
+                )
+            )
+        )
+    )
+
+    if (
+        marker_patient
+        != patient_name
+    ):
+
+        raise RuntimeError(
+            "Discharge completion marker "
+            "belongs to another patient."
+        )
+
+    expected_filename = (
+        f"DISCHARGE_"
+        f"{patient_name}"
+        f".txt"
+    )
+
+    summary_file = str(
+        payload.get(
+            "summary_file",
+            "",
+        )
+    ).strip()
+
+    if (
+        summary_file
+        != expected_filename
+    ):
+
+        raise RuntimeError(
+            "Discharge completion marker "
+            "does not reference the "
+            "expected summary TXT."
+        )
+
+    final_text = (
+        read_text_file(
+            output_path
+        )
+    )
+
+    validate_final_summary(
+        final_text
+    )
+
+    expected_character_count = (
+        payload.get(
+            "character_count"
+        )
+    )
+
+    if (
+        isinstance(
+            expected_character_count,
+            int,
+        )
+        and expected_character_count > 0
+        and len(
+            final_text
+        )
+        != expected_character_count
+    ):
+
+        raise RuntimeError(
+            "Final discharge TXT changed "
+            "after completion."
+        )
+
+    return output_path
 
 
 # ==========================================================
@@ -763,10 +1938,47 @@ def process_patient(
     patient_name: str,
 ) -> Path:
     """
-    Generate one discharge summary only after normalization is complete.
+    Generate one discharge summary.
+
+    STRICT INPUT RULE:
+
+    The function first validates the complete Normalizer output.
+
+    Therefore Discharge cannot start from:
+
+        - partial normalized batches
+        - a Normalizer TXT without its completion marker
+        - a completion marker without its final TXT
+        - another patient's Normalizer output
+
+    Processing:
+
+        complete Normalizer record
+                  ↓
+        five parallel extraction tasks
+                  ↓
+        ordered draft
+                  ↓
+        final polish
+                  ↓
+        DISCHARGE_<patient>.txt
+                  ↓
+        discharge_complete.json
     """
 
-    start_time = perf_counter()
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    start_time = (
+        perf_counter()
+    )
+
+    # ======================================================
+    # STRICT NORMALIZER -> DISCHARGE GATE
+    # ======================================================
 
     normalized_file = (
         get_complete_normalized_file(
@@ -775,9 +1987,15 @@ def process_patient(
     )
 
     print()
-    print("=" * 72)
-    print("NICU DISCHARGE SUMMARY GENERATOR")
-    print("=" * 72)
+    print(
+        "=" * 72
+    )
+    print(
+        "NICU DISCHARGE SUMMARY GENERATOR"
+    )
+    print(
+        "=" * 72
+    )
     print(
         f"Patient         : "
         f"{patient_name}"
@@ -790,84 +2008,160 @@ def process_patient(
         f"Workers         : "
         f"{MAX_WORKERS}"
     )
-    print("=" * 72)
-
-    patient_record = read_text_file(
-        normalized_file
+    print(
+        "=" * 72
     )
 
-    cleaned_record = clean_clinical_text(
-        patient_record
+    # ======================================================
+    # READ COMPLETE NORMALIZED RECORD
+    # ======================================================
+
+    patient_record = (
+        read_text_file(
+            normalized_file
+        )
+    )
+
+    if not patient_record.strip():
+
+        raise RuntimeError(
+            "The complete normalized "
+            "clinical record is empty."
+        )
+
+    # ======================================================
+    # PREPARE COMPLETE RECORD
+    # ======================================================
+
+    cleaned_record = (
+        clean_clinical_text(
+            patient_record
+        )
     )
 
     if not cleaned_record.strip():
+
         raise RuntimeError(
-            "The normalized clinical record became empty after cleaning."
+            "The normalized clinical "
+            "record became empty after "
+            "cleaning."
         )
 
     print(
         f"Normalized size : "
-        f"{len(patient_record):,} characters"
+        f"{len(patient_record):,} "
+        "characters"
     )
 
     print(
         f"Cleaned size    : "
-        f"{len(cleaned_record):,} characters"
+        f"{len(cleaned_record):,} "
+        "characters"
     )
+
+    # ======================================================
+    # RUN FIVE PARALLEL EXTRACTION TASKS
+    # ======================================================
+
+    results = (
+        run_parallel_tasks(
+            complete_record=(
+                cleaned_record
+            ),
+            patient_name=(
+                patient_name
+            ),
+        )
+    )
+
+    # ======================================================
+    # BUILD ORDERED DRAFT
+    # ======================================================
 
     print()
     print(
-        "Generating five discharge-summary sections..."
+        "Combining generated "
+        "discharge sections...",
+        flush=True,
     )
 
-    results = run_parallel_tasks(
-        complete_record=cleaned_record,
-        patient_name=patient_name,
+    draft_summary = (
+        build_draft_summary(
+            results
+        )
     )
 
-    print()
-    print(
-        "Combining generated sections..."
-    )
-
-    draft_summary = build_draft_summary(
-        results
-    )
+    # ======================================================
+    # FINAL POLISH
+    # ======================================================
 
     print(
-        "Running final clinical polish..."
+        "Running final clinical polish...",
+        flush=True,
     )
 
     try:
-        final_summary = polish_final_summary(
-            draft_summary
+
+        final_summary = (
+            polish_final_summary(
+                draft_summary
+            )
         )
 
     except Exception as error:
-        error_path = save_error(
-            patient_name=patient_name,
-            task_name="final_polish",
-            error=error,
+
+        error_path = (
+            save_error(
+                patient_name=(
+                    patient_name
+                ),
+                task_name=(
+                    "final_polish"
+                ),
+                error=(
+                    error
+                ),
+            )
         )
 
         print(
             "Final polish failed. "
-            "Saving the draft summary instead."
+            "Using the completed draft "
+            "summary instead.",
+            flush=True,
         )
 
         print(
-            f"Error saved: {error_path}"
+            f"Error saved: "
+            f"{error_path}",
+            flush=True,
         )
 
-        final_summary = draft_summary
+        final_summary = (
+            draft_summary
+        )
 
-    output_file = get_discharge_output_path(
-        patient_name
+    # ======================================================
+    # VALIDATE FINAL SUMMARY
+    # ======================================================
+
+    validate_final_summary(
+        final_summary
     )
 
-    write_text_file(
-        output_file,
-        final_summary,
+    # ======================================================
+    # WRITE FINAL DISCHARGE TXT
+    # ======================================================
+
+    output_file = (
+        save_final_discharge_output(
+            patient_name=(
+                patient_name
+            ),
+            final_summary=(
+                final_summary
+            ),
+        )
     )
 
     elapsed = (
@@ -875,19 +2169,62 @@ def process_patient(
         - start_time
     )
 
+    # ======================================================
+    # ONLY NOW CREATE COMPLETION MARKER
+    # ======================================================
+
     marker_path = (
         save_discharge_completion_marker(
-            patient_name=patient_name,
-            normalized_file=normalized_file,
-            output_file=output_file,
-            elapsed_seconds=elapsed,
+            patient_name=(
+                patient_name
+            ),
+            normalized_file=(
+                normalized_file
+            ),
+            output_file=(
+                output_file
+            ),
+            elapsed_seconds=(
+                elapsed
+            ),
         )
     )
 
+    # ======================================================
+    # FINAL READ-BACK / COMPLETION VALIDATION
+    # ======================================================
+
+    verified_output = (
+        validate_discharge_completion(
+            patient_name
+        )
+    )
+
+    if (
+        verified_output.resolve()
+        != output_file.resolve()
+    ):
+
+        raise RuntimeError(
+            "Discharge completion "
+            "validation returned an "
+            "unexpected output file."
+        )
+
     print()
-    print("=" * 72)
-    print("DISCHARGE GENERATION COMPLETED")
-    print("=" * 72)
+    print(
+        "=" * 72
+    )
+    print(
+        "DISCHARGE GENERATION COMPLETED"
+    )
+    print(
+        "=" * 72
+    )
+    print(
+        f"Patient      : "
+        f"{patient_name}"
+    )
     print(
         f"Summary file : "
         f"{output_file}"
@@ -900,9 +2237,25 @@ def process_patient(
         f"Total time   : "
         f"{elapsed:.2f} seconds"
     )
-    print("=" * 72)
+    print(
+        "=" * 72
+    )
+
+    # ======================================================
+    # DO NOT CLEAN TEMP HERE
+    # ======================================================
+    #
+    # api/pipeline.py will later perform cleanup only after
+    # the ENTIRE patient pipeline has been confirmed
+    # successful.
+    #
+    # If something fails after this point, temporary stage
+    # information remains available for debugging.
+    #
+    # ======================================================
 
     return output_file
+
 
 # ==========================================================
 # WAIT FOR NORMALIZER
@@ -912,23 +2265,29 @@ def wait_for_normalizer(
     patient_name: str,
 ) -> Path:
     """
-    Wait until the normalizer has completely finished.
+    Wait until the strict Normalizer -> Discharge gate opens.
 
-    The discharge generator starts only after:
-
-        data/<patient>/normalizer/normalizer_complete.json
-
-    exists and points to a valid complete normalized TXT file.
+    The Discharge generator does not inspect partial Normalizer
+    parts while waiting.
     """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
 
     print()
     print(
-        "Waiting for complete normalized patient record...",
+        "Waiting for complete normalized "
+        "patient record...",
         flush=True,
     )
 
     while True:
+
         try:
+
             normalized_file = (
                 get_complete_normalized_file(
                     patient_name
@@ -936,7 +2295,7 @@ def wait_for_normalizer(
             )
 
             print(
-                f"Normalizer completed: "
+                "Normalizer completed: "
                 f"{normalized_file}",
                 flush=True,
             )
@@ -947,62 +2306,10 @@ def wait_for_normalizer(
             FileNotFoundError,
             RuntimeError,
         ):
+
             time.sleep(
                 POLL_SECONDS
             )
-
-
-# ==========================================================
-# FIND PATIENTS WAITING FOR DISCHARGE
-# ==========================================================
-
-def find_waiting_patients() -> list[str]:
-    """
-    Find patients that have started processing but do not yet
-    have a completed discharge summary.
-
-    Patients are included when they have either:
-
-    - a normalizer folder
-    - a normalizer completion marker
-
-    Existing completed discharge patients are skipped.
-    """
-
-    if not DATA_FOLDER.exists():
-        return []
-
-    patients: list[str] = []
-
-    for patient_folder in sorted(
-        DATA_FOLDER.iterdir(),
-        key=lambda path: path.name.lower(),
-    ):
-        if not patient_folder.is_dir():
-            continue
-
-        normalizer_folder = (
-            patient_folder
-            / "normalizer"
-        )
-
-        discharge_marker = (
-            patient_folder
-            / "discharge"
-            / "discharge_complete.json"
-        )
-
-        if discharge_marker.exists():
-            continue
-
-        if not normalizer_folder.exists():
-            continue
-
-        patients.append(
-            patient_folder.name
-        )
-
-    return patients
 
 
 # ==========================================================
@@ -1013,77 +2320,139 @@ def wait_and_process_patient(
     patient_name: str,
 ) -> Path:
     """
-    Wait for one patient's complete normalized file and then
-    generate the discharge summary.
+    Wait for the complete Normalizer output and then generate
+    the discharge summary.
+
+    There is no Normalizer batch streaming into Discharge.
     """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
 
     wait_for_normalizer(
         patient_name
     )
 
-    return process_patient(
-        patient_name
+    return (
+        process_patient(
+            patient_name
+        )
     )
 
 
 # ==========================================================
-# TERMINAL HEADER
+# FIND PATIENTS WAITING FOR DISCHARGE
 # ==========================================================
 
-def print_header() -> None:
+def find_waiting_patients() -> list[str]:
     """
-    Display the discharge-generator configuration.
+    Find Normalizer patient workspaces that do not yet have a
+    completed Discharge stage.
+
+    Discovery uses:
+
+        normalizer/temp/
+
+    and never data/.
     """
 
-    print("=" * 72)
-    print("NICU COMPLETE-RECORD DISCHARGE GENERATOR")
-    print("=" * 72)
-    print(
-        f"Data folder     : "
-        f"{DATA_FOLDER}"
-    )
-    print(
-        f"Section workers : "
-        f"{MAX_WORKERS}"
-    )
-    print(
-        f"Polling interval: "
-        f"{POLL_SECONDS}s"
-    )
-    print(
-        "Input policy    : "
-        "Complete normalized record only"
-    )
-    print("=" * 72)
+    if not NORMALIZER_TEMP_FOLDER.exists():
+
+        return []
+
+    patients: list[
+        str
+    ] = []
+
+    for patient_folder in sorted(
+        NORMALIZER_TEMP_FOLDER.iterdir(),
+        key=lambda path: (
+            path.name.lower()
+        ),
+    ):
+
+        if not patient_folder.is_dir():
+
+            continue
+
+        patient_name = (
+            safe_patient_name(
+                patient_folder.name
+            )
+        )
+
+        normalizer_marker = (
+            patient_folder
+            / "normalizer_complete.json"
+        )
+
+        if not normalizer_marker.exists():
+
+            continue
+
+        discharge_marker = (
+            get_discharge_completion_marker_path(
+                patient_name
+            )
+        )
+
+        if discharge_marker.exists():
+
+            continue
+
+        patients.append(
+            patient_name
+        )
+
+    return patients
 
 
 # ==========================================================
-# PROCESS READY PATIENTS
+# PROCESS ALL READY PATIENTS
 # ==========================================================
 
 def process_ready_patients() -> tuple[
     list[Path],
-    list[tuple[str, Exception]],
+    list[
+        tuple[
+            str,
+            Exception,
+        ]
+    ],
 ]:
     """
-    Generate discharge summaries for all patients whose
-    normalizer stage has completed.
+    Generate discharge summaries for all patients whose strict
+    Normalizer completion gate is open.
     """
 
-    successful_outputs: list[Path] = []
+    successful_outputs: list[
+        Path
+    ] = []
 
     failed_patients: list[
-        tuple[str, Exception]
+        tuple[
+            str,
+            Exception,
+        ]
     ] = []
 
     ready_patients = (
         find_ready_patients()
     )
 
-    for patient_name in ready_patients:
+    for patient_name in (
+        ready_patients
+    ):
+
         try:
-            output_path = process_patient(
-                patient_name
+
+            output_path = (
+                process_patient(
+                    patient_name
+                )
             )
 
             successful_outputs.append(
@@ -1091,9 +2460,11 @@ def process_ready_patients() -> tuple[
             )
 
         except KeyboardInterrupt:
+
             raise
 
         except Exception as error:
+
             failed_patients.append(
                 (
                     patient_name,
@@ -1101,18 +2472,33 @@ def process_ready_patients() -> tuple[
                 )
             )
 
-            error_path = save_error(
-                patient_name=patient_name,
-                task_name="complete_discharge",
-                error=error,
+            error_path = (
+                save_error(
+                    patient_name=(
+                        patient_name
+                    ),
+                    task_name=(
+                        "complete_discharge"
+                    ),
+                    error=(
+                        error
+                    ),
+                )
             )
 
             print()
-            print("=" * 72)
-            print("DISCHARGE GENERATION FAILED")
-            print("=" * 72)
             print(
-                f"Patient: {patient_name}"
+                "=" * 72
+            )
+            print(
+                "DISCHARGE GENERATION FAILED"
+            )
+            print(
+                "=" * 72
+            )
+            print(
+                f"Patient: "
+                f"{patient_name}"
             )
             print(
                 f"Error: "
@@ -1120,9 +2506,12 @@ def process_ready_patients() -> tuple[
                 f"{error}"
             )
             print(
-                f"Error file: {error_path}"
+                f"Error file: "
+                f"{error_path}"
             )
-            print("=" * 72)
+            print(
+                "=" * 72
+            )
 
     return (
         successful_outputs,
@@ -1131,51 +2520,67 @@ def process_ready_patients() -> tuple[
 
 
 # ==========================================================
-# OPTIONAL CONTINUOUS WATCH MODE
+# OPTIONAL WATCH MODE
 # ==========================================================
 
 def watch_for_patients() -> None:
     """
-    Continuously watch for patients whose normalizer stage finishes.
+    Continuously watch for completed Normalizer records.
 
-    This function is useful when the discharge generator is started
-    together with OCR, LLM and the normalizer.
+    This is optional standalone behavior.
 
-    It never reads partial normalized batches.
+    It never reads partial Normalizer batches.
     """
 
     print()
     print(
-        "Watching for completed normalized patient records...",
+        "Watching for completed normalized "
+        "patient records...",
         flush=True,
     )
 
     while True:
+
         ready_patients = (
             find_ready_patients()
         )
 
-        for patient_name in ready_patients:
+        for patient_name in (
+            ready_patients
+        ):
+
             try:
+
                 process_patient(
                     patient_name
                 )
 
             except Exception as error:
-                error_path = save_error(
-                    patient_name=patient_name,
-                    task_name="watch_mode_discharge",
-                    error=error,
+
+                error_path = (
+                    save_error(
+                        patient_name=(
+                            patient_name
+                        ),
+                        task_name=(
+                            "watch_mode_discharge"
+                        ),
+                        error=(
+                            error
+                        ),
+                    )
                 )
 
                 print(
-                    f"Discharge failed for "
-                    f"{patient_name}: {error}",
+                    "Discharge failed for "
+                    f"{patient_name}: "
+                    f"{error}",
                     flush=True,
                 )
 
                 print(
-                    f"Error saved: {error_path}",
+                    f"Error saved: "
+                    f"{error_path}",
                     flush=True,
                 )
 
@@ -1185,37 +2590,100 @@ def watch_for_patients() -> None:
 
 
 # ==========================================================
+# TERMINAL HEADER
+# ==========================================================
+
+def print_header() -> None:
+    """
+    Display the new Discharge architecture.
+    """
+
+    print(
+        "=" * 72
+    )
+    print(
+        "NICU COMPLETE-RECORD "
+        "DISCHARGE GENERATOR"
+    )
+    print(
+        "=" * 72
+    )
+    print(
+        f"Normalizer temp   : "
+        f"{NORMALIZER_TEMP_FOLDER}"
+    )
+    print(
+        f"Normalizer output : "
+        f"{NORMALIZER_OUTPUT_FOLDER}"
+    )
+    print(
+        f"Discharge temp    : "
+        f"{DISCHARGE_TEMP_FOLDER}"
+    )
+    print(
+        f"Discharge output  : "
+        f"{DISCHARGE_OUTPUT_FOLDER}"
+    )
+    print(
+        f"Section workers   : "
+        f"{MAX_WORKERS}"
+    )
+    print(
+        f"Polling interval  : "
+        f"{POLL_SECONDS}s"
+    )
+    print(
+        "Input policy      : "
+        "Complete Normalizer record only"
+    )
+    print(
+        "=" * 72
+    )
+
+
+# ==========================================================
 # MAIN
 # ==========================================================
 
 def main() -> int:
     """
-    Run the discharge generator for all completed normalizer records.
+    Run the discharge generator for all patients whose
+    Normalizer stage has completely finished.
     """
 
-    started_at = perf_counter()
+    started_at = (
+        perf_counter()
+    )
 
     print_header()
 
     try:
+
         ready_patients = (
             find_ready_patients()
         )
 
         if not ready_patients:
+
             print()
             print(
-                "No patients with a completed normalized "
-                "record are waiting for discharge generation."
+                "No completed Normalizer "
+                "records are waiting for "
+                "discharge generation."
             )
 
             print()
             print(
-                "The generator requires:"
+                "The generator requires BOTH:"
             )
 
             print(
-                "  data/<patient>/normalizer/"
+                "  normalizer/output/"
+                "NORMALIZER_<patient>.txt"
+            )
+
+            print(
+                "  normalizer/temp/<patient>/"
                 "normalizer_complete.json"
             )
 
@@ -1227,7 +2695,10 @@ def main() -> int:
             f"{len(ready_patients)}"
         )
 
-        successful_outputs, failed_patients = (
+        (
+            successful_outputs,
+            failed_patients,
+        ) = (
             process_ready_patients()
         )
 
@@ -1237,9 +2708,15 @@ def main() -> int:
         )
 
         print()
-        print("=" * 72)
-        print("DISCHARGE GENERATOR RUN SUMMARY")
-        print("=" * 72)
+        print(
+            "=" * 72
+        )
+        print(
+            "DISCHARGE GENERATOR RUN SUMMARY"
+        )
+        print(
+            "=" * 72
+        )
         print(
             f"Ready patients : "
             f"{len(ready_patients)}"
@@ -1258,50 +2735,74 @@ def main() -> int:
         )
 
         if successful_outputs:
+
             print()
-            print("Created summaries:")
+            print(
+                "Created summaries:"
+            )
 
             for output_path in (
                 successful_outputs
             ):
+
                 print(
-                    f"  ✓ {output_path}"
+                    f"  ✓ "
+                    f"{output_path}"
                 )
 
         if failed_patients:
+
             print()
-            print("Failed patients:")
+            print(
+                "Failed patients:"
+            )
 
             for (
                 patient_name,
                 error,
-            ) in failed_patients:
+            ) in (
+                failed_patients
+            ):
+
                 print(
-                    f"  ✗ {patient_name}: "
+                    f"  ✗ "
+                    f"{patient_name}: "
                     f"{type(error).__name__}: "
                     f"{error}"
                 )
 
-        print("=" * 72)
+        print(
+            "=" * 72
+        )
 
         if failed_patients:
+
             return 1
 
         return 0
 
     except KeyboardInterrupt:
+
         print()
         print(
-            "Discharge generation stopped by user."
+            "Discharge generation "
+            "stopped by user."
         )
 
         return 130
 
     except Exception as error:
+
         print()
-        print("=" * 72)
-        print("DISCHARGE GENERATOR FAILED")
-        print("=" * 72)
+        print(
+            "=" * 72
+        )
+        print(
+            "DISCHARGE GENERATOR FAILED"
+        )
+        print(
+            "=" * 72
+        )
         print(
             f"{type(error).__name__}: "
             f"{error}"
@@ -1309,13 +2810,19 @@ def main() -> int:
         print(
             traceback.format_exc()
         )
-        print("=" * 72)
+        print(
+            "=" * 72
+        )
 
         return 1
 
 
-if __name__ == "__main__":
-    sys.exit(
+# ==========================================================
+# ENTRY POINT
+# ==========================================================
 
+if __name__ == "__main__":
+
+    sys.exit(
         main()
     )

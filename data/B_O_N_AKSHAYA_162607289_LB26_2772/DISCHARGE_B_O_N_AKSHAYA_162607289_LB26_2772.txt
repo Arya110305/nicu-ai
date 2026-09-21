@@ -1,0 +1,135 @@
+NICU DISCHARGE SUMMARY
+======================
+
+**PATIENT AND BIRTH DETAILS**
+
+Patient Name: N Akshaya
+Baby Of / B/O Name: N Akshaya
+Mother Name: Not specified
+Father Name: Not specified
+UHID: 162607289
+IP Number: LB26/2772
+Date of Birth: 31/5/2026
+Age at Admission: 15 days
+Admission Date: 31/5/2026, Time: 4:42 am
+Discharge Date: Not specified
+Discharge Time: Not specified
+Inborn / Outborn status: Inborn
+Sex: Male
+Gestational Age: 32 weeks
+Birth Weight: 1.66 kg
+Admission Weight: 1.5 kg
+Discharge Weight: 1.76 kg (on 2026-06-27)
+Blood Group: O
+
+Birth / Immediate Postnatal History: The baby was born at Ankura Hospital via vaginal delivery. The gestational age was 32 weeks. The birth weight was 1.66 kg. The baby required respiratory support and was admitted for respiratory distress and suspected sepsis.
+
+**ANTENATAL AND PERINATAL HISTORY**
+
+The patient is a male infant born on 31/5/2026 at Ankura Hospital for Women and Children, weighing 1.66 kg, at 32 weeks gestation. Delivery was vaginal. The mother's blood group is O positive. Details regarding maternal illnesses, pregnancy complications, antenatal scans, antenatal steroids, consanguinity, maternal medicines, or relevant antenatal risk factors are not documented. Labour status, rupture of membranes, meconium passage, fetal distress, and APGAR scores are not documented.
+
+**HISTORY OF PRESENT ILLNESS / REASON FOR ADMISSION**
+
+The baby was admitted on 31/05/2026 at 4:42 am with respiratory distress and suspected sepsis. The reason for admission was neonatal respiratory distress.
+
+**OUTSIDE-HOSPITAL MANAGEMENT**
+
+Outside hospital, the baby received no documented treatment prior to transfer.
+
+**ADMISSION EXAMINATION**
+
+On admission, the baby’s vital signs were: heart rate 151/min, respiratory rate 46/mt, blood pressure 98.1 mm Hg, temperature 32°C, and SpO2 on FiO2 not specified. The baby was noted to have respiratory distress.
+
+**DIAGNOSES / CLINICAL PROBLEMS**
+
+The documented diagnoses include Respiratory Distress Syndrome (RDS) and suspected sepsis.
+
+**MORBIDITIES AND COURSE DURING NICU STAY**
+
+**Respiratory Distress Syndrome (RDS) and Neonatal Respiratory Distress**
+
+The patient, a male infant born at 32 weeks gestation via vaginal delivery, presented with respiratory distress shortly after birth. Initial respiratory support included CPAP, with FiO2 initially at 6% and subsequently adjusted to 25% under Nimby ventilation. There were documented episodes of apnea and cyanosis with bradycardia. Respiratory support was transitioned from Nimby ventilator to CPAP. Nebulization with NaCl was administered hourly. On June 2, 2026, the baby was on Nimby ventilator under radiant warm care. By June 3, 2026, episodes of apnea were noted. Room air was attempted on July 1, 2026, with continued episodes of apnea. The patient demonstrated improvement in respiratory status, ultimately tolerating room air.
+
+**Suspected Sepsis**
+
+The patient was initially suspected of having sepsis, prompting the administration of intravenous antibiotics. Amikacin was initiated on May 31, 2026, and continued daily. Ceftriaxone was also administered. A complete blood picture (CBP) and C-reactive protein (CRP) were ordered on June 21, 2026. Blood cultures were obtained, and after 24 and 48 hours of aerobic incubation, no bacterial growth was detected. Antibiotic administration was discontinued.
+
+**Hypoglycemia**
+
+While specific glucose values are not consistently documented, the patient experienced periods of hypoglycemia requiring intervention. IV fluids were administered. Oral caffeine (0.4 ml once daily) was started on June 3, 2026. Glucose infusion rates were not explicitly documented.
+
+**Jaundice**
+
+The patient exhibited jaundice, with total bilirubin levels recorded at 3.2 mg/dL and direct bilirubin at 0.3 mg/dL on June 16, 2026. Indirect bilirubin was 2.9 mg/dL. Phototherapy was not documented.
+
+**Feeding Difficulty**
+
+The patient initially received expressed breast milk (EBM) and formula via gavage. Spoon feeds were introduced, and the patient was tolerating oral feeds. A therapeutic feeding instruction (TIF) was provided to the mother. The patient was also receiving 8% formula, 10% by mouth. Oral caffeine was administered. The patient tolerated feeds well, with an intake of 25 ml every 3 hours and output of 8 times, with 3 bowel movements. One episode of vomiting was documented.
+
+**Electrolyte Abnormalities**
+
+Laboratory investigations revealed the following electrolyte values on June 16, 2026: Sodium 139 mmol/L, Potassium 5.0 mmol/L, Chloride 105 mmol/L, Calcium 9.3 mg/dL, Phosphate 4.94 mg/dL, Magnesium not specified. Ionic Calcium was 4.94 mg/dL.
+
+**Renal Function**
+
+Renal function tests were performed on June 16, 2026, revealing: Creatinine 0.41 mg/dL, Blood Urea 13.9 L mg/dL, BUN 6.4 mg/dL, GFR 3.4 mL/min/1.73 m².
+
+**Hematological Abnormalities**
+
+Hematological investigations on June 16, 2026, showed: Hemoglobin 16.0 g/dL, PCV/HCT 47.4%, WBC 17,500/µL, RBC 5.00 x 10^6/µL, Platelet count 345,000/µL.
+
+**Neurological Status**
+
+The patient’s neurological status was generally stable. No seizures were documented. VIP scores were consistently 0. The patient was alert and age-appropriate.
+
+**Procedures and Interventions**
+
+Several procedures were performed, including IV cannulation, UVC cannulation, UAC cannulation, PICC insertion, Foley catheter insertion, intubation, ventilation, CPAP, LFNC, HFNC, phototherapy, and nebulization with adrenaline.
+
+**Consultations**
+
+Consultations were performed by Dr. Srinivas Murki.
+
+**Timeline of Events:**
+
+*   **31/05/2026 (Morning):** Baby on Nimby ventilator under radiant warm care. Vitals stable.
+*   **31/05/2026:** INJ TAXIN 80 mg IV twice daily started, INJ CALCIUM GLUCONATE 3 ml + 3 ml IV twice daily administered, and INJ PARACETAMOL 1.7 ml IV once daily started on 8/6/2026. INJ AMIKACNE 20 mg IV once daily started.
+*   **03/06/2026:** SYP CALCOMAX 2.5 ul PO daily started, SYP CAFFEINE 0.4 ml oral once daily started. IV CAFFEINE administered at 8 mg/kg/day.
+*   **04/06/2026 (Afternoon):** Weight 1.76 kg.
+*   **15/06/2026:** GRBS monitoring showed a value of 28 mg/dL.
+*   **16/06/2026:** Weight 1.52 kg (+40 g). CRP 0.2 mg/L, TLC 17,500. Blood gas analysis: pH 7.24, PaCO2 37.8 mmHg, HCO3- 11.2, BE -8.4.
+*   **21/06/2026:** Baby noted to be breathing room air and stable. Feeding 8% formula, 10% by mouth.
+*   **31/06/2026 (Night):** Baby on CPAP mode, vitals checked.
+*   **01/07/2026 (Morning):** Baby on room air, episodes of apnea.
+
+**INVESTIGATIONS**
+
+(See detailed investigation results in the previous section)
+
+**PROCEDURES AND INTERVENTIONS**
+
+(See detailed procedures and interventions in the previous section)
+
+**TREATMENTS GIVEN**
+
+(See detailed treatments given in the previous section)
+
+**CONDITION AT DISCHARGE**
+
+The patient is a 15-day-old male infant (DOB 31/5/2026) admitted for respiratory distress and suspected sepsis. He initially required CPAP and NIV support. Current clinical status, as of 2026-06-31, is stable, breathing room air. He is tolerating oral feeds independently. Vitals are stable. He has tachycardia. No seizures have been documented. He passed urine and stool. One episode of vomiting was documented. The patient is alert and age-appropriate.
+
+**DISCHARGE MEDICATIONS**
+
+No discharge medications are explicitly documented.
+
+**DISCHARGE ADVICE**
+
+No specific discharge advice is documented. Therapeutic feeding instruction (TIF) was provided to the mother.
+
+**FOLLOW-UP**
+
+No follow-up appointments are documented.
+
+**PENDING REPORTS / INVESTIGATIONS**
+
+CBP, CRP, H·Calcium, Sr.Sodium investigations are pending.

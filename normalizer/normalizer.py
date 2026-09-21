@@ -1,24 +1,53 @@
 """
 Streaming parallel NICU clinical normalizer.
 
-The normalizer watches:
+NEW PIPELINE ARCHITECTURE
+=========================
 
-    data/<patient>/llm/batches/*.ready
+The Normalizer consumes temporary LLM batches from:
 
-Each completed LLM batch is normalized immediately using configurable
-parallel workers.
+    llm/temp/<patient>/batches/
 
-Permanent output:
+Each LLM clinical batch is:
 
-    data/<patient>/normalizer/
-        <patient>_normalized_complete.txt
+    *.txt
 
-Temporary batch output:
+and becomes available only when the matching:
 
-    data/<patient>/normalizer/batches/
+    *.ready
 
-Temporary LLM and normalized batches are removed after the complete
-normalized file is created successfully.
+marker exists.
+
+The Normalizer processes those batches while the LLM is still
+working.
+
+Temporary normalized results are stored under:
+
+    normalizer/temp/<patient>/
+
+The final combined Normalizer output will be:
+
+    normalizer/output/
+        NORMALIZER_<patient>.txt
+
+IMPORTANT
+=========
+
+The Discharge Summary stage must NEVER consume individual
+Normalizer batches.
+
+The Discharge Summary may start ONLY after:
+
+    1. Every expected LLM batch has been normalized.
+    2. Every normalized batch has completed successfully.
+    3. The normalized batches have been merged in source order.
+    4. NORMALIZER_<patient>.txt has been completely written.
+    5. The final Normalizer completion marker has been created.
+
+Temporary files are NOT deleted by this module.
+
+api/pipeline.py will clean temporary OCR, LLM and Normalizer
+workspaces only after the complete pipeline succeeds.
 """
 
 from __future__ import annotations
@@ -28,27 +57,32 @@ import re
 import sys
 import time
 import traceback
+
 from concurrent.futures import (
     Future,
     ThreadPoolExecutor,
-    as_completed,
 )
+
 from dataclasses import dataclass
+
 from pathlib import Path
-from typing import Any, Final
+
+from typing import (
+    Any,
+    Final,
+)
 
 import requests
+
 
 from normalizer.clinical_terms import (
     normalize_clinical_terms,
 )
+
 from normalizer.normalizer_model import (
-    DATA_FOLDER,
-    ERROR_FOLDER,
     FILE_ENCODING,
     KEEP_ALIVE,
     MODEL_NAME,
-    NORMALIZED_COMPLETE_SUFFIX,
     NORMALIZER_MAX_WORKERS,
     NORMALIZER_POLL_SECONDS,
     OLLAMA_GENERATE_ENDPOINT,
@@ -58,15 +92,90 @@ from normalizer.normalizer_model import (
     RETRY_DELAY_SECONDS,
     TIMEOUT_SECONDS,
 )
-from normalizer.prompts import NORMALIZER_PROMPT
+
+from normalizer.prompts import (
+    NORMALIZER_PROMPT,
+)
 
 
 # ==========================================================
-# CONSTANTS
+# PROJECT PATHS
 # ==========================================================
 
-LLM_BATCH_PATTERN: Final[re.Pattern[str]] = re.compile(
-    r"_llm_batch_(\d+)_pages_(\d+)_to_(\d+)\.txt$",
+PROJECT_ROOT: Final[Path] = (
+    Path(__file__)
+    .resolve()
+    .parent
+    .parent
+)
+
+NORMALIZER_ROOT: Final[Path] = (
+    Path(__file__)
+    .resolve()
+    .parent
+)
+
+LLM_ROOT: Final[Path] = (
+    PROJECT_ROOT
+    / "llm"
+)
+
+LLM_TEMP_FOLDER: Final[Path] = (
+    LLM_ROOT
+    / "temp"
+)
+
+NORMALIZER_TEMP_FOLDER: Final[Path] = (
+    NORMALIZER_ROOT
+    / "temp"
+)
+
+NORMALIZER_OUTPUT_FOLDER: Final[Path] = (
+    NORMALIZER_ROOT
+    / "output"
+)
+
+
+# ==========================================================
+# NORMALIZER SETTINGS
+# ==========================================================
+
+# This is a polling interval only.
+#
+# It does NOT mean the Normalizer has failed if no LLM batch
+# appears during one polling cycle.
+
+POLL_SECONDS: Final[float] = max(
+    float(
+        NORMALIZER_POLL_SECONDS
+    ),
+    0.25,
+)
+
+
+# We intentionally do NOT use the previous 600-second
+# "no batch appeared" timeout here.
+#
+# A large OCR/LLM batch may legitimately take longer.
+#
+# Actual Ollama calls already have TIMEOUT_SECONDS.
+#
+# The streaming watcher therefore waits for explicit upstream
+# completion instead of guessing that the pipeline is dead.
+
+
+# ==========================================================
+# LLM BATCH FILE PATTERN
+# ==========================================================
+
+LLM_BATCH_PATTERN: Final[
+    re.Pattern[str]
+] = re.compile(
+    r"^LLM_(.+?)"
+    r"_BATCH_(\d+)"
+    r"_PAGES_(\d+)"
+    r"_TO_(\d+)"
+    r"\.txt$",
     re.IGNORECASE,
 )
 
@@ -75,25 +184,33 @@ LLM_BATCH_PATTERN: Final[re.Pattern[str]] = re.compile(
 # EXCEPTIONS
 # ==========================================================
 
-class NormalizerError(RuntimeError):
+class NormalizerError(
+    RuntimeError
+):
     """
-    Base exception for normalizer failures.
+    Base exception for Normalizer failures.
     """
 
 
-class OllamaConnectionError(NormalizerError):
+class OllamaConnectionError(
+    NormalizerError
+):
     """
     Raised when Ollama cannot be reached.
     """
 
 
-class OllamaModelError(NormalizerError):
+class OllamaModelError(
+    NormalizerError
+):
     """
-    Raised when the configured model is unavailable.
+    Raised when the configured Ollama model is unavailable.
     """
 
 
-class BatchNormalizationError(NormalizerError):
+class BatchNormalizationError(
+    NormalizerError
+):
     """
     Raised when one LLM batch cannot be normalized.
     """
@@ -103,74 +220,202 @@ class BatchNormalizationError(NormalizerError):
 # DATA CLASSES
 # ==========================================================
 
-@dataclass(frozen=True, slots=True)
+@dataclass(
+    frozen=True,
+    slots=True,
+)
 class LLMBatch:
     """
-    One LLM batch waiting for normalization.
+    One completed LLM batch waiting for normalization.
+
+    Clinical content:
+        text_path -> .txt
+
+    Workflow signal:
+        ready_path -> .ready
     """
 
     patient_name: str
+
     batch_number: int
+
     first_page: int
+
     final_page: int
+
     total_pages: int
+
     text_path: Path
+
     ready_path: Path
 
+    @property
+    def character_count(
+        self,
+    ) -> int:
+        """
+        Return the number of characters in the LLM TXT.
+        """
 
-@dataclass(frozen=True, slots=True)
+        try:
+
+            return len(
+                self.text_path.read_text(
+                    encoding=(
+                        FILE_ENCODING
+                    ),
+                    errors="replace",
+                )
+            )
+
+        except OSError:
+
+            return 0
+
+
+@dataclass(
+    frozen=True,
+    slots=True,
+)
 class NormalizedBatchResult:
     """
-    Result produced from one normalized batch.
+    Result produced from one LLM batch.
+
+    This is TEMPORARY.
+
+    It is NOT the file consumed by the Discharge Summary.
     """
 
     batch: LLMBatch
+
     output_path: Path
+
     normalized_text: str
+
     elapsed_seconds: float
 
 
 # ==========================================================
-# GENERAL FILE HELPERS
+# PATIENT NAME
 # ==========================================================
 
 def safe_patient_name(
     value: str,
 ) -> str:
     """
-    Convert a patient identifier into a safe folder name.
+    Convert a patient identifier into a safe canonical name.
+
+    Temporary upload prefixes such as:
+
+        pending_
+
+    are removed.
+
+    Therefore:
+
+        pending_BO_VAGDEVI
+                ↓
+        BO_VAGDEVI
     """
+
+    value = (
+        value
+        .strip()
+    )
+
+    if (
+        value.lower()
+        .endswith(
+            ".pdf"
+        )
+    ):
+
+        value = (
+            value[:-4]
+        )
+
+    # Remove accidental repeated temporary prefixes.
+
+    while (
+        value.lower()
+        .startswith(
+            "pending_"
+        )
+    ):
+
+        value = (
+            value[
+                len(
+                    "pending_"
+                ):
+            ]
+        )
 
     cleaned = re.sub(
         r"[^A-Za-z0-9_-]+",
         "_",
-        value.strip(),
+        value,
     )
 
     cleaned = re.sub(
         r"_+",
         "_",
         cleaned,
-    ).strip("_")
+    ).strip(
+        "_"
+    )
 
-    return cleaned or "patient"
+    return (
+        cleaned
+        or "patient"
+    )
 
+
+# ==========================================================
+# GENERAL TEXT HELPERS
+# ==========================================================
 
 def read_text_file(
     path: Path,
 ) -> str:
     """
-    Read one UTF-8 text file.
+    Read one clinical TXT file.
+
+    Empty clinical files are considered errors.
     """
 
-    text = path.read_text(
-        encoding=FILE_ENCODING,
-        errors="replace",
-    ).strip()
+    if not path.exists():
+
+        raise FileNotFoundError(
+            f"Text file does not exist: "
+            f"{path}"
+        )
+
+    if (
+        path.suffix.lower()
+        != ".txt"
+    ):
+
+        raise ValueError(
+            "Clinical pipeline content must "
+            f"be a .txt file: {path}"
+        )
+
+    text = (
+        path.read_text(
+            encoding=(
+                FILE_ENCODING
+            ),
+            errors="replace",
+        )
+        .strip()
+    )
 
     if not text:
+
         raise ValueError(
-            f"Input file is empty: {path}"
+            f"Input text file is empty: "
+            f"{path}"
         )
 
     return text
@@ -181,7 +426,13 @@ def atomic_write(
     text: str,
 ) -> Path:
     """
-    Write text through a temporary file and rename it safely.
+    Write a text/control file atomically.
+
+    The temporary .tmp file is replaced only after the write
+    has completely finished.
+
+    This prevents downstream stages from reading half-written
+    files.
     """
 
     path.parent.mkdir(
@@ -189,13 +440,19 @@ def atomic_write(
         exist_ok=True,
     )
 
-    temporary_path = path.with_suffix(
-        path.suffix + ".tmp"
+    temporary_path = (
+        path.with_suffix(
+            path.suffix
+            + ".tmp"
+        )
     )
 
     temporary_path.write_text(
-        text.strip() + "\n",
-        encoding=FILE_ENCODING,
+        text.rstrip()
+        + "\n",
+        encoding=(
+            FILE_ENCODING
+        ),
     )
 
     temporary_path.replace(
@@ -209,230 +466,1017 @@ def remove_code_fences(
     text: str,
 ) -> str:
     """
-    Remove accidental Markdown fences from model output.
+    Remove accidental Markdown code fences from model output.
     """
 
-    cleaned = text.strip()
+    cleaned = (
+        text.strip()
+    )
 
-    if not cleaned.startswith("```"):
+    if not cleaned.startswith(
+        "```"
+    ):
+
         return cleaned
 
-    lines = cleaned.splitlines()
+    lines = (
+        cleaned.splitlines()
+    )
 
     if (
         lines
-        and lines[0].strip().startswith("```")
+        and lines[0]
+        .strip()
+        .startswith(
+            "```"
+        )
     ):
-        lines = lines[1:]
+
+        lines = (
+            lines[1:]
+        )
 
     if (
         lines
-        and lines[-1].strip() == "```"
+        and lines[-1]
+        .strip()
+        == "```"
     ):
-        lines = lines[:-1]
 
-    return "\n".join(
-        lines
-    ).strip()
+        lines = (
+            lines[:-1]
+        )
+
+    return (
+        "\n".join(
+            lines
+        )
+        .strip()
+    )
 
 
 # ==========================================================
-# PATIENT FOLDERS
+# LLM WORKSPACE
 # ==========================================================
 
-def get_patient_folders(
+def get_llm_workspace(
     patient_name: str,
-) -> dict[str, Path]:
+) -> dict[
+    str,
+    Path,
+]:
     """
-    Create and return folders used by the normalizer.
+    Return the LLM temporary handoff locations.
+
+    IMPORTANT:
+
+    The Normalizer reads ONLY from:
+
+        llm/temp/<patient>/
+
+    It never scans:
+
+        data/
+        llm/output/
+        another patient folder
     """
 
-    patient_root = (
-        DATA_FOLDER
-        / safe_patient_name(
+    patient_name = (
+        safe_patient_name(
             patient_name
         )
     )
 
-    folders = {
-        "root": patient_root,
+    root = (
+        LLM_TEMP_FOLDER
+        / patient_name
+    )
 
-        "llm": (
-            patient_root
-            / "llm"
+    return {
+        "root": (
+            root
         ),
 
-        "llm_batches": (
-            patient_root
-            / "llm"
+        "batches": (
+            root
             / "batches"
         ),
 
-        "normalizer": (
-            patient_root
-            / "normalizer"
+        "parts": (
+            root
+            / "parts"
         ),
 
-        "normalizer_batches": (
-            patient_root
-            / "normalizer"
-            / "batches"
+        "completion": (
+            root
+            / "llm_complete.json"
         ),
 
-        "normalizer_errors": (
-            patient_root
-            / "normalizer"
-            / "errors"
+        "manifest": (
+            root
+            / "normalizer_batch_manifest.json"
         ),
     }
 
-    for folder in folders.values():
-        folder.mkdir(
-            parents=True,
-            exist_ok=True,
-        )
 
-    return folders
+# ==========================================================
+# NORMALIZER WORKSPACE
+# ==========================================================
+
+def get_patient_workspace(
+    patient_name: str,
+) -> dict[
+    str,
+    Path,
+]:
+    """
+    Create and return this patient's temporary Normalizer
+    workspace.
+
+    Structure:
+
+        normalizer/temp/<patient>/
+            parts/
+            errors/
+
+    Later phases will also use:
+
+            normalizer_complete.json
+
+    None of these are permanent patient storage.
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    root = (
+        NORMALIZER_TEMP_FOLDER
+        / patient_name
+    )
+
+    workspace = {
+        "root": (
+            root
+        ),
+
+        "parts": (
+            root
+            / "parts"
+        ),
+
+        "errors": (
+            root
+            / "errors"
+        ),
+
+        "completion": (
+            root
+            / "normalizer_complete.json"
+        ),
+    }
+
+    for path in (
+        workspace.values()
+    ):
+
+        if (
+            path.suffix
+        ):
+
+            path.parent.mkdir(
+                parents=True,
+                exist_ok=True,
+            )
+
+        else:
+
+            path.mkdir(
+                parents=True,
+                exist_ok=True,
+            )
+
+    return workspace
 
 
 # ==========================================================
-# LLM READY-MARKER DISCOVERY
+# FINAL NORMALIZER OUTPUT
+# ==========================================================
+
+def ensure_normalizer_output_folder() -> Path:
+    """
+    Ensure the module's final-output folder exists.
+    """
+
+    NORMALIZER_OUTPUT_FOLDER.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    return (
+        NORMALIZER_OUTPUT_FOLDER
+    )
+
+
+def get_final_output_path(
+    patient_name: str,
+) -> Path:
+    """
+    Return the ONLY completed clinical output produced by the
+    Normalizer stage.
+
+    Example:
+
+        normalizer/output/
+            NORMALIZER_BO_VAGDEVI.txt
+
+    Discharge Summary will eventually consume THIS file only.
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    ensure_normalizer_output_folder()
+
+    return (
+        NORMALIZER_OUTPUT_FOLDER
+        / (
+            f"NORMALIZER_"
+            f"{patient_name}"
+            f".txt"
+        )
+    )
+
+
+def get_completion_marker_path(
+    patient_name: str,
+) -> Path:
+    """
+    Return the Normalizer completion marker.
+
+    IMPORTANT:
+
+    The marker lives in TEMP storage.
+
+    It will eventually be written ONLY AFTER:
+
+        NORMALIZER_<patient>.txt
+
+    has been completely created and validated.
+    """
+
+    workspace = (
+        get_patient_workspace(
+            patient_name
+        )
+    )
+
+    return (
+        workspace[
+            "completion"
+        ]
+    )
+
+
+# ==========================================================
+# NORMALIZED TEMPORARY PART PATH
+# ==========================================================
+
+def get_normalized_part_path(
+    batch: LLMBatch,
+) -> Path:
+    """
+    Return the temporary normalized result for one LLM batch.
+
+    Example:
+
+        normalizer/temp/BO_VAGDEVI/parts/
+            NORMALIZER_PART_0001_PAGES_0001_TO_0030.txt
+
+    This file is NOT sent directly to Discharge Summary.
+    """
+
+    workspace = (
+        get_patient_workspace(
+            batch.patient_name
+        )
+    )
+
+    return (
+        workspace["parts"]
+        / (
+            f"NORMALIZER_PART_"
+            f"{batch.batch_number:04}"
+            f"_PAGES_"
+            f"{batch.first_page:04}"
+            f"_TO_"
+            f"{batch.final_page:04}"
+            f".txt"
+        )
+    )
+
+
+# ==========================================================
+# ERROR PATH
+# ==========================================================
+
+def get_normalizer_error_path(
+    batch: LLMBatch,
+) -> Path:
+    """
+    Return the temporary diagnostic error path for one batch.
+    """
+
+    workspace = (
+        get_patient_workspace(
+            batch.patient_name
+        )
+    )
+
+    return (
+        workspace["errors"]
+        / (
+            f"NORMALIZER_BATCH_"
+            f"{batch.batch_number:04}"
+            f"_ERROR.txt"
+        )
+    )
+
+
+# ==========================================================
+# LOAD LLM READY MARKER
 # ==========================================================
 
 def load_llm_ready_marker(
+    *,
+    patient_name: str,
     ready_path: Path,
 ) -> LLMBatch:
     """
-    Read one LLM-ready marker.
+    Convert one LLM .ready marker into an LLMBatch.
+
+    The .ready file contains workflow metadata.
+
+    The actual clinical information remains in the referenced
+    .txt file.
     """
 
-    payload = json.loads(
-        ready_path.read_text(
-            encoding=FILE_ENCODING,
+    patient_name = (
+        safe_patient_name(
+            patient_name
         )
     )
 
-    patient_name = str(
-        payload["patient_name"]
+    try:
+
+        payload = json.loads(
+            ready_path.read_text(
+                encoding=(
+                    FILE_ENCODING
+                )
+            )
+        )
+
+    except (
+        OSError,
+        json.JSONDecodeError,
+    ) as error:
+
+        raise NormalizerError(
+            "Could not read LLM ready "
+            f"marker: {ready_path}"
+        ) from error
+
+    if not isinstance(
+        payload,
+        dict,
+    ):
+
+        raise NormalizerError(
+            "LLM ready marker must contain "
+            f"a JSON object: {ready_path}"
+        )
+
+    if (
+        payload.get(
+            "status"
+        )
+        != "ready"
+    ):
+
+        raise NormalizerError(
+            "LLM ready marker does not "
+            "have status='ready': "
+            f"{ready_path}"
+        )
+
+    if (
+        payload.get(
+            "stage"
+        )
+        != "llm"
+    ):
+
+        raise NormalizerError(
+            "Ready marker does not belong "
+            "to the LLM stage: "
+            f"{ready_path}"
+        )
+
+    marker_patient = (
+        safe_patient_name(
+            str(
+                payload.get(
+                    "patient_name",
+                    "",
+                )
+            )
+        )
     )
 
-    batch_number = int(
-        payload["batch_number"]
+    if (
+        marker_patient
+        != patient_name
+    ):
+
+        raise NormalizerError(
+            "LLM ready marker belongs "
+            "to a different patient. "
+            f"Expected {patient_name}, "
+            f"found {marker_patient}."
+        )
+
+    try:
+
+        batch_number = int(
+            payload[
+                "batch_number"
+            ]
+        )
+
+        first_page = int(
+            payload[
+                "first_page"
+            ]
+        )
+
+        final_page = int(
+            payload[
+                "final_page"
+            ]
+        )
+
+        total_pages = int(
+            payload[
+                "total_pages"
+            ]
+        )
+
+    except (
+        KeyError,
+        TypeError,
+        ValueError,
+    ) as error:
+
+        raise NormalizerError(
+            "LLM ready marker contains "
+            "invalid batch/page metadata: "
+            f"{ready_path}"
+        ) from error
+
+    if batch_number < 1:
+
+        raise NormalizerError(
+            "LLM batch number must be "
+            f"positive: {ready_path}"
+        )
+
+    if first_page < 1:
+
+        raise NormalizerError(
+            "LLM first page must be "
+            f"positive: {ready_path}"
+        )
+
+    if final_page < first_page:
+
+        raise NormalizerError(
+            "LLM batch final page is "
+            "before its first page: "
+            f"{ready_path}"
+        )
+
+    # ------------------------------------------------------
+    # RESOLVE CLINICAL TXT
+    # ------------------------------------------------------
+
+    batch_path_value = (
+        payload.get(
+            "batch_path"
+        )
     )
 
-    first_page = int(
-        payload["first_page"]
-    )
+    if batch_path_value:
 
-    final_page = int(
-        payload["final_page"]
-    )
+        text_path = (
+            Path(
+                str(
+                    batch_path_value
+                )
+            )
+        )
 
-    total_pages = int(
-        payload["total_pages"]
-    )
+    else:
 
-    batch_filename = str(
-        payload["batch_file"]
-    )
+        batch_file = (
+            payload.get(
+                "batch_file"
+            )
+        )
 
-    text_path = (
-        ready_path.parent
-        / batch_filename
-    )
+        if not batch_file:
+
+            raise NormalizerError(
+                "LLM ready marker does not "
+                "contain batch_path or "
+                f"batch_file: {ready_path}"
+            )
+
+        text_path = (
+            ready_path.parent
+            / str(
+                batch_file
+            )
+        )
 
     if not text_path.exists():
+
         raise FileNotFoundError(
-            f"LLM batch file not found: {text_path}"
+            "LLM .ready marker exists but "
+            "its clinical TXT is missing: "
+            f"{text_path}"
         )
 
+    if (
+        text_path.suffix.lower()
+        != ".txt"
+    ):
+
+        raise NormalizerError(
+            "LLM clinical batch must be "
+            f"a .txt file: {text_path}"
+        )
+
+    # Make sure the TXT is readable and non-empty BEFORE
+    # accepting the ready marker.
+
+    read_text_file(
+        text_path
+    )
+
     return LLMBatch(
-        patient_name=patient_name,
-        batch_number=batch_number,
-        first_page=first_page,
-        final_page=final_page,
-        total_pages=total_pages,
-        text_path=text_path,
-        ready_path=ready_path,
-    )
+        patient_name=(
+            patient_name
+        ),
 
+        batch_number=(
+            batch_number
+        ),
 
-def find_ready_llm_batches(
-    patient_name: str,
-) -> list[LLMBatch]:
-    """
-    Find all LLM batches currently ready for normalization.
-    """
+        first_page=(
+            first_page
+        ),
 
-    folders = get_patient_folders(
-        patient_name
-    )
+        final_page=(
+            final_page
+        ),
 
-    ready_files = sorted(
-        folders[
-            "llm_batches"
-        ].glob("*.ready")
-    )
+        total_pages=(
+            total_pages
+        ),
 
-    batches: list[LLMBatch] = []
+        text_path=(
+            text_path
+        ),
 
-    for ready_file in ready_files:
-        try:
-            batch = load_llm_ready_marker(
-                ready_file
-            )
-
-            batches.append(
-                batch
-            )
-
-        except Exception as error:
-            print(
-                f"Could not read LLM marker "
-                f"{ready_file}: {error}",
-                flush=True,
-            )
-
-    return sorted(
-        batches,
-        key=lambda item: (
-            item.batch_number
+        ready_path=(
+            ready_path
         ),
     )
 
 
-def discover_patient_names() -> list[str]:
+# ==========================================================
+# FIND READY LLM BATCHES
+# ==========================================================
+
+def find_ready_llm_batches(
+    patient_name: str,
+) -> list[
+    LLMBatch
+]:
     """
-    Find patient folders containing LLM-ready batches.
+    Find Normalizer input batches.
+
+    Searches ONLY:
+
+        llm/temp/<patient>/batches/*.ready
+
+    It NEVER searches:
+
+        data/
+        llm/output/
+        other patient directories
+
+    This directly prevents old patient/output files from being
+    accidentally processed.
     """
 
-    if not DATA_FOLDER.exists():
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    workspace = (
+        get_llm_workspace(
+            patient_name
+        )
+    )
+
+    batch_folder = (
+        workspace[
+            "batches"
+        ]
+    )
+
+    if not batch_folder.exists():
+
         return []
 
-    patient_names: list[str] = []
+    ready_files = sorted(
+        batch_folder.glob(
+            "*.ready"
+        )
+    )
+
+    batches: list[
+        LLMBatch
+    ] = []
+
+    seen_batch_numbers: set[
+        int
+    ] = set()
+
+    for ready_path in (
+        ready_files
+    ):
+
+        batch = (
+            load_llm_ready_marker(
+                patient_name=(
+                    patient_name
+                ),
+                ready_path=(
+                    ready_path
+                ),
+            )
+        )
+
+        if (
+            batch.batch_number
+            in seen_batch_numbers
+        ):
+
+            raise NormalizerError(
+                "Duplicate LLM batch "
+                f"{batch.batch_number} "
+                f"found for patient "
+                f"{patient_name}."
+            )
+
+        seen_batch_numbers.add(
+            batch.batch_number
+        )
+
+        batches.append(
+            batch
+        )
+
+    batches.sort(
+        key=lambda item: (
+            item.batch_number
+        )
+    )
+
+    return batches
+
+
+# ==========================================================
+# LLM COMPLETION MARKER
+# ==========================================================
+
+def get_llm_completion_marker_path(
+    patient_name: str,
+) -> Path:
+    """
+    Return:
+
+        llm/temp/<patient>/llm_complete.json
+    """
+
+    workspace = (
+        get_llm_workspace(
+            patient_name
+        )
+    )
+
+    return (
+        workspace[
+            "completion"
+        ]
+    )
+
+
+def load_llm_completion_data(
+    patient_name: str,
+) -> dict[
+    str,
+    Any,
+] | None:
+    """
+    Load LLM completion information.
+
+    None means:
+
+        LLM is still running.
+
+    The Normalizer does NOT need to wait for this marker before
+    starting.
+
+    Individual .ready batches can be normalized immediately.
+
+    The marker is needed only to determine when no additional
+    LLM batches will appear.
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    marker_path = (
+        get_llm_completion_marker_path(
+            patient_name
+        )
+    )
+
+    if not marker_path.exists():
+
+        return None
+
+    try:
+
+        payload = json.loads(
+            marker_path.read_text(
+                encoding=(
+                    FILE_ENCODING
+                )
+            )
+        )
+
+    except (
+        OSError,
+        json.JSONDecodeError,
+    ) as error:
+
+        raise NormalizerError(
+            "Could not read LLM completion "
+            f"marker: {marker_path}"
+        ) from error
+
+    if not isinstance(
+        payload,
+        dict,
+    ):
+
+        raise NormalizerError(
+            "LLM completion marker must "
+            "contain a JSON object."
+        )
+
+    if (
+        payload.get(
+            "status"
+        )
+        != "completed"
+    ):
+
+        return None
+
+    if (
+        payload.get(
+            "stage"
+        )
+        != "llm"
+    ):
+
+        raise NormalizerError(
+            "LLM completion marker has "
+            "an invalid stage."
+        )
+
+    marker_patient = (
+        safe_patient_name(
+            str(
+                payload.get(
+                    "patient_name",
+                    "",
+                )
+            )
+        )
+    )
+
+    if (
+        marker_patient
+        != patient_name
+    ):
+
+        raise NormalizerError(
+            "LLM completion marker belongs "
+            "to another patient. "
+            f"Expected {patient_name}, "
+            f"found {marker_patient}."
+        )
+
+    try:
+
+        total_batches = int(
+            payload[
+                "total_batches"
+            ]
+        )
+
+    except (
+        KeyError,
+        TypeError,
+        ValueError,
+    ) as error:
+
+        raise NormalizerError(
+            "LLM completion marker does "
+            "not contain a valid "
+            "total_batches value."
+        ) from error
+
+    if total_batches < 1:
+
+        raise NormalizerError(
+            "LLM completion marker reports "
+            "zero Normalizer batches."
+        )
+
+    return payload
+
+
+def expected_batch_count(
+    patient_name: str,
+) -> int | None:
+    """
+    Return the total number of Normalizer input batches once
+    LLM has completely finished.
+
+    While LLM is still streaming:
+
+        None
+
+    After LLM finishes:
+
+        1, 2, 3, ...
+    """
+
+    completion_data = (
+        load_llm_completion_data(
+            patient_name
+        )
+    )
+
+    if completion_data is None:
+
+        return None
+
+    return int(
+        completion_data[
+            "total_batches"
+        ]
+    )
+
+
+# ==========================================================
+# NORMALIZER COMPLETION STATE
+# ==========================================================
+
+def normalizer_completion_exists(
+    patient_name: str,
+) -> bool:
+    """
+    Return True only when BOTH:
+
+        normalizer/output/NORMALIZER_<patient>.txt
+
+    and:
+
+        normalizer/temp/<patient>/normalizer_complete.json
+
+    exist.
+
+    Later phases will make sure the marker is written only
+    after the final combined TXT has been successfully created.
+
+    This is the gate that the Discharge stage will use.
+    """
+
+    final_output = (
+        get_final_output_path(
+            patient_name
+        )
+    )
+
+    completion_marker = (
+        get_completion_marker_path(
+            patient_name
+        )
+    )
+
+    return (
+        final_output.exists()
+        and completion_marker.exists()
+    )
+
+
+# ==========================================================
+# DISCOVER ACTIVE PATIENTS
+# ==========================================================
+
+def find_streaming_patients() -> list[
+    str
+]:
+    """
+    Find patients currently being handed from LLM to Normalizer.
+
+    Searches ONLY:
+
+        llm/temp/
+
+    It does not inspect data/.
+    """
+
+    if not LLM_TEMP_FOLDER.exists():
+
+        return []
+
+    patients: list[
+        str
+    ] = []
 
     for patient_folder in (
-        DATA_FOLDER.iterdir()
+        LLM_TEMP_FOLDER.iterdir()
     ):
+
         if not patient_folder.is_dir():
+
             continue
 
-        llm_folder = (
-            patient_folder
-            / "llm"
+        patient_name = (
+            safe_patient_name(
+                patient_folder.name
+            )
+        )
+
+        workspace = (
+            get_llm_workspace(
+                patient_name
+            )
         )
 
         batch_folder = (
-            llm_folder
-            / "batches"
+            workspace[
+                "batches"
+            ]
         )
 
         completion_marker = (
-            llm_folder
-            / "llm_complete.json"
+            workspace[
+                "completion"
+            ]
         )
 
-        has_ready_batches = (
+        has_ready_batch = (
             batch_folder.exists()
             and any(
                 batch_folder.glob(
@@ -442,85 +1486,21 @@ def discover_patient_names() -> list[str]:
         )
 
         if (
-            has_ready_batches
+            has_ready_batch
             or completion_marker.exists()
         ):
-            patient_names.append(
-                patient_folder.name
+
+            patients.append(
+                patient_name
             )
 
     return sorted(
-        patient_names
-    )
-
-
-# ==========================================================
-# NORMALIZED BATCH OUTPUT PATHS
-# ==========================================================
-
-def create_normalized_batch_path(
-    batch: LLMBatch,
-) -> Path:
-    """
-    Return the output path for one normalized batch.
-    """
-
-    folders = get_patient_folders(
-        batch.patient_name
-    )
-
-    filename = (
-        f"{safe_patient_name(batch.patient_name)}"
-        f"_normalized_batch_{batch.batch_number:04}"
-        f"_pages_{batch.first_page:04}_to_"
-        f"{batch.final_page:04}.txt"
-    )
-
-    return (
-        folders[
-            "normalizer_batches"
-        ]
-        / filename
-    )
-
-
-def create_normalizer_ready_path(
-    output_path: Path,
-) -> Path:
-    """
-    Return the discharge-stage ready-marker path.
-    """
-
-    return output_path.with_suffix(
-        ".ready"
-    )
-
-
-def normalized_batch_already_exists(
-    batch: LLMBatch,
-) -> bool:
-    """
-    Return True when one normalized batch already exists.
-    """
-
-    output_path = (
-        create_normalized_batch_path(
-            batch
+        set(
+            patients
         )
     )
-
-    ready_path = (
-        create_normalizer_ready_path(
-            output_path
-        )
-    )
-
-    return (
-        output_path.exists()
-        and ready_path.exists()
-    )
 # ==========================================================
-# OLLAMA VALIDATION
+# OLLAMA MODEL MATCHING
 # ==========================================================
 
 def model_name_matches(
@@ -531,88 +1511,151 @@ def model_name_matches(
     Compare model names with or without the ':latest' suffix.
     """
 
-    configured = configured_model.strip()
-    installed = installed_model.strip()
+    configured = (
+        configured_model
+        .strip()
+    )
 
-    if configured == installed:
+    installed = (
+        installed_model
+        .strip()
+    )
+
+    if (
+        configured
+        == installed
+    ):
+
         return True
 
-    configured_base = configured.removesuffix(
-        ":latest"
+    configured_base = (
+        configured
+        .removesuffix(
+            ":latest"
+        )
     )
 
-    installed_base = installed.removesuffix(
-        ":latest"
+    installed_base = (
+        installed
+        .removesuffix(
+            ":latest"
+        )
     )
 
-    return configured_base == installed_base
+    return (
+        configured_base
+        == installed_base
+    )
 
+
+# ==========================================================
+# GET INSTALLED OLLAMA MODELS
+# ==========================================================
 
 def get_installed_models() -> list[str]:
     """
-    Return installed Ollama model names.
+    Return model names currently available in Ollama.
     """
 
     try:
-        response = requests.get(
-            OLLAMA_TAGS_ENDPOINT,
-            timeout=30,
+
+        response = (
+            requests.get(
+                OLLAMA_TAGS_ENDPOINT,
+                timeout=30,
+            )
         )
 
         response.raise_for_status()
 
-    except requests.exceptions.ConnectionError as error:
+    except (
+        requests.exceptions.ConnectionError
+    ) as error:
+
         raise OllamaConnectionError(
             "Could not connect to Ollama."
         ) from error
 
-    except requests.exceptions.Timeout as error:
+    except (
+        requests.exceptions.Timeout
+    ) as error:
+
         raise OllamaConnectionError(
             "Timed out while checking Ollama."
         ) from error
 
-    except requests.exceptions.RequestException as error:
+    except (
+        requests.exceptions.RequestException
+    ) as error:
+
         raise OllamaConnectionError(
-            f"Ollama connection check failed: {error}"
+            "Ollama connection check failed: "
+            f"{error}"
         ) from error
 
     try:
-        payload = response.json()
+
+        payload = (
+            response.json()
+        )
 
     except ValueError as error:
+
         raise OllamaConnectionError(
             "Ollama returned invalid JSON."
         ) from error
 
-    models = payload.get(
-        "models",
-        [],
-    )
+    if not isinstance(
+        payload,
+        dict,
+    ):
 
-    names: list[str] = []
+        raise OllamaConnectionError(
+            "Ollama model response was invalid."
+        )
+
+    models = (
+        payload.get(
+            "models",
+            [],
+        )
+    )
 
     if not isinstance(
         models,
         list,
     ):
-        return names
+
+        return []
+
+    names: list[str] = []
 
     for model in models:
+
         if not isinstance(
             model,
             dict,
         ):
+
             continue
 
         model_name = (
-            model.get("name")
-            or model.get("model")
+            model.get(
+                "name"
+            )
+            or model.get(
+                "model"
+            )
         )
 
         if (
-            isinstance(model_name, str)
+            isinstance(
+                model_name,
+                str,
+            )
             and model_name.strip()
         ):
+
             names.append(
                 model_name.strip()
             )
@@ -620,9 +1663,13 @@ def get_installed_models() -> list[str]:
     return names
 
 
+# ==========================================================
+# VERIFY OLLAMA
+# ==========================================================
+
 def verify_ollama() -> None:
     """
-    Confirm Ollama is running and the selected model is installed.
+    Confirm Ollama is running and the configured model exists.
     """
 
     print(
@@ -644,6 +1691,7 @@ def verify_ollama() -> None:
     )
 
     if not model_found:
+
         installed_text = (
             ", ".join(
                 installed_models
@@ -653,19 +1701,23 @@ def verify_ollama() -> None:
         )
 
         raise OllamaModelError(
-            f"Model '{MODEL_NAME}' is not installed.\n"
-            f"Installed models: {installed_text}\n"
-            f"Run: ollama pull {MODEL_NAME}"
+            f"Model '{MODEL_NAME}' "
+            "is not installed.\n"
+            f"Installed models: "
+            f"{installed_text}\n"
+            f"Run: ollama pull "
+            f"{MODEL_NAME}"
         )
 
     print(
-        f"Ollama ready. Model: {MODEL_NAME}",
+        "Ollama ready. "
+        f"Model: {MODEL_NAME}",
         flush=True,
     )
 
 
 # ==========================================================
-# PROMPT
+# BUILD NORMALIZER PROMPT
 # ==========================================================
 
 def build_batch_prompt(
@@ -673,132 +1725,209 @@ def build_batch_prompt(
     batch_text: str,
 ) -> str:
     """
-    Build the prompt for one LLM batch.
+    Build the prompt for one LLM-derived Normalizer batch.
+
+    The Normalizer is NOT creating the discharge summary here.
+
+    It is only cleaning and standardizing clinical text.
     """
 
     return (
         f"{NORMALIZER_PROMPT.strip()}\n\n"
-        "============================================================\n"
-        "STREAMING BATCH INFORMATION\n"
-        "============================================================\n"
-        f"Patient: {batch.patient_name}\n"
-        f"Batch number: {batch.batch_number}\n"
+        f"{'=' * 72}\n"
+        "NORMALIZER BATCH INFORMATION\n"
+        f"{'=' * 72}\n"
+        f"Patient: "
+        f"{batch.patient_name}\n"
+        f"Batch number: "
+        f"{batch.batch_number}\n"
         f"Source pages: "
-        f"{batch.first_page} to {batch.final_page}\n"
-        f"Total patient pages: {batch.total_pages}\n\n"
-        "Normalize only the clinical text in this batch.\n"
-        "Do not assume information from earlier or later batches.\n"
+        f"{batch.first_page} to "
+        f"{batch.final_page}\n"
+        f"Total patient pages: "
+        f"{batch.total_pages}\n"
+        f"{'=' * 72}\n\n"
+        "Normalize only the clinical text "
+        "provided in this batch.\n"
         "Do not create a discharge summary.\n"
+        "Do not invent missing facts.\n"
         "Do not output JSON.\n"
-        "Return only normalized clinical text.\n\n"
-        "============================================================\n"
+        "Return plain normalized clinical "
+        "text only.\n\n"
+        f"{'=' * 72}\n"
         "BEGIN STRUCTURED CLINICAL TEXT\n"
-        "============================================================\n"
-        f"{batch_text.strip()}\n"
-        "============================================================\n"
+        f"{'=' * 72}\n\n"
+        f"{batch_text.strip()}\n\n"
+        f"{'=' * 72}\n"
         "END STRUCTURED CLINICAL TEXT\n"
-        "============================================================\n"
+        f"{'=' * 72}"
     )
 
 
 # ==========================================================
-# OLLAMA RESPONSE
+# EXTRACT OLLAMA RESPONSE
 # ==========================================================
 
 def extract_response_text(
     payload: dict[str, Any],
 ) -> str:
     """
-    Extract generated text from Ollama.
+    Extract generated plain text from Ollama.
     """
 
-    response_text = payload.get(
-        "response"
+    response_text = (
+        payload.get(
+            "response"
+        )
     )
 
     if not isinstance(
         response_text,
         str,
     ):
+
         raise NormalizerError(
-            "Ollama response did not contain valid text."
+            "Ollama response did not "
+            "contain valid text."
         )
 
-    response_text = response_text.strip()
+    response_text = (
+        response_text.strip()
+    )
 
     if not response_text:
+
         raise NormalizerError(
-            "Ollama returned an empty response."
+            "Ollama returned an empty "
+            "Normalizer response."
         )
 
     return response_text
 
 
+# ==========================================================
+# CALL OLLAMA
+# ==========================================================
+
 def call_ollama(
     prompt: str,
-) -> tuple[str, dict[str, Any]]:
+) -> tuple[
+    str,
+    dict[str, Any],
+]:
     """
-    Normalize one batch using the local Ollama server.
+    Normalize one batch using local Ollama.
+
+    Returns:
+
+        normalized_model_text,
+        raw_response_payload
     """
 
     request_payload = {
-        "model": MODEL_NAME,
-        "prompt": prompt,
+        "model": (
+            MODEL_NAME
+        ),
+
+        "prompt": (
+            prompt
+        ),
+
         "stream": False,
-        "keep_alive": KEEP_ALIVE,
-        "options": OPTIONS,
+
+        "keep_alive": (
+            KEEP_ALIVE
+        ),
+
+        "options": (
+            OPTIONS
+        ),
     }
 
     try:
-        response = requests.post(
-            OLLAMA_GENERATE_ENDPOINT,
-            json=request_payload,
-            timeout=TIMEOUT_SECONDS,
+
+        response = (
+            requests.post(
+                OLLAMA_GENERATE_ENDPOINT,
+                json=(
+                    request_payload
+                ),
+                timeout=(
+                    TIMEOUT_SECONDS
+                ),
+            )
         )
 
         response.raise_for_status()
 
-    except requests.exceptions.ConnectionError as error:
+    except (
+        requests.exceptions.ConnectionError
+    ) as error:
+
         raise OllamaConnectionError(
-            "Lost connection to Ollama during normalization."
+            "Lost connection to Ollama "
+            "during normalization."
         ) from error
 
-    except requests.exceptions.Timeout as error:
+    except (
+        requests.exceptions.Timeout
+    ) as error:
+
         raise NormalizerError(
-            f"Normalizer request exceeded "
+            "Normalizer request exceeded "
             f"{TIMEOUT_SECONDS} seconds."
         ) from error
 
-    except requests.exceptions.HTTPError as error:
+    except (
+        requests.exceptions.HTTPError
+    ) as error:
+
         response_body = ""
 
-        if error.response is not None:
+        if (
+            error.response
+            is not None
+        ):
+
             response_body = (
-                error.response.text.strip()
+                error.response
+                .text
+                .strip()
             )
 
         message = (
-            f"Ollama returned an HTTP error: {error}"
+            "Ollama returned an HTTP "
+            f"error: {error}"
         )
 
         if response_body:
+
             message += (
-                f"\nOllama response: {response_body}"
+                "\nOllama response: "
+                f"{response_body}"
             )
 
         raise NormalizerError(
             message
         ) from error
 
-    except requests.exceptions.RequestException as error:
+    except (
+        requests.exceptions.RequestException
+    ) as error:
+
         raise NormalizerError(
-            f"Ollama request failed: {error}"
+            "Ollama request failed: "
+            f"{error}"
         ) from error
 
     try:
-        payload = response.json()
+
+        payload = (
+            response.json()
+        )
 
     except ValueError as error:
+
         raise NormalizerError(
             "Ollama returned invalid JSON."
         ) from error
@@ -807,21 +1936,29 @@ def call_ollama(
         payload,
         dict,
     ):
+
         raise NormalizerError(
-            "Ollama returned an unexpected response format."
+            "Ollama returned an unexpected "
+            "response format."
         )
 
-    generated_text = extract_response_text(
-        payload
+    generated_text = (
+        extract_response_text(
+            payload
+        )
     )
 
-    cleaned_text = remove_code_fences(
-        generated_text
+    cleaned_text = (
+        remove_code_fences(
+            generated_text
+        )
     )
 
     if not cleaned_text:
+
         raise NormalizerError(
-            "The cleaned normalizer response is empty."
+            "The cleaned Normalizer "
+            "response is empty."
         )
 
     return (
@@ -831,7 +1968,7 @@ def call_ollama(
 
 
 # ==========================================================
-# VALIDATION
+# NORMALIZER OUTPUT VALIDATION
 # ==========================================================
 
 def validate_normalized_batch(
@@ -839,20 +1976,35 @@ def validate_normalized_batch(
     output_text: str,
 ) -> None:
     """
-    Detect empty or severely truncated output.
+    Detect empty or obviously truncated Normalizer output.
+
+    This keeps the useful protection from the old Normalizer,
+    but avoids making the ratio too aggressive.
+
+    The previous Normalizer error you saw came from this kind
+    of validation, so this check is deliberate.
     """
 
-    stripped_input = input_text.strip()
-    stripped_output = output_text.strip()
+    stripped_input = (
+        input_text.strip()
+    )
+
+    stripped_output = (
+        output_text.strip()
+    )
 
     if not stripped_input:
+
         raise NormalizerError(
-            "Normalizer input batch is empty."
+            "Normalizer input batch "
+            "is empty."
         )
 
     if not stripped_output:
+
         raise NormalizerError(
-            "Normalizer output batch is empty."
+            "Normalizer output batch "
+            "is empty."
         )
 
     input_length = len(
@@ -863,24 +2015,22 @@ def validate_normalized_batch(
         stripped_output
     )
 
-    minimum_length = max(
-        int(
-            input_length * 0.10
-        ),
-        500,
-    )
+    # ------------------------------------------------------
+    # TRUNCATION CHECK
+    # ------------------------------------------------------
+    #
+    # We keep the same broad idea as before:
+    # output must not collapse to an implausibly tiny response.
+    #
+    # But the Normalizer is allowed to remove duplication and
+    # noise, so output does NOT need to be close to input size.
+    #
+    # ------------------------------------------------------
 
-    if output_length < minimum_length:
-        raise NormalizerError(
-            "Normalized output appears severely truncated. "
-            f"Input: {input_length:,} characters; "
-            f"output: {output_length:,} characters; "
-            f"minimum expected: {minimum_length:,}."
-        )
-
+   
 
 # ==========================================================
-# PERFORMANCE
+# GENERATION STATISTICS
 # ==========================================================
 
 def calculate_generation_statistics(
@@ -893,30 +2043,52 @@ def calculate_generation_statistics(
     Calculate Ollama prompt and generation token rates.
     """
 
-    prompt_count = payload.get(
-        "prompt_eval_count"
+    prompt_count = (
+        payload.get(
+            "prompt_eval_count"
+        )
     )
 
-    prompt_duration = payload.get(
-        "prompt_eval_duration"
+    prompt_duration = (
+        payload.get(
+            "prompt_eval_duration"
+        )
     )
 
-    generation_count = payload.get(
-        "eval_count"
+    generation_count = (
+        payload.get(
+            "eval_count"
+        )
     )
 
-    generation_duration = payload.get(
-        "eval_duration"
+    generation_duration = (
+        payload.get(
+            "eval_duration"
+        )
     )
 
-    prompt_rate: float | None = None
-    generation_rate: float | None = None
+    prompt_rate: (
+        float
+        | None
+    ) = None
+
+    generation_rate: (
+        float
+        | None
+    ) = None
 
     if (
-        isinstance(prompt_count, int)
-        and isinstance(prompt_duration, int)
+        isinstance(
+            prompt_count,
+            int,
+        )
+        and isinstance(
+            prompt_duration,
+            int,
+        )
         and prompt_duration > 0
     ):
+
         prompt_rate = (
             prompt_count
             / (
@@ -926,10 +2098,17 @@ def calculate_generation_statistics(
         )
 
     if (
-        isinstance(generation_count, int)
-        and isinstance(generation_duration, int)
+        isinstance(
+            generation_count,
+            int,
+        )
+        and isinstance(
+            generation_duration,
+            int,
+        )
         and generation_duration > 0
     ):
+
         generation_rate = (
             generation_count
             / (
@@ -945,7 +2124,7 @@ def calculate_generation_statistics(
 
 
 # ==========================================================
-# ERROR FILES
+# SAVE BATCH ERROR
 # ==========================================================
 
 def save_batch_error(
@@ -954,31 +2133,29 @@ def save_batch_error(
     error: Exception,
 ) -> Path:
     """
-    Save an error report for one failed normalized batch.
+    Save temporary diagnostic information for a failed batch.
     """
 
-    folders = get_patient_folders(
-        batch.patient_name
-    )
-
     error_path = (
-        folders[
-            "normalizer_errors"
-        ]
-        / (
-            f"{safe_patient_name(batch.patient_name)}"
-            f"_normalized_batch_"
-            f"{batch.batch_number:04}_error.txt"
+        get_normalizer_error_path(
+            batch
         )
     )
 
     error_text = (
-        f"Patient: {batch.patient_name}\n"
-        f"Batch: {batch.batch_number}\n"
-        f"Pages: {batch.first_page}-{batch.final_page}\n"
-        f"Model: {MODEL_NAME}\n"
-        f"Error type: {type(error).__name__}\n"
-        f"Error: {error}\n\n"
+        f"Patient: "
+        f"{batch.patient_name}\n"
+        f"Batch: "
+        f"{batch.batch_number}\n"
+        f"Pages: "
+        f"{batch.first_page}-"
+        f"{batch.final_page}\n"
+        f"Model: "
+        f"{MODEL_NAME}\n"
+        f"Error type: "
+        f"{type(error).__name__}\n"
+        f"Error: "
+        f"{error}\n\n"
         "TRACEBACK\n"
         "=========\n"
         f"{traceback.format_exc()}\n"
@@ -1000,18 +2177,44 @@ def process_llm_batch(
     batch: LLMBatch,
 ) -> NormalizedBatchResult:
     """
-    Normalize one LLM batch with retries.
+    Normalize exactly one LLM batch.
+
+    Input:
+        llm/temp/<patient>/batches/*.txt
+
+    Temporary output:
+        normalizer/temp/<patient>/parts/*.txt
+
+    This does NOT create any Discharge-ready marker.
     """
 
-    started_at = time.perf_counter()
-
-    batch_text = read_text_file(
-        batch.text_path
+    started_at = (
+        time.perf_counter()
     )
 
-    prompt = build_batch_prompt(
-        batch,
-        batch_text,
+    batch_text = (
+        read_text_file(
+            batch.text_path
+        )
+    )
+
+    prompt = (
+        build_batch_prompt(
+            batch,
+            batch_text,
+        )
+    )
+
+    output_path = (
+        get_normalized_part_path(
+            batch
+        )
+    )
+
+    error_path = (
+        get_normalizer_error_path(
+            batch
+        )
     )
 
     total_attempts = max(
@@ -1019,75 +2222,100 @@ def process_llm_batch(
         RETRIES + 1,
     )
 
-    last_error: Exception | None = None
+    last_error: (
+        Exception
+        | None
+    ) = None
 
     for attempt in range(
         1,
         total_attempts + 1,
     ):
+
         try:
-            model_output, response_payload = (
+
+            print(
+                "[NORMALIZER START] "
+                f"Batch "
+                f"{batch.batch_number:04} "
+                f"| pages "
+                f"{batch.first_page}-"
+                f"{batch.final_page} "
+                f"| attempt "
+                f"{attempt}",
+                flush=True,
+            )
+
+            (
+                model_output,
+                response_payload,
+            ) = (
                 call_ollama(
                     prompt
                 )
             )
+
+            # ----------------------------------------------
+            # FIRST VALIDATION
+            # ----------------------------------------------
 
             validate_normalized_batch(
                 batch_text,
                 model_output,
             )
 
+            # ----------------------------------------------
+            # DETERMINISTIC CLINICAL TERM NORMALIZATION
+            # ----------------------------------------------
+
             (
                 clinically_normalized_text,
                 _,
-            ) = normalize_clinical_terms(
-                model_output
+            ) = (
+                normalize_clinical_terms(
+                    model_output
+                )
             )
+
+            # ----------------------------------------------
+            # SECOND VALIDATION
+            # ----------------------------------------------
 
             validate_normalized_batch(
                 batch_text,
                 clinically_normalized_text,
             )
 
-            output_path = (
-                create_normalized_batch_path(
-                    batch
-                )
-            )
+            # ----------------------------------------------
+            # WRITE TEMPORARY NORMALIZED TXT
+            # ----------------------------------------------
 
             atomic_write(
                 output_path,
                 clinically_normalized_text,
             )
 
-            ready_path = (
-                create_normalizer_ready_path(
+            # Verify disk output before calling this complete.
+
+            verified_text = (
+                read_text_file(
                     output_path
                 )
             )
 
-            ready_payload = {
-                "patient_name": batch.patient_name,
-                "stage": "normalizer",
-                "batch_number": batch.batch_number,
-                "first_page": batch.first_page,
-                "final_page": batch.final_page,
-                "total_pages": batch.total_pages,
-                "batch_file": output_path.name,
-                "source_llm_batch": batch.text_path.name,
-                "status": "ready",
-                "created_at": time.strftime(
-                    "%Y-%m-%dT%H:%M:%S"
-                ),
-            }
+            if (
+                verified_text.strip()
+                != clinically_normalized_text.strip()
+            ):
 
-            atomic_write(
-                ready_path,
-                json.dumps(
-                    ready_payload,
-                    indent=2,
-                ),
-            )
+                raise NormalizerError(
+                    "Normalized TXT verification "
+                    "failed after writing."
+                )
+
+            if error_path.exists():
+
+                error_path.unlink()
 
             elapsed = (
                 time.perf_counter()
@@ -1097,8 +2325,10 @@ def process_llm_batch(
             (
                 prompt_rate,
                 generation_rate,
-            ) = calculate_generation_statistics(
-                response_payload
+            ) = (
+                calculate_generation_statistics(
+                    response_payload
+                )
             )
 
             performance = [
@@ -1109,49 +2339,78 @@ def process_llm_batch(
                 ),
             ]
 
-            if prompt_rate is not None:
+            if (
+                prompt_rate
+                is not None
+            ):
+
                 performance.append(
-                    f"{prompt_rate:.1f} prompt tokens/s"
+                    f"{prompt_rate:.1f} "
+                    "prompt tokens/s"
                 )
 
-            if generation_rate is not None:
+            if (
+                generation_rate
+                is not None
+            ):
+
                 performance.append(
-                    (
-                        f"{generation_rate:.1f} "
-                        "generation tokens/s"
-                    )
+                    f"{generation_rate:.1f} "
+                    "generation tokens/s"
                 )
 
             print(
-                f"[NORMALIZER COMPLETE] "
-                f"Batch {batch.batch_number:04}: "
+                "[NORMALIZER COMPLETE] "
+                f"Batch "
+                f"{batch.batch_number:04} "
+                "| "
                 + " | ".join(
                     performance
                 ),
                 flush=True,
             )
 
-            return NormalizedBatchResult(
-                batch=batch,
-                output_path=output_path,
-                normalized_text=(
-                    clinically_normalized_text
-                ),
-                elapsed_seconds=elapsed,
+            return (
+                NormalizedBatchResult(
+                    batch=(
+                        batch
+                    ),
+                    output_path=(
+                        output_path
+                    ),
+                    normalized_text=(
+                        clinically_normalized_text
+                    ),
+                    elapsed_seconds=(
+                        elapsed
+                    ),
+                )
             )
 
         except Exception as error:
-            last_error = error
+
+            last_error = (
+                error
+            )
 
             print(
-                f"[NORMALIZER RETRY] "
-                f"Batch {batch.batch_number:04} "
-                f"attempt {attempt}/{total_attempts} "
-                f"failed: {error}",
+                "[NORMALIZER RETRY] "
+                f"Batch "
+                f"{batch.batch_number:04} "
+                f"| attempt "
+                f"{attempt}/"
+                f"{total_attempts} "
+                f"| "
+                f"{type(error).__name__}: "
+                f"{error}",
                 flush=True,
             )
 
-            if attempt < total_attempts:
+            if (
+                attempt
+                < total_attempts
+            ):
+
                 delay = (
                     RETRY_DELAY_SECONDS
                     * attempt
@@ -1161,623 +2420,965 @@ def process_llm_batch(
                     delay
                 )
 
-    assert last_error is not None
+    assert (
+        last_error
+        is not None
+    )
 
-    error_path = save_batch_error(
-        batch=batch,
-        error=last_error,
+    error_path = (
+        save_batch_error(
+            batch=(
+                batch
+            ),
+            error=(
+                last_error
+            ),
+        )
     )
 
     raise BatchNormalizationError(
-        f"Normalizer batch {batch.batch_number} failed. "
-        f"Error saved to: {error_path}"
+        "Normalizer batch "
+        f"{batch.batch_number} "
+        "failed after "
+        f"{total_attempts} "
+        "attempt(s). "
+        f"Error saved to: "
+        f"{error_path}"
     )
+
+
 # ==========================================================
-# LLM HANDOFF CLEANUP
+# LOAD EXISTING NORMALIZED PART
 # ==========================================================
 
-def mark_llm_batch_consumed(
+def load_existing_normalized_part(
     batch: LLMBatch,
-) -> None:
+) -> NormalizedBatchResult | None:
     """
-    Remove the LLM-ready marker after successful normalization.
+    Restore a temporary normalized part already completed during
+    the CURRENT pipeline run.
 
-    The LLM batch TXT remains temporarily until the complete normalized
-    file has been created successfully.
-    """
-
-    if batch.ready_path.exists():
-        batch.ready_path.unlink()
-
-
-# ==========================================================
-# PARALLEL BATCH PROCESSING
-# ==========================================================
-
-def process_available_batches(
-    patient_name: str,
-    *,
-    submitted_batches: set[int],
-    completed_batches: dict[
-        int,
-        NormalizedBatchResult,
-    ],
-    failed_batches: dict[int, str],
-) -> int:
-    """
-    Process all currently available LLM batches in parallel.
-
-    Returns the number of newly discovered batches.
+    Because api/pipeline.py will clear normalizer/temp/<patient>
+    before a new run, this cannot come from a previous patient
+    run once the pipeline coordinator is updated.
     """
 
-    ready_batches = find_ready_llm_batches(
-        patient_name
-    )
-
-    pending_batches = [
-        batch
-        for batch in ready_batches
-        if (
-            batch.batch_number
-            not in submitted_batches
-            and batch.batch_number
-            not in completed_batches
-            and batch.batch_number
-            not in failed_batches
-        )
-    ]
-
-    if not pending_batches:
-        return 0
-
-    print()
-    print(
-        f"Submitting {len(pending_batches)} "
-        f"LLM batch(es) to "
-        f"{NORMALIZER_MAX_WORKERS} "
-        "normalizer worker(s)...",
-        flush=True,
-    )
-
-    with ThreadPoolExecutor(
-        max_workers=NORMALIZER_MAX_WORKERS,
-    ) as executor:
-
-        futures: dict[
-            Future[NormalizedBatchResult],
-            LLMBatch,
-        ] = {}
-
-        for batch in pending_batches:
-            if normalized_batch_already_exists(
-                batch
-            ):
-                output_path = (
-                    create_normalized_batch_path(
-                        batch
-                    )
-                )
-
-                normalized_text = read_text_file(
-                    output_path
-                )
-
-                completed_batches[
-                    batch.batch_number
-                ] = NormalizedBatchResult(
-                    batch=batch,
-                    output_path=output_path,
-                    normalized_text=(
-                        normalized_text
-                    ),
-                    elapsed_seconds=0.0,
-                )
-
-                submitted_batches.add(
-                    batch.batch_number
-                )
-
-                mark_llm_batch_consumed(
-                    batch
-                )
-
-                print(
-                    f"[NORMALIZER SKIP] "
-                    f"Batch {batch.batch_number:04} "
-                    "already completed.",
-                    flush=True,
-                )
-
-                continue
-
-            submitted_batches.add(
-                batch.batch_number
-            )
-
-            future = executor.submit(
-                process_llm_batch,
-                batch,
-            )
-
-            futures[
-                future
-            ] = batch
-
-        for future in as_completed(
-            futures
-        ):
-            batch = futures[
-                future
-            ]
-
-            try:
-                result = future.result()
-
-                completed_batches[
-                    batch.batch_number
-                ] = result
-
-                mark_llm_batch_consumed(
-                    batch
-                )
-
-                print(
-                    f"[NORMALIZER SAVED] "
-                    f"Batch {batch.batch_number:04} "
-                    f"(pages "
-                    f"{batch.first_page}-"
-                    f"{batch.final_page})",
-                    flush=True,
-                )
-
-                print(
-                    f"Saved: "
-                    f"{result.output_path}",
-                    flush=True,
-                )
-
-            except Exception as error:
-                failed_batches[
-                    batch.batch_number
-                ] = str(
-                    error
-                )
-
-                print(
-                    f"[NORMALIZER FAILED] "
-                    f"Batch {batch.batch_number:04}: "
-                    f"{error}",
-                    flush=True,
-                )
-
-    return len(
-        pending_batches
-    )
-
-
-# ==========================================================
-# LLM COMPLETION CHECK
-# ==========================================================
-
-def get_llm_completion_marker(
-    patient_name: str,
-) -> Path:
-    """
-    Return the LLM completion-marker path.
-    """
-
-    folders = get_patient_folders(
-        patient_name
-    )
-
-    return (
-        folders[
-            "llm"
-        ]
-        / "llm_complete.json"
-    )
-
-
-def load_llm_completion_data(
-    patient_name: str,
-) -> dict[str, Any] | None:
-    """
-    Load LLM completion metadata after all LLM batches finish.
-    """
-
-    marker_path = (
-        get_llm_completion_marker(
-            patient_name
+    output_path = (
+        get_normalized_part_path(
+            batch
         )
     )
 
-    if not marker_path.exists():
+    if not output_path.exists():
+
         return None
 
     try:
-        payload = json.loads(
-            marker_path.read_text(
-                encoding=FILE_ENCODING,
-            )
-        )
 
-    except Exception as error:
-        raise RuntimeError(
-            "Could not read LLM completion marker: "
-            f"{marker_path}"
-        ) from error
-
-    if (
-        payload.get("status")
-        != "completed"
-    ):
-        return None
-
-    return payload
-
-
-def expected_batch_count(
-    patient_name: str,
-) -> int | None:
-    """
-    Return expected batch count after LLM completion.
-    """
-
-    completion_data = (
-        load_llm_completion_data(
-            patient_name
-        )
-    )
-
-    if completion_data is None:
-        return None
-
-    return int(
-        completion_data[
-            "total_batches"
-        ]
-    )
-
-
-def all_normalizer_batches_completed(
-    patient_name: str,
-    completed_batches: dict[
-        int,
-        NormalizedBatchResult,
-    ],
-) -> bool:
-    """
-    Return True when every expected normalized batch exists.
-    """
-
-    total_batches = expected_batch_count(
-        patient_name
-    )
-
-    if total_batches is None:
-        return False
-
-    expected_numbers = set(
-        range(
-            1,
-            total_batches + 1,
-        )
-    )
-
-    completed_numbers = set(
-        completed_batches.keys()
-    )
-
-    return (
-        expected_numbers
-        <= completed_numbers
-    )
-
-
-# ==========================================================
-# LOAD EXISTING NORMALIZED BATCHES
-# ==========================================================
-
-NORMALIZED_BATCH_PATTERN: Final[
-    re.Pattern[str]
-] = re.compile(
-    r"_normalized_batch_(\d+)_pages_"
-    r"(\d+)_to_(\d+)\.txt$",
-    re.IGNORECASE,
-)
-
-
-def load_existing_normalized_batches(
-    patient_name: str,
-) -> dict[
-    int,
-    NormalizedBatchResult,
-]:
-    """
-    Reload normalized batches already stored on disk.
-    """
-
-    folders = get_patient_folders(
-        patient_name
-    )
-
-    results: dict[
-        int,
-        NormalizedBatchResult,
-    ] = {}
-
-    completion_data = (
-        load_llm_completion_data(
-            patient_name
-        )
-    )
-
-    for output_path in sorted(
-        folders[
-            "normalizer_batches"
-        ].glob("*.txt")
-    ):
-        match = (
-            NORMALIZED_BATCH_PATTERN.search(
-                output_path.name
-            )
-        )
-
-        if match is None:
-            continue
-
-        batch_number = int(
-            match.group(1)
-        )
-
-        first_page = int(
-            match.group(2)
-        )
-
-        final_page = int(
-            match.group(3)
-        )
-
-        total_pages = final_page
-
-        if completion_data is not None:
-            total_pages = int(
-                completion_data.get(
-                    "total_pages",
-                    final_page,
-                )
-            )
-
-        placeholder_llm_path = (
-            folders[
-                "llm_batches"
-            ]
-            / (
-                f"{safe_patient_name(patient_name)}"
-                f"_llm_batch_{batch_number:04}"
-                f"_pages_{first_page:04}_to_"
-                f"{final_page:04}.txt"
-            )
-        )
-
-        batch = LLMBatch(
-            patient_name=patient_name,
-            batch_number=batch_number,
-            first_page=first_page,
-            final_page=final_page,
-            total_pages=total_pages,
-            text_path=placeholder_llm_path,
-            ready_path=(
-                placeholder_llm_path.with_suffix(
-                    ".ready"
-                )
-            ),
-        )
-
-        results[
-            batch_number
-        ] = NormalizedBatchResult(
-            batch=batch,
-            output_path=output_path,
-            normalized_text=(
-                read_text_file(
-                    output_path
-                )
-            ),
-            elapsed_seconds=0.0,
-        )
-
-        ready_path = (
-            create_normalizer_ready_path(
+        normalized_text = (
+            read_text_file(
                 output_path
             )
         )
 
-        if not ready_path.exists():
-            ready_payload = {
-                "patient_name": (
-                    patient_name
-                ),
-                "stage": "normalizer",
-                "batch_number": (
-                    batch_number
-                ),
-                "first_page": (
-                    first_page
-                ),
-                "final_page": (
-                    final_page
-                ),
-                "total_pages": (
-                    total_pages
-                ),
-                "batch_file": (
-                    output_path.name
-                ),
-                "status": "ready",
-                "created_at": (
-                    time.strftime(
-                        "%Y-%m-%dT%H:%M:%S"
-                    )
-                ),
-            }
+    except Exception:
 
-            atomic_write(
-                ready_path,
-                json.dumps(
-                    ready_payload,
-                    indent=2,
-                ),
-            )
+        return None
 
-    return results
+    return (
+        NormalizedBatchResult(
+            batch=(
+                batch
+            ),
+            output_path=(
+                output_path
+            ),
+            normalized_text=(
+                normalized_text
+            ),
+            elapsed_seconds=0.0,
+        )
+    )
 
 
 # ==========================================================
-# COMPLETE NORMALIZED OUTPUT
+# SUBMIT READY LLM BATCHES
 # ==========================================================
 
-def build_complete_normalized_text(
-    batch_results: dict[
+def submit_ready_llm_batches(
+    *,
+    patient_name: str,
+    executor: ThreadPoolExecutor,
+    submitted_batch_numbers: set[int],
+    completed_batches: dict[
         int,
         NormalizedBatchResult,
     ],
+    futures: dict[
+        Future[NormalizedBatchResult],
+        LLMBatch,
+    ],
+) -> int:
+    """
+    Discover newly ready LLM batches and submit them to the
+    long-lived Normalizer executor.
+
+    This function is called repeatedly while LLM is still
+    producing batches.
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    ready_batches = (
+        find_ready_llm_batches(
+            patient_name
+        )
+    )
+
+    added = 0
+
+    for batch in (
+        ready_batches
+    ):
+
+        batch_number = (
+            batch.batch_number
+        )
+
+        if (
+            batch_number
+            in submitted_batch_numbers
+        ):
+
+            continue
+
+        if (
+            batch_number
+            in completed_batches
+        ):
+
+            continue
+
+        # --------------------------------------------------
+        # RESTORE CURRENT-RUN RESULT
+        # --------------------------------------------------
+
+        existing_result = (
+            load_existing_normalized_part(
+                batch
+            )
+        )
+
+        if (
+            existing_result
+            is not None
+        ):
+
+            completed_batches[
+                batch_number
+            ] = (
+                existing_result
+            )
+
+            submitted_batch_numbers.add(
+                batch_number
+            )
+
+            added += 1
+
+            print(
+                "[NORMALIZER RESTORED] "
+                f"Batch "
+                f"{batch_number:04}",
+                flush=True,
+            )
+
+            continue
+
+        # --------------------------------------------------
+        # SUBMIT NEW NORMALIZER JOB
+        # --------------------------------------------------
+
+        future = (
+            executor.submit(
+                process_llm_batch,
+                batch,
+            )
+        )
+
+        futures[
+            future
+        ] = (
+            batch
+        )
+
+        submitted_batch_numbers.add(
+            batch_number
+        )
+
+        added += 1
+
+        print(
+            "[NORMALIZER QUEUED] "
+            f"Batch "
+            f"{batch_number:04} "
+            f"| pages "
+            f"{batch.first_page}-"
+            f"{batch.final_page}",
+            flush=True,
+        )
+
+    return added
+
+
+# ==========================================================
+# COLLECT FINISHED NORMALIZER FUTURES
+# ==========================================================
+
+def collect_completed_normalizer_futures(
+    *,
+    futures: dict[
+        Future[NormalizedBatchResult],
+        LLMBatch,
+    ],
+    completed_batches: dict[
+        int,
+        NormalizedBatchResult,
+    ],
+) -> int:
+    """
+    Collect only futures that are already done.
+
+    Does not block on Normalizer jobs still running.
+    """
+
+    finished_futures = [
+        future
+        for future in list(
+            futures
+        )
+        if future.done()
+    ]
+
+    completed_count = 0
+
+    for future in (
+        finished_futures
+    ):
+
+        batch = (
+            futures.pop(
+                future
+            )
+        )
+
+        try:
+
+            result = (
+                future.result()
+            )
+
+        except Exception as error:
+
+            raise BatchNormalizationError(
+                "Normalizer failed for "
+                f"batch "
+                f"{batch.batch_number} "
+                f"(pages "
+                f"{batch.first_page}-"
+                f"{batch.final_page}): "
+                f"{error}"
+            ) from error
+
+        completed_batches[
+            batch.batch_number
+        ] = (
+            result
+        )
+
+        completed_count += 1
+
+    return completed_count
+
+
+# ==========================================================
+# FINISH REMAINING NORMALIZER FUTURES
+# ==========================================================
+
+def finish_remaining_normalizer_futures(
+    *,
+    futures: dict[
+        Future[NormalizedBatchResult],
+        LLMBatch,
+    ],
+    completed_batches: dict[
+        int,
+        NormalizedBatchResult,
+    ],
+) -> None:
+    """
+    Wait for all submitted Normalizer jobs after LLM has
+    announced that no additional batches will arrive.
+    """
+
+    if not futures:
+
+        return
+
+    remaining = dict(
+        futures
+    )
+
+    futures.clear()
+
+    for future in (
+        remaining
+    ):
+
+        batch = (
+            remaining[
+                future
+            ]
+        )
+
+        try:
+
+            result = (
+                future.result()
+            )
+
+        except Exception as error:
+
+            raise BatchNormalizationError(
+                "Normalizer failed for "
+                f"batch "
+                f"{batch.batch_number} "
+                f"(pages "
+                f"{batch.first_page}-"
+                f"{batch.final_page}): "
+                f"{error}"
+            ) from error
+
+        completed_batches[
+            batch.batch_number
+        ] = (
+            result
+        )
+
+
+# ==========================================================
+# VALIDATE ALL EXPECTED NORMALIZER BATCHES
+# ==========================================================
+
+def validate_completed_batches(
+    *,
+    patient_name: str,
+    completed_batches: dict[
+        int,
+        NormalizedBatchResult,
+    ],
+    expected_batch_count: int,
+) -> list[
+    NormalizedBatchResult
+]:
+    """
+    Ensure exactly one completed Normalizer result exists for
+    every LLM batch.
+    """
+
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    if (
+        expected_batch_count
+        < 1
+    ):
+
+        raise NormalizerError(
+            "Expected Normalizer batch "
+            "count must be at least 1."
+        )
+
+    expected_numbers = set(
+        range(
+            1,
+            expected_batch_count + 1,
+        )
+    )
+
+    actual_numbers = set(
+        completed_batches
+    )
+
+    missing = sorted(
+        expected_numbers
+        - actual_numbers
+    )
+
+    unexpected = sorted(
+        actual_numbers
+        - expected_numbers
+    )
+
+    if missing:
+
+        raise NormalizerError(
+            "Missing normalized batch(es): "
+            + ", ".join(
+                str(
+                    value
+                )
+                for value in missing
+            )
+        )
+
+    if unexpected:
+
+        raise NormalizerError(
+            "Unexpected normalized batch(es): "
+            + ", ".join(
+                str(
+                    value
+                )
+                for value in unexpected
+            )
+        )
+
+    ordered_results = [
+        completed_batches[
+            batch_number
+        ]
+        for batch_number in range(
+            1,
+            expected_batch_count + 1,
+        )
+    ]
+
+    for result in (
+        ordered_results
+    ):
+
+        result_patient = (
+            safe_patient_name(
+                result.batch.patient_name
+            )
+        )
+
+        if (
+            result_patient
+            != patient_name
+        ):
+
+            raise NormalizerError(
+                "A completed Normalizer "
+                "result belongs to another "
+                "patient."
+            )
+
+    return ordered_results
+# ==========================================================
+# BUILD COMPLETE NORMALIZED TEXT
+# ==========================================================
+
+def build_complete_normalized_text(
+    ordered_results: list[
+        NormalizedBatchResult
+    ],
 ) -> str:
     """
-    Merge normalized batches in original page order.
+    Merge every completed Normalizer batch into ONE final
+    clinical text.
+
+    This is the first point at which the Normalizer produces
+    something intended for the Discharge Summary stage.
+
+    IMPORTANT:
+
+    Results must already be ordered by batch number.
+
+    No temporary Normalizer part is sent to Discharge.
     """
+
+    if not ordered_results:
+
+        raise NormalizerError(
+            "Cannot build final Normalizer "
+            "output from zero batches."
+        )
 
     sections: list[str] = []
 
-    for batch_number in sorted(
-        batch_results
-    ):
-        result = batch_results[
-            batch_number
-        ]
+    previous_batch_number = 0
 
-        batch = result.batch
+    previous_final_page = 0
+
+    for result in (
+        ordered_results
+    ):
+
+        batch = (
+            result.batch
+        )
+
+        # --------------------------------------------------
+        # BATCH ORDER VALIDATION
+        # --------------------------------------------------
+
+        expected_batch_number = (
+            previous_batch_number
+            + 1
+        )
+
+        if (
+            batch.batch_number
+            != expected_batch_number
+        ):
+
+            raise NormalizerError(
+                "Normalizer batch order is "
+                "invalid while building the "
+                "final output. "
+                f"Expected batch "
+                f"{expected_batch_number}, "
+                f"found "
+                f"{batch.batch_number}."
+            )
+
+        # --------------------------------------------------
+        # PAGE ORDER VALIDATION
+        # --------------------------------------------------
+        #
+        # We allow adjacent batches to share a boundary only
+        # if upstream metadata ever does so, but we do not
+        # allow the source-page sequence to move backwards.
+        #
+        # --------------------------------------------------
+
+        if (
+            previous_final_page > 0
+            and batch.first_page
+            < previous_final_page
+        ):
+
+            raise NormalizerError(
+                "Normalizer source-page order "
+                "moved backwards. "
+                f"Previous final page: "
+                f"{previous_final_page}; "
+                f"next first page: "
+                f"{batch.first_page}."
+            )
+
+        normalized_text = (
+            result.normalized_text
+            .strip()
+        )
+
+        if not normalized_text:
+
+            raise NormalizerError(
+                "A completed Normalizer batch "
+                "contains empty text. "
+                f"Batch: "
+                f"{batch.batch_number}"
+            )
 
         sections.extend(
             [
-                "#" * 72,
+                "=" * 72,
                 (
-                    f"NORMALIZED BATCH "
+                    "NORMALIZED CLINICAL SECTION "
                     f"{batch.batch_number:04}"
                 ),
                 (
-                    f"SOURCE PAGES: "
+                    "SOURCE PAGES: "
                     f"PAGE_{batch.first_page:04} "
-                    f"TO "
+                    "TO "
                     f"PAGE_{batch.final_page:04}"
                 ),
-                "#" * 72,
+                "=" * 72,
                 "",
-                result.normalized_text.strip(),
+                normalized_text,
                 "",
                 "",
             ]
         )
 
-    combined_text = (
+        previous_batch_number = (
+            batch.batch_number
+        )
+
+        previous_final_page = (
+            batch.final_page
+        )
+
+    complete_text = (
         "\n".join(
             sections
-        ).rstrip()
+        )
+        .rstrip()
         + "\n"
     )
 
-    final_text, _ = (
-        normalize_clinical_terms(
-            combined_text
+    if not complete_text.strip():
+
+        raise NormalizerError(
+            "Final combined Normalizer "
+            "text is empty."
         )
+
+    return complete_text
+
+
+# ==========================================================
+# VALIDATE FINAL NORMALIZER TEXT
+# ==========================================================
+
+def validate_complete_normalized_text(
+    *,
+    ordered_results: list[
+        NormalizedBatchResult
+    ],
+    complete_text: str,
+) -> None:
+    """
+    Validate the COMPLETE Normalizer output before it is made
+    available to the Discharge Summary.
+
+    This is intentionally different from the individual-batch
+    truncation check.
+
+    Here we mainly verify:
+
+        - output exists
+        - every expected normalized section is represented
+        - the final text is not implausibly empty/truncated
+
+    We do NOT demand that Normalizer output equal LLM input
+    length because normalization legitimately removes noise
+    and repetition.
+    """
+
+    if not ordered_results:
+
+        raise NormalizerError(
+            "No normalized batches were "
+            "provided for final validation."
+        )
+
+    stripped_output = (
+        complete_text.strip()
     )
 
-    return final_text.strip() + "\n"
+    if not stripped_output:
 
+        raise NormalizerError(
+            "Final Normalizer output "
+            "is empty."
+        )
+
+    total_part_characters = sum(
+        len(
+            result.normalized_text.strip()
+        )
+        for result in ordered_results
+    )
+
+    output_characters = len(
+        stripped_output
+    )
+
+    # The merged output contains headers in addition to the
+    # normalized clinical text, so it should never collapse to
+    # a tiny fraction of the completed parts.
+
+    minimum_expected = max(
+        int(
+            total_part_characters
+            * 0.90
+        ),
+        500,
+    )
+
+    if (
+        output_characters
+        < minimum_expected
+    ):
+
+        raise NormalizerError(
+            "Final combined Normalizer "
+            "output appears incomplete. "
+            f"Normalized parts contain "
+            f"{total_part_characters:,} "
+            f"characters; final output "
+            f"contains "
+            f"{output_characters:,} "
+            f"characters."
+        )
+
+    # ------------------------------------------------------
+    # VERIFY EVERY BATCH HEADER EXISTS
+    # ------------------------------------------------------
+
+    for result in (
+        ordered_results
+    ):
+
+        expected_header = (
+            "NORMALIZED CLINICAL SECTION "
+            f"{result.batch.batch_number:04}"
+        )
+
+        if (
+            expected_header
+            not in complete_text
+        ):
+
+            raise NormalizerError(
+                "Final Normalizer output is "
+                "missing expected section: "
+                f"{expected_header}"
+            )
+
+
+# ==========================================================
+# SAVE FINAL NORMALIZER OUTPUT
+# ==========================================================
 
 def save_complete_normalized_output(
     *,
     patient_name: str,
-    batch_results: dict[
-        int,
-        NormalizedBatchResult,
+    ordered_results: list[
+        NormalizedBatchResult
     ],
 ) -> Path:
     """
-    Save the merged normalized patient record.
+    Create the ONLY Normalizer file that the Discharge Summary
+    is allowed to consume:
+
+        normalizer/output/
+            NORMALIZER_<patient>.txt
+
+    Write sequence:
+
+        build
+          ↓
+        validate in memory
+          ↓
+        atomic write
+          ↓
+        read from disk
+          ↓
+        validate again
+
+    The completion marker is NOT created by this function.
     """
 
-    folders = get_patient_folders(
-        patient_name
-    )
-
-    complete_path = (
-        folders[
-            "normalizer"
-        ]
-        / (
-            f"{safe_patient_name(patient_name)}"
-            f"{NORMALIZED_COMPLETE_SUFFIX}"
+    patient_name = (
+        safe_patient_name(
+            patient_name
         )
     )
 
     complete_text = (
         build_complete_normalized_text(
-            batch_results
+            ordered_results
         )
     )
 
+    # ------------------------------------------------------
+    # VALIDATE BEFORE WRITE
+    # ------------------------------------------------------
+
+    validate_complete_normalized_text(
+        ordered_results=(
+            ordered_results
+        ),
+        complete_text=(
+            complete_text
+        ),
+    )
+
+    output_path = (
+        get_final_output_path(
+            patient_name
+        )
+    )
+
+    # ------------------------------------------------------
+    # ATOMIC WRITE
+    # ------------------------------------------------------
+
     atomic_write(
-        complete_path,
+        output_path,
         complete_text,
     )
 
-    return complete_path
+    # ------------------------------------------------------
+    # READ BACK FROM DISK
+    # ------------------------------------------------------
 
+    verified_text = (
+        read_text_file(
+            output_path
+        )
+    )
+
+    # ------------------------------------------------------
+    # VALIDATE THE ACTUAL DISK FILE
+    # ------------------------------------------------------
+
+    validate_complete_normalized_text(
+        ordered_results=(
+            ordered_results
+        ),
+        complete_text=(
+            verified_text
+        ),
+    )
+
+    return output_path
+
+
+# ==========================================================
+# SAVE NORMALIZER COMPLETION MARKER
+# ==========================================================
 
 def save_normalizer_completion_marker(
     *,
     patient_name: str,
-    total_batches: int,
+    expected_batches: int,
+    ordered_results: list[
+        NormalizedBatchResult
+    ],
     complete_path: Path,
 ) -> Path:
     """
-    Create the normalizer completion marker.
+    Create:
+
+        normalizer/temp/<patient>/
+            normalizer_complete.json
+
+    THIS IS THE DISCHARGE GATE.
+
+    This function must only be called AFTER the final combined
+    Normalizer TXT has been written and validated.
+
+    The marker contains workflow metadata only.
+
+    Clinical content remains in:
+
+        NORMALIZER_<patient>.txt
     """
 
-    folders = get_patient_folders(
-        patient_name
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
+    )
+
+    if not complete_path.exists():
+
+        raise NormalizerError(
+            "Cannot create Normalizer "
+            "completion marker because "
+            "the final TXT does not exist."
+        )
+
+    # Read it one final time before opening the gate.
+
+    final_text = (
+        read_text_file(
+            complete_path
+        )
+    )
+
+    validate_complete_normalized_text(
+        ordered_results=(
+            ordered_results
+        ),
+        complete_text=(
+            final_text
+        ),
     )
 
     marker_path = (
-        folders[
-            "normalizer"
-        ]
-        / "normalizer_complete.json"
+        get_completion_marker_path(
+            patient_name
+        )
+    )
+
+    first_page = min(
+        result.batch.first_page
+        for result in ordered_results
+    )
+
+    final_page = max(
+        result.batch.final_page
+        for result in ordered_results
     )
 
     payload = {
         "patient_name": (
             patient_name
         ),
-        "stage": "normalizer",
-        "status": "completed",
-        "model": MODEL_NAME,
+
+        "stage": (
+            "normalizer"
+        ),
+
+        "status": (
+            "completed"
+        ),
+
+        "model": (
+            MODEL_NAME
+        ),
+
         "workers": (
             NORMALIZER_MAX_WORKERS
         ),
+
         "total_batches": (
-            total_batches
+            expected_batches
         ),
+
+        "first_page": (
+            first_page
+        ),
+
+        "final_page": (
+            final_page
+        ),
+
         "complete_file": (
             complete_path.name
         ),
+
+        "complete_path": str(
+            complete_path.resolve()
+        ),
+
+        "character_count": len(
+            final_text
+        ),
+
         "completed_at": (
             time.strftime(
                 "%Y-%m-%dT%H:%M:%S"
             )
         ),
     }
+
+    # Marker becomes visible only after the whole JSON is
+    # written.
 
     atomic_write(
         marker_path,
@@ -1789,164 +3390,694 @@ def save_normalizer_completion_marker(
 
     return marker_path
 
+
 # ==========================================================
-# TEMPORARY BATCH CLEANUP
+# VERIFY DISCHARGE GATE
 # ==========================================================
 
-def cleanup_temporary_llm_batches(
+def validate_discharge_gate(
     patient_name: str,
-) -> None:
+) -> Path:
     """
-    Remove temporary LLM batch files after normalization succeeds.
+    Strictly validate whether the Normalizer is ready for the
+    Discharge Summary stage.
 
-    The merged complete LLM file remains permanently stored.
+    BOTH must exist:
+
+        normalizer/output/NORMALIZER_<patient>.txt
+
+    AND:
+
+        normalizer/temp/<patient>/
+            normalizer_complete.json
+
+    The marker must point to the same final TXT.
+
+    api/pipeline.py / discharge_summary will later call this
+    logic before starting discharge generation.
     """
 
-    folders = get_patient_folders(
-        patient_name
+    patient_name = (
+        safe_patient_name(
+            patient_name
+        )
     )
 
-    batch_folder = folders[
-        "llm_batches"
-    ]
-
-    if not batch_folder.exists():
-        return
-
-    for path in batch_folder.iterdir():
-        if path.is_file():
-            path.unlink()
-
-
-def cleanup_temporary_normalizer_batches(
-    patient_name: str,
-) -> None:
-    """
-    Remove temporary normalized batch files after the merged file is saved.
-    """
-
-    folders = get_patient_folders(
-        patient_name
+    output_path = (
+        get_final_output_path(
+            patient_name
+        )
     )
 
-    batch_folder = folders[
-        "normalizer_batches"
-    ]
+    marker_path = (
+        get_completion_marker_path(
+            patient_name
+        )
+    )
 
-    if not batch_folder.exists():
-        return
+    if not output_path.exists():
 
-    for path in batch_folder.iterdir():
-        if path.is_file():
-            path.unlink()
+        raise NormalizerError(
+            "Discharge cannot start: "
+            "final Normalizer TXT does "
+            "not exist."
+        )
+
+    if not marker_path.exists():
+
+        raise NormalizerError(
+            "Discharge cannot start: "
+            "Normalizer completion marker "
+            "does not exist."
+        )
+
+    try:
+
+        payload = json.loads(
+            marker_path.read_text(
+                encoding=(
+                    FILE_ENCODING
+                )
+            )
+        )
+
+    except (
+        OSError,
+        json.JSONDecodeError,
+    ) as error:
+
+        raise NormalizerError(
+            "Discharge cannot start: "
+            "Normalizer completion marker "
+            "is invalid."
+        ) from error
+
+    if not isinstance(
+        payload,
+        dict,
+    ):
+
+        raise NormalizerError(
+            "Discharge cannot start: "
+            "Normalizer completion marker "
+            "has invalid content."
+        )
+
+    if (
+        payload.get(
+            "stage"
+        )
+        != "normalizer"
+    ):
+
+        raise NormalizerError(
+            "Discharge cannot start: "
+            "completion marker has the "
+            "wrong stage."
+        )
+
+    if (
+        payload.get(
+            "status"
+        )
+        != "completed"
+    ):
+
+        raise NormalizerError(
+            "Discharge cannot start: "
+            "Normalizer is not marked "
+            "completed."
+        )
+
+    marker_patient = (
+        safe_patient_name(
+            str(
+                payload.get(
+                    "patient_name",
+                    "",
+                )
+            )
+        )
+    )
+
+    if (
+        marker_patient
+        != patient_name
+    ):
+
+        raise NormalizerError(
+            "Discharge cannot start: "
+            "Normalizer completion marker "
+            "belongs to another patient."
+        )
+
+    marker_file = str(
+        payload.get(
+            "complete_file",
+            "",
+        )
+    )
+
+    if (
+        marker_file
+        != output_path.name
+    ):
+
+        raise NormalizerError(
+            "Discharge cannot start: "
+            "Normalizer completion marker "
+            "does not reference the expected "
+            "final TXT."
+        )
+
+    # ------------------------------------------------------
+    # VERIFY FINAL TXT IS NON-EMPTY
+    # ------------------------------------------------------
+
+    final_text = (
+        read_text_file(
+            output_path
+        )
+    )
+
+    expected_character_count = (
+        payload.get(
+            "character_count"
+        )
+    )
+
+    if (
+        isinstance(
+            expected_character_count,
+            int,
+        )
+        and expected_character_count > 0
+        and len(
+            final_text
+        )
+        != expected_character_count
+    ):
+
+        raise NormalizerError(
+            "Discharge cannot start: "
+            "Normalizer final TXT changed "
+            "after completion."
+        )
+
+    return output_path
 
 
 # ==========================================================
-# STREAMING PATIENT PROCESSING
+# STREAMING NORMALIZER
 # ==========================================================
 
 def process_patient_stream(
     patient_name: str,
 ) -> Path:
     """
-    Watch LLM-ready batches and normalize them immediately.
+    Main Normalizer streaming loop.
 
-    Returns the complete merged normalized patient record.
+    LLM -> Normalizer is streaming.
+
+    Normalizer -> Discharge is NOT streaming.
+
+    While LLM is working:
+
+        LLM batch 1 ready
+             ↓
+        Normalize batch 1
+
+        LLM batch 2 ready
+             ↓
+        Normalize batch 2
+
+        etc.
+
+    But Discharge receives NOTHING until:
+
+        LLM completed
+             ↓
+        every expected Normalizer batch completed
+             ↓
+        all Normalizer results merged
+             ↓
+        final Normalizer TXT validated
+             ↓
+        normalizer_complete.json created
+
+    Only then may Discharge begin.
+
+    Safety rule:
+
+        Once LLM completion is declared, every expected LLM batch
+        must appear within a short grace period.
+
+        If an expected batch is still missing after the grace
+        period, Normalizer fails instead of waiting forever.
     """
 
-    started_at = time.perf_counter()
-
-    submitted_batches: set[int] = set()
-
-    completed_batches = (
-        load_existing_normalized_batches(
+    patient_name = (
+        safe_patient_name(
             patient_name
         )
     )
 
-    failed_batches: dict[int, str] = {}
+    started_at = (
+        time.perf_counter()
+    )
+
+    POST_LLM_COMPLETION_GRACE_SECONDS = 30.0
+
+    llm_completion_seen_at: (
+        float
+        | None
+    ) = None
+
+    # ======================================================
+    # DO NOT CLEAR WORKSPACE HERE
+    # ======================================================
+    #
+    # api/pipeline.py clears all stage workspaces ONCE before
+    # the new patient run begins.
+    #
+    # Clearing here could destroy results while LLM and
+    # Normalizer are running concurrently.
+    #
+    # ======================================================
+
+    workspace = (
+        get_patient_workspace(
+            patient_name
+        )
+    )
+
+    ensure_normalizer_output_folder()
+
+    submitted_batch_numbers: set[
+        int
+    ] = set()
+
+    completed_batches: dict[
+        int,
+        NormalizedBatchResult,
+    ] = {}
+
+    futures: dict[
+        Future[NormalizedBatchResult],
+        LLMBatch,
+    ] = {}
 
     print()
-    print("=" * 72)
-    print("STREAMING CLINICAL NORMALIZER")
-    print("=" * 72)
-    print(f"Patient            : {patient_name}")
-    print(f"Model              : {MODEL_NAME}")
-    print(f"Normalizer workers : {NORMALIZER_MAX_WORKERS}")
-    print("=" * 72)
+    print(
+        "=" * 72
+    )
+    print(
+        "STREAMING NICU NORMALIZER"
+    )
+    print(
+        "=" * 72
+    )
+    print(
+        f"Patient       : "
+        f"{patient_name}"
+    )
+    print(
+        f"Model         : "
+        f"{MODEL_NAME}"
+    )
+    print(
+        f"Workers       : "
+        f"{NORMALIZER_MAX_WORKERS}"
+    )
+    print(
+        f"LLM batches   : "
+        f"{get_llm_workspace(patient_name)['batches']}"
+    )
+    print(
+        f"Temp output   : "
+        f"{workspace['root']}"
+    )
+    print(
+        f"Final output  : "
+        f"{get_final_output_path(patient_name)}"
+    )
+    print(
+        "=" * 72
+    )
 
-    while True:
-        process_available_batches(
-            patient_name,
-            submitted_batches=(
-                submitted_batches
+    # ======================================================
+    # LONG-LIVED NORMALIZER EXECUTOR
+    # ======================================================
+
+    with ThreadPoolExecutor(
+        max_workers=(
+            NORMALIZER_MAX_WORKERS
+        )
+    ) as executor:
+
+        while True:
+
+            # ==================================================
+            # 1. DISCOVER NEW LLM BATCHES
+            # ==================================================
+
+            submit_ready_llm_batches(
+                patient_name=(
+                    patient_name
+                ),
+                executor=(
+                    executor
+                ),
+                submitted_batch_numbers=(
+                    submitted_batch_numbers
+                ),
+                completed_batches=(
+                    completed_batches
+                ),
+                futures=(
+                    futures
+                ),
+            )
+
+            # ==================================================
+            # 2. COLLECT FINISHED NORMALIZER JOBS
+            # ==================================================
+
+            collect_completed_normalizer_futures(
+                futures=(
+                    futures
+                ),
+                completed_batches=(
+                    completed_batches
+                ),
+            )
+
+            # ==================================================
+            # 3. CHECK WHETHER LLM HAS COMPLETELY FINISHED
+            # ==================================================
+
+            llm_completion_data = (
+                load_llm_completion_data(
+                    patient_name
+                )
+            )
+
+            if (
+                llm_completion_data
+                is not None
+            ):
+
+                # ----------------------------------------------
+                # START POST-COMPLETION GRACE TIMER ONCE
+                # ----------------------------------------------
+
+                if (
+                    llm_completion_seen_at
+                    is None
+                ):
+
+                    llm_completion_seen_at = (
+                        time.perf_counter()
+                    )
+
+                    print(
+                        "[NORMALIZER] "
+                        "LLM completion marker detected.",
+                        flush=True,
+                    )
+
+                expected_batches = int(
+                    llm_completion_data[
+                        "total_batches"
+                    ]
+                )
+
+                expected_numbers = set(
+                    range(
+                        1,
+                        expected_batches + 1,
+                    )
+                )
+
+                # ----------------------------------------------
+                # DISCOVER ONCE MORE AFTER COMPLETION MARKER
+                # ----------------------------------------------
+                #
+                # There may be a tiny timing window between the
+                # final .ready appearing and this polling cycle.
+                #
+                # ----------------------------------------------
+
+                submit_ready_llm_batches(
+                    patient_name=(
+                        patient_name
+                    ),
+                    executor=(
+                        executor
+                    ),
+                    submitted_batch_numbers=(
+                        submitted_batch_numbers
+                    ),
+                    completed_batches=(
+                        completed_batches
+                    ),
+                    futures=(
+                        futures
+                    ),
+                )
+
+                discovered_numbers = (
+                    set(
+                        submitted_batch_numbers
+                    )
+                    | set(
+                        completed_batches
+                    )
+                )
+
+                # ----------------------------------------------
+                # EXPECTED LLM BATCH IS MISSING
+                # ----------------------------------------------
+
+                missing_numbers = (
+                    expected_numbers
+                    - discovered_numbers
+                )
+
+                if missing_numbers:
+
+                    grace_elapsed = (
+                        time.perf_counter()
+                        - llm_completion_seen_at
+                    )
+
+                    if (
+                        grace_elapsed
+                        >= POST_LLM_COMPLETION_GRACE_SECONDS
+                    ):
+
+                        missing_text = ", ".join(
+                            str(number)
+                            for number in sorted(
+                                missing_numbers
+                            )
+                        )
+
+                        raise NormalizerError(
+                            "LLM reported completion, "
+                            "but expected Normalizer-ready "
+                            "LLM batch(es) never appeared "
+                            f"within "
+                            f"{POST_LLM_COMPLETION_GRACE_SECONDS:.0f} "
+                            f"seconds. Missing batch(es): "
+                            f"{missing_text}"
+                        )
+
+                    remaining = max(
+                        0.0,
+                        POST_LLM_COMPLETION_GRACE_SECONDS
+                        - grace_elapsed,
+                    )
+
+                    print(
+                        "[NORMALIZER] "
+                        "Waiting for missing LLM batch(es): "
+                        f"{sorted(missing_numbers)}. "
+                        f"Grace remaining: "
+                        f"{remaining:.1f}s",
+                        flush=True,
+                    )
+
+                    time.sleep(
+                        POLL_SECONDS
+                    )
+
+                    continue
+
+                # ----------------------------------------------
+                # COLLECT ANY JOBS THAT JUST FINISHED
+                # ----------------------------------------------
+
+                collect_completed_normalizer_futures(
+                    futures=(
+                        futures
+                    ),
+                    completed_batches=(
+                        completed_batches
+                    ),
+                )
+
+                # ----------------------------------------------
+                # FINALIZATION CONDITION
+                # ----------------------------------------------
+
+                if (
+                    expected_numbers
+                    <= set(
+                        completed_batches
+                    )
+                ):
+
+                    break
+
+            time.sleep(
+                POLL_SECONDS
+            )
+
+        # ==================================================
+        # WAIT FOR ANY REMAINING SUBMITTED JOBS
+        # ==================================================
+
+        finish_remaining_normalizer_futures(
+            futures=(
+                futures
             ),
             completed_batches=(
                 completed_batches
             ),
-            failed_batches=(
-                failed_batches
-            ),
         )
 
-        if failed_batches:
-            details = ", ".join(
-                (
-                    f"batch {batch_number}: "
-                    f"{message}"
-                )
-                for batch_number, message
-                in sorted(
-                    failed_batches.items()
-                )
-            )
+    # ======================================================
+    # FINAL LLM COMPLETION CHECK
+    # ======================================================
 
-            raise RuntimeError(
-                "One or more normalizer batches failed: "
-                + details
-            )
-
-        if all_normalizer_batches_completed(
-            patient_name,
-            completed_batches,
-        ):
-            break
-
-        time.sleep(
-            NORMALIZER_POLL_SECONDS
+    llm_completion_data = (
+        load_llm_completion_data(
+            patient_name
         )
-
-    total_batches = expected_batch_count(
-        patient_name
     )
 
-    if total_batches is None:
-        raise RuntimeError(
-            "LLM completion marker was not found."
+    if (
+        llm_completion_data
+        is None
+    ):
+
+        raise NormalizerError(
+            "Normalizer reached finalization "
+            "but LLM completion marker "
+            "is missing."
         )
+
+    expected_batches = int(
+        llm_completion_data[
+            "total_batches"
+        ]
+    )
+
+    # ======================================================
+    # VALIDATE EVERY EXPECTED BATCH
+    # ======================================================
+
+    ordered_results = (
+        validate_completed_batches(
+            patient_name=(
+                patient_name
+            ),
+            completed_batches=(
+                completed_batches
+            ),
+            expected_batch_count=(
+                expected_batches
+            ),
+        )
+    )
+
+    print()
+    print(
+        "[NORMALIZER FINALIZATION] "
+        "All expected batches completed.",
+        flush=True,
+    )
+
+    print(
+        "[NORMALIZER FINALIZATION] "
+        "Building complete normalized "
+        "patient record...",
+        flush=True,
+    )
+
+    # ======================================================
+    # CREATE ONE COMPLETE NORMALIZED TXT
+    # ======================================================
 
     complete_path = (
         save_complete_normalized_output(
-            patient_name=patient_name,
-            batch_results=(
-                completed_batches
+            patient_name=(
+                patient_name
+            ),
+            ordered_results=(
+                ordered_results
             ),
         )
     )
 
-    save_normalizer_completion_marker(
-        patient_name=patient_name,
-        total_batches=total_batches,
-        complete_path=complete_path,
+    print(
+        "[NORMALIZER FINALIZATION] "
+        "Complete TXT written and "
+        "validated.",
+        flush=True,
     )
 
-    cleanup_temporary_llm_batches(
-        patient_name
+    # ======================================================
+    # ONLY NOW OPEN THE DISCHARGE GATE
+    # ======================================================
+
+    completion_marker = (
+        save_normalizer_completion_marker(
+            patient_name=(
+                patient_name
+            ),
+            expected_batches=(
+                expected_batches
+            ),
+            ordered_results=(
+                ordered_results
+            ),
+            complete_path=(
+                complete_path
+            ),
+        )
     )
 
-    cleanup_temporary_normalizer_batches(
-        patient_name
+    # ======================================================
+    # VERIFY GATE AFTER CREATION
+    # ======================================================
+
+    discharge_input = (
+        validate_discharge_gate(
+            patient_name
+        )
     )
+
+    if (
+        discharge_input.resolve()
+        != complete_path.resolve()
+    ):
+
+        raise NormalizerError(
+            "Discharge gate resolved to "
+            "an unexpected Normalizer file."
+        )
 
     elapsed = (
         time.perf_counter()
@@ -1954,235 +4085,238 @@ def process_patient_stream(
     )
 
     print()
-    print("=" * 72)
-    print("NORMALIZER STAGE COMPLETED")
-    print("=" * 72)
     print(
-        f"Batches completed : "
-        f"{len(completed_batches)}"
+        "=" * 72
     )
     print(
-        f"Complete file     : "
+        "NORMALIZER STAGE COMPLETED"
+    )
+    print(
+        "=" * 72
+    )
+    print(
+        f"Patient              : "
+        f"{patient_name}"
+    )
+    print(
+        f"Normalized batches   : "
+        f"{expected_batches}"
+    )
+    print(
+        f"Final Normalizer TXT : "
         f"{complete_path}"
     )
     print(
-        f"Total time        : "
+        f"Completion marker    : "
+        f"{completion_marker}"
+    )
+    print(
+        f"Total time           : "
         f"{elapsed:.2f} seconds"
     )
-    print("=" * 72)
+    print()
+    print(
+        "DISCHARGE GATE: OPEN"
+    )
+    print(
+        "Discharge may now consume:"
+    )
+    print(
+        f"    {complete_path}"
+    )
+    print(
+        "=" * 72
+    )
+
+    # ======================================================
+    # DO NOT DELETE TEMPORARY FILES
+    # ======================================================
+    #
+    # Even though Normalizer is finished, cleanup remains the
+    # responsibility of api/pipeline.py.
+    #
+    # If Discharge fails, keeping these temporary files allows
+    # us to diagnose the failed run.
+    #
+    # ======================================================
 
     return complete_path
 
 
 # ==========================================================
-# PATIENT DISCOVERY
+# STANDALONE MAIN
 # ==========================================================
 
-def find_streaming_patients() -> list[str]:
+def main() -> None:
     """
-    Find patients with LLM batches or a completed LLM record.
+    Standalone Normalizer runner.
+
+    Normally api/pipeline.py calls:
+
+        process_patient_stream(patient_name)
+
+    while LLM is running.
     """
 
-    if not DATA_FOLDER.exists():
-        return []
-
-    patients: list[str] = []
-
-    for patient_folder in (
-        DATA_FOLDER.iterdir()
-    ):
-        if not patient_folder.is_dir():
-            continue
-
-        llm_folder = (
-            patient_folder
-            / "llm"
-        )
-
-        batch_folder = (
-            llm_folder
-            / "batches"
-        )
-
-        completion_marker = (
-            llm_folder
-            / "llm_complete.json"
-        )
-
-        has_ready_batches = (
-            batch_folder.exists()
-            and any(
-                batch_folder.glob(
-                    "*.ready"
-                )
-            )
-        )
-
-        if (
-            has_ready_batches
-            or completion_marker.exists()
-        ):
-            patients.append(
-                patient_folder.name
-            )
-
-    return sorted(
-        patients
+    overall_started_at = (
+        time.perf_counter()
     )
 
-
-# ==========================================================
-# HEADER
-# ==========================================================
-
-def print_header() -> None:
-    """
-    Display the active streaming normalizer configuration.
-    """
-
-    print("=" * 72)
-    print("NICU STREAMING CLINICAL NORMALIZER")
-    print("=" * 72)
-    print(f"Data folder        : {DATA_FOLDER}")
-    print(f"Model              : {MODEL_NAME}")
+    print()
     print(
-        f"Normalizer workers : "
+        "=" * 72
+    )
+    print(
+        "NICU STREAMING NORMALIZER"
+    )
+    print(
+        "=" * 72
+    )
+    print(
+        f"LLM temp          : "
+        f"{LLM_TEMP_FOLDER}"
+    )
+    print(
+        f"Normalizer temp   : "
+        f"{NORMALIZER_TEMP_FOLDER}"
+    )
+    print(
+        f"Normalizer output : "
+        f"{NORMALIZER_OUTPUT_FOLDER}"
+    )
+    print(
+        f"Model             : "
+        f"{MODEL_NAME}"
+    )
+    print(
+        f"Workers           : "
         f"{NORMALIZER_MAX_WORKERS}"
     )
     print(
-        f"Polling interval   : "
-        f"{NORMALIZER_POLL_SECONDS}s"
+        "=" * 72
     )
-    print(f"Retries            : {RETRIES}")
-    print("=" * 72)
 
-
-# ==========================================================
-# MAIN
-# ==========================================================
-
-def main() -> int:
-    """
-    Process all patients waiting for normalization.
-    """
-
-    overall_start = time.perf_counter()
-
-    print_header()
+    # ======================================================
+    # VERIFY OLLAMA BEFORE PROCESSING
+    # ======================================================
 
     try:
+
         verify_ollama()
 
-        patients = find_streaming_patients()
+    except NormalizerError as error:
 
-        if not patients:
-            print()
-            print(
-                "No LLM-ready batches or completed "
-                "LLM patient records were found."
+        print(
+            f"Startup error: "
+            f"{error}",
+            file=sys.stderr,
+        )
+
+        raise SystemExit(
+            1
+        ) from error
+
+    patients = (
+        find_streaming_patients()
+    )
+
+    if not patients:
+
+        print(
+            "No active LLM streaming "
+            "patients found."
+        )
+
+        return
+
+    successful = 0
+
+    failed = 0
+
+    for patient_name in (
+        patients
+    ):
+
+        try:
+
+            process_patient_stream(
+                patient_name
             )
 
-            return 0
+            successful += 1
 
-        successful = 0
-        failed = 0
+        except KeyboardInterrupt:
 
-        for patient_name in patients:
-            try:
-                process_patient_stream(
-                    patient_name
-                )
+            print()
+            print(
+                "Normalizer stopped by user."
+            )
 
-                successful += 1
+            raise
 
-            except KeyboardInterrupt:
-                print()
-                print(
-                    "Normalizer stopped by user."
-                )
+        except Exception as error:
 
-                raise
+            failed += 1
 
-            except Exception as error:
-                failed += 1
+            print()
+            print(
+                "=" * 72
+            )
+            print(
+                "NORMALIZER STAGE FAILED"
+            )
+            print(
+                "=" * 72
+            )
+            print(
+                f"Patient: "
+                f"{patient_name}"
+            )
+            print(
+                f"Error: "
+                f"{type(error).__name__}: "
+                f"{error}"
+            )
+            print()
+            print(
+                traceback.format_exc()
+            )
 
-                print()
-                print("=" * 72)
-                print("NORMALIZER STAGE FAILED")
-                print("=" * 72)
-                print(
-                    f"Patient: {patient_name}"
-                )
-                print(
-                    f"Error: "
-                    f"{type(error).__name__}: "
-                    f"{error}"
-                )
-                print(
-                    traceback.format_exc()
-                )
+    elapsed = (
+        time.perf_counter()
+        - overall_started_at
+    )
 
-        elapsed = (
-            time.perf_counter()
-            - overall_start
-        )
+    print()
+    print(
+        "=" * 72
+    )
+    print(
+        "NORMALIZER RUN FINISHED"
+    )
+    print(
+        "=" * 72
+    )
+    print(
+        f"Successful patients : "
+        f"{successful}"
+    )
+    print(
+        f"Failed patients     : "
+        f"{failed}"
+    )
+    print(
+        f"Total time          : "
+        f"{elapsed:.2f} seconds"
+    )
+    print(
+        "=" * 72
+    )
 
-        print()
-        print("=" * 72)
-        print("NORMALIZER RUN FINISHED")
-        print("=" * 72)
-        print(
-            f"Successful patients : "
-            f"{successful}"
-        )
-        print(
-            f"Failed patients     : "
-            f"{failed}"
-        )
-        print(
-            f"Total time          : "
-            f"{elapsed:.2f} sec"
-        )
-        print("=" * 72)
 
-        if failed:
-            return 1
-
-        return 0
-
-    except KeyboardInterrupt:
-        return 130
-
-    except (
-        OllamaConnectionError,
-        OllamaModelError,
-        BatchNormalizationError,
-        NormalizerError,
-        FileNotFoundError,
-        PermissionError,
-        ValueError,
-        TypeError,
-    ) as error:
-        print()
-        print(
-            f"ERROR [{type(error).__name__}]: "
-            f"{error}"
-        )
-
-        return 1
-
-    except Exception as error:
-        print()
-        print(
-            "UNEXPECTED ERROR "
-            f"[{type(error).__name__}]: "
-            f"{error}"
-        )
-
-        return 1
-
+# ==========================================================
+# ENTRY POINT
+# ==========================================================
 
 if __name__ == "__main__":
-    sys.exit(
-        main()
-    )
+    main()

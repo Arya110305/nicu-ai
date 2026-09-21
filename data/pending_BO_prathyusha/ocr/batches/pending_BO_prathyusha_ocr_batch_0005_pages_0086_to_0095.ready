@@ -1,0 +1,15 @@
+{
+  "patient_name": "pending_BO_prathyusha",
+  "stage": "ocr",
+  "batch_number": 5,
+  "first_page": 86,
+  "final_page": 95,
+  "page_count": 10,
+  "total_pages": 118,
+  "batch_characters": 19673,
+  "min_batch_characters": 15000,
+  "max_batch_characters": 20000,
+  "batch_file": "pending_BO_prathyusha_ocr_batch_0005_pages_0086_to_0095.txt",
+  "status": "ready",
+  "created_at": "2026-08-27T17:18:19"
+}

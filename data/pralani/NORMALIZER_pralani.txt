@@ -1,0 +1,803 @@
+========================================================================
+NORMALIZED CLINICAL SECTION 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0032
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age: 32 weeks
+- Birth Weight: 1.66 kg
+- Delivery Indication: Reuorent apnea
+
+ADMISSION DETAILS
+- Reason for Admission: PT, LBW, RDS
+- Date of Admission (DOA): 31/5/2026
+- Symptoms: Reuorent apnea
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - SpO2: 93%
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026
+- Time of Admission: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.6°C
+  - Heart Rate (HR): 148 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - SpO2: 95%
+
+PHYSICAL EXAMINATION
+- Head and Neck: Normal
+- Cardiovascular: Normal
+- Neurology: Normal
+- Ears, Skin, Abdomen, Eyes, Anus, Musculoskeletal, Chest-Lung: Normal
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026
+- Time of Admission: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 36.6°C
+  - Heart Rate (HR): 148 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - SpO2: 95%
+
+RESPIRATORY SUPPORT
+- CPAP started
+
+MEDICATIONS
+- Azithromycin 0.8 ml od
+- Flunixin meglumine 0.8 ml bd
+
+INVESTIGATIONS
+- CRP
+- RFT (Renal Function Tests)
+- VBG (Venous Blood Gas)
+
+PROCEDURES
+- Nasojejunal tube placed Q4h
+- Nebulization with Nacl 0.8 h
+- T/F 20 - 22 ml q2h
+
+CONSULTATIONS
+- Dr. Srinivas Murki
+
+DAILY CLINICAL PROGRESS
+- Heart Rate: 146 bpm
+- Respiratory Rate: 26 breaths/min
+- Blood Pressure: 98/1 mm Hg
+- Temperature: 37.5°C
+- SpO2: 98.1% on FiO2
+
+DAILY CLINICAL PROGRESS
+- Heart Rate: 158 bpm
+- Respiratory Rate: 96 breaths/min
+- Blood Pressure: Not explicitly stated
+- Temperature: Not explicitly stated
+- SpO2: 96%
+
+DAILY CLINICAL PROGRESS
+- Heart Rate: 158 bpm
+- Respiratory Rate: 96 breaths/min
+- Blood Pressure: Not explicitly stated
+- Temperature: Not explicitly stated
+- SpO2: 96%
+
+DAILY CLINICAL PROGRESS
+- Heart Rate: 129 bpm
+- Respiratory Rate: 26 breaths/min
+- Blood Pressure: Not explicitly stated
+- Temperature: Not explicitly stated
+- SpO2: 96%
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0002
+SOURCE PAGES: PAGE_0033 TO PAGE_0056
+========================================================================
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP number: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+MATERNAL / ANTENATAL HISTORY:
+- Not documented.
+
+BIRTH DETAILS:
+- Gestational age: 32 weeks
+- Birth weight: 1.66 kg
+- Mode of delivery: PPROM (Premature rupture of membranes)
+- Delivery indication: PPROM (Premature rupture of membranes)
+- Cry at birth: Not documented.
+- Resuscitation: Not documented.
+- APGAR score: Not documented.
+
+ADMISSION:
+- Reason for admission: Neonatal respiratory distress
+- Admission date: 15-06-2026
+
+NICU COURSE:
+- Diagnoses: RDS, Suspected sepsis
+- Symptoms: Apnea, Jaundice
+- Respiratory support: CPAP (6/25%), NIV (14/30%)
+- Oxygen requirement: SPO2 90-98%
+- Neurological findings: Suspected sepsis, Early jaundice
+
+MEDICATIONS:
+- Amikacin
+- Dopamine
+- Caffeine
+- Azithromycin
+
+INVESTIGATIONS:
+- CRP: 0.2 mg/L
+- TLC: 17,500
+- CFT: <3 UEC
+- Blood gas analysis: pH = 7.24, PaCO2 = 27.8 mmHg, PaO2 = 69.3 mmHg
+
+PROCEDURES:
+- CPAP (6/25%)
+- NIV (14/30%)
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION:
+- Latest clinical status: Suspected sepsis, RDS
+- Feeding: 10% dextrose @ ml/kg/d
+- Advice: Continue CPAP, monitor for apnea
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0003
+SOURCE PAGES: PAGE_0057 TO PAGE_0088
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Date of Birth: Not explicitly stated
+
+ADMISSION DETAILS
+- Admission Date: 31/05/2026, 10:11 AM
+- Reason for Admission: Not explicitly stated
+
+DIAGNOSES / CLINICAL PROBLEMS
+- Suspected Sepsis
+- Respiratory Distress Syndrome (RDS)
+- Prematurity
+
+BIRTH DETAILS
+- APGAR Score: 86
+- Gestational Age: Not explicitly stated
+- Birth Weight: Not explicitly stated
+
+ADMISSION
+- Day of Life: 1
+- Symptoms: Not explicitly stated
+- Outside-Hospital Treatment: Not explicitly stated
+- Admission Findings: Respiratory distress
+
+CLINICAL EXAMINATION
+- Heart Rate: 156 bpm (31/05/2026)
+- Oxygen Saturation: 94% (31/05/2026)
+- Blood Pressure: Not explicitly stated
+- Respiratory Status: Good (31/05/2026)
+
+RESPIRATORY COURSE
+- CPAP used
+
+NEUROLOGICAL STATUS
+- No neurological findings mentioned
+
+hypoglycemia / GLUCOSE
+- Glucose (GRBS): 86 mg/dL (31/05/2026 & 01/06/2026)
+
+FEEDING / NUTRITION
+- Feeding well
+- Stool passed
+
+FLUIDS
+- IV fluids administered as per orders
+
+MEDICATIONS
+- Amikacin: Given daily for suspected sepsis (start date not specified)
+- Caffeine: Used to manage apnea (start date not specified)
+
+INVESTIGATIONS
+- CRP: 4.6 mg/L (01/06/2026)
+- White Blood Cell Count (WBC): 8000
+- Platelets: 343,000
+
+PROCEDURES
+- CPAP setup and management
+
+CONSULTATIONS
+- Dr. Srinivas Murki consulted
+
+DAILY CLINICAL PROGRESS
+- 31/05/2026: Admitted with suspected sepsis, RDS, and prematurity. Started on CPAP.
+- 01/06/2026: Continued CPAP, good respiratory status.
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0004
+SOURCE PAGES: PAGE_0089 TO PAGE_0114
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+- Admission Date: 15-06-2026
+
+ADMISSION DETAILS
+- Reason for admission: Repeated admission for respiratory issues
+
+DIAGNOSES / CLINICAL PROBLEMS
+- Repeated admission for respiratory issues
+
+CLINICAL EXAMINATION
+- Stable vital signs
+
+MEDICATIONS
+- INJ TAXIN 80 mg IV twice daily
+- INJ CALCIUM GLUCONATE 3 ml + 3 ml IV twice daily, stopped daily
+- INJ PARACETAMOL 1.7 ml IV once daily
+- INJ PIPETA 170 mg IV twice daily
+- IV Caffeine 0.4 ml daily
+- Oral Caeffine
+- Vit D3 drops
+
+CONSULTATIONS
+- Dr. Srinivas Murki, Consultant Neonatologist
+
+DAILY CLINICAL PROGRESS
+- Desaturation episodes present
+- Stable vital signs
+- Accepting feeds well
+
+DISCHARGE-RELATED INFORMATION
+- Final condition: stable
+- Feeding: well
+- Discharge medications: Caffeine, Vit D3 drops
+
+NURSING CARE PLAN
+- Monitor vital signs continuously
+- Provide naso clear drops and oral caffeine as needed
+- Administer vitamin D3 drops
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0005
+SOURCE PAGES: PAGE_0115 TO PAGE_0164
+========================================================================
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Date of Birth: 31/05/2026
+
+ADMISSION DETAILS:
+- Admission Date: 15/06/2026, 12:19 PM
+- Reason for admission: Respiratory distress, apnea
+
+DIAGNOSES / CLINICAL PROBLEMS:
+- Diagnoses: Respiratory distress, apnea
+- RDS (Respiratory Distress Syndrome)
+
+CLINICAL EXAMINATION:
+- Weight: 1.76 kg (27/06/2026)
+
+RESPIRATORY COURSE:
+- Initially on Nimby ventilator with radiant warm care, IVF.
+- Transitioned to CPAP.
+- Intermittent hypoxemia noted.
+- Episodes of desaturation with cyanosis and bradycardia.
+- Recent improvement with picky pickup.
+
+NEUROLOGICAL COURSE:
+- One episode of apnea.
+- Loading dose of caffeine granules administered.
+
+hypoglycemia / GLUCOSE COURSE:
+- TF (Total Fluid) 10-12 mg/kg every 2 hours.
+- Oral caffeine administered.
+
+FEEDING / NUTRITION:
+- Feeding given every 2 hours (10-12 ml).
+- Acyplig feed on demand and SpF (specify).
+- Spoonfed + fell HMF + 1 ml.
+- 3.1 NaCl alternate feeds.
+- Oral caffeine.
+
+FLUIDS:
+- IVFopropofol administered.
+
+MEDICATIONS:
+- Caffeine (8 mg/kg/day)
+- Piperacillin-tazobactam
+- Amikacin (last day)
+- Oral calcium
+- Pro-aq drops
+- Inj. Cepa
+- Roccoed (2 ml second dose by mouth)
+- Syp. Calcuax-p
+- Pro-acdrops-0.2 ml
+
+INVESTIGATIONS:
+- CBP (Complete Blood Picture) ordered (26/06/2026)
+- CRP (C-Reactive Protein) ordered (26/06/2026)
+- H·Calcium ordered (26/06/2026)
+- Sr·Sodium ordered (26/06/2026)
+- X-ray (GRBs) performed (4:00 PM on 03/06/2026)
+
+PROCEDURES:
+- IV cannulation
+- UVC (Umbilical Vein Catheter)
+- UAC (Umbilical Artery Catheter)
+- Foley catheter
+
+CONSULTATIONS:
+- Dr. Srinivas Murki (Admitting Doctor)
+- Dr. S. Moaki
+- Dr. S. Sreeram, M.D., DM (Neonatology)
+
+DAILY CLINICAL PROGRESS:
+- 02/06/2026: Handover from night duty staff at 8:30 AM. Baby on Nimby ventilator under radiant warm care. IVF on flow. Temp: 98.6°F, HR: 138 bpm, RR: 60 breaths/min, SpO2: 97%. Stool passed, perianal care given.
+- 26/06/2026: Apnea episodes, no respiratory distress. Plan to continue acyplig feed on demand and SpF.
+- 21/06/2026: One episode of apnea, started loading dose of caffeine granules.
+- 20/06/2026: Dr. Kattibik advised lab tests (CBP, CRP, H·Calcium, Sr·Sodium).
+- 31/06/2026: Handover from night duty staff at 8:00 PM. Baby on CPAP mode.
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0006
+SOURCE PAGES: PAGE_0165 TO PAGE_0200
+========================================================================
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 0 D (Days)
+
+MEDICATIONS:
+- Syrup: 0.4 ml oral once daily, started 26/6/2026, continued on 27/6/2026.
+
+LABORATORY INVESTIGATIONS:
+- Hematologic Tests (PAGE_183):
+  - Hb%: 16.0, 17.0
+  - PCV/HCT: 47.4, 52.5
+  - WBC: 10300, 8000
+  - RBC: 5.0
+  - Platelet count: 345000, 343000
+- CRP: 4.3 (PAGE_183)
+- Electrolytes (PAGE_183):
+  - Na+: 139, 136
+  - K+: 5.0
+  - Cl+: 105
+  - Ca2+: 9.3
+  - PO4: 4.94
+- Renal Function Tests (PAGE_183):
+  - Urea: 13.9
+  - BUN: 6.4
+  - Creatinine: 0.1
+  - GFR: 3.4
+- Liver Function Tests (PAGE_183):
+  - Total Bilirubin: 3.2, 5.8
+  - Direct Bilirubin: 0.3, 1.0
+  - Indirect Bilirubin: 2.9, 5.8
+  - AST: 55-60
+  - ALT: 4.6
+  - ALP: 327.8
+  - GGT: 6.33
+
+PERIPHERAL CANNULATION:
+- Cannula 1: Inserted by Sr. Sudha on 31/5/2026 at 9:30 am. VIP score 0 at 10:00 am. Removed by Sr. Sudha on 31/5/2026 at 8:00 pm.
+
+EDUCATION PROVIDED TO PATIENT/FAMILY:
+- Extubation plan (PAGE_185)
+- Increase in tube feeds (PAGE_185)
+- Change to NIV support (PAGE_185)
+- CPAP settings and adjustments (PAGE_187)
+- Feeding schedule (PAGE_187)
+- Monitoring of respiratory status (PAGE_187)
+- Multiple desaturations (PAGE_189)
+- Sepsis screen negative (PAGE_189)
+- RDS suggestive on repeat X-ray (PAGE_189)
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0007
+SOURCE PAGES: PAGE_0201 TO PAGE_0249
+========================================================================
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 15 days (as of June 15, 2026)
+
+MATERNAL / ANTENATAL HISTORY:
+- No information available in this batch.
+
+BIRTH DETAILS:
+- Gestational Age: Approximately 37 weeks (inferred from admission date)
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS:
+- Reason for Admission: PT - RD - ROS (Premature, Respiratory Distress, Right Occiput Posterior)
+- Date of Admission (DOA): May 31, 2026
+- Symptoms: Not explicitly stated.
+
+DIAGNOSES / CLINICAL PROBLEMS:
+- Diagnosis: PT - RD - ROS
+
+CLINICAL EXAMINATION:
+- No specific examination findings documented.
+
+RESPIRATORY COURSE:
+- Respiratory support: CPAP with flow 102-25, FiO2 20% (June 15, 2026)
+- Cautious Apnea (CUAP) advised by Dr. Lowanyrman.
+
+hypoglycemia / GLUCOSE COURSE:
+- No hypoglycemia or glucose-related issues mentioned.
+
+FEEDING / NUTRITION:
+- Oral feeding provided (Nursing Care Plan)
+
+FLUIDS:
+- TPN given at 4 pm (June 15, 2026)
+
+MEDICATIONS:
+- Gaffine given (June 15, 2026)
+- Syrup and Fluvir. Azee given (June 15, 2026)
+- Nasoclear drops given hourly.
+- Crocin drops 0.5 ml given at 3 am (June 16, 2026)
+
+INVESTIGATIONS:
+- Hemoglobin/Pathology (Requested)
+- AFB For Culture & Sensitivity (Requested)
+- Complete Blood Picture (CBP) (Requested)
+- CSF Lactate (Requested)
+- PCV (Requested)
+- CSF Pyruvate (Requested)
+- HIV I & II (Rapid) (Requested)
+- Platelet Count (Requested)
+- HIVI & II (ELISA) (Requested)
+- HbsAg (Requested)
+- AEC Absolute Eosinophil Count (Requested)
+- Peripheral Smear (Requested)
+- Hepatitis - A (IgM) (Requested)
+- Smear for MP (Requested)
+- Leptospira IgM (Requested)
+- Parasite V & F (Requested)
+- QBC (Requested)
+- HCV (Requested)
+- ESR (Erythrocyte Sedimentation Rate) (Requested)
+- Dengue IgG (Requested)
+- Blood Group & Rh Type (Requested)
+- Direct Coombs Test (Requested)
+- Dengue IgM (Requested)
+- Indirect Coombs Test (Requested)
+- Dengue Ns1 Antigen (Requested)
+- Bleeding Time (Requested)
+- TB PCR (Requested)
+- Clotting Time (Requested)
+- HSV-PCR (Requested)
+- Complete Urine Examination (CUE) (Requested)
+- Mantoux Test (Requested)
+- RA Factor (Requested)
+- Stool Routine Examination (Requested)
+- Rotavirus Antigen Defection (Requested)
+- CSF Cell Type & Count (Requested)
+- ASO (Requested)
+- Factor Assay (Requested)
+- Widal Test (Requested)
+- Anemia Profile (Requested)
+- TORCH Profile (Requested)
+- Triple Marker: CBP, CRP (Requested)
+- Urine Pregnancy Test (UPT) (Requested)
+- Sr. Calcium (Requested)
+- Gram Stain (Requested)
+- C-Reactive Protein (CRP): 0.07 mg/L (May 31, 2026, 10:30 AM)
+- TSH: 6.33 uIU/ml (June 1, 2026)
+- Creatinine - Serum: 0.41 mg/dL (June 1, 2026)
+- Blood Urea: 13.9 L (June 1, 2026)
+- Blood Urea Nitrogen (BUN): 6.4 mg/dL (June 1, 2026)
+- Uric Acid: 3.7 mg/dL (June 1, 2026)
+- Haemoglobin (HB): 16.0 g/dL (June 1, 2026)
+- Packed Cell Volume (PCV): 47.4% (June 1, 2026)
+- MCV: 104.3 fL (June 1, 2026)
+- MCH: 35.1 pg (June 1, 2026)
+- MCHC: 33.7 gm/dl (June 1, 2026)
+- RBC Count: 4.55 x 10^6/uL (June 1, 2026)
+- WBC Count: 10,300 cells/cumm (June 1, 2026)
+- Platelet Count: 345,000 /mm3 (June 1, 2026)
+- Blood Group: O
+- Rh Typing: Positive
+- Total Bilirubin: 6.4 mg/dL (June 2, 2026)
+- Direct Bilirubin: 1.0 H mg/dL (June 2, 2026)
+- Indirect Bilirubin: 5.40 mg/dL (June 2, 2026)
+- CRP: 4.30 mg/L (June 3, 2026)
+- Ionic Calcium: 4.94 mg/dL (June 3, 2026)
+- Sodium Serum: 143 mmol/L (June 3, 2026)
+
+PROCEDURES:
+- UVC Insertion by Dr. Tejasree (May 31, 2026)
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+- Dr. B Roshini Sumalini (Pathology)
+
+DAILY CLINICAL PROGRESS:
+- May 31, 2026: CLABSI Bundle Check performed.
+- June 1, 2026: CLABSI Bundle Check performed.
+- June 2, 2026: CLABSI Bundle Check performed.
+- June 15, 2026: Baby received from OP ward at 1:30 pm. Handed over to Srawan at 3:48 pm. Apneas noted.
+- June 15, 2026: Syrup and Fluvir. Azee given at 4 pm.
+- June 15, 2026: Nasoclear drops given hourly.
+- June 16, 2026: Crocin drops 0.5 ml given at 3 am.
+- June 16, 2026: Goy massage done. Weight checked and recorded. Suction performed. Gastric residuals checked and recorded. No vomiting, no apnea.
+- June 16, 2026: Treatment given as per doctor's orders.
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0008
+SOURCE PAGES: PAGE_0250 TO PAGE_0272
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP number: LB26/2772
+- Sex: Male
+- Age: 15 D9M
+- Admission Date: 15-06-2026
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION DETAILS
+- Reason for Admission: Not documented
+- Symptoms: Not documented
+- seizure History: Not documented
+- Feeding History: Not documented
+- Outside-Hospital Treatment: Not documented
+- Admission Glucose: Not documented
+- Examination Findings: Not documented
+
+NICU COURSE
+- Respiratory Support: C-pap (FiO2 25%)
+- UVC (Umbilical Venous Catheter) placed
+
+MEDICATIONS
+- Amikacin given
+- Caffiene, Fluvir, Azee given as per doctor's orders
+
+DAILY CLINICAL PROGRESS
+- 16/06: C-pap with FiO2 25%. Vitals: HR 148, SpO2 97%, Temp 36.7°C. Amikacin given.
+- 17/06: C-pap continued. Syp: Azee, Fluvir given. Inj: Amikacin given.
+- 18/06: C-pap with FiO2 25%. Vitals: HR 148, SpO2 97%, Temp 36.7°C. Amikacin given.
+- 20/06: C-pap with FiO2 25%. Vitals: HR 148, SpO2 97%, Temp 36.7°C. Amikacin given.
+- 21/06: C-pap with FiO2 25%. Vitals: HR 148, SpO2 97%, Temp 36.7°C. Amikacin given.
+- 22/06: C-pap with FiO2 25%. Vitals: HR 148, SpO2 97%, Temp 36.7°C. Amikacin given.
+- 23/06: C-pap with FiO2 25%. Vitals: HR 148, SpO2 97%, Temp 36.7°C. Amikacin given.
+
+CONSULTATIONS
+- Dr. Srinivas Murki
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0009
+SOURCE PAGES: PAGE_0273 TO PAGE_0325
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+MATERNAL / ANTENATAL HISTORY
+- Consult: Dr. Srinivas Murki
+
+BIRTH DETAILS
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION
+- Reason for Admission: Not documented
+- Admission Date: 15-06-2026, 12:19 PM
+
+NICU COURSE
+- Apnea episodes noted.
+- Respiratory support: Room air.
+- Feeding progression: Feeds given every hour with 3% Ns in each feed; Oral Caffeine 7 mg given at 8 am.
+- Temperature: Fluctuating temperatures documented (e.g., 42.0, 41.5, 36.5°C).
+- Oxygen requirement: SpO2 values recorded throughout the day.
+
+MEDICATIONS
+- Oral Caffeine 7 mg given at 8 am on 15-06-2026.
+
+PROCEDURES
+- IV cannulation
+- CPAP (informed consent obtained)
+
+CONSULTATIONS
+- Dr. Srinivas Murki
+
+DAILY CLINICAL PROGRESS
+- 15-06-2026: Baby under warm care. Vitals checked and recorded. 2 hourly feeding given.
+- 15-06-2026: Morning rounds done to baby. No apnea episodes.
+- 15-06-2026: Afternoon handover taken from sister at 2 pm.
+- 15-06-2026: Night duty report taken from evening staff at 8 pm.
+- 16-06-2026: Morning handover taken from night staff at 8 am. Vitals checked and recorded. Oral Caffeine 7 mg given at 8 am.
+- 16-06-2026: Afternoon handover taken from morning staff at 2 pm.
+- 16-06-2026: Night duty report taken from evening staff at 8 pm.
+- 17-06-2026: Morning rounds done to baby.
+- 17-06-2026: Night duty report taken from evening staff at 8 pm.
+- 18-06-2026: TlF continued, Neapmo advised. Feeds given: 25 ml every hour with tube feeds.
+- 18-06-2026: Education provided regarding Vival infection, support, CPAP, tube feeds, blood tests, and nasal blockage. Apnea episodes reduced. Plan to continue CPAP and tube feeds.
+- 21-06-2026: Education provided regarding CPAP support and tube feeds. Apnea episodes reduced. Plan to continue CPAP and tube feeds.
+- 22-06-2026: Education provided regarding CPAP support and tube feeds. Apnea episodes reduced. Plan to continue CPAP and tube feeds.
+- 23-06-2026: Education provided regarding CPAP support and tube feeds. Apnea episodes reduced. Plan to continue CPAP and tube feeds.
+- 24-06-2026: Education provided regarding CPAP support and tube feeds. Apnea episodes reduced. Plan to continue CPAP and tube feeds.
+- 25-06-2026: Education provided regarding CPAP support and tube feeds. Apnea episodes reduced. Plan to continue CPAP and tube feeds.
+- 26-06-2026: Education provided regarding CPAP support and tube feeds. Apnea episodes reduced. Plan to continue CPAP and tube feeds.
+- 29-06-2026: Education provided regarding CPAP support and tube feeds. Apnea episodes reduced. Plan to continue CPAP and tube feeds.
+- 24-06-2026: Education provided regarding CPAP support and tube feeds. Apnea episodes reduced. Plan to continue CPAP and tube feeds.
+- 26-06-2026: Education provided regarding CPAP support and tube feeds. Apnea episodes reduced. Plan to continue CPAP and tube feeds.
+
+INVESTIGATIONS
+- Vitals monitoring documented daily.
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0010
+SOURCE PAGES: PAGE_0326 TO PAGE_0359
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+LABORATORY REQUESTS (PAGE_326-327)
+- Hemoglobin
+- AFB for Culture & Sensitivity
+- Complete Blood Picture (CBP)
+- CSF Lactate
+- PCV
+- CSF Pyruvate
+- HIV I & II (Rapid)
+- Platelet Count
+- HIV I & II (ELISA)
+- HbsAg
+- AEC Absolute Eosinophil Count
+- Peripheral Smear
+- Hepatitis - A (IgM)
+- Smear for MP
+- Leptospira IgM
+- Parasite V & F
+- Weil Felix
+- QBC
+- HCV
+- ESR (Erythrocyte Sedimentation Rate)
+- Dengue IgG
+- Blood Group & Rh Type
+- Direct Coombs Test
+- Dengue IgM
+- Indirect Coombs Test
+- Dengue Ns1 Antigen
+- Bleeding Time
+- TB PCR
+- Clotting Time
+- HSV-PCR
+- Complete Urine Examination (CUE)
+- Mantoux Test
+- RA Factor
+- Stool Routine Examination
+- Rotavirus Antigen Defection
+- CSF Cell Type & Count
+- ASO
+- Factor Assay
+- Widal Test
+- Anemia Profile
+- TORCH Profile
+
+ADMISSION DETAILS (PAGE_353)
+- Admitting Doctor: Dr. Srinivas Murki
+- Admission Date: 15-06-2026 12:19 PM
+- Alert and age-appropriate
+- Stable vitals
+- No respiratory distress
+- No cardiovascular issues
+- Normal feeding status
+
+LAB INVESTIGATIONS (PAGE_343)
+- GRBS Monitoring: Date 15/06/2026, Time 6am.
+
+ACUITY SCORES (PAGES_344-350)
+- Acuity Score Dates: 15-06-2026, DOA Dr. Srinivas Murki, Diagnoses Bhavai, Manishp, Arpit, Gauyathi.
+
+BIOCHEMISTRY (PAGES_342-346)
+- C-Reactive Protein (CRP): 0.2 mg/L
+- Ionic Calcium: 5.26 mg/dL
+- Creatinine: 0.5 mg/dL
+- Blood Urea: 22 mg/dL
+- Blood Urea Nitrogen (BUN): 10.3 mg/dL
+- Uric Acid: 6.5 mg/dL
+- Calcium Serum: 11.0 mg/dL
+- Sodium Serum: 134 mmol/L
+- Potassium Serum: 5.9 mmol/L
+- Chloride Serum: 102 mmol/L
+
+HEMATOLOGY (PAGE_357)
+- Hemoglobin (HB): 13.7 g/dL
+- Packed Cell Volume (PCV): 43.7%
+- Mean Corpuscular Volume (MCV): 100.2 fL
+- Mean Corpuscular Hemoglobin (MCH): 31.4 pg
+- Mean Corpuscular Hemoglobin Concentration (MCHC): 31.4 g/dL
+- Red Blood Cell Count (RBC): 4.36 x 10^6/uL
+- White Blood Cell Count (WBC): 17,500 cells/cumm
+- Platelet Count: 641,000/mm³
+
+MICROBIOLOGY (PAGE_358)
+- Culture and Sensitivity - Blood: No bacterial growth seen after 24 hours of aerobic incubation.
+
+CLINICAL PATHOLOGY (Urinalysis) (PAGE_359)
+- Quantity: 10 ml
+- Colour: Pale Yellow
+- Appearance: Clear
+- Specific Gravity: 1.005
+- pH: 6.0
+- Glucose: Nil
+- Protein: Nil
+- Bilirubin: Negative
+- Ketone: Nil
+- Blood: Absent
+- Leucocytes: Nil
+- Pus Cells: 3-4/hpf
+- Epithelial Cells: 1-2/hpf
+- RBC's: Nil

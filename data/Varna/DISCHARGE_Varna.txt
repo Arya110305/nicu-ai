@@ -1,0 +1,209 @@
+NICU DISCHARGE SUMMARY
+======================
+
+**PATIENT AND BIRTH DETAILS**
+
+Patient Name: B/O. VAGDEVI
+Baby Of / B/O Name: Varna
+UHID: 162608635
+IP Number: LB26/3007
+MR Number: Not documented
+Hospital Number: Not documented
+Sex: Male
+Age: 4 D9M (Days 9 Months)
+Admission Date: 27/06/2026 09:03 PM
+Discharge Date: Not documented
+Discharge Time: Not documented
+Inborn / Outborn status: Inborn
+Referring Hospital: Not documented
+Referring Doctor: Not documented
+
+Gestational Age: 36 weeks or more
+Completed weeks: 36
+Additional days: Not documented
+Term / Preterm / Late Preterm status: Preterm
+SGA: Yes (Small for Gestational Age)
+AGA: Not documented
+LGA: Not documented
+IUGR: Not documented
+Birth Weight: 2.8 kg
+Admission Weight: 2.8 kg
+Discharge Weight: Not documented
+Current Weight: Not documented
+Length: Not documented
+Head Circumference: Not documented
+Blood Group: B, Rh Positive
+
+Place of Birth: Ankura Hospital for Women and Children
+Hospital of Birth: Ankura Hospital for Women and Children
+Mode of Delivery: Forceps
+Vaginal Delivery: Not documented
+LSCS: Not documented
+Emergency LSCS: Not documented
+Elective LSCS: Not documented
+Assisted Delivery: Yes (Forceps)
+Delivery Indication: Preeclampsia in labor
+Presentation: Not documented
+Singleton / Multiple Birth: Singleton
+Cry at Birth: Yes
+Delayed Cry: Not documented
+Resuscitation: Yes
+Bag-and-mask ventilation: Yes
+Intubation: Not documented
+Chest compressions: Not documented
+Oxygen at birth: Yes
+APGAR at 1 minute: Not documented
+APGAR at 5 minutes: Not documented
+APGAR at other documented times: Not documented
+Cord information: Not documented
+Meconium: Not documented
+Immediate postnatal condition: Not documented
+
+Birth / Immediate Postnatal History:
+The patient was born at Ankura Hospital for Women and Children via forceps delivery due to preeclampsia in labor. He cried immediately after birth and required bag-and-mask ventilation. He was a preterm infant, gestational age 36 weeks or more, weighing 2.8 kg. He was noted to be small for gestational age (SGA). He was initially breastfed and top-fed.
+
+**ANTENATAL AND PERINATAL HISTORY**
+
+The patient is the second child (G2P1L) of a mother with a history of preeclampsia in labor. Antenatal visits were attended. There is no documented consanguinity. Maternal blood group and Rh status are not documented. The pregnancy was complicated by preeclampsia in labor, leading to delivery via forceps. There is no mention of antenatal steroids or magnesium sulfate administration.
+
+**HISTORY OF PRESENT ILLNESS / REASON FOR ADMISSION**
+
+The patient was born at 36 weeks gestational age, weighing 2.8 kg. Following birth, the patient experienced multiple episodes of seizures, associated with hypoglycemia. Initial blood glucose reading was 36 mg/dL. The patient was admitted for symptomatic hypoglycemia and neonatal seizures. Outside hospital, a 10% dextrose bolus and Levetiracetam loading were administered.
+
+**OUTSIDE-HOSPITAL MANAGEMENT**
+
+Prior to admission, the patient received a 10% dextrose bolus and Levetiracetam loading at Ankura Hospital for Women and Children.
+
+**ADMISSION EXAMINATION**
+
+On admission (27/06/2026 09:03 PM), the patient was noted to have respiratory distress requiring minimal oxygen support. Vital signs included a temperature of 36.5°C, heart rate of 130 bpm, and SpO2 of 98%. Neurologically, the patient exhibited hypotonia and multiple seizure episodes.
+
+**DIAGNOSES / CLINICAL PROBLEMS**
+
+The patient was diagnosed with symptomatic hypoglycemia, neonatal seizures, prematurity, and small for gestational age (SGA). Acute lymphocytic sepsis was initially suspected.
+
+**MORBIDITIES AND COURSE DURING NICU STAY**
+
+**SYMPTOMATIC HYPOGLYCAEMIA AND NEONATAL SEIZURES**
+
+On 30/06/2026, the baby, born at 36 weeks gestation, presented with symptomatic hypoglycaemia and neonatal seizures. The baby was delivered via forceps delivery following preeclampsia in labor. Initial random blood glucose was documented as 32 mg/dL at the referring hospital, where a 10% dextrose bolus and Levetiracetam loading were administered prior to transfer. On arrival, the baby exhibited multiple seizure episodes overnight. A GRBS of 36 mg/dL was documented at 28/06/2026, 9:20 PM. Subsequent GRBS values were 65 mg/dL (28/06/2026, 11:00 PM), 72 mg/dL (29/06/2026, 7:00 AM), and 83 mg/dL (29/06/2026, 10:00 AM). Levetiracetam was administered as a loading dose. Phenobarbitone was initiated as a maintenance dose of 60 mg. The baby’s weight was 2.3 kg. MRI brain was performed and revealed hypotonia. Neurologist opinion was sought from Dr. Teerthi Kandhana. Seizures were noted on 28/06/2026. By 1/7/26, no further seizures were documented.
+
+**RESPIRATORY COURSE**
+
+The baby required minimal oxygen support and was maintained on room air.
+
+**FEEDING / NUTRITION COURSE**
+
+Feeding was initially restricted (NPO). Expressed breast milk was administered.
+
+**SYMPTOMATIC INFECTION**
+
+On 20/6/26, 3:30 PM, acute lymphocytic sepsis was suspected. Cefotaxime was administered. Blood culture was performed, and showed no bacterial growth after 24 hours of aerobic incubation.
+
+**INVESTIGATIONS**
+
+**Complete Blood Picture (CBC)**
+
+*   29/06/2026: Hemoglobin 15.6 g/dL, PCV/HCT 49.8%, Platelet Count 183,000 /mm3
+
+**Inflammatory Markers**
+
+*   CRP: 2.4 mg/L
+
+**Renal Function**
+
+*   Creatinine: 0.4 mg/dL
+*   Urea: 20 mg/dL
+*   GFR calculated (value not documented)
+
+**Electrolytes**
+
+*   Sodium: 142 mmol/L
+*   Potassium: 5.1 mmol/L
+*   Chloride: 107 mmol/L
+*   Calcium: 8.6 mg/dL
+*   Ionic Calcium: 5.08 mg/dL
+
+**Liver Function**
+
+*   Total Bilirubin: 15.5 mg/dL
+*   Direct Bilirubin: 1.8 mg/dL
+*   Indirect Bilirubin: 13.70 mg/dL
+*   AST: 35 U/L
+*   ALT: 10 U/L
+*   ALP: 214 U/L
+*   Total Protein: 5.2 g/dL
+*   Albumin: 3.4 g/dL
+*   Globulin: 1.8 g/dL
+*   A/G Ratio: 1.9
+
+**Blood Glucose**
+
+*   28/06/2026, 9:20 PM: 36 mg/dL
+*   28/06/2026, 11:00 PM: 65 mg/dL
+*   29/06/2026, 7:00 AM: 72 mg/dL
+*   29/06/2026, 10:00 AM: 83 mg/dL
+*   RBS: 35 mg/dL
+
+**Metabolic Investigations**
+
+*   Ammonia: 86.0 umol/L
+
+**Microbiology**
+
+*   Blood Culture: No bacterial growth seen after 24 hours of aerobic incubation
+
+**Urine Examination**
+
+*   Turbid, Protein +, Bilirubin +, Pus Cells 6-8 /hpf, Epithelial Cells 10 - 12 /hpf
+
+**Imaging**
+
+*   MRI Brain: Performed. No evidence of infection, hypotonia observed.
+
+**EEG / Neurodiagnostics**
+
+*   EEG: Date not documented. Findings not documented.
+
+**PROCEDURES AND INTERVENTIONS**
+
+*   IV cannulation: Performed
+*   UVC insertion: Performed
+*   UAC insertion: Performed
+*   PICC insertion: Performed
+*   Foley catheter insertion: Performed
+*   Ventilation: Required, details not documented.
+*   Respiratory support: Minimal oxygen
+
+**TREATMENTS GIVEN**
+
+*   Levetiracetam: Loading dose given, stopped 27/06/2026 at 7:30 PM.
+*   Phenobarbitone: Maintenance dose of 60 mg given, continued.
+*   Optineuron: Given
+*   Cefotaxime: Administered
+*   IV fluids: Various volumes administered and excreted. Details not documented.
+*   Dextrose: Given for hypoglycemia. Details not documented.
+*   GIR: Details not documented.
+*   Calcium supplementation: Given. Details not documented.
+*   Breastfeeding: Initiated and ongoing.
+*   Top-feeding: Initiated and ongoing.
+
+**CONDITION AT DISCHARGE**
+
+The baby is currently stable, requiring room air. He was born at 36 weeks and 9 months gestation, weighing 2.8 kg. His initial presentation was complicated by preeclampsia in the mother and subsequent neonatal seizures and hypoglycemia. He has had multiple seizure episodes, which have now ceased. An MRI of the brain was performed and showed no evidence of infection, but did note hypotonia. His current neurological examination reveals improved tone. He is tolerating expressed breast milk and top feeds. His weight is currently 2.3 kg.
+
+**DISCHARGE MEDICATIONS**
+
+Phenobarbitone syrup: 60 mg, oral, once daily, to continue.
+
+**DISCHARGE ADVICE**
+
+Continue expressed breast milk and top feeds as tolerated. Monitor temperature and watch for signs of infection.
+
+**FOLLOW-UP**
+
+Follow-up with neonatology clinic to be arranged.
+
+**PENDING REPORTS / INVESTIGATIONS**
+
+Blood culture pending.

@@ -1,0 +1,15 @@
+{
+  "patient_name": "pending_BO_VAGDEVI",
+  "stage": "ocr",
+  "batch_number": 2,
+  "first_page": 23,
+  "final_page": 50,
+  "page_count": 28,
+  "total_pages": 106,
+  "batch_characters": 19855,
+  "min_batch_characters": 15000,
+  "max_batch_characters": 20000,
+  "batch_file": "pending_BO_VAGDEVI_ocr_batch_0002_pages_0023_to_0050.txt",
+  "status": "ready",
+  "created_at": "2026-08-27T16:33:39"
+}

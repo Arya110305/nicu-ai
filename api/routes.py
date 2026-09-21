@@ -253,3 +253,79 @@ def get_current_summary_text() -> dict[str, str]:
         "filename": summary_path.name,
         "summary": summary_text,
     }
+
+# =============================================================================
+# PATIENT SAVED DISCHARGE SUMMARY
+# =============================================================================
+
+@router.get("/patients/{patient_id}/summary/text")
+def get_patient_summary_text(
+    patient_id: int,
+) -> dict[str, str]:
+    """
+    Return the saved discharge summary for one historical patient record.
+    """
+
+    patient = database.get_patient(
+        patient_id
+    )
+
+    if patient is None:
+
+        raise HTTPException(
+            status_code=404,
+            detail="Patient record not found.",
+        )
+
+
+    patient_data = dict(
+        patient
+    )
+
+
+    discharge_path_value = str(
+        patient_data.get(
+            "discharge_path",
+            "",
+        )
+        or ""
+    ).strip()
+
+
+    if not discharge_path_value:
+
+        raise HTTPException(
+            status_code=404,
+            detail=(
+                "This patient record does not have "
+                "a completed discharge summary."
+            ),
+        )
+
+
+    discharge_path = Path(
+        discharge_path_value
+    )
+
+
+    if not discharge_path.exists():
+
+        raise HTTPException(
+            status_code=404,
+            detail=(
+                "The saved discharge summary file "
+                "could not be found."
+            ),
+        )
+
+
+    summary_text = discharge_path.read_text(
+        encoding="utf-8",
+        errors="replace",
+    )
+
+
+    return {
+        "filename": discharge_path.name,
+        "summary": summary_text,
+    }

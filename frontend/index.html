@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
 
@@ -8,7 +9,7 @@
         content="width=device-width, initial-scale=1.0"
     >
 
-    <title>NICU AI</title>
+    <title>NICU AI — Dashboard</title>
 
     <link
         rel="stylesheet"
@@ -16,256 +17,1240 @@
     >
 </head>
 
+
 <body>
 
-    <main class="page-shell">
+    <div class="app-layout">
 
-        <section class="app-card">
 
-            <div class="brand-block">
-                <div class="brand-icon">NICU</div>
+        <!-- ==================================================
+             SIDEBAR
+             ================================================== -->
 
-                <div>
+        <aside
+            class="sidebar"
+            id="sidebar"
+        >
+
+            <div class="sidebar-brand">
+
+                <div class="brand-mark">
+                    NICU
+                </div>
+
+                <div class="brand-text">
+
                     <h1>NICU AI</h1>
 
                     <p>
-                        Generate a NICU discharge summary
-                        from one patient PDF.
+                        Clinical Assistant
                     </p>
+
                 </div>
+
             </div>
 
 
-            <section class="upload-section">
+            <nav class="sidebar-nav">
 
-                <label
-                    for="pdfInput"
-                    class="upload-box"
-                    id="uploadBox"
+                <a
+                    href="index.html"
+                    class="nav-item active"
                 >
+                    <span class="nav-icon">⌂</span>
+                    <span>Dashboard</span>
+                </a>
 
-                    <div class="upload-icon">
-                        ↑
-                    </div>
 
-                    <h2>
-                        Upload Patient PDF
-                    </h2>
+                <a
+                    href="pages/process.html"
+                    class="nav-item"
+                >
+                    <span class="nav-icon">＋</span>
+                    <span>New Summary</span>
+                </a>
 
-                    <p>
-                        Click here to choose one PDF file
-                    </p>
 
-                    <span id="selectedFileName">
-                        No file selected
+                <a
+                    href="pages/records.html"
+                    class="nav-item"
+                >
+                    <span class="nav-icon">⌕</span>
+                    <span>Patient Records</span>
+                </a>
+
+            </nav>
+
+
+            <div class="sidebar-footer">
+
+                <div class="system-status">
+
+                    <span
+                        class="status-dot"
+                        id="sidebarStatusDot"
+                    ></span>
+
+                    <span id="sidebarStatusText">
+                        Checking system...
                     </span>
 
-                </label>
-
-                <input
-                    type="file"
-                    id="pdfInput"
-                    accept=".pdf,application/pdf"
-                    hidden
-                >
-
-                <button
-                    id="generateButton"
-                    class="primary-button"
-                    type="button"
-                    disabled
-                >
-                    Generate Discharge Summary
-                </button>
-
-            </section>
-
-
-            <section
-                id="progressSection"
-                class="progress-section hidden"
-            >
-
-                <div class="progress-header">
-                    <h2>Processing Patient Record</h2>
-
-                    <span id="progressPercent">
-                        0%
-                    </span>
                 </div>
 
-                <div class="progress-track">
-                    <div
-                        id="progressBar"
-                        class="progress-bar"
-                    ></div>
-                </div>
+            </div>
 
-                <div class="stage-list">
-
-                    <div
-                        class="stage-item"
-                        data-stage="upload"
-                    >
-                        <span class="stage-dot"></span>
-                        <span>Uploading PDF</span>
-                    </div>
-
-                    <div
-                        class="stage-item"
-                        data-stage="ocr"
-                    >
-                        <span class="stage-dot"></span>
-                        <span>OCR Processing</span>
-                    </div>
-
-                    <div
-                        class="stage-item"
-                        data-stage="structurer"
-                    >
-                        <span class="stage-dot"></span>
-                        <span>Structuring Clinical Data</span>
-                    </div>
-
-                    <div
-                        class="stage-item"
-                        data-stage="llm"
-                    >
-                        <span class="stage-dot"></span>
-                        <span>LLM Clinical Processing</span>
-                    </div>
-
-                    <div
-                        class="stage-item"
-                        data-stage="normalizer"
-                    >
-                        <span class="stage-dot"></span>
-                        <span>Normalizing Patient Record</span>
-                    </div>
-
-                    <div
-                        class="stage-item"
-                        data-stage="discharge"
-                    >
-                        <span class="stage-dot"></span>
-                        <span>Generating Discharge Summary</span>
-                    </div>
-
-                </div>
-
-                <p
-                    id="statusMessage"
-                    class="status-message"
-                >
-                    Waiting to begin.
-                </p>
-
-            </section>
+        </aside>
 
 
-            <section
-                id="resultSection"
-                class="result-section hidden"
-            >
 
-                <div class="result-header">
+        <!-- ==================================================
+             MAIN
+             ================================================== -->
 
-                    <div>
-                        <span class="success-badge">
-                            Completed
-                        </span>
+        <main class="main-content">
 
-                        <h2>
-                            Discharge Summary Ready
-                        </h2>
 
-                        <p id="resultMessage">
-                            The patient record was processed successfully.
-                        </p>
-                    </div>
+            <!-- TOPBAR -->
 
-                    <button
-                        id="newPatientButton"
-                        class="secondary-button"
-                        type="button"
-                    >
-                        Process Another Patient
-                    </button>
-
-                </div>
-
-                <div class="result-actions">
-
-                    <button
-                        id="viewSummaryButton"
-                        class="primary-button"
-                        type="button"
-                    >
-                        View Summary
-                    </button>
-
-                    <button
-                        id="downloadTextButton"
-                        class="secondary-button"
-                        type="button"
-                    >
-                        Download TXT
-                    </button>
-
-                </div>
+            <header class="topbar">
 
                 <div
-                    id="summaryPanel"
-                    class="summary-panel hidden"
+                    style="
+                        display: flex;
+                        align-items: center;
+                        gap: 12px;
+                    "
                 >
 
-                    <div class="summary-panel-header">
-                        <h3>Generated Discharge Summary</h3>
+                    <button
+                        class="mobile-menu-button"
+                        id="mobileMenuButton"
+                        type="button"
+                        aria-label="Open navigation"
+                    >
+                        ☰
+                    </button>
 
-                        <button
-                            id="closeSummaryButton"
-                            class="close-button"
-                            type="button"
-                            aria-label="Close summary"
-                        >
-                            ×
-                        </button>
-                    </div>
-
-                    <pre id="summaryContent"></pre>
+                    <span class="topbar-title">
+                        Dashboard
+                    </span>
 
                 </div>
 
-            </section>
+
+                <div class="topbar-status">
+
+                    <span
+                        class="status-dot"
+                        id="topbarStatusDot"
+                    ></span>
+
+                    <span id="topbarStatusText">
+                        Checking NICU AI...
+                    </span>
+
+                </div>
+
+            </header>
 
 
-            <section
-                id="errorSection"
-                class="error-section hidden"
-            >
 
-                <h2>Processing Failed</h2>
+            <!-- ==================================================
+                 PAGE
+                 ================================================== -->
 
-                <p id="errorMessage">
-                    An error occurred while processing the file.
-                </p>
-
-                <button
-                    id="retryButton"
-                    class="secondary-button"
-                    type="button"
-                >
-                    Try Again
-                </button>
-
-            </section>
-
-        </section>
-
-    </main>
+            <div class="page-content">
 
 
-    <script src="script.js"></script>
+                <!-- ==================================================
+                     HEADER
+                     ================================================== -->
+
+                <section class="page-header">
+
+                    <div class="page-heading">
+
+                        <h2>
+                            NICU Discharge Assistant
+                        </h2>
+
+                        <p>
+                            Generate discharge summaries and access
+                            previously processed patient records.
+                        </p>
+
+                    </div>
+
+
+                    <a
+                        href="pages/process.html"
+                        class="btn btn-primary"
+                    >
+                        <span>＋</span>
+                        New Discharge Summary
+                    </a>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     MAIN ACTIONS
+                     ================================================== -->
+
+                <section class="dashboard-actions">
+
+
+                    <a
+                        href="pages/process.html"
+                        class="action-card"
+                    >
+
+                        <div class="action-icon">
+                            ＋
+                        </div>
+
+
+                        <div>
+
+                            <h3>
+                                Process New Patient
+                            </h3>
+
+                            <p>
+                                Upload a patient PDF and generate
+                                a structured NICU discharge summary.
+                            </p>
+
+                        </div>
+
+                    </a>
+
+
+
+                    <a
+                        href="pages/records.html"
+                        class="action-card"
+                    >
+
+                        <div class="action-icon">
+                            ⌕
+                        </div>
+
+
+                        <div>
+
+                            <h3>
+                                Find Patient Record
+                            </h3>
+
+                            <p>
+                                Search previous patient records
+                                and open saved discharge summaries.
+                            </p>
+
+                        </div>
+
+                    </a>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     STATISTICS
+                     ================================================== -->
+
+                <section class="stats-grid">
+
+
+                    <!-- TOTAL COMPLETED -->
+
+                    <div class="card stat-card">
+
+                        <div class="stat-label">
+                            COMPLETED RECORDS
+                        </div>
+
+                        <div
+                            class="stat-value"
+                            id="totalRecords"
+                        >
+                            —
+                        </div>
+
+                        <div class="stat-note">
+                            Successfully generated summaries
+                        </div>
+
+                    </div>
+
+
+
+                    <!-- TODAY -->
+
+                    <div class="card stat-card">
+
+                        <div class="stat-label">
+                            PROCESSED TODAY
+                        </div>
+
+                        <div
+                            class="stat-value"
+                            id="todayRecords"
+                        >
+                            —
+                        </div>
+
+                        <div class="stat-note">
+                            Completed patient records today
+                        </div>
+
+                    </div>
+
+
+
+                    <!-- SYSTEM -->
+
+                    <div class="card stat-card">
+
+                        <div class="stat-label">
+                            SYSTEM STATUS
+                        </div>
+
+                        <div
+                            class="stat-value"
+                            id="systemStatusValue"
+                            style="
+                                font-size: 22px;
+                            "
+                        >
+                            Checking
+                        </div>
+
+                        <div
+                            class="stat-note"
+                            id="systemStatusNote"
+                        >
+                            Connecting to NICU AI backend
+                        </div>
+
+                    </div>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     RECENT RECORDS
+                     ================================================== -->
+
+                <section class="card">
+
+
+                    <div class="card-header">
+
+                        <div>
+
+                            <h3>
+                                Recent Patient Records
+                            </h3>
+
+                            <p>
+                                Recently completed discharge summaries
+                            </p>
+
+                        </div>
+
+
+                        <a
+                            href="pages/records.html"
+                            class="table-action"
+                        >
+                            View all records →
+                        </a>
+
+                    </div>
+
+
+
+                    <!-- LOADING -->
+
+                    <div
+                        class="loading"
+                        id="recentLoading"
+                    >
+
+                        <div class="loading-spinner"></div>
+
+                    </div>
+
+
+
+                    <!-- TABLE -->
+
+                    <div
+                        class="table-wrapper hidden"
+                        id="recentTableWrapper"
+                    >
+
+                        <table class="patient-table">
+
+                            <thead>
+
+                                <tr>
+
+                                    <th>
+                                        Patient
+                                    </th>
+
+                                    <th>
+                                        Processed
+                                    </th>
+
+                                    <th>
+                                        Status
+                                    </th>
+
+                                    <th>
+                                    </th>
+
+                                </tr>
+
+                            </thead>
+
+
+                            <tbody id="recentPatientsBody">
+                            </tbody>
+
+                        </table>
+
+                    </div>
+
+
+
+                    <!-- EMPTY -->
+
+                    <div
+                        class="empty-state hidden"
+                        id="recentEmpty"
+                    >
+
+                        <div class="empty-icon">
+                            ⌕
+                        </div>
+
+                        <h3>
+                            No completed patient records yet
+                        </h3>
+
+                        <p>
+                            Once a patient discharge summary is completed,
+                            it will automatically appear here.
+                        </p>
+
+
+                        <div
+                            style="
+                                margin-top: 20px;
+                            "
+                        >
+
+                            <a
+                                href="pages/process.html"
+                                class="btn btn-primary"
+                            >
+                                ＋ Process Patient
+                            </a>
+
+                        </div>
+
+                    </div>
+
+
+
+                    <!-- ERROR -->
+
+                    <div
+                        class="empty-state hidden"
+                        id="recentError"
+                    >
+
+                        <div
+                            class="result-icon failure"
+                            style="
+                                margin-left: auto;
+                                margin-right: auto;
+                            "
+                        >
+                            !
+                        </div>
+
+                        <h3>
+                            Could not load patient records
+                        </h3>
+
+                        <p id="recentErrorMessage">
+                            Please make sure the NICU AI backend is running.
+                        </p>
+
+                    </div>
+
+
+                </section>
+
+
+            </div>
+
+        </main>
+
+    </div>
+
+
+
+    <!-- ==================================================
+         DASHBOARD JAVASCRIPT
+         ================================================== -->
+
+    <script>
+
+        const API_BASE_URL =
+            "http://127.0.0.1:8000/api";
+
+
+        /* ==================================================
+           ELEMENTS
+           ================================================== */
+
+        const mobileMenuButton =
+            document.getElementById(
+                "mobileMenuButton"
+            );
+
+
+        const sidebar =
+            document.getElementById(
+                "sidebar"
+            );
+
+
+        const totalRecords =
+            document.getElementById(
+                "totalRecords"
+            );
+
+
+        const todayRecords =
+            document.getElementById(
+                "todayRecords"
+            );
+
+
+        const systemStatusValue =
+            document.getElementById(
+                "systemStatusValue"
+            );
+
+
+        const systemStatusNote =
+            document.getElementById(
+                "systemStatusNote"
+            );
+
+
+        const sidebarStatusText =
+            document.getElementById(
+                "sidebarStatusText"
+            );
+
+
+        const topbarStatusText =
+            document.getElementById(
+                "topbarStatusText"
+            );
+
+
+        const sidebarStatusDot =
+            document.getElementById(
+                "sidebarStatusDot"
+            );
+
+
+        const topbarStatusDot =
+            document.getElementById(
+                "topbarStatusDot"
+            );
+
+
+        const recentLoading =
+            document.getElementById(
+                "recentLoading"
+            );
+
+
+        const recentTableWrapper =
+            document.getElementById(
+                "recentTableWrapper"
+            );
+
+
+        const recentPatientsBody =
+            document.getElementById(
+                "recentPatientsBody"
+            );
+
+
+        const recentEmpty =
+            document.getElementById(
+                "recentEmpty"
+            );
+
+
+        const recentError =
+            document.getElementById(
+                "recentError"
+            );
+
+
+        const recentErrorMessage =
+            document.getElementById(
+                "recentErrorMessage"
+            );
+
+
+        /* ==================================================
+           MOBILE MENU
+           ================================================== */
+
+        if (
+            mobileMenuButton
+            && sidebar
+        ) {
+
+            mobileMenuButton.addEventListener(
+                "click",
+                () => {
+
+                    sidebar.classList.toggle(
+                        "mobile-open"
+                    );
+
+                }
+            );
+
+        }
+
+
+        /* ==================================================
+           LOAD DASHBOARD
+           ================================================== */
+
+        async function loadDashboard() {
+
+            await Promise.all([
+                checkBackendHealth(),
+                loadPatientRecords(),
+            ]);
+
+        }
+
+
+        /* ==================================================
+           HEALTH
+           ================================================== */
+
+        async function checkBackendHealth() {
+
+            try {
+
+                const response =
+                    await fetch(
+                        `${API_BASE_URL}/health`,
+                        {
+                            cache: "no-store",
+                        }
+                    );
+
+
+                if (!response.ok) {
+
+                    throw new Error();
+                }
+
+
+                const data =
+                    await response.json();
+
+
+                if (
+                    data.status
+                    !== "ok"
+                ) {
+
+                    throw new Error();
+                }
+
+
+                setSystemOnline();
+
+
+            } catch {
+
+                setSystemOffline();
+            }
+        }
+
+
+        function setSystemOnline() {
+
+            systemStatusValue.textContent =
+                "Ready";
+
+
+            systemStatusNote.textContent =
+                "Backend connected and available";
+
+
+            sidebarStatusText.textContent =
+                "System Ready";
+
+
+            topbarStatusText.textContent =
+                "NICU AI Online";
+
+
+            sidebarStatusDot.style.background =
+                "var(--success)";
+
+
+            topbarStatusDot.style.background =
+                "var(--success)";
+        }
+
+
+        function setSystemOffline() {
+
+            systemStatusValue.textContent =
+                "Offline";
+
+
+            systemStatusNote.textContent =
+                "Backend connection unavailable";
+
+
+            sidebarStatusText.textContent =
+                "System Offline";
+
+
+            topbarStatusText.textContent =
+                "NICU AI Offline";
+
+
+            sidebarStatusDot.style.background =
+                "var(--danger)";
+
+
+            topbarStatusDot.style.background =
+                "var(--danger)";
+        }
+
+
+        /* ==================================================
+           PATIENT RECORDS
+           ================================================== */
+
+        async function loadPatientRecords() {
+
+            showRecentLoading();
+
+
+            try {
+
+                const response =
+                    await fetch(
+                        `${API_BASE_URL}/patients`,
+                        {
+                            cache: "no-store",
+                        }
+                    );
+
+
+                if (!response.ok) {
+
+                    throw new Error(
+                        "Could not load patient records."
+                    );
+                }
+
+
+                const data =
+                    await response.json();
+
+
+                const records =
+                    Array.isArray(data)
+                        ? data
+                        : [];
+
+
+                /*
+                Only COMPLETED records belong on
+                the hospital-facing dashboard.
+                */
+
+                const completedRecords =
+                    records.filter(
+                        record =>
+                            String(
+                                record.status
+                                || ""
+                            )
+                            .trim()
+                            .toLowerCase()
+                            === "completed"
+                    );
+
+
+                updateStatistics(
+                    completedRecords
+                );
+
+
+                renderRecentRecords(
+                    completedRecords
+                );
+
+
+            } catch (error) {
+
+                totalRecords.textContent =
+                    "—";
+
+
+                todayRecords.textContent =
+                    "—";
+
+
+                showRecentError(
+                    error.message
+                );
+            }
+        }
+
+
+        /* ==================================================
+           STATISTICS
+           ================================================== */
+
+        function updateStatistics(
+            records
+        ) {
+
+            totalRecords.textContent =
+                records.length;
+
+
+            const today =
+                new Date();
+
+
+            const todayCount =
+                records.filter(
+                    record => {
+
+                        const date =
+                            parseRecordDate(
+                                getRecordDate(
+                                    record
+                                )
+                            );
+
+
+                        if (!date) {
+
+                            return false;
+                        }
+
+
+                        return (
+                            date.getFullYear()
+                            === today.getFullYear()
+
+                            &&
+
+                            date.getMonth()
+                            === today.getMonth()
+
+                            &&
+
+                            date.getDate()
+                            === today.getDate()
+                        );
+                    }
+                )
+                .length;
+
+
+            todayRecords.textContent =
+                todayCount;
+        }
+
+
+        /* ==================================================
+           RECENT PATIENTS
+           ================================================== */
+
+        function renderRecentRecords(
+            records
+        ) {
+
+            hideRecentStates();
+
+
+            if (!records.length) {
+
+                recentEmpty.classList.remove(
+                    "hidden"
+                );
+
+                return;
+            }
+
+
+            const sortedRecords =
+                [...records]
+                .sort(
+                    (a, b) => {
+
+                        const aDate =
+                            parseRecordDate(
+                                getRecordDate(a)
+                            );
+
+
+                        const bDate =
+                            parseRecordDate(
+                                getRecordDate(b)
+                            );
+
+
+                        return (
+                            (
+                                bDate
+                                ? bDate.getTime()
+                                : 0
+                            )
+
+                            -
+
+                            (
+                                aDate
+                                ? aDate.getTime()
+                                : 0
+                            )
+                        );
+                    }
+                );
+
+
+            /*
+            Show only the five most recent
+            completed patient records.
+            */
+
+            const recentRecords =
+                sortedRecords.slice(
+                    0,
+                    5
+                );
+
+
+            recentPatientsBody.innerHTML =
+                "";
+
+
+            recentRecords.forEach(
+                record => {
+
+                    const row =
+                        document.createElement(
+                            "tr"
+                        );
+
+
+                    const patientId =
+                        record.id
+                        ?? record.patient_id
+                        ?? "";
+
+
+                    const patientName =
+                        formatPatientName(
+                            record.patient_name
+                            || record.name
+                            || "Unknown Patient"
+                        );
+
+
+                    const processedDate =
+                        formatRecordDate(
+                            getRecordDate(
+                                record
+                            )
+                        );
+
+
+                    row.innerHTML = `
+
+                        <td>
+
+                            <div class="patient-name">
+                                ${escapeHtml(patientName)}
+                            </div>
+
+                            <div class="patient-id">
+                                Record #${escapeHtml(patientId)}
+                            </div>
+
+                        </td>
+
+
+                        <td>
+                            ${escapeHtml(processedDate)}
+                        </td>
+
+
+                        <td>
+
+                            <span class="badge badge-success">
+                                Completed
+                            </span>
+
+                        </td>
+
+
+                        <td>
+
+                            <a
+                                class="table-action"
+                                href="pages/patient.html?id=${encodeURIComponent(patientId)}"
+                            >
+                                View →
+                            </a>
+
+                        </td>
+                    `;
+
+
+                    recentPatientsBody.appendChild(
+                        row
+                    );
+                }
+            );
+
+
+            recentTableWrapper.classList.remove(
+                "hidden"
+            );
+        }
+
+
+        /* ==================================================
+           RECORD DATE
+           ================================================== */
+
+        function getRecordDate(record) {
+
+            return (
+                record.completed_at
+                || record.updated_at
+                || record.created_at
+                || record.upload_time
+                || null
+            );
+        }
+
+
+        function parseRecordDate(value) {
+
+            if (!value) {
+
+                return null;
+            }
+
+
+            const normalized =
+                String(value)
+                .replace(
+                    " ",
+                    "T"
+                );
+
+
+            const date =
+                new Date(
+                    normalized
+                );
+
+
+            if (
+                Number.isNaN(
+                    date.getTime()
+                )
+            ) {
+
+                return null;
+            }
+
+
+            return date;
+        }
+
+
+        function formatRecordDate(value) {
+
+            const date =
+                parseRecordDate(
+                    value
+                );
+
+
+            if (!date) {
+
+                return "—";
+            }
+
+
+            return date.toLocaleString(
+                undefined,
+                {
+                    day: "2-digit",
+                    month: "short",
+                    year: "numeric",
+                    hour: "2-digit",
+                    minute: "2-digit",
+                }
+            );
+        }
+
+
+        /* ==================================================
+           PATIENT NAME
+           ================================================== */
+
+        function formatPatientName(value) {
+
+            return String(
+                value
+                || "Unknown Patient"
+            )
+            .replace(
+                /^pending_/i,
+                ""
+            )
+            .replace(
+                /_/g,
+                " "
+            );
+        }
+
+
+        /* ==================================================
+           RECENT RECORD STATES
+           ================================================== */
+
+        function hideRecentStates() {
+
+            recentLoading.classList.add(
+                "hidden"
+            );
+
+
+            recentTableWrapper.classList.add(
+                "hidden"
+            );
+
+
+            recentEmpty.classList.add(
+                "hidden"
+            );
+
+
+            recentError.classList.add(
+                "hidden"
+            );
+        }
+
+
+        function showRecentLoading() {
+
+            hideRecentStates();
+
+
+            recentLoading.classList.remove(
+                "hidden"
+            );
+        }
+
+
+        function showRecentError(message) {
+
+            hideRecentStates();
+
+
+            recentError.classList.remove(
+                "hidden"
+            );
+
+
+            recentErrorMessage.textContent =
+                message
+                || "Please make sure the NICU AI backend is running.";
+        }
+
+
+        /* ==================================================
+           HTML SAFETY
+           ================================================== */
+
+        function escapeHtml(value) {
+
+            return String(
+                value
+                ?? ""
+            )
+            .replace(
+                /&/g,
+                "&amp;"
+            )
+            .replace(
+                /</g,
+                "&lt;"
+            )
+            .replace(
+                />/g,
+                "&gt;"
+            )
+            .replace(
+                /"/g,
+                "&quot;"
+            )
+            .replace(
+                /'/g,
+                "&#039;"
+            );
+        }
+
+
+        /* ==================================================
+           START
+           ================================================== */
+
+        loadDashboard();
+
+    </script>
+
 
 </body>
+
 </html>

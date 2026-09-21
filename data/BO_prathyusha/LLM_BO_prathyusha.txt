@@ -1,0 +1,1589 @@
+========================================================================
+STRUCTURED PART 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0019
+========================================================================
+
+SOURCE PAGE: PAGE_1
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Sex: Male
+Age: 0 D 9M
+Date of Birth: [UNCLEAR - likely 2026-06-17]
+
+MATERNAL / ANTENATAL HISTORY
+[Information not available on this page]
+
+BIRTH DETAILS
+[Information not available on this page]
+
+ADMISSION DETAILS
+Reason for Admission: [Unclear from the text]
+Admission Date: 2026-06-17
+Admission Time: 12:21 PM
+
+NICU COURSE
+[Information not available on this page]
+
+MEDICATIONS
+[Information not available on this page]
+
+INVESTIGATIONS
+[Information not available on this page]
+
+PROCEDURES
+[Information not available on this page]
+
+CONSULTATIONS
+Consulting Doctor: Dr. Srinivasa Murki
+
+SOURCE PAGE: PAGE_2
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+SOURCE PAGE: PAGE_3
+DOCUMENT TYPE: Initial Assessment
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Date of Assessment: 2026-06-17, Time: 9:27 AM
+
+BIRTH DETAILS
+Gestational Age: 36 weeks
+Birth Weight: 2.26 kg
+
+VITAL SIGNS
+Temperature: 36.7°C
+Heart Rate: 144 bpm
+Respiratory Rate: 46
+Oxygen Saturation: 97%
+
+INVESTIGATIONS
+GRBS: [Unclear from the text]
+
+SOURCE PAGE: PAGE_4
+DOCUMENT TYPE: Initial Assessment
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+BIRTH DETAILS
+Gestational Age: 35 weeks by dates, [Unclear] weeks by Ballard score.
+
+ADMISSION DETAILS
+Date of Delivery: 2026-06-17, Time: 9:19 AM
+
+SOURCE PAGE: PAGE_5
+DOCUMENT TYPE: Initial Assessment
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Diagnoses: RD-RDS
+
+MEDICATIONS
+[Information not available on this page]
+
+INVESTIGATIONS
+[Information not available on this page]
+
+PROCEDURES
+[Information not available on this page]
+
+SOURCE PAGE: PAGE_6
+DOCUMENT TYPE: Newborn Footprints
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+SOURCE PAGE: PAGE_7
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Admission Date: 2026-06-17, Time: 12:21 PM
+
+NICU COURSE
+Respiratory Support: CPAP
+
+MEDICATIONS
+[Information not available on this page]
+
+VITAL SIGNS
+Heart Rate: 144 bpm
+Oxygen Saturation: 98.5%
+
+SOURCE PAGE: PAGE_8
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: CPAP, FiO2: 21%, Peep: 5, Flow: 5 L/min.
+
+VITAL SIGNS
+Heart Rate: 137 bpm
+Oxygen Saturation: 96%
+
+SOURCE PAGE: PAGE_9
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: Room air.
+
+VITAL SIGNS
+Heart Rate: 132 bpm
+Oxygen Saturation: 96%
+
+SOURCE PAGE: PAGE_10
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: Room air.
+
+MEDICATIONS
+Calcium, Vitamin D3
+
+SOURCE PAGE: PAGE_11
+DOCUMENT TYPE: Nurse's Hand Off
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: CPAP.
+
+MEDICATIONS
+Taxim continive, Taxim
+
+SOURCE PAGE: PAGE_12
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Date: 2026-06-18, Time: 9 AM
+
+NICU COURSE
+Respiratory Support: CPAP, FiO2: 21%
+
+SOURCE PAGE: PAGE_13
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Date: 2026-06-18
+
+NICU COURSE
+Weight: 2.08 kg, decreased by 120 gm.
+
+SOURCE PAGE: PAGE_14
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Date: 2026-06-18
+
+NICU COURSE
+Mild encephalopathy, Stage 1.
+
+SOURCE PAGE: PAGE_15
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Date: 2026-06-18
+
+NICU COURSE
+Feeding: Tolerating 5 ml.
+
+SOURCE PAGE: PAGE_16
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Date: 2026-06-18
+
+MEDICATIONS
+Dopamine infusion @ 5 mcg/kg/min.
+
+SOURCE PAGE: PAGE_17
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Date: 2026-06-18
+
+MEDICATIONS
+Calcium, Vitamin D3.
+
+SOURCE PAGE: PAGE_18
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Date: 2026-06-18
+
+VITAL SIGNS
+Heart Rate: 140 bpm
+Oxygen Saturation: 93%
+
+SOURCE PAGE: PAGE_19
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Date: 2026-06-19
+
+NICU COURSE
+Weight: 2.04 kg, decreased by 120 gm.
+
+
+========================================================================
+STRUCTURED PART 0002
+SOURCE PAGES: PAGE_0020 TO PAGE_0049
+========================================================================
+
+SOURCE PAGE: PAGE 20
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+BIRTH DETAILS
+Gestational age: 35 weeks
+
+ADMISSION DETAILS
+DOL: Day 3
+
+NICU COURSE
+Diagnoses: RD-RDS, PS, Encephalopathy (mild)
+Respiratory support: CPAP
+Oxygen requirement: 95%
+Medications: Dopamine 5mg/q1min → 2.5mg/infusion
+Vital Signs: BP - 80/43(54), HR - 140/min
+
+SOURCE PAGE: PAGE 21
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Respiratory support: CPAP
+Vital Signs: BP - 66(39(47), HR - 126/min
+Medications: Dopamine 0.5mg/q1min
+
+SOURCE PAGE: PAGE 22
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Weight: 2.040 kg
+Medications: Taxim (D3)
+
+SOURCE PAGE: PAGE 23
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+CONSULTATIONS
+Consultant: Dr. Sreeram
+
+NICU COURSE
+Diagnoses: RD-RDS, PS, Encephalopathy (mild)
+Respiratory support: CPAP
+Vital Signs: BP - stable, HR - stable
+
+SOURCE PAGE: PAGE 24
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+ADMISSION DETAILS
+Weight: 2.040 kg
+
+NICU COURSE
+Admission Glucose: 9 mg/dL
+Cultures: GRBS
+
+SOURCE PAGE: PAGE 25
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Respiratory support: Room air x 24 hours
+Weight: 2.040 kg
+
+SOURCE PAGE: PAGE 26
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Diagnoses: Suspect Sepsis, Taxim - D3
+
+SOURCE PAGE: PAGE 27
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+CONSULTATIONS
+Consultant: Dr. Srinivas Murki
+
+NICU COURSE
+Diagnoses: RD-RDS, Encephalopathy (mild)
+
+SOURCE PAGE: PAGE 28
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+MEDICATIONS
+Medications: DBF + SF adlib, Taxim stopped, UVC removed, Syp Calcimax plus, Vit-D3 drops.
+
+SOURCE PAGE: PAGE 29
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Diagnoses: Suspect Sepsis, Dopamine infusion.
+
+SOURCE PAGE: PAGE 30
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Weight: 1.920 kg
+
+SOURCE PAGE: PAGE 31
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Respiratory status: Stable on room air.
+
+SOURCE PAGE: PAGE 32
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Vital Signs: Stable.
+
+SOURCE PAGE: PAGE 33
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+MEDICATIONS
+Medications: DBF + SF adlib, IVF.
+
+SOURCE PAGE: PAGE 34
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Weight: 1.920 kg
+
+SOURCE PAGE: PAGE 35
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Weight: 1.920 kg
+
+SOURCE PAGE: PAGE 36
+DOCUMENT TYPE: Progress Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+CONSULTATIONS
+Consultant: Dr. Srinivas Murki
+
+NICU COURSE
+Respiratory support: CPAP stopped, Dopamine infusion.
+
+SOURCE PAGE: PAGE 37
+DOCUMENT TYPE: Medication Chart
+
+MEDICATIONS
+Medications: Ini. Taxim, Calcium Gluconate, Kidrich D3, Domstal
+
+SOURCE PAGE: PAGE 38
+DOCUMENT TYPE: Medication Chart
+
+MEDICATIONS
+Medications: Calcimax plus, Vit-D3 drops
+
+SOURCE PAGE: PAGE 39
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE 40
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE 41
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE 42
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE 43
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE 44
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE 45
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE 46
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE 47
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE 48
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE 49
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+
+========================================================================
+STRUCTURED PART 0003
+SOURCE PAGES: PAGE_0050 TO PAGE_0071
+========================================================================
+
+SOURCE PAGE: PAGE_50
+DOCUMENT TYPE: Nursing Care Plan
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Sex: Male
+Age: 0 D 9M
+
+MATERNAL / ANTENATAL HISTORY
+[UNCLEAR: antenatal scans]
+
+BIRTH DETAILS
+[UNCLEAR: gestational age]
+[UNCLEAR: birth weight]
+
+ADMISSION DETAILS
+DOL: [UNCLEAR]
+
+NICU COURSE
+Diagnoses: [UNCLEAR]
+
+SOURCE PAGE: PAGE_51
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+ADMISSION DETAILS
+Admission Date: 17-06-2026 12:21 PM
+
+NICU COURSE
+Respiratory Support: CPAP, FiO2 21%, Peep 5, Flow 2.5 L/min.
+Feeding:  [UNCLEAR]
+
+MEDICATIONS
+[UNCLEAR: medication name] per doctor's order.
+
+SOURCE PAGE: PAGE_52
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+ADMISSION DETAILS
+Admission Date: 17-06-2026 12:21 PM
+
+NICU COURSE
+[UNCLEAR: symptoms]
+
+MEDICATIONS
+[UNCLEAR: medication name]
+
+SOURCE PAGE: PAGE_53
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+[UNCLEAR: symptoms]
+Respiratory Support: CPAP.
+Feeding: [UNCLEAR]
+
+SOURCE PAGE: PAGE_54
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Diagnoses: [UNCLEAR]
+Respiratory Support: CPAP.
+Glucose Infusion: Dopamine 5 mcg/kg/min.
+[UNCLEAR: investigation name] done.
+
+SOURCE PAGE: PAGE_55
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+[UNCLEAR: symptoms]
+Respiratory Support: CPAP.
+Glucose Infusion: [UNCERTAIN: appears to be 6.5 ml/hr].
+
+SOURCE PAGE: PAGE_56
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+[UNCLEAR: symptoms]
+Respiratory Support: CPAP.
+Glucose Infusion: [UNCERTAIN: appears to be 6.5 ml/hr].
+
+SOURCE PAGE: PAGE_57
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: Room air.
+Medications: [UNCLEAR]
+
+SOURCE PAGE: PAGE_58
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: Room air.
+Medications: [UNCLEAR]
+
+SOURCE PAGE: PAGE_59
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: Room air.
+Medications: [UNCLEAR]
+
+SOURCE PAGE: PAGE_60
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: Room air.
+Medications: [UNCLEAR]
+
+SOURCE PAGE: PAGE_61
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Feeding: Accepting feeds well.
+
+SOURCE PAGE: PAGE_62
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+[UNCLEAR]
+
+SOURCE PAGE: PAGE_63
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: Room air.
+Glucose Infusion: [UNCERTAIN: appears to be Dopamine].
+
+SOURCE PAGE: PAGE_64
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Vitals: HR:138 bpm, SpO2 96%, Temp: 36.5°C, RR:48 rpm.
+Medications: Calcium plus vitamin D.
+
+SOURCE PAGE: PAGE_65
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+[UNCLEAR]
+
+SOURCE PAGE: PAGE_66
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: Room air.
+Glucose Infusion: [UNCLEAR]
+
+SOURCE PAGE: PAGE_67
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+Respiratory Support: Room air.
+Glucose Infusion: [UNCERTAIN: appears to be Dopamine].
+
+SOURCE PAGE: PAGE_68
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+
+NICU COURSE
+[UNCLEAR]
+
+SOURCE PAGE: PAGE_69
+DOCUMENT TYPE: Informed Consent Form
+
+[Administrative content removed]
+
+SOURCE PAGE: PAGE_70
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+
+SOURCE PAGE: PAGE_71
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+
+
+========================================================================
+STRUCTURED PART 0004
+SOURCE PAGES: PAGE_0072 TO PAGE_0085
+========================================================================
+
+SOURCE PAGE: PAGE_72
+DOCUMENT TYPE: CRITICAL CARE CHART
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+BIRTH DETAILS
+Gestational Age: Not documented.
+Birth Weight: Not documented.
+
+ADMISSION DETAILS
+Admission Date: 17-06-2026 12:21 PM
+
+NICU COURSE
+Respiratory Support: CPAP
+
+MEDICATIONS
+[UNCERTAIN: medication details obscured]
+
+INVESTIGATIONS
+[UNCLEAR: Vital signs and monitoring data are present but uninterpretable due to formatting.]
+
+PROCEDURES
+IV Cannulation
+
+SOURCE PAGE: PAGE_73
+DOCUMENT TYPE: CRITICAL CARE CHART
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Respiratory Support: CPAP
+
+MEDICATIONS
+[UNCERTAIN: medication details obscured]
+
+INVESTIGATIONS
+[UNCLEAR: Vital signs and monitoring data are present but uninterpretable due to formatting.]
+
+PROCEDURES
+IV Cannulation
+
+SOURCE PAGE: PAGE_74
+DOCUMENT TYPE: CRITICAL CARE CHART
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Respiratory Support: CPAP
+
+INVESTIGATIONS
+[UNCLEAR: Vital signs and monitoring data are present but uninterpretable due to formatting.]
+
+SOURCE PAGE: PAGE_75
+DOCUMENT TYPE: CRITICAL CARE CHART
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Respiratory Support: CPAP
+
+INVESTIGATIONS
+[UNCLEAR: Vital signs and monitoring data are present but uninterpretable due to formatting.]
+
+SOURCE PAGE: PAGE_76
+DOCUMENT TYPE: CRITICAL CARE CHART
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Respiratory Support: CPAP
+
+INVESTIGATIONS
+[UNCLEAR: Vital signs and monitoring data are present but uninterpretable due to formatting.]
+
+SOURCE PAGE: PAGE_77
+DOCUMENT TYPE: CRITICAL CARE CHART
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+NICU COURSE
+Respiratory Support: CPAP
+
+INVESTIGATIONS
+[UNCLEAR: Vital signs and monitoring data are present but uninterpretable due to formatting.]
+
+SOURCE PAGE: PAGE_78
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+INVESTIGATIONS
+[UNCLEAR: Vital signs and monitoring data are present but uninterpretable due to formatting.]
+
+SOURCE PAGE: PAGE_79
+DOCUMENT TYPE: VITALS MONITORING CHART
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+INVESTIGATIONS
+[UNCLEAR: Vital signs and monitoring data are present but uninterpretable due to formatting.]
+
+SOURCE PAGE: PAGE_80
+DOCUMENT TYPE: EDUCATION FORM
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+CONSULTATIONS
+Consultant: Dr. Srinivasa Murki
+
+NICU COURSE
+CPAP support initiated.
+
+SOURCE PAGE: PAGE_81
+DOCUMENT TYPE: EDUCATION FORM
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+CONSULTATIONS
+Consultant: Dr. Srinivasa Murki
+
+NICU COURSE
+CPAP support continued.
+
+SOURCE PAGE: PAGE_82
+DOCUMENT TYPE: EDUCATION FORM
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+CONSULTATIONS
+Consultant: Dr. Srinivasa Murki
+
+NICU COURSE
+Started DSPT
+
+SOURCE PAGE: PAGE_83
+DOCUMENT TYPE: EDUCATION FORM
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Sex: Male
+Age: 0 D
+
+CONSULTATIONS
+Consultant: Dr. Srinivasa Murki
+
+
+========================================================================
+STRUCTURED PART 0005
+SOURCE PAGES: PAGE_0086 TO PAGE_0095
+========================================================================
+
+SOURCE PAGE: PAGE_86
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Sex: Male
+Age: 0 D
+
+BIRTH DETAILS
+Gestational age: 9M
+
+ADMISSION DETAILS
+Reason for admission: RD/RDS
+
+NICU COURSE
+Diagnoses: Invasive devices
+
+PROCEDURES
+IV cannulation
+Foley catheter insertion
+Central line (UVC)
+Ventilation
+
+SOURCE PAGE: PAGE_87
+DOCUMENT TYPE: Requisition Form
+
+INVESTIGATIONS
+Hemoglobin
+HbsAg
+HIV I & II (Rapid)
+Platelet Count
+Complete Blood Picture(CBP)
+CSF Lactate
+PCV
+CSF Pyruvate
+ESR (Erythrocyte Sedimentation Rate)
+Blood Glucose by Glucometer (GRBS)
+
+SOURCE PAGE: PAGE_88
+DOCUMENT TYPE: Requisition Form
+
+INVESTIGATIONS
+Hemoglobin
+HbsAg
+HIV I & II (Rapid)
+Platelet Count
+Complete Blood Picture(CBP)
+CSF Lactate
+PCV
+CSF Pyruvate
+ESR (Erythrocyte Sedimentation Rate)
+Blood Glucose by Glucometer (GRBS)
+
+SOURCE PAGE: PAGE_89
+DOCUMENT TYPE: Requisition Form
+
+INVESTIGATIONS
+Hemoglobin
+HbsAg
+HIV I & II (Rapid)
+Platelet Count
+Complete Blood Picture(CBP)
+CSF Lactate
+PCV
+CSF Pyruvate
+ESR (Erythrocyte Sedimentation Rate)
+Blood Glucose by Glucometer (GRBS)
+
+SOURCE PAGE: PAGE_90
+DOCUMENT TYPE: Requisition Form
+
+INVESTIGATIONS
+Hemoglobin
+HbsAg
+HIV I & II (Rapid)
+Platelet Count
+Complete Blood Picture(CBP)
+CSF Lactate
+PCV
+CSF Pyruvate
+ESR (Erythrocyte Sedimentation Rate)
+Blood Glucose by Glucometer (GRBS)
+
+SOURCE PAGE: PAGE_91
+DOCUMENT TYPE: Nursing Notes
+
+PROCEDURES
+Arterial line insertion
+Central Line Insertion
+Ventilation
+IV Cannulation
+Foleys catheter insertion
+Lumbar Drain insertion
+
+BEDSIDE EQUIPMENTS
+Alpha Matress/DVT Pump
+BIPAP
+CPAP
+Phototherapy
+Oxygen Charges
+Ventillator Charges
+
+SOURCE PAGE: PAGE_92
+DOCUMENT TYPE: Billing Sheet
+
+PROCEDURES
+Central Line Insertion
+IV Cannulation
+
+INVESTIGATIONS
+Blood culture
+TSB, FTy, TSH
+
+SOURCE PAGE: PAGE_93
+DOCUMENT TYPE: Billing Sheet
+
+PROCEDURES
+Central Line Insertion
+IV Cannulation
+
+INVESTIGATIONS
+TSB, FTy, TSH
+
+SOURCE PAGE: PAGE_94
+DOCUMENT TYPE: Billing Sheet
+
+PROCEDURES
+Central Line Insertion
+IV Cannulation
+
+INVESTIGATIONS
+TSB, FTy, TSH
+
+SOURCE PAGE: PAGE_95
+DOCUMENT TYPE: Billing Sheet
+
+PROCEDURES
+Arterial line insertion
+Ventilation
+IV Cannulation
+Foleys catheter insertion
+Lumbar Drain insertion
+
+
+========================================================================
+STRUCTURED PART 0006
+SOURCE PAGES: PAGE_0096 TO PAGE_0108
+========================================================================
+
+SOURCE PAGE: PAGE_96
+DOCUMENT TYPE: CLABSI Bundle Checklist
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_97
+DOCUMENT TYPE: CLABSI Bundle Checklist
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_98
+DOCUMENT TYPE: Requisition Form
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_99
+DOCUMENT TYPE: GRBS Monitoring Chart
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_100
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_101
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_102
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_103
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_104
+DOCUMENT TYPE: Laboratory Report - Biochemistry
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+CRP: 0.15 mg/L (Reference Range: 0.01 - 6.00)
+Total Bilirubin: 3.2 mg/dL
+Direct Bilirubin: 0.3 mg/dL
+Indirect Bilirubin: 2.90 mg/dL
+ALT (SGPT): 11 U/L
+AST (SGOT): 80 U/L
+Alkaline Phosphatase (ALP): 94 U/L
+Total Protein: 4.9 mg/dL
+Albumin: 3.5 g/dL
+Globulin: 1.4 g/dL
+Creatinine: 0.5 mg/dL
+Blood Urea: 24.2 mg/dL
+Uric Acid: 4.40 mg/dL
+Calcium Serum: 9.60 mg/dL
+Sodium Serum: 140 mmol/L
+Potassium Serum: 4.6 mmol/L
+Chloride Serum: 106 mmol/L
+Ionic Calcium: 5.00 mg/dL
+
+SOURCE PAGE: PAGE_105
+DOCUMENT TYPE: Laboratory Report - Biochemistry
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_106
+DOCUMENT TYPE: Laboratory Report - Biochemistry
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_107
+DOCUMENT TYPE: Laboratory Report - Biochemistry
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+SOURCE PAGE: PAGE_108
+DOCUMENT TYPE: Laboratory Report - Biochemistry
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IPD: LB26/2818
+Gender: Male
+Age: 0 D
+
+
+========================================================================
+STRUCTURED PART 0007
+SOURCE PAGES: PAGE_0109 TO PAGE_0118
+========================================================================
+
+SOURCE PAGE: PAGE_109
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. GADALI PRATHYUSHA
+UHID: 162608058
+IP Number: LB26/2818
+Sex: Male
+Age: 0 D
+
+BIRTH DETAILS
+Gestational Age: Not documented
+Birth Weight: Not documented
+
+INVESTIGATIONS
+HEMATOLOGY
+Complete Blood Picture (CBP)/CBC:
+Hemoglobin: 15.4 g/dL
+Packed Cell Volume: 43.30 L%
+MCV: 111.90 fL
+MCH: 39.70 pg
+MCHC: 35.40 gm/dL
+RBC Count: 3.87 x10^6/uL
+WBC Count: 12500 cells/cumm
+Platelet Count: 186000 /mm3
+Differential Count:
+Neutrophils: 72%
+Lymphocytes: 19%
+Eosinophils: 4%
+Monocytes: 5%
+Basophils: 0%
+Peripheral Smear: Normocytic Hypochromic RBCs, Neutrophilia
+
+BLOOD GROUPING AND RH TYPING
+Blood Group: O
+Rh Typing: Positive
+
+SOURCE PAGE: PAGE_110
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. GADALI PRATHYUSHA
+UHID: 162608058
+IP Number: LB26/2818
+
+SOURCE PAGE: PAGE_111
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. GADALI PRATHYUSHA
+UHID: 162608058
+IP Number: LB26/2818
+
+SOURCE PAGE: PAGE_112
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. GADALI PRATHYUSHA
+UHID: 162608058
+IP Number: LB26/2818
+
+MICROBIOLOGY
+Culture and Sensitivity (Blood): Preliminary 1: No bacterial growth seen after 24 hours of aerobic incubation.
+
+SOURCE PAGE: PAGE_113
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. GADALI PRATHYUSHA
+UHID: 162608058
+IP Number: LB26/2818
+
+BIOCHEMISTRY
+Bilirubin (Total & Direct):
+Total Bilirubin: 12.5 mg/dL
+Direct Bilirubin: 0.6 mg/dL
+Indirect Bilirubin: 11.90 mg/dL
+
+SOURCE PAGE: PAGE_114
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. GADALI PRATHYUSHA
+UHID: 162608058
+IP Number: LB26/2818
+
+BIOCHEMISTRY
+Thyroxine - Free (FT4): 1.12 ng/dL
+
+SOURCE PAGE: PAGE_115
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. GADALI PRATHYUSHA
+UHID: 162608058
+IP Number: LB26/2818
+
+IMMUNOLOGY
+Thyroid Stimulating Hormone (TSH): 2.193 uIU/ml
+
+SOURCE PAGE: PAGE_116
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION
+Patient Name: B/O. GADALI PRATHYUSHA
+UHID: 162608058
+IP Number: LB26/2818
+
+BIOCHEMISTRY
+Bilirubin (Total & Direct):
+Total Bilirubin: 14.8 mg/dL
+Direct Bilirubin: 0.7 mg/dL
+Indirect Bilirubin: 14.10 mg/dL
+
+SOURCE PAGE: PAGE_117
+DOCUMENT TYPE: Operative Notes
+
+Patient Name: B/O. GADALI PRATHYUSHA
+UHID: 162608058
+IP Number: LB26/2818
+
+SOURCE PAGE: PAGE_118
+DOCUMENT TYPE: Discharge Card
+
+Patient Name: B/O. GADALI PRATHYUSHA
+UHID: 162608058
+IP Number: LB26/2818

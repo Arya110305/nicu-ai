@@ -1,0 +1,431 @@
+========================================================================
+NORMALIZED CLINICAL SECTION 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0071
+========================================================================
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Sex: Male
+Age: 0 D 9M
+Date of Birth: [Unclear - likely 2026-06-17]
+
+BIRTH DETAILS
+Gestational Age: 36 weeks
+Birth Weight: 2.26 kg
+
+ADMISSION DETAILS
+Admission Date: 2026-06-17, Time: 12:21 PM
+
+NICU COURSE
+Diagnoses: RD-RDS
+
+MEDICATIONS
+Calcium, Vitamin D3
+
+VITAL SIGNS
+Heart Rate: 144 bpm
+Oxygen Saturation: 97%
+
+BIRTH DETAILS
+Gestational Age: 35 weeks by dates, [Unclear] weeks by Ballard score.
+
+ADMISSION DETAILS
+Date of Delivery: 2026-06-17, Time: 9:19 AM
+
+NICU COURSE
+Respiratory Support: CPAP
+
+MEDICATIONS
+Cefotaxime continive, Cefotaxime
+
+VITAL SIGNS
+Heart Rate: 137 bpm
+Oxygen Saturation: 96%
+
+NICU COURSE
+Respiratory Support: Room air.
+
+VITAL SIGNS
+Heart Rate: 132 bpm
+Oxygen Saturation: 96%
+
+NICU COURSE
+Respiratory Support: CPAP.
+
+MEDICATIONS
+Calcium, Vitamin D3
+
+NICU COURSE
+Respiratory support: CPAP, FiO2: 21%, Peep: 5, Flow: 5 L/min.
+
+VITAL SIGNS
+Heart Rate: 137 bpm
+Oxygen Saturation: 96%
+
+NICU COURSE
+Weight: 2.08 kg, decreased by 120 gm.
+
+NICU COURSE
+Mild encephalopathy, Stage 1.
+
+NICU COURSE
+Feeding: Tolerating 5 ml.
+
+MEDICATIONS
+Dopamine infusion @ 5 mcg/kg/min.
+
+MEDICATIONS
+Calcium, Vitamin D3.
+
+VITAL SIGNS
+Heart Rate: 140 bpm
+Oxygen Saturation: 93%
+
+NICU COURSE
+Weight: 2.04 kg, decreased by 120 gm.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18, Time: 9 AM
+
+NICU COURSE
+Respiratory Support: CPAP, FiO2: 21%
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+NICU COURSE
+Weight: 2.04 kg, decreased by 120 gm.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+NICU COURSE
+Mild encephalopathy, Stage 1.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+NICU COURSE
+Feeding: Tolerating 5 ml.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+MEDICATIONS
+Dopamine infusion @ 5 mcg/kg/min.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+MEDICATIONS
+Calcium, Vitamin D3.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+VITAL SIGNS
+Heart Rate: 140 bpm
+Oxygen Saturation: 93%
+
+PATIENT IDENTIFICATION
+Date: 2026-06-19
+
+NICU COURSE
+Weight: 2.04 kg, decreased by 120 gm.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18, Time: 9 AM
+
+NICU COURSE
+Diagnoses: RD-RDS, PS, Encephalopathy (mild)
+Respiratory support: CPAP
+Oxygen requirement: 95%
+Medications: Dopamine 5mg/q1min → 2.5mg/infusion
+Vital Signs: BP - 80/43(54), HR - 140/min
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+NICU COURSE
+Respiratory support: CPAP
+Vital Signs: BP - 66(39(47), HR - 126/min
+Medications: Dopamine 0.5mg/q1min
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+NICU COURSE
+Weight: 2.08 kg
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Diagnoses: RD-RDS, PS, Encephalopathy (mild)
+Respiratory support: CPAP
+Vital Signs: BP - stable, HR - stable
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Admission Glucose: 9 mg/dL
+Cultures: GRBS
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Respiratory support: Room air x 24 hours
+Weight: 2.040 kg
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Diagnoses: Suspect Sepsis, Cefotaxime - D3
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Consultant: Dr. Srinivas Murki
+
+Diagnoses: RD-RDS, Encephalopathy (mild)
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Medications: DBF + SF adlib, Cefotaxime stopped, UVC removed, Syp Calcimax plus, Vit-D3 drops.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Diagnoses: Suspect Sepsis, Dopamine infusion.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Weight: 2.04 kg, decreased by 120 gm.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Respiratory status: Stable on room air.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Vital Signs: Stable.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Medications: DBF + SF adlib, IVF.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Weight: 1.920 kg
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Weight: 1.920 kg
+
+PATIENT IDENTIFICATION
+Date: 2026-06-18
+
+Consultant: Dr. Srinivas Murki
+
+Respiratory support: CPAP stopped, Dopamine infusion.
+
+MEDICATIONS
+Medications: Ini. Cefotaxime, Calcium Gluconate, Kidrich D3, Domstal
+
+MEDICATIONS
+Medications: Calcimax plus, Vit-D3 drops
+
+[Nursing Care Plan content removed]
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Respiratory Support: CPAP, FiO2 21%, Peep 5, Flow 2.5 L/min.
+Feeding: [Unclear]
+
+MEDICATIONS
+[Unclear medication name] per doctor's order.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+[Unclear symptoms]
+
+MEDICATIONS
+[Unclear medication name]
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+[Unclear symptoms]
+Respiratory Support: CPAP.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Diagnoses: [Unclear]
+Respiratory support: CPAP
+Glucose Infusion: Dopamine 5 mcg/kg/min.
+[Unclear investigation name] done.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+[Unclear symptoms]
+Respiratory Support: CPAP.
+Glucose Infusion: [Uncertain: appears to be 6.5 ml/hr].
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+[Unclear symptoms]
+Respiratory Support: CPAP.
+Glucose Infusion: [Uncertain: appears to be 6.5 ml/hr].
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Respiratory Support: Room air.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Respiratory Support: Room air.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Respiratory Support: Room air.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Respiratory Support: Room air.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Feeding: Accepting feeds well.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+[Unclear]
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Respiratory Support: CPAP.
+Glucose Infusion: [Uncertain: appears to be Dopamine].
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Vitals: HR:138 bpm, SpO2 96%, Temp: 36.5°C, RR:48 rpm.
+Medications: Calcium plus vitamin D.
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+[Unclear]
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Respiratory Support: Room air.
+Glucose Infusion: [Uncertain: appears to be Dopamine].
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+[Unclear]
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+Respiratory Support: Room air.
+Glucose Infusion: [Uncertain: appears to be Dopamine].
+
+PATIENT IDENTIFICATION
+Date: 2026-06-17, Time: 12:21 PM
+
+[Unclear]
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0002
+SOURCE PAGES: PAGE_0072 TO PAGE_0118
+========================================================================
+
+PATIENT IDENTIFICATION
+Patient Name: Gadali Prathyusha
+UHID: 162608058
+IP Number: LB26/2818
+Sex: Male
+Age: 0 D
+
+BIRTH DETAILS
+Gestational Age: 9M
+
+ADMISSION DETAILS
+Admission Date: 17-06-2026 12:21 PM
+Reason for admission: RD/RDS
+
+NICU COURSE
+Respiratory Support: CPAP
+Diagnoses: Invasive devices
+Started DSPT
+
+PROCEDURES
+IV Cannulation
+Foley catheter insertion
+Central line (UAC)
+Ventilation
+Arterial line insertion
+Lumbar Drain insertion
+
+INVESTIGATIONS
+Hemoglobin: 15.4 g/dL
+HbsAg
+HIV I & II (Rapid)
+Platelet Count: 186000 /mm3
+Complete Blood Picture (CBP)/CBC: Neutrophilia, Normocytic Hypochromic RBCs
+Blood Group: O
+Rh Typing: Positive
+CRP: 0.15 mg/L
+Total Bilirubin: 3.2 mg/dL
+Direct Bilirubin: 0.3 mg/dL
+Indirect Bilirubin: 2.90 mg/dL
+ALT (SGPT): 11 U/L
+AST (SGOT): 80 U/L
+Alkaline Phosphatase (ALP): 94 U/L
+Total Protein: 4.9 mg/dL
+Albumin: 3.5 g/dL
+Globulin: 1.4 g/dL
+Creatinine: 0.5 mg/dL
+Blood Urea: 24.2 mg/dL
+Uric Acid: 4.40 mg/dL
+Calcium Serum: 9.60 mg/dL
+Sodium Serum: 140 mmol/L
+Potassium Serum: 4.6 mmol/L
+Chloride Serum: 106 mmol/L
+Ionic Calcium: 5.00 mg/dL
+Thyroxine - Free (FT4): 1.12 ng/dL
+Thyroid Stimulating Hormone (TSH): 2.193 uIU/ml
+Blood culture: Preliminary negative after 24 hours of aerobic incubation.
+
+MEDICATIONS
+[Medication details obscured]
+
+CONSULTATIONS
+Consultant: Dr. Srinivasa Murki
+
+SOURCE PAGES: PAGE_72–PAGE_118

@@ -1,0 +1,1233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>NICU AI — Patient Record</title>
+
+    <link
+        rel="stylesheet"
+        href="../style.css"
+    >
+</head>
+
+
+<body>
+
+    <div class="app-layout">
+
+
+        <!-- ==================================================
+             SIDEBAR
+             ================================================== -->
+
+        <aside
+            class="sidebar"
+            id="sidebar"
+        >
+
+            <div class="sidebar-brand">
+
+                <div class="brand-mark">
+                    NICU
+                </div>
+
+                <div class="brand-text">
+                    <h1>NICU AI</h1>
+                    <p>Clinical Assistant</p>
+                </div>
+
+            </div>
+
+
+            <nav class="sidebar-nav">
+
+                <a
+                    href="../index.html"
+                    class="nav-item"
+                >
+                    <span class="nav-icon">⌂</span>
+                    <span>Dashboard</span>
+                </a>
+
+
+                <a
+                    href="process.html"
+                    class="nav-item"
+                >
+                    <span class="nav-icon">＋</span>
+                    <span>New Summary</span>
+                </a>
+
+
+                <a
+                    href="records.html"
+                    class="nav-item active"
+                >
+                    <span class="nav-icon">⌕</span>
+                    <span>Patient Records</span>
+                </a>
+
+            </nav>
+
+
+            <div class="sidebar-footer">
+
+                <div class="system-status">
+
+                    <span class="status-dot"></span>
+
+                    <span>
+                        System Ready
+                    </span>
+
+                </div>
+
+            </div>
+
+        </aside>
+
+
+
+        <!-- ==================================================
+             MAIN
+             ================================================== -->
+
+        <main class="main-content">
+
+
+            <!-- TOPBAR -->
+
+            <header class="topbar">
+
+                <div
+                    style="
+                        display: flex;
+                        align-items: center;
+                        gap: 12px;
+                    "
+                >
+
+                    <button
+                        class="mobile-menu-button"
+                        id="mobileMenuButton"
+                        type="button"
+                        aria-label="Open navigation"
+                    >
+                        ☰
+                    </button>
+
+                    <span class="topbar-title">
+                        Patient Record
+                    </span>
+
+                </div>
+
+
+                <div class="topbar-status">
+
+                    <span class="status-dot"></span>
+
+                    <span>
+                        NICU AI Online
+                    </span>
+
+                </div>
+
+            </header>
+
+
+
+            <!-- ==================================================
+                 PAGE
+                 ================================================== -->
+
+            <div class="page-content">
+
+
+                <!-- ==================================================
+                     LOADING
+                     ================================================== -->
+
+                <section
+                    class="card"
+                    id="loadingSection"
+                >
+
+                    <div class="loading">
+
+                        <div class="loading-spinner"></div>
+
+                    </div>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     PATIENT RECORD
+                     ================================================== -->
+
+                <div
+                    id="patientRecordSection"
+                    class="hidden"
+                >
+
+
+                    <!-- PAGE HEADER -->
+
+                    <section class="page-header">
+
+                        <div class="page-heading">
+
+                            <h2 id="pagePatientName">
+                                Patient Record
+                            </h2>
+
+                            <p>
+                                Previously generated NICU discharge summary.
+                            </p>
+
+                        </div>
+
+
+                        <a
+                            href="records.html"
+                            class="btn btn-secondary"
+                        >
+                            ← Back to Patient Records
+                        </a>
+
+                    </section>
+
+
+
+                    <!-- ==================================================
+                         PATIENT INFORMATION
+                         ================================================== -->
+
+                    <section class="card patient-header-card">
+
+
+                        <div class="patient-header-top">
+
+                            <div>
+
+                                <h2 id="patientName">
+                                    —
+                                </h2>
+
+                                <p id="recordIdentifier">
+                                    Record —
+                                </p>
+
+                            </div>
+
+
+                            <div id="patientStatusBadge">
+                            </div>
+
+                        </div>
+
+
+
+                        <div class="patient-meta-grid">
+
+
+                            <div>
+
+                                <div class="meta-label">
+                                    UHID
+                                </div>
+
+                                <div
+                                    class="meta-value"
+                                    id="patientUhid"
+                                >
+                                    —
+                                </div>
+
+                            </div>
+
+
+
+                            <div>
+
+                                <div class="meta-label">
+                                    IP Number
+                                </div>
+
+                                <div
+                                    class="meta-value"
+                                    id="patientIpNumber"
+                                >
+                                    —
+                                </div>
+
+                            </div>
+
+
+
+                            <div>
+
+                                <div class="meta-label">
+                                    Processed
+                                </div>
+
+                                <div
+                                    class="meta-value"
+                                    id="patientProcessedDate"
+                                >
+                                    —
+                                </div>
+
+                            </div>
+
+
+
+                            <div>
+
+                                <div class="meta-label">
+                                    Processing Time
+                                </div>
+
+                                <div
+                                    class="meta-value"
+                                    id="patientProcessingTime"
+                                >
+                                    —
+                                </div>
+
+                            </div>
+
+
+                        </div>
+
+                    </section>
+
+
+
+                    <!-- ==================================================
+                         DISCHARGE SUMMARY
+                         ================================================== -->
+
+                    <section class="card summary-card">
+
+
+                        <div class="summary-toolbar">
+
+                            <div>
+
+                                <h3>
+                                    Generated Discharge Summary
+                                </h3>
+
+                            </div>
+
+
+                            <div class="summary-actions">
+
+                                <button
+                                    class="btn btn-secondary"
+                                    id="downloadSummaryButton"
+                                    type="button"
+                                >
+                                    Download TXT
+                                </button>
+
+                            </div>
+
+                        </div>
+
+
+                        <pre
+                            class="summary-content"
+                            id="summaryContent"
+                        ></pre>
+
+
+                    </section>
+
+
+                </div>
+
+
+
+                <!-- ==================================================
+                     ERROR
+                     ================================================== -->
+
+                <section
+                    class="card result-card hidden"
+                    id="errorSection"
+                >
+
+                    <div class="result-state">
+
+                        <div class="result-icon failure">
+                            !
+                        </div>
+
+                        <h3>
+                            Patient Record Could Not Be Opened
+                        </h3>
+
+                        <p id="errorMessage">
+                            The patient record could not be loaded.
+                        </p>
+
+
+                        <div class="result-actions">
+
+                            <a
+                                href="records.html"
+                                class="btn btn-secondary"
+                            >
+                                Back to Patient Records
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </section>
+
+
+            </div>
+
+        </main>
+
+    </div>
+
+
+
+    <!-- ==================================================
+         JAVASCRIPT
+         ================================================== -->
+
+    <script>
+
+        const API_BASE_URL =
+            "http://127.0.0.1:8000/api";
+
+
+        /* ==================================================
+           ELEMENTS
+           ================================================== */
+
+        const sidebar =
+            document.getElementById(
+                "sidebar"
+            );
+
+
+        const mobileMenuButton =
+            document.getElementById(
+                "mobileMenuButton"
+            );
+
+
+        const loadingSection =
+            document.getElementById(
+                "loadingSection"
+            );
+
+
+        const patientRecordSection =
+            document.getElementById(
+                "patientRecordSection"
+            );
+
+
+        const errorSection =
+            document.getElementById(
+                "errorSection"
+            );
+
+
+        const errorMessage =
+            document.getElementById(
+                "errorMessage"
+            );
+
+
+        const pagePatientName =
+            document.getElementById(
+                "pagePatientName"
+            );
+
+
+        const patientName =
+            document.getElementById(
+                "patientName"
+            );
+
+
+        const recordIdentifier =
+            document.getElementById(
+                "recordIdentifier"
+            );
+
+
+        const patientStatusBadge =
+            document.getElementById(
+                "patientStatusBadge"
+            );
+
+
+        const patientUhid =
+            document.getElementById(
+                "patientUhid"
+            );
+
+
+        const patientIpNumber =
+            document.getElementById(
+                "patientIpNumber"
+            );
+
+
+        const patientProcessedDate =
+            document.getElementById(
+                "patientProcessedDate"
+            );
+
+
+        const patientProcessingTime =
+            document.getElementById(
+                "patientProcessingTime"
+            );
+
+
+        const summaryContent =
+            document.getElementById(
+                "summaryContent"
+            );
+
+
+        const downloadSummaryButton =
+            document.getElementById(
+                "downloadSummaryButton"
+            );
+
+
+        /* ==================================================
+           STATE
+           ================================================== */
+
+        let currentPatient = null;
+
+        let summaryText = "";
+
+        let summaryFilename =
+            "nicu_discharge_summary.txt";
+
+
+        /* ==================================================
+           MOBILE MENU
+           ================================================== */
+
+        if (
+            mobileMenuButton
+            && sidebar
+        ) {
+
+            mobileMenuButton.addEventListener(
+                "click",
+                () => {
+
+                    sidebar.classList.toggle(
+                        "mobile-open"
+                    );
+
+                }
+            );
+
+        }
+
+
+        /* ==================================================
+           GET PATIENT ID FROM URL
+           ================================================== */
+
+        function getPatientId() {
+
+            const parameters =
+                new URLSearchParams(
+                    window.location.search
+                );
+
+
+            const value =
+                parameters.get(
+                    "id"
+                );
+
+
+            if (!value) {
+
+                return null;
+            }
+
+
+            const patientId =
+                Number(
+                    value
+                );
+
+
+            if (
+                !Number.isInteger(
+                    patientId
+                )
+                ||
+                patientId <= 0
+            ) {
+
+                return null;
+            }
+
+
+            return patientId;
+        }
+
+
+        /* ==================================================
+           LOAD PATIENT RECORD
+           ================================================== */
+
+        async function loadPatientRecord() {
+
+            const patientId =
+                getPatientId();
+
+
+            if (!patientId) {
+
+                showError(
+                    "A valid patient record ID was not provided."
+                );
+
+                return;
+            }
+
+
+            try {
+
+                /*
+                ----------------------------------------------
+                PATIENT METADATA
+                ----------------------------------------------
+                */
+
+                const patientResponse =
+                    await fetch(
+                        `${API_BASE_URL}/patients/${patientId}`,
+                        {
+                            cache: "no-store",
+                        }
+                    );
+
+
+                const patientData =
+                    await readJsonResponse(
+                        patientResponse
+                    );
+
+
+                if (!patientResponse.ok) {
+
+                    throw new Error(
+                        patientData.detail
+                        || "Patient record not found."
+                    );
+                }
+
+
+                currentPatient =
+                    patientData;
+
+
+                /*
+                ----------------------------------------------
+                SAVED DISCHARGE SUMMARY
+                ----------------------------------------------
+                */
+
+                const summaryResponse =
+                    await fetch(
+                        `${API_BASE_URL}/patients/${patientId}/summary/text`,
+                        {
+                            cache: "no-store",
+                        }
+                    );
+
+
+                const summaryData =
+                    await readJsonResponse(
+                        summaryResponse
+                    );
+
+
+                if (!summaryResponse.ok) {
+
+                    throw new Error(
+                        summaryData.detail
+                        || "This patient does not have a completed discharge summary."
+                    );
+                }
+
+
+                summaryText =
+                    summaryData.summary
+                    || "";
+
+
+                summaryFilename =
+                    summaryData.filename
+                    || "nicu_discharge_summary.txt";
+
+
+                renderPatientRecord();
+
+
+            } catch (error) {
+
+                showError(
+                    error.message
+                );
+            }
+        }
+
+
+        /* ==================================================
+           RENDER
+           ================================================== */
+
+        function renderPatientRecord() {
+
+            const displayName =
+                formatPatientName(
+                    currentPatient.patient_name
+                );
+
+
+            pagePatientName.textContent =
+                displayName;
+
+
+            patientName.textContent =
+                displayName;
+
+
+            recordIdentifier.textContent =
+                `Record #${currentPatient.id ?? "—"}`;
+
+
+            patientStatusBadge.innerHTML =
+                createStatusBadge(
+                    currentPatient.status
+                    || "Unknown"
+                );
+
+
+            /*
+            Database UHID is currently null for older records.
+
+            If missing, try to read it from the saved
+            discharge summary.
+            */
+
+            const extractedUhid =
+                extractSummaryField(
+                    summaryText,
+                    [
+                        "UHID",
+                    ]
+                );
+
+
+            const extractedIp =
+                extractSummaryField(
+                    summaryText,
+                    [
+                        "IP Number",
+                        "IP number",
+                        "IP No",
+                        "IP No.",
+                    ]
+                );
+
+
+            patientUhid.textContent =
+                currentPatient.uhid
+                || extractedUhid
+                || "—";
+
+
+            patientIpNumber.textContent =
+                currentPatient.ip_number
+                || currentPatient.ip_no
+                || extractedIp
+                || "—";
+
+
+            patientProcessedDate.textContent =
+                formatDate(
+                    currentPatient.completed_at
+                    || currentPatient.updated_at
+                    || currentPatient.created_at
+                    || currentPatient.upload_time
+                );
+
+
+            patientProcessingTime.textContent =
+                formatProcessingTime(
+                    currentPatient
+                );
+
+
+            summaryContent.textContent =
+                summaryText;
+
+
+            loadingSection.classList.add(
+                "hidden"
+            );
+
+
+            errorSection.classList.add(
+                "hidden"
+            );
+
+
+            patientRecordSection.classList.remove(
+                "hidden"
+            );
+        }
+
+
+        /* ==================================================
+           PATIENT NAME DISPLAY
+           ================================================== */
+
+        function formatPatientName(value) {
+
+            const text =
+                String(
+                    value
+                    || "Unknown Patient"
+                );
+
+
+            return text
+                .replace(
+                    /^pending_/i,
+                    ""
+                )
+                .replace(
+                    /_/g,
+                    " "
+                );
+        }
+
+
+        /* ==================================================
+           EXTRACT FIELD FROM SAVED SUMMARY
+           ================================================== */
+
+        function extractSummaryField(
+            text,
+            labels
+        ) {
+
+            if (!text) {
+
+                return "";
+            }
+
+
+            const lines =
+                text.split(
+                    /\r?\n/
+                );
+
+
+            for (
+                const label
+                of labels
+            ) {
+
+                const prefix =
+                    `${label}:`;
+
+
+                for (
+                    const line
+                    of lines
+                ) {
+
+                    const trimmed =
+                        line.trim();
+
+
+                    if (
+                        trimmed
+                        .toLowerCase()
+                        .startsWith(
+                            prefix.toLowerCase()
+                        )
+                    ) {
+
+                        return trimmed
+                            .slice(
+                                prefix.length
+                            )
+                            .trim();
+                    }
+                }
+            }
+
+
+            return "";
+        }
+
+
+        /* ==================================================
+           DATE
+           ================================================== */
+
+        function formatDate(value) {
+
+            if (!value) {
+
+                return "—";
+            }
+
+
+            /*
+            SQLite timestamps may look like:
+
+            2026-09-08 05:45:47
+
+            Convert space to T for reliable browser parsing.
+            */
+
+            const normalized =
+                String(value)
+                .replace(
+                    " ",
+                    "T"
+                );
+
+
+            const date =
+                new Date(
+                    normalized
+                );
+
+
+            if (
+                Number.isNaN(
+                    date.getTime()
+                )
+            ) {
+
+                return String(
+                    value
+                );
+            }
+
+
+            return date.toLocaleString(
+                undefined,
+                {
+                    day: "2-digit",
+                    month: "short",
+                    year: "numeric",
+                    hour: "2-digit",
+                    minute: "2-digit",
+                }
+            );
+        }
+
+
+        /* ==================================================
+           PROCESSING TIME
+           ================================================== */
+
+        function formatProcessingTime(
+            patient
+        ) {
+
+            const seconds =
+                Number(
+                    patient.processing_time_seconds
+                    ?? patient.elapsed_seconds
+                    ?? patient.duration_seconds
+                );
+
+
+            if (
+                !Number.isFinite(
+                    seconds
+                )
+                ||
+                seconds < 0
+            ) {
+
+                return "—";
+            }
+
+
+            const minutes =
+                Math.floor(
+                    seconds / 60
+                );
+
+
+            const remainingSeconds =
+                Math.round(
+                    seconds % 60
+                );
+
+
+            if (minutes > 0) {
+
+                return (
+                    `${minutes} min `
+                    + `${remainingSeconds} sec`
+                );
+            }
+
+
+            return `${remainingSeconds} sec`;
+        }
+
+
+        /* ==================================================
+           STATUS BADGE
+           ================================================== */
+
+        function createStatusBadge(
+            status
+        ) {
+
+            const normalized =
+                String(
+                    status
+                )
+                .trim()
+                .toLowerCase();
+
+
+            let badgeClass =
+                "badge-processing";
+
+
+            if (
+                normalized === "completed"
+            ) {
+
+                badgeClass =
+                    "badge-success";
+            }
+
+
+            if (
+                normalized === "failed"
+            ) {
+
+                badgeClass =
+                    "badge-failed";
+            }
+
+
+            return `
+                <span class="badge ${badgeClass}">
+                    ${escapeHtml(status)}
+                </span>
+            `;
+        }
+
+
+        /* ==================================================
+           DOWNLOAD
+           ================================================== */
+
+        if (downloadSummaryButton) {
+
+            downloadSummaryButton.addEventListener(
+                "click",
+                () => {
+
+                    if (!summaryText) {
+
+                        return;
+                    }
+
+
+                    const blob =
+                        new Blob(
+                            [
+                                summaryText,
+                            ],
+                            {
+                                type:
+                                    "text/plain;charset=utf-8",
+                            }
+                        );
+
+
+                    const downloadUrl =
+                        URL.createObjectURL(
+                            blob
+                        );
+
+
+                    const link =
+                        document.createElement(
+                            "a"
+                        );
+
+
+                    link.href =
+                        downloadUrl;
+
+
+                    link.download =
+                        summaryFilename;
+
+
+                    document.body.appendChild(
+                        link
+                    );
+
+
+                    link.click();
+
+
+                    link.remove();
+
+
+                    URL.revokeObjectURL(
+                        downloadUrl
+                    );
+
+                }
+            );
+
+        }
+
+
+        /* ==================================================
+           ERROR
+           ================================================== */
+
+        function showError(message) {
+
+            loadingSection.classList.add(
+                "hidden"
+            );
+
+
+            patientRecordSection.classList.add(
+                "hidden"
+            );
+
+
+            errorSection.classList.remove(
+                "hidden"
+            );
+
+
+            errorMessage.textContent =
+                message
+                || "The patient record could not be loaded.";
+        }
+
+
+        /* ==================================================
+           RESPONSE HELPER
+           ================================================== */
+
+        async function readJsonResponse(
+            response
+        ) {
+
+            const text =
+                await response.text();
+
+
+            if (!text) {
+
+                return {};
+            }
+
+
+            try {
+
+                return JSON.parse(
+                    text
+                );
+
+            } catch {
+
+                return {
+                    detail: text,
+                };
+            }
+        }
+
+
+        /* ==================================================
+           HTML SAFETY
+           ================================================== */
+
+        function escapeHtml(value) {
+
+            return String(
+                value
+                ?? ""
+            )
+            .replace(
+                /&/g,
+                "&amp;"
+            )
+            .replace(
+                /</g,
+                "&lt;"
+            )
+            .replace(
+                />/g,
+                "&gt;"
+            )
+            .replace(
+                /"/g,
+                "&quot;"
+            )
+            .replace(
+                /'/g,
+                "&#039;"
+            );
+        }
+
+
+        /* ==================================================
+           START
+           ================================================== */
+
+        loadPatientRecord();
+
+    </script>
+
+
+</body>
+
+</html>

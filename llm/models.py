@@ -1,10 +1,10 @@
 # ==========================================================
 # OLLAMA MODEL CONFIGURATION
 # ==========================================================
-
-MODEL_NAME = "gemma3:12b"
-# MODEL_NAME = "qwen2.5:7b"
-# MODEL_NAME = "gemma3:27b"
+#MODEL_NAME = "qwen2.5:7b"
+#MODEL_NAME = "gemma3:12b"
+MODEL_NAME = "qwen2.5:7b"
+#MODEL_NAME = "gemma3:27b"
 
 
 # ==========================================================

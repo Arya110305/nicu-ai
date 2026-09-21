@@ -1,0 +1,740 @@
+========================================================================
+NORMALIZED CLINICAL SECTION 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0032
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Date of Birth: 31/5/2026
+
+BIRTH DETAILS
+- Gestational Age: 32 weeks
+- Birth Weight: 1.66 kg
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: RDS, Apnea
+- Date of Admission: 31/5/2026
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate: 144 beats per minute
+  - Respiratory Rate: 59 breaths per minute
+  - SpO2: 93%
+
+MEDICATIONS
+- No medications listed initially.
+
+INVESTIGATIONS
+- No investigations listed initially.
+
+PROCEDURES
+- No procedures listed initially.
+
+CONSULTATIONS
+- Consultant: D.S. Murki
+
+BIRTH DETAILS
+- Gestational Age: 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission: 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate: 144 beats per minute
+  - Respiratory Rate: 59 breaths per minute
+  - SpO2: 93%
+  - Blood Pressure: Not specified
+
+CONSULTATIONS
+- Consultant: D.S. Murki
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+BIRTH DETAILS
+- Gestational Age (GA): 32 weeks
+- Birth Weight: 1.66 grams
+- Delivery Method: Not specified
+- Cry at Birth: Not specified
+- Resuscitation: Not specified
+- APGAR: Not specified
+- Place of Birth: Ankura Hospital
+
+ADMISSION DETAILS
+- Reason for Admission: Not specified
+- Date of Admission (DOA): 31/5/2026, Time: 4:42 am
+
+EXAMINATION
+- Vital Signs:
+  - Temperature: 86.5°F
+  - Heart Rate (HR): 144 beats per minute
+  - Respiratory Rate (RR): 59 breaths per minute
+  - SpO2: 93%
+  - Blood Pressure (B.P): Not specified
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Gender: Male
+- Age: 15 days
+- Date of Birth (DOB): 31/5/2026
+
+ADMISSION DETAILS
+- Reason for Admission: RDS, Apnea
+- Date of Admission (DOA): 31 May 2026
+
+EXAMINATION
+- Heart Rate: 151/min
+- Respiratory Rate: 46/mt
+- Blood Pressure: 98.1 mm Hg
+- Temperature: 32°C
+- SpO2 on FiO2: Not specified
+
+DIAGNOSES / CLINICAL PROBLEMS
+- RDS
+- Apnea
+
+RESPIRATORY SUPPORT
+- CPAP started
+
+NEUROLOGICAL STATUS
+- Not explicitly stated
+
+seizures
+- Not explicitly stated
+
+hypoglycemia / GLUCOSE
+- No specific glucose values or interventions mentioned
+
+FEEDING / NUTRITION
+- Feeding: Breastfed/top-fed
+- Admission Weight: 1.5 kg
+
+FLUIDS
+- IVF
+- Dopamine infusion started
+
+MEDICATIONS
+- Azithromycin 0.8 ml od
+- Flunixin meglumine 0.8 ml bd
+
+INVESTIGATIONS
+- CRP ordered
+- RFT (Renal Function Tests) ordered
+
+PROCEDURES
+- Nasojejunal tube placed Q4h
+- Nebulization with Nacl 0.8 h
+- T/F 20 - 22 ml q2h
+
+CONSULTATIONS
+- Consultant: Dr. Srinivas Murki
+
+DAILY CLINICAL PROGRESS
+- Date: 10 May 2026, Time: 4 pm
+- Doctor: Do. Anantharaman
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0002
+SOURCE PAGES: PAGE_0033 TO PAGE_0088
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Admission Date: 15 June 2026, 12:19 PM
+
+MATERNAL / ANTENATAL HISTORY
+- Consult: DR. SRINIVAS MURKI
+- Admission Date: 31-05-2026, 10:11 AM
+
+BIRTH DETAILS
+- Gestational age: 32 weeks
+- Birth weight: 1.66 kg
+- Delivery method: Vaginal delivery
+- Place of birth: Ankura Hospital for Women and Children
+
+ADMISSION
+- Reason for admission: Neonatal respiratory distress
+- Symptoms: Respiratory distress, suspected sepsis
+
+NICU COURSE
+- Diagnoses: Suspected sepsis, RDS (Respiratory Distress Syndrome)
+- Respiratory support: CPAP, NIV (Non-Invasive Ventilation)
+- Oxygen requirement: CPAP (6/25%), NIV (14/10/30%)
+- Weight: 1.52 kg (+40 g) on 16 June 2026
+- Feeding: 8% formula, 10% by mouth
+- Oxygen requirement: CPAP (6/25%), NIV (14/10/30%)
+
+MEDICATIONS
+- Amikacin
+- Ceftriaxone
+- Dopamine
+- Furosemide
+
+INVESTIGATIONS
+- CRP: 0.2 mg/L on 16 June 2026
+- TLC: 17,500 on 16 June 2026
+- Blood gas analysis (16 June 2026): pH = 7.24, PaCO2 = 37.8 mmHg, HCO3- = 11.2, BE = -8.4
+
+PROCEDURES
+- CPAP initiation and adjustment
+- UVC insertion
+
+CONSULTATIONS
+- Dr. Srinivas Murki
+
+DAILY PROGRESS
+- Date: 21/06/2026
+- Day of Life: 17 days
+- Weight: 1.52 kg
+- Vitals: HR = 156, SpO2 = 94%, BP - Not documented
+- Bowel movement: Present
+- Voiding: Voided
+
+MEDICATIONS
+- Amikacin (once daily)
+- Calcimex-P (0.5 ml PO)
+- NIMV to CPAP transition
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0003
+SOURCE PAGES: PAGE_0089 TO PAGE_0142
+========================================================================
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+ADMISSION DETAILS:
+- Reason for admission: Not documented
+- Consultant: Dr. Srinivas Murki
+
+CLINICAL PROBLEMS:
+- Symptoms: Desaturations, apnea
+
+MEDICATIONS:
+- INJ TAXIN: 80 mg IV twice daily, started on 31/05/2026
+- INJ CALCIUM GLUCONATE: 3 ml + 3 ml IV twice daily, stopped daily
+- INJ PARACETAMOL: 1.7 ml IV once daily, started on 4 am 8/6/2026
+- INJ PIPETA2: 170 mg IV twice daily, started on 6 pm 8/6/2026
+- INJ AMIKACNE: 20 mg IV once daily, started on 31/05/2026
+- SYP CALCOMAX: 2.5 ul PO daily, started on 3/6/2026
+- SYP CAFFEINE: 0.4 ml oral once daily, started on 3/6/2026
+- IV CAFFEINE: 8 mg/kg/day
+
+PROCEDURES:
+- IV Cannulation
+- UVC cannulation
+- Nasal cannula oxygen therapy
+
+CONSULTATIONS:
+- Dr. Srinivas Murki
+
+CLINICAL EXAMINATION:
+- Vitals: Temp - 36.5°C, HR - 148 bpm, RR - 68 breaths/min, SPo2 - 96%
+- Activity: Good
+- Respiratory status: breathing, airway ensured, comfortable position provided
+
+INVESTIGATIONS:
+- Blood gas analysis
+- X-ray done for CVc position
+
+DAILY CLINICAL PROGRESS:
+- Respiratory support: Room air, stable
+- Feeding: Accepting feeds well, Intake of 25 ml and boly, output of 8 times, stool 3 times
+- Weight: 1.620 kg (20 g)
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0004
+SOURCE PAGES: PAGE_0143 TO PAGE_0178
+========================================================================
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- MR number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Admission date: 2026-05-31
+
+ADMISSION DETAILS:
+- Reason for admission: Not documented
+
+BIRTH DETAILS:
+- Gestational age: Not documented
+- Birth weight: Not documented
+- Mode of delivery: Not documented
+
+CLINICAL PROBLEMS:
+- Diagnoses: Respiratory Distress Syndrome (RDS)
+
+NICU COURSE:
+- Respiratory support: Initially on Nimby ventilator, transitioned to CPAP.
+- Oxygen requirement: Desaturation episodes with cyanosis and bradycardia.
+- seizures: No seizures documented.
+- hypoglycemia / Glucose: Not documented.
+- Neurological findings: No neurological findings documented.
+- Infection: Amikacin administered (last day).
+- Jaundice: Not documented.
+- Feeding progression: Spoonfed + fell HMF + 1 ml, tolerating.  3.1 NaCl alternate feeds, oral caffeine.
+- IV fluids: IVF 10% at a rate of 2.0 ml/hr.
+- Glucose infusion: Not documented.
+- Weight changes: Weight 1.76 kg on 2026-06-27.
+- Temperature: 98.6°F (multiple recordings).
+- Urine/stool: Stool passed on 2026-06-27.
+
+MEDICATIONS:
+- Caffeine: Given at 10 AM, 1 mg/kg.
+- Fluvir: Given at 9 AM, 30 mg IV.
+- Nasoclear: Given at 5 AM, 5 ml Q4H.
+- Syp: 0.4ml once daily starting 2026-06-26.
+- Oral calcium: Changed from IV calcium.
+
+INVESTIGATIONS:
+- X-ray: Done on 2026-06-23.
+- CBP, CRP, H·Calcium, Sr.Sodium: Ordered on 2026-06-21.
+
+PROCEDURES:
+- IV cannulation: UVC and UAC performed.
+- Perianal care given.
+
+CONSULTATIONS:
+- Dr. S. Moaki: Advised CPAP transition, continued IVF, amikacin discontinuation, oral calcium, CVC removal, and pro-a administration.
+- Dr. Kaarthik: Advised CBP, CRP, H·Calcium, Sr.Sodium investigations.
+- Dr. Srinivas Murki: Consultation documented.
+
+DAILY CLINICAL PROGRESS:
+- 2026-06-02 (Morning): Baby on Nimby ventilator under radiant warm care. Vitals stable.
+- 2026-06-02 (Evening): CPAP mode, vitals checked.
+- 2026-06-03 (Morning): Episodes of apnea.
+- 2026-06-04 (Afternoon): Weight: 1.76 kg.
+- 2026-06-31 (Night): CPAP mode, vitals checked.
+- 2026-07-01 (Morning): Baby on room air, episodes of apnea.
+
+DISCHARGE-RELATED INFORMATION:
+- Final condition: Not documented.
+- Feeding: Tolerating oral feeds.
+- Discharge medications: Not documented.
+- Advice: Not documented.
+- Follow-up: Not documented.
+- Pending reports: CBP, CRP, H·Calcium, Sr.Sodium
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0005
+SOURCE PAGES: PAGE_0179 TO PAGE_0232
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N Akshaya
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Date of Birth: Not specified
+
+ADMISSION DETAILS
+- Reason for admission: Not specified
+- Day of Life: 15
+
+CLINICAL PROBLEMS
+- Diagnoses: PT-RD - RDS (Respiratory Distress Syndrome)
+
+INVESTIGATIONS
+- CRP: 4.3 mg/L (01/06)
+- Electrolytes: Na+ 139, K+ 5.0, Cl+ 105, Ca2+ 9.3, PO4 4.94, Mg2+ Not specified
+- Renal Function Tests: Urea 13.9 mg/dL, BUN 6.4 mg/dL, Creatinine 0.1 mg/dL, GFR 3.4 mL/min/1.73 m²
+- Liver Function Tests: Total Bilirubin 3.2 mg/dL, Direct Bilirubin 0.3 mg/dL, Indirect Bilirubin 2.9 mg/dL, AST 55 U/L, ALT 4.6 U/L, ALP 327.8 U/L, GGT 6.33 mU/L
+- Hematology: HB%: 16.0%, PCV/HCT: 47.4%, WBC: 10300/µL, RBC: 5.00 x 10^6/µL, Platelet count: 345000/µL
+- Blood Gas Analysis: Not specified
+
+MEDICATIONS
+- No medications listed.
+
+PROCEDURES
+- IV cannulation
+- UVC
+- UAC
+- PICC
+- Foley catheter
+- Ventilation
+- CPAP
+- LFNC
+- HFNC
+- Phototherapy
+
+CONSULTATIONS
+- Dr. Srinivas Murki
+
+DAILY CLINICAL PROGRESS
+- Nebulization with Adrenaline (Pcuelle)
+- GRBS monitoring
+
+CLABSI MAINTENANCE & BUNDLE CHECKLIST
+- Date of Insertion: 31/05/2026
+- Indications: PT - SHOCK RISK
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0006
+SOURCE PAGES: PAGE_0233 TO PAGE_0272
+========================================================================
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 1 Day
+
+LABORATORY INVESTIGATIONS:
+- Creatinine: 0.41 mg/dL (Reference Range: 0.3 - 0.9)
+- Blood Urea: 13.9 L mg/dL (Reference Range: 16.60 - 48.50)
+- Blood Urea Nitrogen (BUN): 6.4 mg/dL (Reference Range: 6.00 - 20.00)
+- Uric Acid: 3.7 mg/dL (Reference Range: 3.50 - 7.20)
+- Calcium: 9.3 mg/dL (Reference Range: 8.80 - 10.80)
+- Sodium: 139 mmol/L (Reference Range: 133.00 - 144.00)
+- Potassium: 5.0 mmol/L (Reference Range: 3.40 - 5.10)
+- Chloride: 105 mmol/L (Reference Range: 97.00 - 107.00)
+- Hemoglobin: 16.0 g/dL (Reference Range: 14.00 - 22.00)
+- Packed Cell Volume: 47.4% (Reference Range: 45.00 - 75.00)
+- MCV: 104.3 fL (Reference Range: 100.00 - 120.00)
+- MCH: 35.1 pg (Reference Range: 31.00 - 37.00)
+- MCHC: 33.7 gm/dl (Reference Range: 30.00 - 36.00)
+- RBC Count: 4.55 x 10^6/uL (Reference Range: 5.00 - 7.00)
+- WBC Count: 10,300 cells/cumm (Reference Range: 10,000.00 - 26,000.00)
+- Platelet Count: 345,000 /mm3 (Reference Range: 100,000.00 - 450,000.00)
+- Neutrophils: 20% (Reference Range: 40.00 - 60.00)
+- Lymphocytes: 72% (Reference Range: 10.00 - 30.00)
+- Eosinophils: 0.2% (Reference Range: 1.00 - 4.00)
+- Monocytes: 0.6% (Reference Range: 1.00 - 6.00)
+- Basophils: 0%
+- Blood Group: O
+- Rh Typing: Positive
+- Total Bilirubin: 6.4 mg/dL
+- Direct Bilirubin: 1.0 H mg/dL (Reference Range: 0.33 - 0.71)
+- Indirect Bilirubin: 5.40 mg/dL (Reference Range: 0.00 - 12.00)
+- Thyroid Stimulating Hormone (TSH): 6.33 uIU/ml
+- Culture and Sensitivity: No bacterial growth seen after 24 and 48 hours of aerobic incubation.
+- C-Reactive Protein (CRP): 4.30 mg/L (Reference Range: 0.01 - 6.00)
+- Ionic Calcium: 4.94 mg/dL
+
+ADMISSION DETAILS:
+- Reason for Admission: Not documented in this chunk.
+- Day of Life: 15 Days, 9 Months
+
+NICU COURSE:
+- Respiratory support: CPAP with FiO2 25%
+- Amikacin administered.
+- Dr. Srinivas Murki rounds performed.
+
+MEDICATIONS:
+- Amikacin (dose and frequency not documented)
+- Syrup (dose and frequency not documented)
+- Fluvir Azee (dose and frequency not documented)
+- Nasoclear drops (hourly)
+- Crocin (0.5 ml at 3 am for fever)
+
+PROCEDURES:
+- IV Cannulation
+- UVC
+- UAC
+- PICC
+- Foley catheter
+- Ventilation
+- CPAP
+- LFNC
+- HFNC
+- Phototherapy
+- Gavage tube insertion
+- Nasogastric suction
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0007
+SOURCE PAGES: PAGE_0273 TO PAGE_0325
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP number: LB26/2772
+- Sex: Male
+- Age: 15 days
+
+ADMISSION DETAILS
+- Admission date: 15-06-2026
+
+EXAMINATION
+- General condition assessed.
+- Vitals checked and recorded.
+- Feeding of 25 ml given every 3 hours.
+- Passed urine and stool.
+- One episode of vomiting.
+
+VITAL SIGNS
+- Baby on room air.
+- No episodes of apnea.
+
+MEDICATIONS
+- Caffeine given at 8:15 AM on day of life (DOL) 1.
+- Caffeine given at 8:00 AM, 12:00 PM, 4:00 PM, and 6:00 AM.
+
+RESPIRATORY SUPPORT
+- Baby on room air.
+
+NEUROLOGICAL STATUS
+- No episodes of apnea.
+
+FEEDING / NUTRITION
+- Therapeutic feeding instruction (TIF) provided to mother.
+
+CONSULTATIONS
+- Consultant: Dr. Srinivas Murki.
+
+INVESTIGATIONS
+- VIP scores documented daily, consistently 0.
+
+PROCEDURES
+- IV cannulation performed.
+- Foley catheter inserted.
+- Central line inserted.
+- Ventilation initiated.
+
+DAILY CLINICAL PROGRESS
+- Temperature between 38.0°C and 42.0°C.
+- Nebulization with NS and ADR/APR administered hourly, 6th hourly.
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0008
+SOURCE PAGES: PAGE_0326 TO PAGE_0352
+========================================================================
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- Sex: Male
+- Age: 15 days
+- Admission Date: 15-06-2026
+
+LABORATORY REQUESTS (SOURCE PAGES: PAGE_326–PAGE_327):
+- Hemoglobin
+- AFB for Culture & Sensitivity
+- Complete Blood Picture (CBP)
+- CSF Lactate
+- PCV
+- CSF Pyruvate
+- HIV I & II (Rapid)
+- Platelet Count
+- HIV I & II (ELISA)
+- HbsAg
+- AEC Absolute Eosinophil Count
+- Peripheral Smear
+- Hepatitis - A (IgM)
+- Smear for MP
+- Leptospira IgM
+- Parasite V & F
+- Weil Felix
+- QBC
+- HCV
+- ESR (Erythrocyte Sedimentation Rate)
+- Dengue IgG
+- Blood Group & Rh Type
+- Direct Coombs Test
+- Dengue IgM
+- Indirect Coombs Test
+- Dengue Ns1 Antigen
+- Bleeding Time
+- TB PCR
+- Clotting Time
+- HSV-PCR
+- Complete Urine Examination (CUE)
+- Mantoux Test
+- RA Factor
+- Stool Routine Examination
+- Rotavirus Antigen Defection
+- CSF Cell Type & Count
+- ASO
+- Factor Assay
+- Widal Test
+- Anemia Profile
+- TORCH Profile
+
+GRBS MONITORING (SOURCE PAGE: PAGE_343):
+- Date: 15/06/2026
+- GRBS: 28 mg/dL
+
+PATIENT ACUITY SCORE & ALLOCATION (SOURCE PAGES: PAGE_344–PAGE_352):
+- Patient Name: B/O. N AKSHAYA
+- UHID: 162607289
+- IP Number: LB26/2772
+- DOA: 15/06/2026
+
+The acuity score assessment includes details regarding level of consciousness, respiratory status, cardiovascular status, feeding and nutrition, elimination, medication, pain and comfort, procedures and devices, and parental support need. Specific scores were not documented.
+
+NURSE SIGNATURES (SOURCE PAGE: PAGE_352):
+- Sr. Mamatha
+- Sr. Ush, Fane
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0009
+SOURCE PAGES: PAGE_0353 TO PAGE_0359
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: N AKSHAYA
+- UHID: 162607289
+- IP number: LB26/2772
+- Sex: Male
+- Age: 15 Days (PAGE_353) / 16 Days (PAGE_359)
+
+ADMISSION DETAILS
+- Admission Date (DOA): 15-06-2026 12:19 PM (PAGE_353)
+- Admitting Doctor: DR. SRINIVAS MURKI (PAGE_353)
+
+DIAGNOSES / CLINICAL PROBLEMS
+- No specific diagnoses documented. (PAGE_353)
+
+CLINICAL EXAMINATION
+- Alert and age-appropriate (PAGE_353)
+- Stable vitals (PAGE_353)
+- Normal breathing room air (PAGE_353)
+- Tachycardia (Cardiovascular status) (PAGE_353)
+- Oral feeds independently (Nutrition) (PAGE_353)
+
+VITAL SIGNS
+- Not explicitly documented. (PAGE_353)
+
+RESPIRATORY SUPPORT
+- Not explicitly documented. (PAGE_353)
+
+NEUROLOGICAL STATUS
+- Not explicitly documented. (PAGE_353)
+
+seizures
+- Not explicitly documented. (PAGE_353)
+
+hypoglycemia / GLUCOSE
+- Not explicitly documented. (PAGE_353)
+
+FEEDING / NUTRITION
+- Oral feeds independently (PAGE_353)
+
+FLUIDS
+- Not explicitly documented. (PAGE_353)
+
+MEDICATIONS
+- No medications documented. (PAGE_353)
+
+INVESTIGATIONS
+- C-Reactive Protein (CRP): 0.2 mg/L (Reference Range: 0.01 - 6.00) (PAGE_354)
+- Ionic Calcium: 5.26 mg/dL (Reference Range for Children: 4.8 - 5.52, Adults: 4.64 - 5.28) (PAGE_355)
+- Creatinine (Serum): 0.5 mg/dL (Reference Range: 0.1 - 0.4) (PAGE_356)
+- Blood Urea: 22 mg/dL (Reference Range: 16.60 - 48.50) (PAGE_356)
+- Blood Urea Nitrogen (BUN): 10.3 mg/dL (Reference Range: 6.00 - 20.00) (PAGE_356)
+- Uric Acid: 6.5 mg/dL (Reference Range: 3.50 - 7.20) (PAGE_356)
+- Hemoglobin (HB): 13.7 g/dL (Reference Range: 11.50 - 16.50) (PAGE_357)
+- Packed Cell Volume (PCV): 43.7% (Reference Range: 33.00 - 53.00) (PAGE_357)
+- Mean Corpuscular Volume (MCV): 100.2 fL (Reference Range: 92.00 - 116.00) (PAGE_357)
+- Mean Corpuscular Hemoglobin (MCH): 31.4 pg (Reference Range: 30.00 - 36.00) (PAGE_357)
+- Mean Corpuscular Hemoglobin Concentration (MCHC): 31.4 g/dL (Reference Range: 29.00 - 37.00) (PAGE_357)
+- Red Blood Cell Count (RBC): 4.36 x 10^6/uL (Reference Range: 3.00 - 5.40) (PAGE_357)
+- White Blood Cell Count (WBC): 17,500 cells/cumm (Reference Range: 5,000.00 - 19,000.00) (PAGE_357)
+- Platelet Count: 641,000 H/mm3 (Reference Range: 200,000.00 - 500,000.00) (PAGE_357)
+- Blood Culture and Sensitivity: No bacterial growth seen after 24 hours of aerobic incubation. (PAGE_358)
+- Complete Urine Examination (CUE):
+  - Quantity: 10 ml (PAGE_359)
+  - Colour: Pale Yellow (PAGE_359)
+  - Appearance: Clear (PAGE_359)
+  - Specific Gravity: 1.005 (PAGE_359)
+  - pH: 6.0 (PAGE_359)
+  - Glucose: Nil (PAGE_359)
+  - Protein: Nil (PAGE_359)
+  - Bilirubin: Negative (PAGE_359)
+  - Ketone: Nil (PAGE_359)
+  - Blood: Absent (PAGE_359)
+  - Leucocytes: Nil (PAGE_359)
+  - Pus Cells: 3-4/hpf (PAGE_359)
+  - Epithelial cells: 1-2/hpf (PAGE_359)
+  - RBC's: Nil (PAGE_359)
+
+PROCEDURES
+- None (PAGE_353)
+
+CONSULTATIONS
+- No consultations documented. (PAGE_353)
+
+DAILY CLINICAL PROGRESS
+- Level of consciousness: Alert and age-appropriate (PAGE_353)
+- Respiratory status: Normal breathing room air (PAGE_353)
+- Cardiovascular status: Tachycardia (PAGE_353)
+- Nutritional status: Oral feeds independently (PAGE_353)

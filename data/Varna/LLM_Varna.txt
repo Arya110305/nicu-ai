@@ -1,0 +1,1633 @@
+========================================================================
+STRUCTURED PART 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0022
+========================================================================
+
+SOURCE PAGE: PAGE_1
+DOCUMENT TYPE: Admission Record
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IP Number: LB26/3007
+- Sex: Male
+- Age: 4 D9M (Days Old)
+
+MATERNAL / ANTENATAL HISTORY
+- Gravida/Parity: G2P1L
+
+BIRTH DETAILS
+- Gestational Age: 36 weeks or more
+- Birth Weight: 2.8 kg
+- Delivery Method: Forceps
+- Delivery Indication: Preeclampsia in labor
+- Cry at Birth: Yes
+- Resuscitation: Not mentioned
+- APGAR: Not documented
+
+ADMISSION DETAILS
+- Reason for Admission: Late preterm, SGA (Small for Gestational Age)
+- Date of Admission: 27/06/2026 09:03 PM
+
+DIAGNOSES / CLINICAL PROBLEMS
+- Seizures
+- Hypoglycemia
+
+EXAMINATION
+- Respiratory Status: Room air since birth
+- Vital Signs:
+  - Temperature: 36.5°C
+  - Heart Rate: 130 bpm
+  - Respiratory Rate: Not documented
+  - Blood Pressure: Not documented
+  - SpO2: 98%
+
+VITAL SIGNS
+- Heart Rate: 130 bpm
+- Respiratory Rate: Not documented
+- Blood Pressure: Not documented
+- SpO2: 98%
+
+RESPIRATORY SUPPORT
+- Oxygen Requirement: Room air
+
+NEUROLOGICAL STATUS
+- Seizures: Multiple episodes (t)
+
+SEIZURES
+- Episodes of seizures noted
+
+HYPOGLYCEMIA / GLUCOSE
+- Hypoglycemia with seizures
+
+FEEDING / NUTRITION
+- Breastfed and top-fed
+- Admission Weight: 2.8 kg
+
+FLUIDS
+- Intravenous fluids: Not documented
+
+MEDICATIONS
+- Levetiracetam (loading dose): Given
+- Phenobarbitone (maintenance): Given
+- Optineuron: Given
+
+INVESTIGATIONS
+- CRP: 2.4 mg/L
+- Creatinine: 0.4 mg/dL
+- Urea: 20 mg/dL
+- MRI Brain: Not performed yet
+- EEG: Not documented
+
+PROCEDURES
+- UVC: Inserted
+- UAC: Inserted
+- PICC: Inserted
+
+CONSULTATIONS
+- Dr. Srinivas Murki: Consultation noted
+
+DAILY PROGRESS
+- Day 1:
+  - Seizure episodes observed
+  - On minimal oxygen (0.1 L/min)
+  - GRBS score: 82
+  - Hypoglycemic seizures with pre-labor status
+  - Stable on room air
+
+DISCHARGE-RELATED INFORMATION
+- Latest clinical status: Stable, multiple episodes of hypoglycemia and seizures
+- Feeding: Tolerating feeds
+- Discharge medicines: Levetiracetam, Phenobarbitone, Optineuron
+- Advice: Continue medications as prescribed
+
+
+========================================================================
+STRUCTURED PART 0002
+SOURCE PAGES: PAGE_0023 TO PAGE_0050
+========================================================================
+
+SOURCE PAGE: PAGE_23
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 20/6/26, 3:30 PM
+- Doctor: Dr. Keelth
+- Specialist: PedNem
+
+RELEVANT FINDINGS AND ACTIONS:
+- Acute lymphocytic sepsis suspected.
+- SGA (Small for Gestational Age) noted.
+- No acidosis observed.
+- Normal amniotic fluid and meconium-stained liquor.
+
+SOURCE PAGE: PAGE_24
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 30/6/26, 3:00 PM
+- Doctor: Dr. Nomheloti
+
+RELEVANT FINDINGS AND ACTIONS:
+- Preterm delivery.
+- Symptomatic hypoglycemia noted.
+- Neonatal seizures for 48 hours managed with phenobarbitone maintenance dose of 60 mg.
+- Baby's weight: 2.3 kg.
+
+SOURCE PAGE: PAGE_25
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 30/6/26, 2:15 PM
+- Doctor: Dr. Sorinivao Murki
+
+RELEVANT FINDINGS AND ACTIONS:
+- Hypoglycemic seizures noted.
+- MRI brain showed good action with no evidence of infection.
+- SpO2 normal.
+- No focal deficits observed.
+
+SOURCE PAGE: PAGE_26
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+MEDICATIONS:
+- SIF ad lib, 30 ml Q2H
+- Taper and stop IV fluids
+- IV phenobarbitone maintenance
+- Cefotaxime till MRI report
+- Syrup calcimax plus Q6H
+- GRBS monitoring
+
+SOURCE PAGE: PAGE_27
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 30/6/26, 8 PM
+- Doctor: Dr. Srinivas Murki
+
+RELEVANT FINDINGS AND ACTIONS:
+- Hypoglycemic episodes noted.
+- MRI brain and hypotonia observed.
+- Cefotaxime administered.
+
+SOURCE PAGE: PAGE_28
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 1/7/26, 6 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- No further seizures.
+- MRI brain and hypotonia noted.
+
+SOURCE PAGE: PAGE_29
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 1/7/26, 12 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Symptomatic hypoglycemia and neonatal seizures noted.
+- MRI brain and hypotonia observed.
+
+SOURCE PAGE: PAGE_30
+DOCUMENT TYPE: PROGRESS NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 1/7/26, 6 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- No further seizures.
+- MRI brain and hypotonia noted.
+
+SOURCE PAGE: PAGE_31
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+MEDICATIONS:
+- IV phenobarbitone, loading dose of 10 mg/kg
+- IV phenobarbitone maintenance
+- IV taxim
+
+SOURCE PAGE: PAGE_32
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+MEDICATIONS:
+- IV phenobarbitone, loading dose of 10 mg/kg
+- IV taxim
+- Oral phenobarbitone, change to oral
+
+SOURCE PAGE: PAGE_33
+DOCUMENT TYPE: MEDICATION CHART
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+MEDICATIONS:
+- IV phenobarbitone, loading dose of 10 mg/kg
+- IV taxim
+
+SOURCE PAGE: PAGE_34
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 9 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition assessed.
+- Vitals monitored.
+
+SOURCE PAGE: PAGE_35
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_36
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_37
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_38
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_39
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_40
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_41
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_42
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_43
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_44
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_45
+DOCUMENT TYPE: NURSING CARE PLAN
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 29/6/26, 4 PM
+
+RELEVANT FINDINGS AND ACTIONS:
+- Baby's condition monitored.
+- Vitals recorded.
+
+SOURCE PAGE: PAGE_46
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 27/6/26, Night
+
+RELEVANT FINDINGS AND ACTIONS:
+- General condition assessed.
+- Vitals monitored.
+
+SOURCE PAGE: PAGE_47
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 28/6/26, Morning
+
+RELEVANT FINDINGS AND ACTIONS:
+- General condition assessed.
+- Vitals monitored.
+
+SOURCE PAGE: PAGE_48
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 28/6/26, Morning
+
+RELEVANT FINDINGS AND ACTIONS:
+- General condition assessed.
+- Vitals monitored.
+
+SOURCE PAGE: PAGE_49
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 28/6/26, Evening
+
+RELEVANT FINDINGS AND ACTIONS:
+- General condition assessed.
+- Vitals monitored.
+
+SOURCE PAGE: PAGE_50
+DOCUMENT TYPE: NURSES NOTES
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 D9M (Days 9 Months)
+
+CLINICAL PROGRESS:
+- Date & Time: 28/6/26, Evening
+
+RELEVANT FINDINGS AND ACTIONS:
+- General condition assessed.
+- Vitals monitored.
+
+
+========================================================================
+STRUCTURED PART 0003
+SOURCE PAGES: PAGE_0051 TO PAGE_0072
+========================================================================
+
+SOURCE PAGE: PAGE_51
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+EXAMINATION:
+- General condition: Baby is on room air.
+- Vital signs: HR: 128 bpm, SpO2: 96%, Temp: 86.5°C.
+
+MEDICATIONS:
+- Phenobarbitone - 80 mg BD
+- Tani'm BD
+
+INVESTIGATIONS:
+- MRI brain done and bill paid.
+
+PROCEDURES:
+- Baby is on warmer connected with cardiotocograph monitor.
+- Baby passed urine and stool.
+
+CONSULTATIONS:
+- Neurologist opinion by Dr. Teerthi Kandhana.
+
+SOURCE PAGE: PAGE_52
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+EXAMINATION:
+- General condition: Baby is on room air.
+- Vital signs: HR: 128 bpm, SpO2: 96%, Temp: 86.5°C.
+
+MEDICATIONS:
+- Phenobarbitone - 80 mg BD
+- Tani'm BD
+
+INVESTIGATIONS:
+- MRI brain done and bill paid.
+
+PROCEDURES:
+- Baby is on warmer connected with cardiotocograph monitor.
+- Baby passed urine and stool.
+
+CONSULTATIONS:
+- Neurologist opinion by Dr. Teerthi Kandhana.
+
+SOURCE PAGE: PAGE_53
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+EXAMINATION:
+- General condition: Baby is on room air.
+- Vital signs: HR: 128 bpm, SpO2: 96%, Temp: 86.5°C.
+
+MEDICATIONS:
+- Phenobarbitone - 80 mg BD
+- Tani'm BD
+
+INVESTIGATIONS:
+- MRI brain done and bill paid.
+
+PROCEDURES:
+- Baby is on warmer connected with cardiotocograph monitor.
+- Baby passed urine and stool.
+
+CONSULTATIONS:
+- Neurologist opinion by Dr. Teerthi Kandhana.
+
+SOURCE PAGE: PAGE_54
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+EXAMINATION:
+- General condition: Baby is on room air.
+- Vital signs: HR: 128 bpm, SpO2: 96%, Temp: 86.5°C.
+
+MEDICATIONS:
+- Phenobarbitone - 80 mg BD
+- Tani'm BD
+
+INVESTIGATIONS:
+- MRI brain done and bill paid.
+
+PROCEDURES:
+- Baby is on warmer connected with cardiotocograph monitor.
+- Baby passed urine and stool.
+
+CONSULTATIONS:
+- Neurologist opinion by Dr. Teerthi Kandhana.
+
+SOURCE PAGE: PAGE_55
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+EXAMINATION:
+- General condition: Baby is on room air.
+- Vital signs: HR: 128 bpm, SpO2: 96%, Temp: 86.5°C.
+
+MEDICATIONS:
+- Phenobarbitone - 80 mg BD
+- Tani'm BD
+
+INVESTIGATIONS:
+- MRI brain done and bill paid.
+
+PROCEDURES:
+- Baby is on warmer connected with cardiotocograph monitor.
+- Baby passed urine and stool.
+
+CONSULTATIONS:
+- Neurologist opinion by Dr. Teerthi Kandhana.
+
+SOURCE PAGE: PAGE_56
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+EXAMINATION:
+- General condition: Baby is on room air.
+- Vital signs: HR: 128 bpm, SpO2: 96%, Temp: 86.5°C.
+
+MEDICATIONS:
+- Phenobarbitone - 80 mg BD
+- Tani'm BD
+
+INVESTIGATIONS:
+- MRI brain done and bill paid.
+
+PROCEDURES:
+- Baby is on warmer connected with cardiotocograph monitor.
+- Baby passed urine and stool.
+
+CONSULTATIONS:
+- Neurologist opinion by Dr. Teerthi Kandhana.
+
+SOURCE PAGE: PAGE_57
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+EXAMINATION:
+- General condition: Baby is on room air.
+- Vital signs: HR: 128 bpm, SpO2: 96%, Temp: 86.5°C.
+
+MEDICATIONS:
+- Phenobarbitone - 80 mg BD
+- Tani'm BD
+
+INVESTIGATIONS:
+- MRI brain done and bill paid.
+
+PROCEDURES:
+- Baby is on warmer connected with cardiotocograph monitor.
+- Baby passed urine and stool.
+
+CONSULTATIONS:
+- Neurologist opinion by Dr. Teerthi Kandhana.
+
+SOURCE PAGE: PAGE_58
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+EXAMINATION:
+- General condition: Baby is on room air.
+- Vital signs: HR: 128 bpm, SpO2: 96%, Temp: 86.5°C.
+
+MEDICATIONS:
+- Phenobarbitone - 80 mg BD
+- Tani'm BD
+
+INVESTIGATIONS:
+- MRI brain done and bill paid.
+
+PROCEDURES:
+- Baby is on warmer connected with cardiotocograph monitor.
+- Baby passed urine and stool.
+
+CONSULTATIONS:
+- Neurologist opinion by Dr. Teerthi Kandhana.
+
+SOURCE PAGE: PAGE_59
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+EXAMINATION:
+- General condition: Baby is on room air.
+- Vital signs: HR: 128 bpm, SpO2: 96%, Temp: 86.5°C.
+
+MEDICATIONS:
+- Phenobarbitone - 80 mg BD
+- Tani'm BD
+
+INVESTIGATIONS:
+- MRI brain done and bill paid.
+
+PROCEDURES:
+- Baby is on warmer connected with cardiotocograph monitor.
+- Baby passed urine and stool.
+
+CONSULTATIONS:
+- Neurologist opinion by Dr. Teerthi Kandhana.
+
+SOURCE PAGE: PAGE_60
+DOCUMENT TYPE: Nurses Notes
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+EXAMINATION:
+- General condition: Baby is on room air.
+- Vital signs: HR: 128 bpm, SpO2: 96%, Temp: 86.5°C.
+
+MEDICATIONS:
+- Phenobarbitone - 80 mg BD
+- Tani'm BD
+
+INVESTIGATIONS:
+- MRI brain done and bill paid.
+
+PROCEDURES:
+- Baby is on warmer connected with cardiotocograph monitor.
+- Baby passed urine and stool.
+
+CONSULTATIONS:
+- Neurologist opinion by Dr. Teerthi Kandhana.
+
+SOURCE PAGE: PAGE_61
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+INTAKE & OUTPUT:
+- Intake: 13.7 ml (8 am), 15.7 ml (9 am), 13.3 ml (11 am), 13.7 ml (12 pm)
+- Output: 10.0 ml (7 pm), 10.0 ml (8 pm), 10.0 ml (9 pm)
+
+SOURCE PAGE: PAGE_62
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+INTAKE & OUTPUT:
+- Intake: 13.7 ml (8 am), 15.7 ml (9 am), 13.3 ml (11 am), 13.7 ml (12 pm)
+- Output: 10.0 ml (7 pm), 10.0 ml (8 pm), 10.0 ml (9 pm)
+
+SOURCE PAGE: PAGE_63
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+INTAKE & OUTPUT:
+- Intake: 13.7 ml (8 am), 15.7 ml (9 am), 13.3 ml (11 am), 13.7 ml (12 pm)
+- Output: 10.0 ml (7 pm), 10.0 ml (8 pm), 10.0 ml (9 pm)
+
+SOURCE PAGE: PAGE_64
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+INTAKE & OUTPUT:
+- Intake: 13.7 ml (8 am), 15.7 ml (9 am), 13.3 ml (11 am), 13.7 ml (12 pm)
+- Output: 10.0 ml (7 pm), 10.0 ml (8 pm), 10.0 ml (9 pm)
+
+SOURCE PAGE: PAGE_65
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+INTAKE & OUTPUT:
+- Intake: 13.7 ml (8 am), 15.7 ml (9 am), 13.3 ml (11 am), 13.7 ml (12 pm)
+- Output: 10.0 ml (7 pm), 10.0 ml (8 pm), 10.0 ml (9 pm)
+
+SOURCE PAGE: PAGE_66
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+INTAKE & OUTPUT:
+- Intake: 13.7 ml (8 am), 15.7 ml (9 am), 13.3 ml (11 am), 13.7 ml (12 pm)
+- Output: 10.0 ml (7 pm), 10.0 ml (8 pm), 10.0 ml (9 pm)
+
+SOURCE PAGE: PAGE_67
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+INTAKE & OUTPUT:
+- Intake: 13.7 ml (8 am), 15.7 ml (9 am), 13.3 ml (11 am), 13.7 ml (12 pm)
+- Output: 10.0 ml (7 pm), 10.0 ml (8 pm), 10.0 ml (9 pm)
+
+SOURCE PAGE: PAGE_68
+DOCUMENT TYPE: Intake & Output Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+INTAKE & OUTPUT:
+- Intake: 13.7 ml (8 am), 15.7 ml (9 am), 13.3 ml (11 am), 13.7 ml (12 pm)
+- Output: 10.0 ml (7 pm), 10.0 ml (8 pm), 10.0 ml (9 pm)
+
+SOURCE PAGE: PAGE_69
+DOCUMENT TYPE: Lab Investigation Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+LAB INVESTIGATIONS:
+- Hematology: HB% 15.6, PCV/HCT 49.8, WBC 9100, Platelet count 153000
+- CRP: 2.4
+- Electrolytes: Na+ 142, K+ 5.1, Cl+ 107, Ca2+ 5.08, PO4, Mg2+, HCO3, Anion gap
+- Renal Function Tests: Urea 20, Creatinine 0.4, GFR calculated
+- Liver Function Tests: Total Bilirubin 1.54, Direct Bilirubin 1.54, Indirect Bilirubin 13.0, AST 35, ALT 214, ALP, GGT, Total Protein 5.2, Albumin 3.4, PT/INR
+
+SOURCE PAGE: PAGE_70
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+VITALS MONITORING:
+- Temperature: 96.8°F (7 am), 95.0°F (190), 93.0°F (220), 92.0°F (250)
+
+SOURCE PAGE: PAGE_71
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+VITALS MONITORING:
+- Temperature: 96.8°F (7 am), 95.0°F (190), 93.0°F (220), 92.0°F (250)
+
+SOURCE PAGE: PAGE_72
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD No.: LB26/3007
+- Age: 4 D
+- Gender: Male
+
+VITALS MONITORING:
+- Temperature: 96.8°F (7 am), 95.0°F (190), 93.0°F (220), 92.0°F (250)
+
+
+========================================================================
+STRUCTURED PART 0004
+SOURCE PAGES: PAGE_0073 TO PAGE_0086
+========================================================================
+
+SOURCE PAGE: PAGE_73
+DOCUMENT TYPE: Vitals Monitoring Chart
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 days
+
+VITALS MONITORING CHART:
+- Adm Date: 27-06-2026 09:03 PM
+- Consult: DR. SRINIVAS MURKI
+
+VITAL SIGNS (80|6126):
+- Temperature: 42.0, 41.5, 105.8, 41.0, 40.5, 40.0, 39.5, 102.0, 39.0, 38.5, 250, 100.4, 38.0, 240, 37.5, 230, 98.6, 37.0, 220, 36.5, 36.3, 266, 26.6, 26.8, 26.3, 210, 96.8, 36.0, 200, 35.5, 190, 95.0, 35.0, 180, 170, 34.5, 170, 160, 34.0, 160, 150, 33.5, 150
+
+SOURCE PAGE: PAGE_75
+DOCUMENT TYPE: Education Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 days
+
+CLINICAL PROGRESS (28/6|26):
+- Baby on minimal O2
+- Seizures (4-5 episodes over night)
+- Plan for Sos ventilation
+- GRBS 7, 60 mg/dL
+- No generalized seizures
+- Stop Levetiracetam at 7.30 PM
+- Gardenal (Phenobarbitone) continued
+
+CLINICAL PROGRESS (29/6|26):
+- Further seizures
+- Hypoglycemia noted
+
+SOURCE PAGE: PAGE_78
+DOCUMENT TYPE: Peripheral Cannulation Sheet
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 days
+
+PERIPHERAL CANNULATION SHEET:
+- Consult: DR. SRINIVAS MURKI
+- Adm Date: 27-06-2026 09:03 PM
+
+SOURCE PAGE: PAGE_80
+DOCUMENT TYPE: Nosocomial Infection Surveillance Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 days
+
+CLINICAL PROGRESS (27/6|26):
+- IV cannula, Foley's catheter, Central line (UVC), Ventilator inserted
+
+SOURCE PAGE: PAGE_81
+DOCUMENT TYPE: Requisition Form
+
+PATIENT IDENTIFICATION:
+- Patient Name: VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 days
+
+LABORATORY INVESTIGATIONS (28/6|26):
+- AFB for Culture & Sensitivity
+- Complete Blood Picture (CBP)
+- CSF Lactate
+- PCV
+- CSF Pyruvate
+- HIV I & II (Rapid)
+- Platelet Count
+- Hemoglobin
+- HbsAg
+- AEC Absolute Eosinophil Count
+- Peripheral Smear
+- Hepatitis - A (IgM)
+- Smear for MP
+- Leptospira IgM
+- QBC
+- HCV
+- ESR (Erythrocyte Sedimentation Rate)
+- Dengue IgG
+- Blood Group & Rh Type
+- Direct Coombs Test
+- Dengue IgM
+- Indirect Coombs Test
+- Dengue Ns1 Antigen
+- Bleeding Time
+- OTBPCR
+- Clotting Time
+- HSV-PCR
+- Complete Urine Examination (CUE)
+- Mantoux Test
+- RA Factor
+- Stool Routine Examination
+- Rotavirus Antigen Defection
+- CSF Cell Type & Count
+- ASO
+- Factor Assay
+- Widal Test
+- Anemia Profile
+- TORCH Profile
+- Triple Marker
+
+SOURCE PAGE: PAGE_85
+DOCUMENT TYPE: Billing Record
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 days
+
+PROCEDURES (20/6/28):
+- Arterial Line Insertion
+- Ascitic Tap
+- Bone Marrow Aspiration
+- Central Line Insertion
+- CPR
+- CVP line Insertion
+- Dressing Minor/Medium/Major/Special
+- Emergency/Elective Intubation
+- Foleys Catheterization
+- HD Catheter
+- Hemodialysis
+- ICD Insertion
+- IV Cannulation
+- Lumbar Drain insertion
+- Lumbar Puncture
+- Tracheostomy
+- Nebulization
+- PICC line Insertion
+- Pigtail Catheter
+- Plueral Tap
+- Ryles Tube Insertion
+- BIPAP
+- CPAP
+- Surfactant Administration
+- NST/CTG/Fetal Monitoring
+- Infusion/Syringe Pump
+- Tracheostomy Decannulation
+- Tracheostomy Tube Change
+- Phototherapy
+- Umblical Catheterisation
+- Ventricular Tapping
+- ABG (Arterial Blood Gas Analysis)
+- ECG-12 Lead
+- Urine Sugar/Ketone (Rato Strips/Albumin)
+- Physiotherapy
+- Blood Transfusions
+- Diet
+
+SOURCE PAGE: PAGE_86
+DOCUMENT TYPE: Billing Record
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 days
+
+PROCEDURES (28/6|26):
+- Arterial Line Insertion
+- Ascitic Tap
+- Bone Marrow Aspiration
+- Central Line Insertion
+- CPR
+- CVP line Insertion
+- Dressing Minor/Medium/Major/Special
+- Emergency/Elective Intubation
+- Foleys Catheterization
+- HD Catheter
+- Hemodialysis
+- ICD Insertion
+- IV Cannulation
+- Lumbar Drain insertion
+- Lumbar Puncture
+- Tracheostomy
+- Nebulization
+- PICC line Insertion
+- Pigtail Catheter
+- Plueral Tap
+- Ryles Tube Insertion
+- BIPAP
+- CPAP
+- Surfactant Administration
+- NST/CTG/Fetal Monitoring
+- Infusion/Syringe Pump
+- Tracheostomy Decannulation
+- Tracheostomy Tube Change
+- Phototherapy
+- Umblical Catheterisation
+- Ventricular Tapping
+- ABG (Arterial Blood Gas Analysis)
+- ECG-12 Lead
+- Urine Sugar/Ketone (Rato Strips/Albumin)
+- Physiotherapy
+- Blood Transfusions
+- Diet
+
+NO CLINICAL DATA
+
+
+========================================================================
+STRUCTURED PART 0005
+SOURCE PAGES: PAGE_0087 TO PAGE_0096
+========================================================================
+
+SOURCE PAGE: PAGE_87
+DOCUMENT TYPE: Billing Sheet
+
+PATIENT IDENTIFICATION
+- Patient Name: Varna
+- Baby-of Name: Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 Days
+
+BIRTH DETAILS
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION
+- Adm Date: 27-06-2026 09:03 PM
+- Doctor's Name: Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not documented
+- Discharge Medicines: Not documented
+- Advice: Not documented
+- Follow-up: Not documented
+- Pending Investigations: Not documented
+
+SOURCE PAGE: PAGE_88
+DOCUMENT TYPE: Billing Sheet
+
+PATIENT IDENTIFICATION
+- Patient Name: Varna
+- Baby-of Name: Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 Days
+
+BIRTH DETAILS
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION
+- Adm Date: 27-06-2026 09:03 PM
+- Doctor's Name: Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not documented
+- Discharge Medicines: Not documented
+- Advice: Not documented
+- Follow-up: Not documented
+- Pending Investigations: Not documented
+
+SOURCE PAGE: PAGE_89
+DOCUMENT TYPE: Billing Sheet
+
+PATIENT IDENTIFICATION
+- Patient Name: Varna
+- Baby-of Name: Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 Days
+
+BIRTH DETAILS
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION
+- Adm Date: 27-06-2026 09:03 PM
+- Doctor's Name: Dr. Srinivas Murki
+
+DISCHARGE-RELATED INFORMATION
+- Latest Clinical Status: Not documented
+- Discharge Medicines: Not documented
+- Advice: Not documented
+- Follow-up: Not documented
+- Pending Investigations: Not documented
+
+SOURCE PAGE: PAGE_90
+DOCUMENT TYPE: Requisition Form
+
+INVESTIGATIONS
+- Test Name: Microbiology & Immunoserology
+- Patient's Name: Vagdevi
+- Age: 4 Days
+- Sex: Male
+- Date: 28/06/2026
+- UHID NO: 162608635
+- IP No/OP No: LB26/3007
+
+SOURCE PAGE: PAGE_91
+DOCUMENT TYPE: GRBS Monitoring
+
+HYPOGLYCEMIA / GLUCOSE
+- Time: 28/06/2026, 9:20 PM
+- GRBS: 36 mg/dL
+- Doctor's Name: Dr. Dovey
+- Time: 28/06/2026, 11:00 PM
+- GRBS: 65 mg/dL
+- Doctor's Name: Dr. Lavuy
+- Time: 29/06/2026, 7:00 AM
+- GRBS: 72 mg/dL
+- Doctor's Name: Dr. Land
+- Time: 29/06/2026, 10:00 AM
+- GRBS: 83 mg/dL
+- Doctor's Name: Dr. Ananthar
+
+SOURCE PAGE: PAGE_92
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+EXAMINATION
+- Level of Consciousness: Alert age appropriate
+- Respiratory Status: Normal breathing room air
+- Cardiovascular Status: Stable vitals
+- Feeding & Nutrition: Oral feeds independently
+- Elimination: Normal urine stool
+- Medication: Oral medications
+
+SOURCE PAGE: PAGE_93
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+EXAMINATION
+- Level of Consciousness: Alert age appropriate
+- Respiratory Status: Normal breathing room air
+- Cardiovascular Status: Stable vitals
+- Feeding & Nutrition: Oral feeds independently
+- Elimination: Normal urine stool
+- Medication: Oral medications
+
+SOURCE PAGE: PAGE_94
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+EXAMINATION
+- Level of Consciousness: Alert age appropriate
+- Respiratory Status: Normal breathing room air
+- Cardiovascular Status: Stable vitals
+- Feeding & Nutrition: Oral feeds independently
+- Elimination: Normal urine stool
+- Medication: Oral medications
+
+SOURCE PAGE: PAGE_95
+DOCUMENT TYPE: Patient Acuity Score & Allocation
+
+EXAMINATION
+- Level of Consciousness: Alert age appropriate
+- Respiratory Status: Normal breathing room air
+- Cardiovascular Status: Stable vitals
+- Feeding & Nutrition: Oral feeds independently
+- Elimination: Normal urine stool
+- Medication: Oral medications
+
+SOURCE PAGE: PAGE_96
+DOCUMENT TYPE: Laboratory Report
+
+LABORATORY REPORTS
+- Test Name: C-Reactive Protein (CRP)
+- Result: 2.4 mg/L
+- Unit: mg/L
+- Reference Interval: 0.01 - 6.00
+- Method: Immunoturbidimetry
+
+NO CLINICAL DATA
+
+
+========================================================================
+STRUCTURED PART 0006
+SOURCE PAGES: PAGE_0097 TO PAGE_0106
+========================================================================
+
+SOURCE PAGE: PAGE_97
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 Days
+
+LABORATORY REPORTS:
+
+BIOCHEMISTRY - RENAL FUNCTION TEST (RFT):
+- CREATININE - SERUM: 0.4 mg/dL
+- BLOOD UREA: 20 mg/dL
+- BLOOD UREA NITROGEN (BUN): 9.4 mg/dL
+- URIC ACID: 4.3 mg/dL
+
+CALCIUM, SODIUM, POTASSIUM, CHLORIDE:
+- CALCIUM SERUM: 8.6 mg/dL
+- SODIUM SERUM: 142 mmol/L
+- POTASSIUM SERUM: 5.1 mmol/L
+- CHLORIDE SERUM: 107 mmol/L
+
+SOURCE PAGE: PAGE_98
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 Days
+
+LABORATORY REPORTS:
+
+HEMATOLOGY - COMPLETE BLOOD COUNT (CBC):
+- HAEMOGLOBIN (HB): 15.6 g/dL
+- PACKED CELL VOLUME (PCV): 49.8%
+- MCV: 80.9 fL
+- MCH: 25.4 pg
+- MCHC: 31.4 gm/dl
+- RBC COUNT: 6.15 x 10^6/uL
+- WBC COUNT: 9,100 cells/cumm
+- PLATELET COUNT: 183,000 /mm3
+
+SOURCE PAGE: PAGE_99
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 Days
+
+LABORATORY REPORTS:
+
+HEMATOLOGY - BLOOD GROUPING AND RH TYPING:
+- BLOOD GROUP: B
+- RH TYPING: Positive
+
+SOURCE PAGE: PAGE_100
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 5 Days
+
+LABORATORY REPORTS:
+
+BIOCHEMISTRY - RANDOM BLOOD GLUCOSE (RBS):
+- RESULT: 35 mg/dL
+
+SOURCE PAGE: PAGE_101
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 5 Days
+
+LABORATORY REPORTS:
+
+BIOCHEMISTRY - IONIC CALCIUM:
+- RESULT: 5.08 mg/dL
+
+SOURCE PAGE: PAGE_102
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 Days
+
+LABORATORY REPORTS:
+
+BIOCHEMISTRY - LIVER FUNCTION TEST (LFT):
+- TOTAL BILIRUBIN: 15.5 mg/dL
+- DIRECT BILIRUBIN: 1.8 mg/dL
+- INDIRECT BILIRUBIN: 13.70 mg/dL
+- ALANINE TRANSMINASE (ALT/SGPT): 10 U/L
+- ASPARTATE TRANSFERASE (SGOT / AST): 35 U/L
+- ALKALINE PHOSPHATASE (ALP): 214 U/L
+- TOTAL PROTEIN: 5.2 g/dL
+- ALBUMIN: 3.4 g/dL
+- GLOBULIN: 1.8 g/dL
+- A/G RATIO: 1.9
+
+SOURCE PAGE: PAGE_103
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 5 Days
+
+LABORATORY REPORTS:
+
+BIOCHEMISTRY - AMMONIA:
+- RESULT: 86.0 umol/L
+
+SOURCE PAGE: PAGE_104
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 5 Days
+
+LABORATORY REPORTS:
+
+CLINICAL PATHOLOGY - COMPLETE URINE EXAMINATION (CUE):
+- QUANTITY: 20 ML
+- COLOUR: Yellow
+- APPEARANCE: Turbid
+- SPECIFIC GRAVITY: 1.015
+- PH INDICATORS: Potential of Hydrogen (PH): 6.0
+- GLUCOSE: Nil
+- PROTEIN: +
+- BILIRUBIN: Positive +
+- KETONE: Nil
+- BLOOD: Nil
+- LEUCOCYTES: Trace
+- UROBILINOGEN: Negative
+- NITRATE: Negative
+- PUS CELLS: 6-8 /hpf
+- EPITHELIAL CELLS: 10 - 12 /hpf
+- RBC'S: Nil
+
+SOURCE PAGE: PAGE_105
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 Days
+
+LABORATORY REPORTS:
+
+MICROBIOLOGY - CULTURE AND SENSITIVITY - AUTOMATED/VITEK, BLOOD:
+- SPECIMEN TYPE: BLOOD
+- CULTURE RESULT: PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.
+
+SOURCE PAGE: PAGE_106
+DOCUMENT TYPE: Laboratory Report
+
+PATIENT IDENTIFICATION:
+- Patient Name: B/O Vagdevi
+- UHID: 162608635
+- IPD: LB26/3007
+- Gender: Male
+- Age: 4 Days
+
+LABORATORY REPORTS:
+
+MICROBIOLOGY - CULTURE AND SENSITIVITY - AUTOMATED/VITEK, BLOOD:
+- SPECIMEN TYPE: BLOOD
+- CULTURE RESULT: PRELIMINARY 1: No bacterial growth seen after 24 hours of aerobic incubation.

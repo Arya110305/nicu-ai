@@ -1,0 +1,1526 @@
+============================================================
+PAGE 87
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+BILLING RECORD
+ankura
+9M
+hospital
+Patient Name: Blo vagdevi
+MR. No.: 162608635
+Doctor's Name: Os- ·murk
+Ward /Room No. Nt
+Age / Gender:
+I male
+Date & Time: 29106126
+S.No
+PROCEDURES
+Morning shift
+Evening Shift
+Night Shift
+S. No.
+LAB INVESTIGATIONS, Specify
+Morning shift
+Evening Shift Night Shift
+1
+Arterial Line Insertion
+1
+2
+Ascitic Tap
+2
+3
+Bone Marrow Aspiration
+3
+4
+Central Line Insertion
+4
+5
+CPR
+5
+6
+CVP line Insertion
+6
+7
+Dressing Minor/Medium/Major/Special
+RADIOLOGY INVESTIGATIONS
+8
+Emergency/Elective Intubation
+1
+9
+Foleys Catherization
+2
+10
+HD Cathter
+3
+11
+Hemodialysis
+4
+12
+ICD Insertion
+CROSS CONSULTATION
+13
+1
+xicurologist apnian
+V
+IV Cannulation
+14
+Lumbar Drain insertion
+2
+Lone
+V
+15
+Lumbar Puncture
+3
+NSG done.
+16
+Tracheostomy
+4
+17
+Nebulization
+5
+18
+PICC line Insertion
+BEDSIDE EQUIPMENTS
+Start
+Stop
+Start
+Stop
+Start
+Stop
+19
+Pigtail Catheter
+1
+Alpha Matress/DVT Pump
+20
+Plueral Tap
+2
+Body warmer
+cNT
+V
+1
+21
+Ryles Tube Insertion
+3
+BIPAP
+22
+Sedation Anesthesia
+4
+CPAP
+23
+Surfactant Administration.
+5
+NST/CTG/Fetal Monitoring
+24
+6
+Infusion/Syrinige Pump22
+V
+Tracheostomy Decannulation
+CNT
+一
+8/3/p
+25
+Tracheostomy Tube Change
+7
+Phototherapy
+一
+29m
+26
+Umblical Catheterisation.
+8
+Oxygen Charges
+27
+Ventricular Tapping
+9
+Ventillator Charges
+28
+10
+Monitor charges
+CNT
+√
+1
+ABG (Arterial Blood Gas Analysis)
+29
+GRBS (Blood Glucose by Glucometer).
+√
+~
+CONSULTATION
+Morning shift
+Evening Shift
+Night Shift
+30
+J
+V
+1
+ECG-12 Lead
+1
+Doctors Visit
+31
+Urine Sugar/Ketone (Rato Strips/Albumin)
+2
+Physiotherapy
+32
+Blood Transfusions
+3
+Diet
+Others
+Morning shift
+Evening Shift
+Night Shift
+4
+OT Charges
+5
+Transfer IN/OUT
+OTHERS
+Morning shift
+Evening Shift
+Night Shift
+1
+2
+3
+uf
+4
+Name of Nursing staff
+Shanuy uol
+Name of PCC/Billing staff (Recieving Staff)
+or
+Signature
+Signature
+2u61
+16836
+Employee ID
+2634
+Employee ID
+Note: Nurse must update the sheet after each procedure
+Nurses must sign (Shift wise) once the details are completely filled in the billing Activity Sheet
+Name of the Staff Handing Over
+One copy of billing activity sheet must be sent to billing department daily before 8.00 am by concerned Nursing staff
+Signature
+Daily updation of patient bills in HIMS by billing staff must be done
+Final verification of bill from the file at the time of discharge must be done
+Employee ID
+AHWC/IP/F/17
+
+============================================================
+PAGE 88
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+Name : VAGDEVI
+ankura
+9M
+UHIDNO:162608635
+hospital
+IPDNO:LB26/3007
+MR. No.:08635
+Age : 4 D Gender : Male
+Ward / Room No. 101W
+Consult : DR. SRINIVAS MURKI
+Date & Time:
+3016/26 8amh00r
+Adm Date:27-06-2026 09:03 PM
+S.No
+PROCEDURES
+Morning shift
+Evening Shift
+Night Shift
+S. No.
+LAB INVESTIGATIONS, Specify
+Morning shift
+Evening Shift Night Shift
+1
+Arterial Line Insertion
+1
+2
+Ascitic Tap
+2
+3
+Bone Marrow Aspiration
+3
+4
+Central Line Insertion
+4
+5
+CPR
+5
+6
+CVP line Insertion
+6
+7
+Dressing Minor/Medium/Major/Special
+RADIOLOGY INVESTIGATIONS
+8
+Emergency/Elective Intubation
+1
+9
+Foleys Catherization
+2
+10
+HD Cathter
+3
+11
+Hemodialysis
+4
+12
+ICD Insertion
+CROSS CONSULTATION
+13
+IV Cannulation
+1
+MRI done
+V
+14
+Lumbar Drain insertion
+2
+15
+Lumbar Puncture
+3
+16
+Tracheostomy
+4
+17
+Nebulization
+5
+18
+PICC line Insertion
+BEDSIDE EQUIPMENTS
+Start
+Stop
+Start
+Stop
+Start
+Stop
+19
+Pigtail Catheter
+1
+Alpha Matress/DVT Pump
+20
+Plueral Tap
+2
+√
+CNT
+1
+Body warmer
+21
+Ryles Tube Insertion
+3
+BIPAP
+22
+Sedation Anesthesia
+4
+CPAP
+23
+Surfactant Administration.
+5
+NST/CTG/Fetal Monitoring
+24
+6
+②
+√
+CNT
+—
+Tracheostomy Decannulation
+Infusion/Syringe Pump
+25
+Tracheostomy Tube Change
+7
+Phototherapy
+26
+Umblical Catheterisation.
+8
+Oxygen Charges
+27
+Ventricular Tapping
+9
+Ventillator Charges
+28
+ABG (Arterial Blood Gas Analysis)
+10
+Monitor charges
+√
+CNT
+一
+√
+w
+29
+GRBS (Blood Glucose by Glucometer).
+CONSULTATION
+Morning shift
+Evening Shift
+Night Shift
+30
+ECG-12 Lead
+1
+Doctors Visit
+V
+J
+31
+Urine Sugar/Ketone (Rato Strips/Albumin)
+2
+Physiotherapy
+32
+Blood Transfusions
+3
+Diet
+Others
+Morning shift
+Evening Shift
+Night Shift
+4
+OT Charges
+5
+Transfer IN/OUT
+OTHERS
+Morning shift
+Evening Shift
+Night Shift
+One Sping pang at 1opm stop
+1
+2
+3
+4
+efe
+Qo Shancey
+Name of Nursing staff
+Name of PCC/Billing staff (Recieving Staff)
+3
+34
+as
+Signature
+Signature
+2u61
+2634
+16636
+Employee ID
+Employee ID
+Note: Nurse must update the sheet after each procedure
+Nurses must sign (Shift wise) once the details are completely filled in the billing Activity Sheet
+Name of the Staff Handing Over
+One copy of billing activity sheet must be sent to billing department daily before 8.00 am by concerned Nursing staff
+Signature
+Daily updation of patient bills in HIMS by billing staff must be done
+Final verification of bill from the file at the time of discharge must be done
+Employee ID
+AHWC/IP/F/17
+
+============================================================
+PAGE 89
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+ankura
+9M
+BILLIName : VAGDEVI
+hospital
+UHID NO: 162608635
+MR. No.: 08635
+Patient Na
+Doctor's 
+IPDNO:LB26/3007
+Ward /Room No. N
+Age / Gen
+Age: 4 D Gender : Male
+Date & Time:
+1107(268comt089
+Consult : DR. SRINIVAS MURKI
+S.No
+Adm Date: 27-06-2026 09:03 PM
+Evening Shift
+Night Shift
+S. No.
+LAB INVESTIGATIONS, Specify
+Morning shift
+Evening Shift
+Night Shift
+1
+Arterial Line Insertion
+1
+2
+Ascitic Tap
+2
+3
+Bone Marrow Aspiration
+3
+4
+Central Line Insertion
+4
+5
+CPR
+5
+6
+CVP line Insertion
+6
+7
+Dressing Minor/Medium/Major/Special
+RADIOLOGY INVESTIGATIONS
+8
+Emergency/Elective Intubation
+1
+9
+Foleys Catherization
+2
+10
+HD Cathter
+3
+11
+Hemodialysis
+4
+12
+ICD Insertion
+CROSS CONSULTATION
+13
+IV Cannulation
+1
+14
+Lumbar Drain insertion
+2
+15
+Lumbar Puncture
+3
+16
+Tracheostomy
+4
+17
+Nebulization
+5
+18
+PICC line Insertion
+BEDSIDE EQUIPMENTS
+Start
+Stop
+Start
+Stop
+Start
+Stop
+19
+Pigtail Catheter
+1
+Alpha Matress/DVT Pump
+20
+Plueral Tap
+2
+Body warmer
+√
+21
+Ryles Tube Insertion
+3
+BIPAP
+22
+Sedation Anesthesia
+4
+CPAP
+23
+Surfactant Administration.
+5
+NST/CTG/Fetal Monitoring
+24
+Tracheostomy Decannulation
+6
+Infusion/Syringe Pump
+25
+Tracheostomy Tube Change
+7
+Phototherapy
+26
+Umblical Catheterisation.
+8
+Oxygen Charges
+27
+Ventricular Tapping
+9
+Ventillator Charges
+28
+ABG (Arterial Blood Gas Analysis)
+10
+Monitor charges
+√
+29
+GRBS (Blood Glucose by Glucometer).
+CONSULTATION
+Morning shift
+Evening Shift
+Night Shift
+30
+1
+V
+ECG-12 Lead
+Doctors Visit
+31
+Urine Sugar/Ketone (Rato Strips/Albumin)
+2
+Physiotherapy
+32
+Blood Transfusions
+3
+Diet
+Others
+Morning shift
+Evening Shift
+Night Shift
+4
+OT Charges
+5
+Transfer IN/OUT
+OTHERS
+Morning shift
+Evening Shift
+Night Shift
+1
+2
+3
+4
+Name of Nursing staff
+
+Name of PCC/Billing staff (Recieving Staff)
+B
+Signature
+Signature
+2u6c
+Employee ID
+Employee ID
+Note: Nurse must update the sheet after each procedure
+Nurses must sign (Shift wise) once the details are completely filled in the billing Activity Sheet
+Name of the Staff Handing Over
+One copy of billing activity sheet must be sent to billing department daily before 8.00 am by concerned Nursing staff
+Signature
+Daily updation of patient bills in HIMS by billing staff must be done
+Final verification of bill from the file at the time of discharge must be done
+Employee ID
+AHWC/IP/F/17
+
+============================================================
+PAGE 90
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+ankura
+9M
+9M
+hospital
+REQUISITION FOR MICROBIOLOGY & IMMUNO-SEROLOGY
+male
+Blo Vaedevi
+eD
+Patient's Name:
+Age:
+Sex:
+Date:28l6626
+16 2608635
+UHID NO:
+Collection Time:
+UB 26(300)
+Bloodls
+IP NO/OP NO:
+Nature of Specimen:
+Rsepsm)
+Previous Culture No/Date:
+Clinical details (Brief history) required with Antibiotic history
+Physical findings:
+Other pertinent/specialized investigations
+Risk Stratification of patient (s)
+Patient Type-1 (CAI)
+Patient Type-2 (HAI)
+Patient Type-3 (NI)
+No contact with health care
+Contact with health care system (e.g.
+Long hospitalization and or invasive
+system
+recent hospital admission, nursing
+procedures
+home, dialysis) without invasive
+procedure
+No prior antibiotic
+Recent antibiotic therapy
+Recent & multiple antibiotic
+treatment
+therapies
+Patient young with few co-
+Patient old with multiple co-
+Patient characteristics: cystic
+morbid conditions
+morbidities
+fibrosis, structural lung disease,
+advanced AIDS, neutropenia, other
+severe immunodeficiency.
+Signature of the Doctor
+
+============================================================
+PAGE 91
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+9M
+同
+ankura
+hospital
+for women & children
+Bfo Vagadai
+GRBS MONITORING
+8635
+Patient Name:
+Age:4dySex:maleIP No:
+Consultant: DOA:
+Diagnosis
+Informedto
+Date
+Time
+GRBS
+Nurse Sign
+Parent Sign
+(Dr.Name
+206
+9:20p
+36mgd
+Dr. dovey
+65rmgde
+10 po
+Dr Lavuy
+11p
+72 mgde
+nrLand
+Coje
+0
+2896
+240
+25nigde
+DrLard
+Drhanmy
+5Am
+10 5fgdee
+2816
+1pm
+93meddl
+Dr. Ananthar Anasuys
+2.16
+lip
+Somgde
+MeAnanten
+ly
+2916
+6Am
+98mgde
+DYAnaulte
+Yoje
+2916
+
+6pm
+122 mgld
+Br Tejasu
+2916
+p)
+99 mgde
+nr.Tyus
+44
+506
+490
+legmgde
+DrTejen
+4
+30161
+8
+108mgldr
+10am
+Dr-Jujashw
+
+1244
+99ng de
+rAnauelen
+e4
+117
+5A1
+99 mgde
+WAnalte
+4
+
+============================================================
+PAGE 92
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+Name : VAGADAVI
+UHIDNO:162608635
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+RD No
+IPDNO:LB26/3007
+SCORE
+DATE
+MORNING
+STAFF
+LEVEL
+AFTER NOON
+STAFF
+LEVEL
+NIGHT
+STAFF
+LEVEL
+Age:4D Gender: Male
+2816/26
+SCORE
+NAME
+SCORE
+NAME
+SCORE
+NAME
+Consult: DR. SRINIVAS MURKI
+Adm Date:27-06-2026 09:03 PM
+LEVEL OF
+0
+0
+Arauya
+Alert age appropriate
+Shany
+ly0
+CONSCIOUSNESS
+Irritable or lethargic
+1
+01
+01
+Responds to pain
+2
+lyé
+Unconscious/seizures
+3
+RESPIRATORY
+Normal breathing room air
+0
+01
+STATUS
+1
+1
+Anasuya
+01
+shancy
+Mild distress oxygen support
+Moderate distress/frequent suction
+2
+lyé
+Severe distress CPAP / Ventilator
+3
+CARDIOVASCULAR
+Stable vitals
+0
+01
+Amasuya
+STATUS
+T
+01
+shancy
+Tachycardia / IV fluids
+1
+Inotropes/invasive monitoring
+2
+Shock risk
+3
+lofi
+FEEDING &
+Oral feeds independently
+0
+NUTRITION
+Assisted feeding
+1
+11.2
+02
+NG feeds
+2
+2
+Anasuga
+2
+Shancy
+rev
+TPN/feeding intolerance
+3
+ELIMINATION
+Normal urine stool
+0
+
+Diaper care assistance
+1
+Cater/stric monitring
+2
+Anasuge
+02
+Shanxy
+2
+02
+Oliguria / anuria
+3
+MEDICATION
+Oral medications
+0
+Anasugs
+01
+COMPLEXITY
+IV medications
+1
+01
+Shancy
+Multiple IV infusions
+2
+High risk drug titration
+3
+华华
+PAIN & COMFORT
+Comfortable
+0
+Anasuga
+01
+8hanxy
+Intermittent pain
+1
+61
+Persistent pain
+2
+Severe pain continuous care
+3
+PROCEDURES &
+None
+0
+DEVICES
+IV line
+1
+1
+nascys
+01
+shancy
+01
+Multiple lines / drains
+2
+Ventilator /central lines
+3
+PARENTAL
+Routine guidance
+0
+SUPPORT NEED
+bje
+Frequent reassuring
+1
+2
+Anasuya
+Shancy
+62
+Anxious Parents
+2
+02
+Continuous emotional support
+3
+Category I
+Category
+Category III
+Category IV
+INCHARGE NAME & SIGN
+Score 0-6
+II Score 7-19
+Score 20-30
+Score > 30
+Routine nursing care
+Increased nursing observation
+Close monitoring and high nursing
+One-to-one intensive nursing care
+NUR.SUPERVISOR NAME & SIGN
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE
+
+============================================================
+PAGE 93
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+Name Blo llagdevi
+MRD No 08635
+SCORE
+DATE
+MORNING
+STAFF
+LEVEL
+AFTER NOON
+STAFF
+LEVEL
+NIGHT
+STAFF
+LEVEL
+DOA 2≠106126
+SCORE
+NAME
+SCORE
+NAME
+SCORE
+NAME
+DIAGNOSIS
+scizures
+2a106126
+Shancy
+80
+LEVEL OF
+Alert age appropriate
+0
+0
+0
+0
+r
+CONSCIOUSNESS
+Irritable or lethargic
+1
+Responds to pain
+2
+Unconscious/seizures
+3
+0
+d4
+0
+Buθ
+RESPIRATORY
+Normal breathing room air
+0
+0
+shancy
+STATUS
+Mild distress oxygen support
+1
+Moderate distress/frequent suction
+2
+Severe distress CPAP / Ventilator
+3
+Shancy
+8uk
+CARDIOVASCULAR
+Stable vitals
+0
+0
+0
+D
+4
+STATUS
+Tachycardia / IV fluids
+1
+Inotropes/invasive monitoring
+2
+Shock risk
+3
+FEEDING &
+Oral feeds independently
+0
+NUTRITION
+Assisted feeding
+1
+develd
+Shancy
+02
+Bul
+02
+也
+NG feeds
+2
+02
+TPN/feeding intolerance
+3
+BeoH
+ELIMINATION
+Normal urine stool
+0
+0
+Shaxy
+0
+0
+业
+Diaper care assistance
+1
+Catheter /strict monitoring
+2
+Oliguria / anuria
+3
+MEDICATION
+Oral medications
+0
+Bwff
+COMPLEXITY
+1
+01
+Shancy
+01
+IV medications
+01
+4
+Multiple IV infusions
+2
+High risk drug titration
+3
+PAIN & COMFORT
+Comfortable
+0
+Shancy
+01
+Bur
+01
+61
+4
+Intermittent pain
+1
+Persistent pain
+2
+Severe pain continuous care
+3
+PROCEDURES &
+None
+0
+But
+DEVICES
+IV line
+1
+01
+Shancy
+01
+01
+4
+Multiple lines / drains
+2
+Ventilator /central lines
+3
+PARENTAL
+Routine guidance
+0
+Qut
+SUPPORT NEED
+Frequent reassuring
+1
+01
+Shancy
+a
+01
+4
+Anxious Parents
+2
+Continuous emotional support
+3
+Category I
+Category
+Category III
+Category IV
+INCHARGE NAME & SIGN
+Score 0-6
+II Score 7-19
+Score 20-30
+Score > 30
+Routine nursing care
+Increased nursing observation
+Close monitoring and high nursing
+One-to-one intensive nursing care
+NUR.SUPERVISOR NAME & SIGN
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE
+
+============================================================
+PAGE 94
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+Name: VAGDEVI
+UHIDNO:162608635
+IPD NO:LB26/3007
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+NamAge: 4 D Gender: Male
+Consult : DR. SRINIVAS MURKI
+SCORE
+DATE
+MORNING
+STAFF
+LEVEL
+AFTER NOON
+STAFF
+LEVEL
+NIGHT
+STAFF
+LEVEL
+DOA
+Adm Date:27-06-2026 09:03 PM
+3016/26
+SCORE
+NAME
+SCORE
+NAME
+SCORE
+NAME
+DIAGNOSIS
+LEVEL OF
+0
+0
+80
+0
+Shancy
+Alert age appropriate
+0
+w
+CONSCIOUSNESS
+Irritable or lethargic
+1
+Responds to pain
+2
+Unconscious/seizures
+3
+But
+4
+RESPIRATORY
+Normal breathing room air
+0
+0
+0
+shancy
+0
+STATUS
+Mild distress oxygen support
+1
+Moderate distress/frequent suction
+2
+Severe distress CPAP / Ventilator
+3
+8uk
+CARDIOVASCULAR
+0
+0
+0
+Shancy
+0
+ay
+Stable vitals
+STATUS
+Tachycardia / IV fluids
+1
+Inotropes/invasive monitoring
+2
+Shock risk
+3
+FEEDING &
+Oral feeds independently
+0
+NUTRITION
+Assisted feeding
+1
+此斗
+NG feeds
+2
+02
+8ul
+02
+Shancy
+92
+TPN/feeding intolerance
+3
+BeoH
+ELIMINATION
+Normal urine stool
+0
+0
+0
+Shaney
+0
+Diaper care assistance
+1
+Catheter / strict monitoring
+2
+Oliguria / anuria
+3
+MEDICATION
+Oral medications
+0
+Bwff
+4
+01
+Shaney
+09
+COMPLEXITY
+IV medications
+1
+01
+Multiple IV infusions
+2
+High risk drug titration
+3
+PAIN & COMFORT
+Comfortable
+0
+4
+Bur
+Intermittent pain
+1
+01
+01
+8hany
+01
+Persistent pain
+2
+Severe pain continuous care
+3
+PROCEDURES &
+None
+0
+9
+But
+DEVICES
+IV line
+1
+01
+01
+Shancy
+91
+Multiple lines / drains
+2
+Ventilator /central lines
+3
+PARENTAL
+Routine guidance
+0
+uL
+Shancy
+61
+y
+SUPPORT NEED
+Frequent reassuring
+1
+0r
+01
+Anxious Parents
+2
+Continuous emotional support
+3
+Category I
+Category
+Category III
+Category IV
+INCHARGE NAME & SIGN
+Score 0-6
+II Score 7-19
+Score 20-30
+Score > 30
+Routine nursing care
+Increased nursing observation
+Close monitoring and high nursing
+One-to-one intensive nursing care
+NUR.SUPERVISOR NAME & SIGN
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE
+
+============================================================
+PAGE 95
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+Name: VAGDEVI
+UHID NO:162608635
+ANKURA HOSPITAL FOR WOMEN AND CHILDREN - PATIENT ACUITY SCORE & ALLOCATION
+NanIPD NO: LB26/3007
+SCORE
+DATE
+MORNING
+STAFF
+LEVEL
+AFTER NOON
+STAFF
+LEVEL
+NIGHT
+STAFF
+LEVEL
+DoAge:4 D Gender: Male
+SCORE
+NAME
+SCORE
+NAME
+SCORE
+NAME
+Consult : DR. SRINIVAS MURKI
+117126
+DIA
+Adm Date:27-06-2026 09:03 PM
+0
+80
+LEVEL OF
+Alert age appropriate
+0
+CONSCIOUSNESS
+Irritable or lethargic
+1
+Responds to pain
+2
+Unconscious/seizures
+3
+RESPIRATORY
+Normal breathing room air
+0
+STATUS
+Mild distress oxygen support
+1
+Moderate distress/frequent suction
+2
+Severe distress CPAP / Ventilator
+3
+8uk
+CARDIOVASCULAR
+Stable vitals
+0
+0
+STATUS
+Tachycardia / IV fluids
+1
+Inotropes/invasive monitoring
+2
+Shock risk
+3
+FEEDING &
+Oral feeds independently
+0
+NUTRITION
+Assisted feeding
+1
+Bul
+NG feeds
+2
+02
+TPN /feeding intolerance
+3
+BeoH
+ELIMINATION
+Normal urine stool
+0
+0
+Diaper care assistance
+1
+Catheter /strict monitoring
+2
+Oliguria / anuria
+3
+MEDICATION
+Oral medications
+0
+Bwff
+COMPLEXITY
+IV medications
+1
+01
+Multiple IV infusions
+2
+High risk drug titration
+3
+PAIN & COMFORT
+Comfortable
+0
+But
+01
+Intermittent pain
+1
+Persistent pain
+2
+Severe pain continuous care
+3
+PROCEDURES &
+None
+0
+Bue
+DEVICES
+IV line
+1
+01
+Multiple lines / drains
+2
+Ventilator/central lines
+3
+PARENTAL
+Routine guidance
+0
+ut
+SUPPORT NEED
+Frequent reassuring
+1
+0r
+Anxious Parents
+2
+Continuous emotional support
+3
+Category I
+Category
+Category III
+Category IV
+INCHARGE NAME & SIGN
+Score 0-6
+II Score 7-19
+Score 20-30
+Score > 30
+Routine nursing care
+Increased nursing observation
+Close monitoring and high nursing
+One-to-one intensive nursing care
+NUR.SUPERVISOR NAME & SIGN
+LEVEL 1 NURSE
+LEVEL 2 NURSE
+LEVEL 3 NURSE
+LEVEL 4 NURSE
+
+============================================================
+PAGE 96
+============================================================
+
+Patient Name : B/O. VAGDEVI UHID : 162608635 IPD : LB26/3007 Gender : Male Age : 4 D
+Ankura Hospitals LB Nagar Pvt Ltd
+ankura
+9M
+Sy. No. 9, 11, 12, Plot No. 10, 1/J, opp. UNLIMITED, Saroornagar, Doctors Colony, L. B. Nagar, Hyderabad,Telangana,
+500035
+hospital
+Phone : 9053108108 Website : https://www.ankurahospitals.com email : info@ankurahospital.com
+Laboratory
+Patient Name
+Baby Of VAGADAVI
+Lab No
+1646870
+UHID
+162608635 / LB26/3007
+Sample Date
+27/06/2026 10:35PM
+Age/Gender
+4 Days/Male
+Receiving Date
+28/06/2026 1:18AM
+Bed No/Ward
+IPD
+Report Date
+28/06/2026 3:03AM
+Referred By
+Dr. Srinivas Murki
+Report Status
+Final
+Patient Mob
+BIOCHEMISTRY
+C-REACTIVE PROTEIN (CRP)
+Test Name
+Result
+Unit
+Biological
+Method
+Ref. Interval
+C-Reactive Protein (CRP)
+2.4
+mg/L
+0.01- 6.00
+Immunoturbidimetry
+Interpretation :
+In many cases the changes in plasma CRP level precede changes in the clinical symptoms.
+The degree of elevation of CRP reflects the mass or activity of the inflamed tissue and in acute inflammation or infection correlates well with
+disease activity.
+- Because the increase is non-specific, it cannot be interpreted without a complete clinical history, and even then, only by comparison with
+previous values.
+- A persistently raised CRP level generally indicates that therapy is ineffective.
+- Normal CRP levels do not exclude the presence of minor degrees of acute, localized inflammation or some chronic diseases such as SLE and
+ulcerative colitis.
+--End Of Report--
+Dr. B Roshini Sumalini
+MBBS,MD PATHOLOGY
+Consultant Pathologist
+Verified By Mr. NEELAM
+Printed on 28/06/2026 03:00
+Approved By Dr. B Roshini Sumalini
+Page: 1 Of 4
+EDUKONDALU

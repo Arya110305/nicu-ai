@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>NICU AI — New Summary</title>
+
+    <link
+        rel="stylesheet"
+        href="../style.css"
+    >
+</head>
+
+
+<body>
+
+    <div class="app-layout">
+
+
+        <!-- ==================================================
+             SIDEBAR
+             ================================================== -->
+
+        <aside
+            class="sidebar"
+            id="sidebar"
+        >
+
+            <div class="sidebar-brand">
+
+                <div class="brand-mark">
+                    NICU
+                </div>
+
+                <div class="brand-text">
+                    <h1>NICU AI</h1>
+                    <p>Clinical Assistant</p>
+                </div>
+
+            </div>
+
+
+            <nav class="sidebar-nav">
+
+                <a
+                    href="../index.html"
+                    class="nav-item"
+                >
+                    <span class="nav-icon">⌂</span>
+                    <span>Dashboard</span>
+                </a>
+
+
+                <a
+                    href="process.html"
+                    class="nav-item active"
+                >
+                    <span class="nav-icon">＋</span>
+                    <span>New Summary</span>
+                </a>
+
+
+                <a
+                    href="records.html"
+                    class="nav-item"
+                >
+                    <span class="nav-icon">⌕</span>
+                    <span>Patient Records</span>
+                </a>
+
+            </nav>
+
+
+            <div class="sidebar-footer">
+
+                <div class="system-status">
+
+                    <span class="status-dot"></span>
+
+                    <span>
+                        System Ready
+                    </span>
+
+                </div>
+
+            </div>
+
+        </aside>
+
+
+
+        <!-- ==================================================
+             MAIN
+             ================================================== -->
+
+        <main class="main-content">
+
+
+            <!-- TOPBAR -->
+
+            <header class="topbar">
+
+                <div
+                    style="
+                        display: flex;
+                        align-items: center;
+                        gap: 12px;
+                    "
+                >
+
+                    <button
+                        class="mobile-menu-button"
+                        id="mobileMenuButton"
+                        type="button"
+                        aria-label="Open navigation"
+                    >
+                        ☰
+                    </button>
+
+                    <span class="topbar-title">
+                        New Discharge Summary
+                    </span>
+
+                </div>
+
+
+                <div class="topbar-status">
+
+                    <span class="status-dot"></span>
+
+                    <span>
+                        NICU AI Online
+                    </span>
+
+                </div>
+
+            </header>
+
+
+
+            <!-- ==================================================
+                 PAGE
+                 ================================================== -->
+
+            <div class="page-content process-container">
+
+
+                <!-- PAGE HEADER -->
+
+                <section class="page-header">
+
+                    <div class="page-heading">
+
+                        <h2>
+                            Process Patient Record
+                        </h2>
+
+                        <p>
+                            Upload one patient PDF to generate
+                            a NICU discharge summary.
+                        </p>
+
+                    </div>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     UPLOAD STATE
+                     ================================================== -->
+
+                <section
+                    class="card upload-card"
+                    id="uploadSection"
+                >
+
+
+                    <label
+                        class="upload-zone"
+                        id="uploadZone"
+                        for="pdfInput"
+                    >
+
+                        <div class="upload-zone-icon">
+                            ↑
+                        </div>
+
+                        <h3>
+                            Upload Patient PDF
+                        </h3>
+
+                        <p
+                            id="uploadPrompt"
+                        >
+                            Click to choose a PDF file
+                            or drag and drop it here.
+                        </p>
+
+
+                        <!--
+                            FILE NAME WILL APPEAR HERE
+                            IMMEDIATELY AFTER SELECTION
+                        -->
+
+                        <div
+                            id="uploadSelectedName"
+                            class="selected-file-name hidden"
+                            style="
+                                margin-top: 14px;
+                                font-size: 15px;
+                            "
+                        >
+                        </div>
+
+                    </label>
+
+
+                    <input
+                        type="file"
+                        id="pdfInput"
+                        accept=".pdf,application/pdf"
+                        hidden
+                    >
+
+
+                    <!-- SELECTED FILE CARD -->
+
+                    <div
+                        class="selected-file hidden"
+                        id="selectedFileCard"
+                    >
+
+                        <div>
+
+                            <div
+                                class="selected-file-name"
+                                id="selectedFileName"
+                            >
+                            </div>
+
+                            <div
+                                class="selected-file-meta"
+                                id="selectedFileMeta"
+                            >
+                            </div>
+
+                        </div>
+
+
+                        <button
+                            class="btn btn-secondary"
+                            id="removeFileButton"
+                            type="button"
+                        >
+                            Remove
+                        </button>
+
+                    </div>
+
+
+                    <div class="upload-actions">
+
+                        <button
+                            class="btn btn-primary btn-large"
+                            id="generateButton"
+                            type="button"
+                            disabled
+                        >
+                            Generate Discharge Summary
+                        </button>
+
+                    </div>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     PROCESSING STATE
+                     ================================================== -->
+
+                <section
+                    class="card processing-card hidden"
+                    id="processingSection"
+                >
+
+
+                    <div class="processing-heading">
+
+                        <div class="processing-spinner"></div>
+
+                        <h3>
+                            Processing Patient Record
+                        </h3>
+
+                        <p
+                            id="processingMessage"
+                        >
+                            Preparing patient record...
+                        </p>
+
+                    </div>
+
+
+
+                    <!-- ELAPSED TIME -->
+
+                    <div class="elapsed-time-card">
+
+                        <div class="elapsed-label">
+                            Elapsed Time
+                        </div>
+
+                        <div
+                            class="elapsed-value"
+                            id="elapsedTime"
+                        >
+                            00:00
+                        </div>
+
+                    </div>
+
+
+
+                    <!-- PIPELINE -->
+
+                    <div class="pipeline">
+
+
+                        <div
+                            class="pipeline-step"
+                            data-stage="upload"
+                        >
+
+                            <div class="pipeline-indicator">
+                                1
+                            </div>
+
+                            <div class="pipeline-info">
+
+                                <div class="pipeline-title">
+                                    PDF Upload
+                                </div>
+
+                                <div class="pipeline-description">
+                                    Sending patient record to NICU AI
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <div
+                            class="pipeline-step"
+                            data-stage="ocr"
+                        >
+
+                            <div class="pipeline-indicator">
+                                2
+                            </div>
+
+                            <div class="pipeline-info">
+
+                                <div class="pipeline-title">
+                                    OCR Processing
+                                </div>
+
+                                <div class="pipeline-description">
+                                    Reading clinical content from the PDF
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <div
+                            class="pipeline-step"
+                            data-stage="llm"
+                        >
+
+                            <div class="pipeline-indicator">
+                                3
+                            </div>
+
+                            <div class="pipeline-info">
+
+                                <div class="pipeline-title">
+                                    Clinical Extraction
+                                </div>
+
+                                <div class="pipeline-description">
+                                    Extracting structured clinical information
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <div
+                            class="pipeline-step"
+                            data-stage="normalizer"
+                        >
+
+                            <div class="pipeline-indicator">
+                                4
+                            </div>
+
+                            <div class="pipeline-info">
+
+                                <div class="pipeline-title">
+                                    Normalize Patient Record
+                                </div>
+
+                                <div class="pipeline-description">
+                                    Consolidating patient information
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <div
+                            class="pipeline-step"
+                            data-stage="discharge"
+                        >
+
+                            <div class="pipeline-indicator">
+                                5
+                            </div>
+
+                            <div class="pipeline-info">
+
+                                <div class="pipeline-title">
+                                    Generate Discharge Summary
+                                </div>
+
+                                <div class="pipeline-description">
+                                    Creating final clinical discharge summary
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     SUCCESS STATE
+                     ================================================== -->
+
+                <section
+                    class="card result-card hidden"
+                    id="resultSection"
+                >
+
+                    <div class="result-state">
+
+                        <div class="result-icon success">
+                            ✓
+                        </div>
+
+                        <h3>
+                            Discharge Summary Ready
+                        </h3>
+
+                        <p>
+                            The patient record was processed successfully.
+                        </p>
+
+
+                        <div class="completion-time">
+
+                            <span>
+                                Processing time:
+                            </span>
+
+                            <strong
+                                id="finalProcessingTime"
+                            >
+                                —
+                            </strong>
+
+                        </div>
+
+
+                        <div class="result-actions">
+
+                            <button
+                                class="btn btn-primary"
+                                id="viewSummaryButton"
+                                type="button"
+                            >
+                                View Summary
+                            </button>
+
+
+                            <button
+                                class="btn btn-secondary"
+                                id="downloadSummaryButton"
+                                type="button"
+                            >
+                                Download TXT
+                            </button>
+
+
+                            <button
+                                class="btn btn-secondary"
+                                id="newPatientButton"
+                                type="button"
+                            >
+                                Process Another Patient
+                            </button>
+
+                        </div>
+
+                    </div>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     SUMMARY
+                     ================================================== -->
+
+                <section
+                    class="card summary-card hidden"
+                    id="summarySection"
+                >
+
+
+                    <div class="summary-toolbar">
+
+                        <h3>
+                            Generated Discharge Summary
+                        </h3>
+
+
+                        <div class="summary-actions">
+
+                            <button
+                                class="btn btn-secondary"
+                                id="closeSummaryButton"
+                                type="button"
+                            >
+                                Close
+                            </button>
+
+                        </div>
+
+                    </div>
+
+
+                    <pre
+                        class="summary-content"
+                        id="summaryContent"
+                    ></pre>
+
+                </section>
+
+
+
+                <!-- ==================================================
+                     FAILURE STATE
+                     ================================================== -->
+
+                <section
+                    class="card result-card hidden"
+                    id="errorSection"
+                >
+
+                    <div class="result-state">
+
+                        <div class="result-icon failure">
+                            !
+                        </div>
+
+                        <h3>
+                            Processing Failed
+                        </h3>
+
+                        <p
+                            id="errorMessage"
+                        >
+                            An error occurred while processing the patient record.
+                        </p>
+
+
+                        <div class="result-actions">
+
+                            <button
+                                class="btn btn-secondary"
+                                id="retryButton"
+                                type="button"
+                            >
+                                Try Again
+                            </button>
+
+
+                            <a
+                                class="btn btn-secondary"
+                                href="../index.html"
+                            >
+                                Return to Dashboard
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </section>
+
+
+            </div>
+
+        </main>
+
+    </div>
+
+
+    <script src="../script.js"></script>
+
+
+</body>
+
+</html>

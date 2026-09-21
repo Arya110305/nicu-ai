@@ -1,0 +1,128 @@
+NICU DISCHARGE SUMMARY
+======================
+
+**PATIENT AND BIRTH DETAILS**
+
+Patient Name: B/O. Baby of GANDDU MOUNIKA
+UHID: 162608460
+IP number: LB26/2933
+Sex: Female
+Age: 1 year and 9 months
+Admission Date: 24-06-2026, 6:10 PM
+Discharge Date: Not specified
+Birth Date: Not specified
+Place of Birth: Not specified
+Mode of Delivery: Term/Birth asphyxia
+Gestational Age: 36 weeks or more
+Birth Weight: 3 kg
+Admission Weight: 3.0 kg
+Length: 50 cm
+Head Circumference: 35 cm
+Blood Group: B
+Rh Type: Positive
+
+**ANTENATAL AND PERINATAL HISTORY**
+
+There is limited information available regarding the antenatal history. The patient is described as being at term. No specific details are provided regarding antenatal visits, scans, or complications. Antenatal steroid administration is not mentioned.
+
+**HISTORY OF PRESENT ILLNESS / REASON FOR ADMISSION**
+
+The patient was admitted on 24-06-2026 at 6:10 PM. The reason for admission was neonatal intensive care management, specifically for term/birth asphyxia. On admission, the baby presented with shock, dilated pupils, cyanosis, and poor pubic activity.
+
+**OUTSIDE-HOSPITAL MANAGEMENT**
+
+Details regarding outside-hospital management are limited. Inj. Achromin 0.3 mg, Inj. Glucagon 6 ml, Inj. Calcium gluconate 6 ml, and Inj. Adrenaline 0.2 mg were administered prior to admission.
+
+**ADMISSION EXAMINATION**
+
+On 24-06-2026, the initial examination revealed:
+
+*   Weight: 3.0 kg
+*   Length: 50 cm
+*   Head circumference: 35 cm
+*   Temperature: 36.0°C
+*   Heart rate: 146 beats per minute
+*   Respiratory rate: 40 breaths per minute
+*   Retractions: Present
+*   SpO2: 80%
+*   GRBS score: 23/6
+
+UVC and UAC were performed by Dr. Jejasini Madam. CPR was also performed.
+
+**DIAGNOSES / CLINICAL PROBLEMS**
+
+The provisional diagnosis was term/birth asphyxia. Immediate priorities included IV fluids, IV antibiotics, oxygen therapy, and continuous multi-parameter monitoring. Serial arterial blood gas analysis, X-rays, ultrasound, and echocardiogram were ordered.
+
+**MORBIDITIES AND COURSE DURING NICU STAY**
+
+On 24/06/2026 at 6:10 PM, the baby presented in shock with dilated pupils, cyanosis, and poor pubic activity. Initial investigations revealed a random blood glucose (GRBS) of 7.6 mg/dL.  Inj. Achromin 0.3 mg, Inj. Glucagon 6 ml, Inj. Calcium gluconate 6 ml, and Inj. Adrenaline 0.2 mg were administered. UVC and UAC were performed by Dr. Jejasini Madam, and CPR was initiated. Creatinine was 0.3 mg/dL, Blood Urea 11 mg/dL, Total Bilirubin 1.0 mg/dL, Hemoglobin 7.2 g/dL, and Packed Cell Volume 22.3%. Prothrombin Time was >100.0 sec and Activated Partial Thromboplastin Time was >100.0 sec. A peripheral cannulation was performed. The initial assessment was conducted by a nurse and Dr. Srinivas Murki.
+
+The baby’s hypoglycaemia was treated with dextrose and calcium gluconate. Further details regarding glucose management, including GIR, dextrose concentration, and subsequent glucose values, are not documented in the provided record. The baby’s birth asphyxia necessitated resuscitation and supportive care.
+
+The baby required resuscitation and continuous multi-parameter monitoring upon admission. Inj. Achromin 0.3 mg, Inj. Glucagon 6 ml, Inj. Calcium gluconate 6 ml, and Inj. Adrenaline 0.2 mg were administered. UVC and UAC were performed. CPR was initiated. X-rays, ultrasound, and echocardiogram were ordered. Peripheral cannulation was performed.
+
+The baby’s respiratory status required initial respiratory support, although the specific mode (e.g., CPAP, HFNC, ventilation) and parameters (FiO2, flow) are not documented in the provided record. CPAP and ventilation were initiated on 24-06-2026.
+
+The baby was initially NPO. Details regarding the start of enteral feeds, the type of feeds (e.g., expressed breast milk, formula), and the progression of feeding are not documented in the provided record.
+
+**INVESTIGATIONS**
+
+*   **Complete Blood Picture (CBC):**
+    *   Hemoglobin (HB): 7.2 g/dL (documented on 24-06-2026)
+    *   Packed Cell Volume (PCV): 22.3% (documented on 24-06-2026)
+*   **Renal Function:**
+    *   Creatinine: 0.3 mg/dL (documented on 24-06-2026)
+    *   Blood Urea: 11 mg/dL (documented on 24-06-2026)
+*   **Liver Function:**
+    *   Total Bilirubin: 1.0 mg/dL (documented on 24-06-2026)
+*   **Coagulation:**
+    *   Prothrombin Time (PT): >100.0 sec (documented on 24-06-2026)
+    *   Activated Partial Thromboplastin Time (APTT): >100.0 sec (documented on 24-06-2026)
+*   **Blood Group:** B (documented on 24-06-2026)
+*   **Rh Type:** Positive (documented on 24-06-2026)
+*   **Imaging:**
+    *   X-rays ordered (24-06-2026)
+    *   Ultrasound ordered (24-06-2026)
+    *   Echocardiogram ordered (24-06-2026)
+
+**PROCEDURES AND INTERVENTIONS**
+
+*   UVC performed by Dr. Jejasini Madam (24-06-2026)
+*   UAC performed by Dr. Jejasini Madam (24-06-2026)
+*   Peripheral cannulation performed (24-06-2026)
+*   CPR performed (24-06-2026)
+
+**TREATMENTS GIVEN**
+
+*   **Medications:**
+    *   Inj. Achromin: 0.3 mg (24-06-2026, 3:30 PM)
+    *   Inj. Glucagon: 6 ml (24-06-2026, 3:30 PM)
+    *   Inj. Calcium gluconate: 6 ml (24-06-2026, 4:00 PM)
+    *   Inj. Adrenaline: 0.2 mg (24-06-2026, 3:50 PM)
+*   **Respiratory Support:** CPAP initiated on 24-06-2026. Ventilation initiated on 24-06-2026.
+*   **IV Fluids:** Administered (24-06-2026)
+*   **Antibiotics:** Administered (24-06-2026)
+
+**CONDITION AT DISCHARGE**
+
+The baby was born at 36 weeks or more, weighing 3 kg. On admission (24-06-2026), the baby presented in shock with dilated pupils, cyanosis, and poor pubic activity. Initial interventions included IV fluids, IV antibiotics, oxygen therapy, and continuous multi-parameter monitoring. Inj. Achromin 0.3 mg, Inj. Glucagon 6 ml, Inj. Calcium gluconate 6 ml, and Inj. Adrenaline 0.2 mg were administered. UVC and UAC were performed by Dr. Jejasini Madam, and CPR was initiated.
+
+Examination revealed a weight of 3.0 kg, length of 50 cm, and head circumference of 35 cm. Temperature was 36.0°C, heart rate 146 beats per minute, and respiratory rate 40 breaths per minute, with retractions present. SpO2 was 80%, and the GRBS score was 23/6.
+
+Laboratory investigations showed Creatinine 0.3 mg/dL, Blood Urea 11 mg/dL, Total Bilirubin 1.0 mg/dL, Hemoglobin 7.2 g/dL, and PCV 22.3%. Prothrombin Time and Activated Partial Thromboplastin Time were both >100.0 sec.
+
+**DISCHARGE MEDICATIONS**
+
+No discharge medications are explicitly documented.
+
+**DISCHARGE ADVICE**
+
+No specific discharge advice is documented.
+
+**FOLLOW-UP**
+
+No specific follow-up appointments or investigations are documented.
+
+**PENDING REPORTS / INVESTIGATIONS**
+
+No pending reports or investigations are documented.

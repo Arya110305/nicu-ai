@@ -1,0 +1,168 @@
+========================================================================
+NORMALIZED CLINICAL SECTION 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0072
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. VAGDEVI
+- UHID: 162608635
+- IP Number: LB26/3007
+- Sex: Male
+- Age: 4 D9M (Days 9 Months)
+
+MATERNAL / ANTENATAL HISTORY
+- Gravida/Parity: G2P1L
+
+BIRTH DETAILS
+- Gestational Age: 36 weeks or more
+- Birth Weight: 2.8 kg
+- Mode of Delivery: Forceps
+- Delivery Indication: Preeclampsia in labor
+- Cry at Birth: Yes
+- APGAR: Not documented
+
+ADMISSION DETAILS
+- Reason for Admission: Late preterm, SGA (Small for Gestational Age)
+- Date of Admission: 27/06/2026 09:03 PM
+
+DIAGNOSES / CLINICAL PROBLEMS
+- seizures
+- hypoglycemia
+
+CLINICAL EXAMINATION
+- Respiratory Status: Room air since birth
+- Vital Signs:
+  - Temperature: 36.5°C
+  - Heart Rate: 130 bpm
+  - SpO2: 98%
+
+RESPIRATORY COURSE
+- Oxygen Requirement: Room air
+
+NEUROLOGICAL STATUS
+- seizures: Multiple episodes
+- MRI brain: No evidence of infection, hypotonia observed.
+
+hypoglycemia / GLUCOSE COURSE
+- hypoglycemia with seizures
+
+FEEDING / NUTRITION
+- Feeding: Breastfed and top-fed
+- Admission Weight: 2.8 kg
+
+FLUIDS
+- IV fluids: Not documented
+
+MEDICATIONS
+- Levetiracetam (loading dose): Given
+- Phenobarbitone (maintenance): Given, 60 mg
+- Optineuron: Given
+- Cefotaxime: Administered
+
+INVESTIGATIONS
+- CRP: 2.4 mg/L
+- Creatinine: 0.4 mg/dL
+- Urea: 20 mg/dL
+- MRI brain: Performed
+- EEG: Not documented
+
+PROCEDURES
+- UVC: Inserted
+- UAC: Inserted
+- PICC: Inserted
+
+CONSULTATIONS
+- Dr. Srinivas Murki: Consultation noted
+- Dr. Teerthi Kandhana: Neurologist opinion
+
+DAILY CLINICAL PROGRESS
+- 20/6/26, 3:30 PM: Acute lymphocytic sepsis suspected, SGA noted.
+- 30/6/26, 3:00 PM: Preterm delivery, symptomatic hypoglycemia, neonatal seizures managed with Phenobarbitone maintenance dose of 60 mg. Baby's weight: 2.3 kg.
+- 30/6/26, 2:15 PM: Hypoglycemic seizures noted.
+- 30/6/26, 8 PM: Hypoglycemic episodes noted, MRI brain and hypotonia observed, Cefotaxime administered.
+- 1/7/26, 6 PM: No further seizures, MRI brain and hypotonia noted.
+- 27/6/26, Night: General condition assessed, vitals monitored.
+- 28/6/26, Morning: General condition assessed, vitals monitored.
+- 28/6/26, Evening: General condition assessed, vitals monitored.
+- 29/6/26, 9 PM: Baby's condition assessed, vitals monitored.
+- Intake & Output: Various volumes of fluids administered and excreted.
+- Hematology: HB% 15.6, PCV/HCT 49.8, WBC 9100, Platelet count 153000
+- CRP: 2.4
+- Electrolytes: Na+ 142, K+ 5.1, Cl+ 107, Ca2+ 5.08, PO4, Mg2+, HCO3, Anion gap
+- Renal Function Tests: Urea 20, Creatinine 0.4, GFR calculated
+- Liver Function Tests: Total Bilirubin 1.54, Direct Bilirubin 1.54, Indirect Bilirubin 13.0, AST 35, ALT 214, ALP, GGT, Total Protein 5.2, Albumin 3.4, PT/INR
+- Temperature: Vitals monitored.
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0002
+SOURCE PAGES: PAGE_0073 TO PAGE_0106
+========================================================================
+
+PATIENT IDENTIFICATION:
+- Patient Name: Varna
+- UHID: 162608635
+- IP number: LB26/3007
+- Sex: Male
+- Age: 4 days
+- Admission date: 27/06/2026
+
+BIRTH DETAILS:
+- Place of Birth: Ankura Hospital for Women and Children
+
+ADMISSION DETAILS:
+- Reason for admission: Not documented
+- Consult: DR. SRINIVAS MURKI
+
+VITALS MONITORING:
+- Temperature: Fluctuating between 36.0°C and 42.0°C.
+
+CLINICAL PROBLEMS:
+- seizures (4-5 episodes overnight)
+- hypoglycemia
+
+MEDICATIONS:
+- Levetiracetam: Stopped 27/06/2026 at 7:30 PM
+- Phenobarbitone: Continued
+
+NICU COURSE:
+- Respiratory support: Minimal oxygen
+- seizures: Multiple episodes noted.
+
+INVESTIGATIONS:
+- GRBS: 36 mg/dL (28/06/2026, 9:20 PM)
+- GRBS: 65 mg/dL (28/06/2026, 11:00 PM)
+- GRBS: 72 mg/dL (29/06/2026, 7:00 AM)
+- GRBS: 83 mg/dL (29/06/2026, 10:00 AM)
+- CBC: Hemoglobin 15.6 g/dL, PCV 49.8%, Platelet Count 183,000 /mm3
+- Blood Group: B, Rh Positive
+- Calcium: 8.6 mg/dL
+- Sodium: 142 mmol/L
+- Potassium: 5.1 mmol/L
+- Chloride: 107 mmol/L
+- Total Bilirubin: 15.5 mg/dL
+- Direct Bilirubin: 1.8 mg/dL
+- Indirect Bilirubin: 13.70 mg/dL
+- ALT: 10 U/L
+- AST: 35 U/L
+- Alkaline Phosphatase: 214 U/L
+- Total Protein: 5.2 g/dL
+- Albumin: 3.4 g/dL
+- Globulin: 1.8 g/dL
+- A/G Ratio: 1.9
+- RBS: 35 mg/dL
+- Ionic Calcium: 5.08 mg/dL
+- Ammonia: 86.0 umol/L
+- Urine: Turbid, Protein +, Bilirubin +, Pus Cells 6-8 /hpf, Epithelial Cells 10 - 12 /hpf
+- Blood Culture: No bacterial growth seen after 24 hours of aerobic incubation
+
+PROCEDURES:
+- IV cannulation
+- Foley catheter insertion
+- Central line (UVC) insertion
+- Ventilation
+
+DAILY CLINICAL PROGRESS:
+- Patient on minimal oxygen.
+- seizures noted.
+- Plan for SOS ventilation.

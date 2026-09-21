@@ -1,0 +1,5 @@
+Patient: BO_prathyush
+Stage: normalizer
+Time: 2026-09-02T14:19:20.902383
+Error type: RuntimeError
+Error: Normalizing Patient Record failed: Normalizer failed for batch 1 (pages 1-49): Normalizer batch 1 failed after 3 attempt(s). Error saved to: /Users/arya/Nicu_Project/nicu-ai/normalizer/temp/BO_prathyush/errors/NORMALIZER_BATCH_0001_ERROR.txt

@@ -1,0 +1,213 @@
+NICU DISCHARGE SUMMARY
+======================
+
+**PATIENT AND BIRTH DETAILS**
+
+Patient Name: Gadali Prathyusha
+Baby Of / B/O Name: [Unclear - likely related to parents]
+UHID: 162608058
+IP Number: LB26/2818
+Sex: Male
+Age at Admission: 0 D 9M
+Date of Birth: [Unclear - likely 2026-06-17]
+Admission Date: 2026-06-17, Time: 12:21 PM
+Discharge Date: Not documented.
+Discharge Time: Not documented.
+Inborn / Outborn status: Inborn
+Referring Hospital: Not documented.
+Referring Doctor: Not documented.
+
+Gestational Age: 36 weeks
+Completed weeks: 36
+Additional days: Not documented.
+Term / Preterm / Late Preterm status: Preterm
+SGA: Not documented.
+AGA: Not documented.
+LGA: Not documented.
+IUGR: Not documented.
+Birth Weight: 2.26 kg
+Admission Weight: 2.08 kg, decreased by 120 gm (Date: 2026-06-18)
+Discharge Weight: 1.920 kg (Date: 2026-06-19)
+Current Weight: Not documented.
+Length: Not documented.
+Head Circumference: Not documented.
+Blood Group: O
+Rh Typing: Positive
+
+Admission Date: 2026-06-17, Time: 12:21 PM
+Date of Delivery: 2026-06-17, Time: 9:19 AM
+Place of Birth: Not documented.
+Hospital of Birth: Not documented.
+Mode of Delivery: LSCS (Likely Emergency)
+Vaginal Delivery: Not documented.
+Emergency LSCS: Likely present based on delivery date and time.
+Elective LSCS: Not documented.
+Assisted Delivery: Not documented.
+Delivery Indication: [Unclear - likely previous LSCS in labour]
+Presentation: Not documented.
+Singleton / Multiple Birth: Singleton
+Cry at Birth: Not documented, but noted as Delayed Cry (implied)
+Resuscitation: Bag-and-mask ventilation, Intubation, Chest compressions, Oxygen at birth
+APGAR at 1 minute: Not documented.
+APGAR at 5 minutes: Not documented.
+APGAR at other documented times: Not documented.
+Cord information: Not documented.
+Meconium: Not documented.
+Immediate postnatal condition: [Unclear - likely requiring respiratory support]
+
+**ANTENATAL AND PERINATAL HISTORY**
+
+The patient was born on 2026-06-17 at 9:19 AM. Gestational age was initially estimated as 35 weeks by Ballard score, although dates suggested 36 weeks. Maternal history is documented to include blood group O positive. Further details regarding maternal illnesses or complications are not readily available in the provided record. Antenatal scans and steroid administration details are also absent from this extract. Perinatal history reveals labour status was unremarked, with no mention of meconium passage. Delivery occurred via [Unclear] mode. Cry at birth was [Unclear]. APGAR scores were not documented in the provided record. Resuscitation details are unavailable.
+
+**HISTORY OF PRESENT ILLNESS / REASON FOR ADMISSION**
+
+The baby was admitted on 2026-06-17, Time: 12:21 PM for Respiratory Distress/RDS (RD/RDS). Initial symptoms included [Unclear]. Outside hospital, an RBS of 32 mg/dL was documented, prompting administration of a 10% dextrose bolus and Levetiracetam loading.
+
+**OUTSIDE-HOSPITAL MANAGEMENT**
+
+Prior to admission, the baby received a 10% dextrose bolus and Levetiracetem loading for hypoglycaemia and seizures respectively. Details regarding dosage and timing are not specified in this extract.
+
+**ADMISSION EXAMINATION**
+
+On arrival, vital signs were: Heart Rate 144 bpm, Oxygen Saturation 97%, Respiratory Support CPAP, FiO2 21%, Peep 5, Flow 2.5 L/min. The baby exhibited [Unclear symptoms]. General condition was noted to be [Unclear].
+
+The admission examination revealed:
+*   Activity: [Unclear]
+*   Sensorium: [Unclear]
+*   Cry: [Unclear]
+*   Tone: [Unclear]
+*   Hydration: [Unclear]
+*   Perfusion: [Unclear]
+*   Color: [Unclear]
+*   Temperature stability: [Unclear]
+
+Respiratory assessment showed room air oxygen requirement. Cardiovascular examination revealed stable perfusion and pulses. Neurological examination findings were [Unclear]. Gastrointestinal examination was unremarkable, with no mention of abdominal distension or bowel sounds. Skin examination did not reveal jaundice or edema.
+
+**DIAGNOSES / CLINICAL PROBLEMS**
+
+Initial diagnoses included RD-RDS (Respiratory Distress/Respiratory Distress Syndrome). Later diagnoses included PS (presumably Pneumothorax), Encephalopathy (mild), and a suspicion of sepsis. Invasive devices were documented as part of the clinical course. The baby was initially diagnosed with symptomatic hypoglycaemia, seizures, and suspected sepsis.
+
+Further diagnoses include:
+*   RD-RDS
+*   PS
+*   Encephalopathy (mild)
+*   Suspect Sepsis
+
+**MORBIDITIES AND COURSE DURING NICU STAY**
+
+**SYMPTOMATIC HYPOGLYCAEMIA AND NEONATAL SEIZURES**
+
+The baby presented with symptomatic hypoglycaemia and seizures shortly after birth on 2026-06-17 at 12:21 PM. Initial random blood glucose was documented as 9 mg/dL. A dopamine infusion was initiated at 5 mcg/kg/min. The baby experienced dull activity with focal seizures. Levetiracetam loading was given before referral.
+
+**RESPIRATORY COURSE**
+
+The baby initially required respiratory support in the form of CPAP at birth on 2026-06-17, with settings of FiO2 21%, Peep 5, and Flow 2.5 L/min. Oxygen saturation was initially 97% then decreased to 93%. Respiratory support was subsequently reduced to LFNC (Low Flow Nasal Cannula) at an unspecified flow rate.
+
+By 2026-06-18, the FiO2 on CPAP was 21%, Peep remained at 5 and flow was 5 L/min. The respiratory status was described as stable. Oxygen requirement was documented as 95%.
+
+On 2026-06-19, the baby transitioned to room air for 24 hours. CPAP was discontinued.
+
+**FEEDING AND NUTRITION**
+
+Initially, the baby was NPO (not permitted oral feeds). IV fluids were administered. DBF and SF were started ad lib. The baby was reported as tolerating feeds well. Feeding progression was documented with increasing volumes and frequency.
+
+**SUSPECTED INFECTION**
+
+The baby was suspected of having sepsis, prompting initiation of Cefotaxime on an unspecified date. Blood cultures were drawn; preliminary results after 24 hours of aerobic incubation were negative. The antibiotics were stopped on 2026-06-19.
+
+**INVESTIGATIONS**
+
+A complete blood picture (CBC) revealed neutrophilia and normocytic hypochromic RBCs. CRP was 0.15 mg/L. Liver function tests showed ALT (SGPT) of 11 U/L, AST (SGOT) of 80 U/L, Alkaline Phosphatase (ALP) of 94 U/L. Total bilirubin was 3.2 mg/dL, direct bilirubin 0.3 mg/dL and indirect bilirubin 2.90 mg/dL. Electrolytes were within normal limits.
+
+**INVESTIGATIONS, PROCEDURES AND TREATMENT**
+
+**Complete Blood Picture / CBC:**
+*   Date: 2026-06-17 (likely initial)
+    Hemoglobin: 15.4 g/dL
+    Platelet Count: 186000 /mm3
+    Findings: Neutrophilia, Normocytic Hypochromic RBCs
+
+**Inflammatory Markers:**
+*   CRP: 0.15 mg/L (Date unspecified)
+
+**Renal Function:**
+*   Creatinine: 0.5 mg/dL (Date unspecified)
+*   Blood Urea: 24.2 mg/dL (Date unspecified)
+
+**Electrolytes:**
+*   Sodium Serum: 140 mmol/L (Date unspecified)
+*   Potassium Serum: 4.6 mmol/L (Date unspecified)
+*   Chloride Serum: 106 mmol/L (Date unspecified)
+*   Ionic Calcium: 5.00 mg/dL (Date unspecified)
+
+**Liver Function:**
+*   Total Bilirubin: 3.2 mg/dL (Date unspecified)
+*   Direct Bilirubin: 0.3 mg/dL (Date unspecified)
+*   Indirect Bilirubin: 2.90 mg/dL (Date unspecified)
+*   ALT (SGPT): 11 U/L (Date unspecified)
+*   AST (SGOT): 80 U/L (Date unspecified)
+*   Alkaline Phosphatase (ALP): 94 U/L (Date unspecified)
+*   Total Protein: 4.9 mg/dL (Date unspecified)
+*   Albumin: 3.5 g/dL (Date unspecified)
+*   Globulin: 1.4 g/dL (Date unspecified)
+
+**Glucose / Metabolic Investigations:**
+*   Admission Glucose: 9 mg/dL (Date: 2026-06-17, Time: 12:21 PM)
+
+**Blood Group and Rh Typing:**
+*   Blood Group: O
+*   Rh Typing: Positive
+
+**Microbiology:**
+*   Blood Culture: Preliminary negative after 24 hours of aerobic incubation (Date unspecified).
+
+**Urine Examination:**
+*   No urine examination results are documented in the provided record.
+
+**Imaging:**
+*   No imaging studies are explicitly mentioned with findings in the provided record.
+
+**EEG / Neurodiagnostics:**
+*   No EEG or neurodiagnostic investigations are documented in the provided record.
+
+**PROCEDURES AND INTERVENTIONS**
+*   IV Cannulation (Date unspecified)
+*   Foley Catheter Insertion (Date unspecified)
+*   Central Line (UAC) insertion (Date unspecified)
+*   Ventilation (Date unspecified)
+*   Arterial Line Insertion (Date unspecified)
+*   Lumbar Drain insertion (Date unspecified)
+
+**TREATMENTS GIVEN**
+*   Calcium, Vitamin D3 (Date unspecified)
+*   Cefotaxime (Date unspecified)
+*   Dopamine infusion @ 5 mcg/kg/min initially, then reduced to 2.5mcg/infusion and then stopped (Dates unspecified).
+*   DBF + SF adlib (Date unspecified)
+*   Syp Calcimax plus (Date unspecified)
+*   Vit-D3 drops (Date unspecified)
+*   Domstal (Date unspecified)
+*   Ini. Cefotaxime (Date unspecified)
+*   Calcium Gluconate (Date unspecified)
+*   Kidrich D3 (Date unspecified)
+*   [Unclear medication name] per doctor's order (Date unspecified).
+
+**CONDITION AT DISCHARGE**
+
+The baby is currently stable on room air. He was initially requiring CPAP at 0.5 L/min with FiO2 of 21% and Peep of 5, which was subsequently reduced to 0.1 L/min. Respiratory support was stopped on day of life (DOL) 9. The baby is tolerating expressed breast milk (EBM) and spoon feeds well. He had an initial glucose level of 9 mg/dL requiring dextrose infusion. Dopamine infusion was initiated at 5 mcg/kg/min, later reduced to 2.5mcg/infusion and subsequently stopped. Mild encephalopathy, Stage 1, was noted initially. Weight is currently 2.04 kg. He has no further clinical seizures documented.
+
+**DISCHARGE MEDICATIONS**
+
+*   Calcimax plus: As per prescription
+*   Vit-D3 drops: As per prescription
+
+**DISCHARGE ADVICE**
+
+Continue expressed breast milk and spoon feeds as tolerated. Continue Calcimax plus and Vit-D3 drops as prescribed.
+
+**FOLLOW-UP**
+
+No specific follow-up appointments were documented.
+
+**PENDING REPORTS / INVESTIGATIONS**
+
+No pending reports or investigations were documented.

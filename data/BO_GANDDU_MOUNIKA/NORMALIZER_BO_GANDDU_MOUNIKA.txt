@@ -1,0 +1,133 @@
+========================================================================
+NORMALIZED CLINICAL SECTION 0001
+SOURCE PAGES: PAGE_0001 TO PAGE_0018
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: B/O. Baby of GANDDU MOUNIKA
+- UHID: 162608460
+- IP number: LB26/2933
+- Sex: Female
+- Age: 1 year and 9 months
+
+MATERNAL / ANTENATAL HISTORY
+- Gravida: Not specified
+- Parity: Not specified
+- Maternal illness: No specific details provided
+- Pregnancy complications: No specific details provided
+- Antenatal scans: No specific details provided
+- Antenatal steroids: Not mentioned
+- Consanguinity: Not mentioned
+
+BIRTH DETAILS
+- Gestational age: 36 weeks or more
+- Birth weight: 3 kg
+- Mode of delivery: Term/Birth asphyxia
+- Cry at birth: Not specified
+- Resuscitation: Not specified
+- APGAR score: Not mentioned
+
+ADMISSION DETAILS
+- Reason for admission: Neonatal intensive care management
+- Admission date: 24-06-2026
+- Admitting doctor: Dr. Srinivas Murki
+- Mode of payment: Cash
+
+DIAGNOSES / CLINICAL PROBLEMS
+- Provisional diagnosis: Term/Birth asphyxia
+- Immediate priorities: IV fluids, IV antibiotics, oxygen therapy, continuous multi-parameter monitoring
+- Serial arterial blood gas analysis, X-rays, ultrasound, echocardiogram ordered
+
+CLINICAL EXAMINATION
+- Weight: 3.0 kg
+- Length: 50 cm
+- Head circumference: 35 cm
+- Temperature: 36.0°C
+- Heart rate: 146 beats per minute
+- Respiratory rate: 40 breaths per minute
+- Retractions: Yes
+- SpO2: 80%
+- GRBS score: 23/6
+
+RESPIRATORY COURSE
+- Initial assessment on 24-06-2026
+
+NEUROLOGICAL STATUS
+- No specific neurological findings mentioned
+
+hypoglycemia / GLUCOSE
+- Blood glucose level: 7.6 mg/dL (GRBS score)
+
+FEEDING / NUTRITION
+- Feeding history not specified
+
+FLUIDS
+- IV fluids and antibiotics administered
+
+MEDICATIONS
+- No medications documented in this chunk.
+
+INVESTIGATIONS
+- X-rays, ultrasound, echocardiogram ordered
+
+PROCEDURES
+- UVC, UAC, CPAP, ventilation performed
+
+CONSULTATIONS
+- Dr. Srinivas Murki consulted
+
+DAILY CLINICAL PROGRESS
+- Initial assessment by nurse and doctor on 24-06-2026
+
+
+========================================================================
+NORMALIZED CLINICAL SECTION 0002
+SOURCE PAGES: PAGE_0019 TO PAGE_0044
+========================================================================
+
+PATIENT IDENTIFICATION
+- Patient Name: Baby of Ganddu MouniKA
+- UHID: 162608460
+- IPD: LB26/2933
+- Sex: Female
+- Age: 1 year and 9 months
+
+ADMISSION DETAILS
+- Admission Date: 24-06-2026, 6:10 PM
+- Consultant: Dr. Srinivas Murki
+
+EXAMINATION
+- General Condition: Baby in shock, dilated pupils, cyanosed, poor pubic activity.
+
+MEDICATIONS
+- Inj. Achromin: 0.3 mg at 3:30 PM
+- Inj. Glucagon: 6 ml at 3:30 PM
+- Inj. Calcium gluconate: 6 ml at 4:00 PM
+- Inj. Adrenaline: 0.2 mg at 3:50 PM
+
+PROCEDURES
+- UVC & UAC performed by Dr. Jejasini Madam
+- CPR performed
+
+VITAL SIGNS
+- Vital signs checked and recorded.
+
+CONSULTATIONS
+- Dr. Srinivas Murki
+
+LABORATORY INVESTIGATIONS
+- Creatinine: 0.3 mg/dL
+- Blood Urea: 11 mg/dL
+- Total Bilirubin: 1.0 mg/dL
+- Hemoglobin (HB): 7.2 g/dL
+- Packed Cell Volume (PCV): 22.3%
+- Blood Group: B
+- Rh Type: Positive
+- Prothrombin Time (PT): >100.0 sec
+- Activated Partial Thromboplastin Time (APTT): >100.0 sec
+
+PROCEDURES
+- Peripheral cannulation performed.
+
+DISCHARGE-RELATED INFORMATION
+- Date of Admission: 24-06-2026, 6:10 PM
