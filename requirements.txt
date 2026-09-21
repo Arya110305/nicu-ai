@@ -13,6 +13,7 @@ click==8.4.2
 colorlog==6.10.1
 crc32c==2.8
 filelock==3.29.5
+fastapi==0.141.1
 frozenlist==1.8.0
 fsspec==2026.6.0
 future==1.0.0
@@ -50,6 +51,7 @@ pymupdf==1.28.0
 pypdfium2==5.11.0
 python-bidi==0.6.11
 python-dateutil==2.9.0.post0
+python-multipart==0.0.32
 PyYAML==6.0.2
 requests==2.34.2
 ruamel.yaml==0.19.1
@@ -62,5 +64,6 @@ typing-inspection==0.4.2
 typing_extensions==4.16.0
 ujson==5.13.0
 urllib3==2.7.0
+uvicorn==0.52.1
 wcwidth==0.8.2
 yarl==1.24.2
